@@ -27,4 +27,4 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python newsapi/newsapiv1/manage.py runserver
+        python newsapiv1/manage.py runserver
