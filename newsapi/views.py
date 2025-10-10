@@ -23,11 +23,11 @@ class NewsScrapingConfig:
     
     WEBSITES = [
         {
-            'url': 'https://www.news24nepal.tv/',
-            'head_selector': 'div > h2',
-            'content_selector': 'div.media-body.p-3 > p',
-            'link_selector': 'div.media-body.p-3 > p.news-item-link.d-none',
-            'image_selector': '.banner-image',
+            'url': 'https://www.news24nepal.com/news-1',
+            'head_selector': '.half-more-news > div > div > span:nth-child(1)',
+            'content_selector': '.half-more-news > div > div > span:nth-child(1)',
+            'link_selector': '.half-more-news > div > div > span > a',
+            'image_selector': '.half-more-news > div > figure > a > img',
             'source': 'News24',
             'language': 'np'
         },
@@ -47,15 +47,6 @@ class NewsScrapingConfig:
             'link_selector': 'div.teaser > h2 > a',
             'image_selector': '.listLayout img',
             'source': 'Ekantipur',
-            'language': 'np'
-        },
-        {
-            'url': 'https://www.etajakhabar.com/',
-            'head_selector': 'h1.wrap-head',
-            'content_selector': 'p.lead.pt-2',
-            'link_selector': 'div.wrap.mb-4 > a',
-            'image_selector': 'div.wrap.mb-4 > a > img',
-            'source': 'EtajaKhabar',
             'language': 'np'
         },
         {
@@ -86,16 +77,12 @@ class NewsScraperService:
             return re.sub(r'(?:\n|\t| {2,})', '', text).strip()
         elif source == 'News24':
             # Remove first 6 characters if they exist
-            return text[6:] if len(text) > 6 else text
+            return text[6:].strip() if len(text) > 6 else text.strip()
         return text.strip()
     
     def get_link_url(self, element, source: str, base_url: str) -> str:
         """Extract and format URL based on source requirements."""
-        if source == 'News24':
-            # Special handling for News24 text links
-            link_text = element.text
-            return link_text[1:] if link_text.startswith(' ') else link_text
-        elif source == 'NagarikNews':
+        if source == 'NagarikNews':
             href = element.get('href', '')
             return f"https://nagariknews.nagariknetwork.com{href}" if href else ''
         elif source == 'KathmanduPost':
@@ -106,13 +93,7 @@ class NewsScraperService:
     
     def get_image_url(self, element, source: str) -> str:
         """Extract image URL based on source requirements."""
-        if source == 'News24':
-            style = element.get('style', '')
-            if style:
-                # Extract URL from background-image style
-                match = re.search(r'url\((.*?)\)', style)
-                return match.group(1).strip('\'"') if match else ''
-        elif source == 'EtajaKhabar':
+        if source == 'EtajaKhabar':
             return element.get('src', '')
         else:
             return element.get('data-src', '') or element.get('src', '')
@@ -129,11 +110,11 @@ class NewsScraperService:
             soup = BeautifulSoup(response.content, 'html5lib')
             
             # Get all elements
-            headings = soup.select(config['head_selector'])[:4]
-            contents = soup.select(config['content_selector'])[:4]
-            links = soup.select(config['link_selector'])[:4]
-            images = soup.select(config['image_selector'])[:4]
-            
+            headings = soup.select(config['head_selector'])
+            contents = soup.select(config['content_selector'])
+            links = soup.select(config['link_selector'])
+            images = soup.select(config['image_selector'])
+
             # Process articles
             for i, heading in enumerate(headings):
                 try:
