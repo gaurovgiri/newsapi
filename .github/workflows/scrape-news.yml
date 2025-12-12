@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -46,7 +46,10 @@ jobs:
     
     - name: Run news scraper
       run: python main.py
-    
+      
+    - name: Stage data changes
+      run: git add data/
+      
     - name: Check for changes
       id: check_changes
       run: |
