@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-12T15:41:48.609826",
+  "scraped_at": "2025-12-12T16:35:16.081483",
   "date": "2025-12-12",
-  "total_articles": 33,
+  "total_articles": 35,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/tobacco-related-deaths-double-in-five-years-20-90.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "जेनजी आन्दोलनको भावनाअनुसार काम गर्छौँ : नवनियुक्त मन्त्री चौलागाईँ",
+      "summary": "नवनियुक्त वन तथा वातावरणमन्त्री माधवप्रसाद चौलागाईँले जेनजी आन्दोलनको म्याण्डेट र भावनाअनुसार काम गर्ने प्रतिबद्धता",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-work-in-accordance-with-the-spirit-of-the-genji-movement-newly-appointed-minister-chaulagain-57-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765555828_12-480x320.jpg"
+    },
+    {
+      "title": "समयमै काम नसक्ने व्यवसायीसँग निर्माण ठेक्का तोडिन्छः मन्त्री घिसिङ",
+      "summary": "आज रौतहटको चन्द्रपुर नगरपालिका–३ स्थित चाँदीनदीमा रहेको अलपत्र पुलको अनुगमन गर्दै उनले ठेकेदारले निर्धारित समयमा काम सक्नुपर्नेमा जोड दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/construction-contracts-will-be-terminated-with-contractors-who-cannot-complete-work-on-time-minister-ghising-51-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765467673_Kulman-480x320.jpg"
     }
   ]
 }
