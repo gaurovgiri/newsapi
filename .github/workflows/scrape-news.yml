@@ -1,5 +1,8 @@
 name: Scrape News
 
+permissions:
+  contents: write
+
 on:
   # Run every 4 hours
   schedule:
