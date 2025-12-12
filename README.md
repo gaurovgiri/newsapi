@@ -1,8 +1,6 @@
-# News Scraper
+# Nepali News Scraper
 
 A standalone Python script to scrape news articles from multiple Nepali news sources and save them to JSON files.
-
-**No Django required!** This is a simple, standalone scraper with a clean modular architecture.
 
 ## Features
 
@@ -20,14 +18,14 @@ A standalone Python script to scrape news articles from multiple Nepali news sou
 pip install -r requirements.txt
 
 # Run the scraper
-python scrape_news.py
+python main.py
 ```
 
 ## Project Structure
 
 ```
 newsapi/
-├── scrape_news.py          # Main script
+├── main.py          # Main script
 ├── news_source.py          # Abstract base class
 ├── sources/                # One file per news source
 │   ├── __init__.py
@@ -49,7 +47,7 @@ See [ADDING_SOURCES.md](ADDING_SOURCES.md) for a complete guide.
 1. Copy `sources/_template.py` to `sources/your_source.py`
 2. Implement the scraper
 3. Add to `sources/__init__.py`
-4. Add to `scrape_news.py`
+4. Add to `main.py`
 
 ## Documentation
 
@@ -60,7 +58,7 @@ See [ADDING_SOURCES.md](ADDING_SOURCES.md) for a complete guide.
 
 Run daily via cron:
 ```bash
-0 6 * * * cd /path/to/newsapi && python scrape_news.py
+0 6 * * * cd /path/to/newsapi && python main.py
 ```
 
 Or use GitHub Actions - see [ADDING_SOURCES.md](ADDING_SOURCES.md) for workflow example.
