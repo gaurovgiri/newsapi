@@ -1,7 +1,5 @@
 name: Scrape News
 
-permissions:
-  contents: write
 
 on:
   # Run every 4 hours
@@ -23,7 +21,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+      
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
