@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-13T04:33:35.159753",
+  "scraped_at": "2025-12-13T08:33:35.760025",
   "date": "2025-12-13",
-  "total_articles": 35,
+  "total_articles": 41,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -287,6 +287,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-today-66-45.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750473973_Kalimati Tarkari-480x320.jpg"
+    },
+    {
+      "title": "छोडिन्छन् एम्बुस जस्ता सामान ! स्थानीयले आँखै गुमाए",
+      "summary": "छोडिन्छन् एम्बुस जस्ता सामान ! स्थानीयले आँखै गुमाए",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11665",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sadak-alapatra___-1765596673.jpg"
+    },
+    {
+      "title": "जनमोर्चाका महासचिव भन्छन्ः हामीले फ्रान्समा जस्तै झगडा गरेर गणतन्त्र कमजोर बनायौँ",
+      "summary": "त्यसैले एमाले महाधिवेशनले गणतन्त्रवादीले गरेका कमजोरी भन्ने विषयमा छलफल हुने उनले अपेक्षा गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-of-the-people-s-front-says-we-weakened-the-republic-by-fighting-like-in-france-br-93-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765614412_manoj bhatt1-480x320.jpg"
+    },
+    {
+      "title": "एमाले महासचिव भन्छन्ः जेनजी आन्दोलन देशविरोधी षड्यन्त्र, ओलीमाथि दोष थोपर्ने प्रयास",
+      "summary": "महाधिवेशनको उद्घाटन समारोहलाई सम्बोधन गर्दै महासचिव पोखरेलले सरकारबाट बाहिरिए पनि एमाले नेपाली जनताको हृदयमा मजबुत रूपमा स्थापित रहेको दाबी गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-secretary-says-genji-movement-is-an-anti-national-conspiracy-an-attempt-to-blame-oli-25-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763802319_Shankar-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन भव्य उद्‌घाटन : ओलीले रिमोटबाट झण्डा फहराए",
+      "summary": "पार्टीका हजारौँ नेता कार्यकर्ता तथा जनसमुदायको उपस्थितिमा भक्तपुरको सल्लाघारीस्थित मैदानमा ओलीले महाधिवेशनको समुद्घाटन गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-convention-grand-inauguration-oli-hoists-the-flag-remotely-18-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765613728_Oli Final-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलनपछि जननिर्वाचित सरकार ढलेर अराजक सरकार बन्यो : उपमहासचिव ज्ञवाली",
+      "summary": "नेपालका लागि सिब्रिन श्रेष्ठले १८, साहिल पटेलले १२ र निरजकुमार यादवले १० रन बनाउनुबाहेक अन्यले दोहोरो अंक पनि जोड्न सकेनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/u-19-asia-cup-nepal-s-disappointing-batting-all-out-for-82-runs-against-sri-lanka-46-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765612942_batting1-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशनमा ओलीको भव्य स्वागत : सल्लाघारीमा कार्यकर्ताको बाक्लो भीड",
+      "summary": "त्यसैले एमाले महाधिवेशनले गणतन्त्रवादीले गरेका कमजोरी भन्ने विषयमा छलफल हुने उनले अपेक्षा गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-of-the-people-s-front-says-we-weakened-the-republic-by-fighting-like-in-france-br-93-85.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
