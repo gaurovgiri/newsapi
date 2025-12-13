@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-13T02:04:15.925402",
+  "scraped_at": "2025-12-13T04:33:35.159753",
   "date": "2025-12-13",
-  "total_articles": 34,
+  "total_articles": 37,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-convention-chairman-oli-to-inaugurate-at-12-noon-54-31.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "विद्यार्थी संघकी पूर्वमहामन्त्री महेश्वरी कुँवर पाल्पा क्षेत्र २ बाट प्रतिनिधिसभाका लागि सिफारिस",
+      "summary": "विद्यार्थी संघकी पूर्वमहामन्त्री महेश्वरी कुँवर पाल्पा क्षेत्र २ बाट प्रतिनिधिसभाका लागि सिफारिस",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11655",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jhapaa-1765533662.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन : सुरक्षाका लागि तालिमप्राप्त कुकुरसहित प्रहरी टोली परिचालन",
+      "summary": "दोभानदेखि अर्चेको फेदीमा रहने बाँध निर्माणस्थलसम्म आठ किलोमिटर पहुँचमार्ग निर्माण गर्न थालिएको प्रवर्द्धक कम्पनी एभरेष्ट इनर्जी एण्ड इन्फ्रास्ट्रचरले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/14-mw-mudikhola-hydropower-project-construction-of-access-road-begins-98-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765599974_Khola-480x320.jpg"
+    },
+    {
+      "title": "एमाले ११औं महाधिवेशन : पदाधिकारीमा क-कसको छ दाबी ? (नामसहित)",
+      "summary": "रायोसाग प्रतिकिलो रु ६०, पालुङ्गो साग प्रतिकेजी रु १००, चमसुर प्रतिकिलो रु १००, तोरीको साग प्रतिकिलो रु ५०, मेथीको साग प्रतिकिलो रु १५०, हरियो प्याज प्रतिकिलो रु ६०, बकुला प्रतिकिलो रु १५०, तरुल प्रतिकिलो रु ८०, च्याउ (कन्य) प्रतिकिलो रु १७०, च्याउ (डल्ले) प्रतिकिलो रु ३५० र कुरिलो प्रतिकिलो रु १२०० निर्धारण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-today-66-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750473973_Kalimati Tarkari-480x320.jpg"
     }
   ]
 }
