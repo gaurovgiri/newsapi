@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-13T12:53:08.188477",
+  "scraped_at": "2025-12-13T16:32:45.827252",
   "date": "2025-12-13",
-  "total_articles": 48,
+  "total_articles": 55,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/mithila-original-folk-art-aripan-19-48.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Young Rhinos begin Asia Cup campaign with an eight-wicket defeat to Sri Lanka",
+      "summary": "Nepal still have two more games to play in the group—against Bangladesh on Monday and Afghanistan on Wednesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2025/12/13/young-rhinos-begin-asia-cup-campaign-with-an-eight-wicket-defeat-to-sri-lanka",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/IMG1139-1765630382.jpg&w=300&height=200"
+    },
+    {
+      "title": "Farmers in Kailali struggle to sell paddy",
+      "summary": "In Nepal’s farwest, most farmers have not been able to sell their paddy at a fair price despite the government announcing the minimum support price.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/13/farmers-in-kailali-struggle-to-sell-paddy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/paddyfarmersweighingtheirproduct-1765637791.jpg&w=600&height=400"
+    },
+    {
+      "title": "नेकपा स्थापनादेखि एमालेको ११औँ महाधिवेशनसम्म",
+      "summary": "नेपालमा जनस्वास्थ्यको प्रमुख चुनौतीका रूपमा रहेको सुर्तीजन्य पदार्थको सेवन र यसबाट हुने क्षतिको कहालीलाग्दो तस्बिर सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/tobacco-epidemic-death-rate-doubled-in-five-years-industry-agent-trend-grows-within-the-ministry-br-60-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765643496_78-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिद्वारा च्याम्पियन लुम्बिनीलाई बधाई",
+      "summary": "नेपाल कम्युनिष्ट पार्टी स्थापनाको ७६औँ वर्ष पुग्दा कम्युनिष्ट आन्दोलनको प्रमुख पार्टीका रूपमा रहेको नेकपा (एमाले) विभिन्न आरोह अवरोहबीच ११औँ राष्ट्रिय महाधिवेशनसम्म आइपुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/from-the-establishment-of-the-cpn-to-the-11th-general-convention-of-the-uml-76-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765611632_Oli New-480x320.jpg"
+    },
+    {
+      "title": "जनताको चाहना अनुसार काम गरे मुलुक छिट्टै समृद्ध हुन्छ: घिसिङ",
+      "summary": "नेपाल प्रिमियर लिग (एनपिएल) को दोस्रो संस्करणको उपाधि उचालेपछि लुम्बिनी लायन्सका कप्तान रोहित पौडेलले यो क्षण आफ्ना लागि सपना पूरा भएको जस्तै भएको प्रतिक्रिया दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/it-was-a-dream-to-win-the-trophy-and-the-car-also-came-captain-poudel-33-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765640499_rohit-480x320.jpg"
+    },
+    {
+      "title": "कालीकोटबाट भूपेन्द्रजंग शाहीसहित तीन जनाको नाम सिफारिस",
+      "summary": "शुक्रबार बिहान पाल्पाको निस्दी गाउँपालिका–४ चिउरीबासमा भएको जिप दुर्घटनामा मृत्यु हुनेको सङ्ख्या चार पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/palpa-jeep-accident-death-toll-reaches-4-27-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765639875_pal_jee_acc-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनपछि हाम्रै प्रधानमन्त्रीः उज्यालो पार्टी नेपाल",
+      "summary": "नेपालमा जनस्वास्थ्यको प्रमुख चुनौतीका रूपमा रहेको सुर्तीजन्य पदार्थको सेवन र यसबाट हुने क्षतिको कहालीलाग्दो तस्बिर सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/tobacco-epidemic-death-rate-doubled-in-five-years-industry-agent-trend-grows-within-the-ministry-br-60-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
