@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-13T08:33:35.760025",
+  "scraped_at": "2025-12-13T12:53:08.188477",
   "date": "2025-12-13",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-of-the-people-s-front-says-we-weakened-the-republic-by-fighting-like-in-france-br-93-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Oli terms government-Gen Z deal ‘bogus’",
+      "summary": "UML chief KP Oli reiterated that dissolution of the House was unconstitutional and vowed to ensure its restoration.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/13/oli-terms-government-gen-z-deal-a-bogus",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/IMG20251213WA0088-1765627720.jpg&w=300&height=200"
+    },
+    {
+      "title": "Indian ambassador falls ill during hike in Kathmandu",
+      "summary": "He was immediately airlifted in an army chopper and admitted to a Kathmandu-based hospital.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/13/indian-ambassador-falls-ill-during-hike-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/naveen02520220902321000x0-1765624289.jpg&w=300&height=200"
+    },
+    {
+      "title": "लगातार दुई सिजन ट्रफी जित्ने पहिलो खेलाडी बने शेर मल्ल",
+      "summary": "मिथिलाको लोक संस्कृतिमा अरिपनको महत्व गहिरो छ । अरिपन विशेष गरी शुभ अवसरहरूमा बनाइन्छ । यो चामलको पीठो पानीमा मिसाएर बनाइन्छ, र यसलाई रंगाउन बेसार र सिन्दूर प्रयोग गरिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/mithila-original-folk-art-aripan-19-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765630086_Mithila-480x320.jpg"
+    },
+    {
+      "title": "‘सरकार र जेनजीबीचको सम्झौता हाम्रो पार्टी नीतिसँग मिल्यो’",
+      "summary": "लुम्बिनी लायन्सका बलर शेर मल्ल नेपाल प्रिमियर लिग (एनपिएल) को ट्रफी लगातार दुई पटक जित्ने पहिलो खेलाडी बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sher-malla-becomes-the-first-player-to-win-the-trophy-for-two-consecutive-seasons-49-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765629086_sher-480x320.jpg"
+    },
+    {
+      "title": "व्यक्तिवादी प्रवृत्ति हटाऔँ, साझा भावनाको विकास गरौँ: नेपाल",
+      "summary": "‘प्रचण्ड’ले सरकार र जेनजी पुस्ताबीच भएको संझौता आफ्नो पार्टीको नीतिसँग मेलखाने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-agreement-between-the-government-and-genji-is-in-line-with-our-party-policy-34-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764589065_Prachanda2-480x320.jpg"
+    },
+    {
+      "title": "कुलमानले गुन बिर्से: प्रचण्ड",
+      "summary": "नेपाल प्रिमियर लिग (एनपिएल) को उपाधि लुम्बिनी लायन्सले जितेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/npl-lumbini-lions-become-champions-making-sudurpaschim-defenseless-63-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765624596_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "संविधान त मरिसक्यो, जबर्जस्ती ब्युँताएर दुर्घटनामा नलैजाऔं : राजेन्द्र लिङ्देन",
+      "summary": "मिथिलाको लोक संस्कृतिमा अरिपनको महत्व गहिरो छ । अरिपन विशेष गरी शुभ अवसरहरूमा बनाइन्छ । यो चामलको पीठो पानीमा मिसाएर बनाइन्छ, र यसलाई रंगाउन बेसार र सिन्दूर प्रयोग गरिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/mithila-original-folk-art-aripan-19-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
