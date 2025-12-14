@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-14T08:34:34.587527",
+  "scraped_at": "2025-12-14T12:53:02.039349",
   "date": "2025-12-14",
-  "total_articles": 50,
+  "total_articles": 55,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -406,6 +406,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/central-committee-meeting-uml-to-remove-senior-vice-president-post-44-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "‘समावेशीकरणको संरक्षण गर्नु राज्यको दायित्व हो’",
+      "summary": "नेपालले कतारलाई उपहारस्वरूप पठाउने दुईवटा हात्तीलाई सोमबार सौराहाबाट बिदाई गरिने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/khagendra-prasad-and-rudrakali-are-leaving-for-qatar-from-sauraha-tomorrow-19-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765716548_Khagendra_-480x320.jpg"
+    },
+    {
+      "title": "सरकारको सम्पूर्ण ध्यान निर्वाचनमा केन्द्रित गर्न राष्ट्रपतिको सुझाव",
+      "summary": "आज राज कपुरको जन्मदिन । यदी उनी जीवित थिए भने आज १०१औँ जन्मदिन मनाइरहेका हुन्थेँ । उनलाई भौतिक रुपमा दर्शकले २ जुन सन्",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/raj-kapoor-was-born-today-what-did-he-do-while-ruling-bollywood-94-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765715964_Raj-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले राष्ट्रपतिलाई बुझाइन् राष्ट्रिय सुरक्षा परिषद्को आठौँ वार्षिक प्रतिवेदन",
+      "summary": "फाइनलजस्तो निर्णायक खेलमा आत्मविश्वास, स्पष्ट योजना र परिस्थितिअनुसारको निर्णय नै निर्णायक तत्त्व बन्छ। आत्मविश्वास आवश्यक छ, तर त्यसलाई योजना र परिस्थितिअनुसारको निर्णयले साथ नदिए आत्मविश्वास बोझ बन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/sudurpaschim-not-only-lost-the-trophy-but-also-the-feelings-of-its-supporters-15-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765714544_cricket-1-480x320.jpg"
+    },
+    {
+      "title": "उज्यालो नेपाल पार्टी भक्तपुरमा घिमिरे",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले संविधानले सुनिश्चित गरेको समावेशीकरण, सामाजिक न्याय र सांस्कृतिक–भाषिक विविधताको संरक्षण तथा प्रवर्द्धन गर्नु राज्यको दायित्व भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-the-state-s-responsibility-to-protect-inclusion-93-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765714355_PM-480x320.jpg"
+    },
+    {
+      "title": "निर्धारित समयभन्दा ६ घण्टापछि सुरु भयो एमाले महाधिवेशनको बन्दसत्र",
+      "summary": "नेपालले कतारलाई उपहारस्वरूप पठाउने दुईवटा हात्तीलाई सोमबार सौराहाबाट बिदाई गरिने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/khagendra-prasad-and-rudrakali-are-leaving-for-qatar-from-sauraha-tomorrow-19-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
