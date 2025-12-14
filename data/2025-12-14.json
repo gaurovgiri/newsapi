@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-14T04:40:42.818975",
+  "scraped_at": "2025-12-14T08:34:34.587527",
   "date": "2025-12-14",
-  "total_articles": 39,
+  "total_articles": 50,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -319,6 +319,94 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-nepal-circular-to-subordinate-committee-to-recommend-names-of-candidates-45-78.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765684278_Jasapa-480x320.jpg"
+    },
+    {
+      "title": "न-पोखरा सडक शीघ्र सम्पन्न गर्न मन्त्री घिसिङको निर्देशन",
+      "summary": "न-पोखरा सडक शीघ्र सम्पन्न गर्न मन्त्री घिसिङको निर्देशन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11674",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/kulman-ghising-highway-photo-1765694991.jpg"
+    },
+    {
+      "title": "फ फुड्सको ‘बासमती राइससंग फेस्टिभ भाइब्स अभियान' : काठमाडौँका मयुर बस्नेत बनिन् विजेता",
+      "summary": "फ फुड्सको ‘बासमती राइससंग फेस्टिभ भाइब्स अभियान' : काठमाडौँका मयुर बस्नेत बनिन् विजेता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11671",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/mayur-1765693222.jpg"
+    },
+    {
+      "title": "मूल्य निरन्तर उकालोतिर",
+      "summary": "मूल्य निरन्तर उकालोतिर",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11670",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/soon-1765691807.jpg"
+    },
+    {
+      "title": "वर नगरपालिका वडा नं २ को नयाँ वडा कार्यालय भवन उद्घाटन",
+      "summary": "वर नगरपालिका वडा नं २ को नयाँ वडा कार्यालय भवन उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11666",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bhawan-1765610711.jpg"
+    },
+    {
+      "title": "Nagdhunga–Malekhu road to close for five hours daily",
+      "summary": "Traffic will be disturbed until Tuesday as narrow stretches and heavy machinery require temporary stoppages; commuters are advised to use alternative routes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/nagdhunga-malekhu-road-to-close-for-five-hours-daily",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/raod141220250605221000x0-1765692647.jpg&w=300&height=200"
+    },
+    {
+      "title": "Locals block BP Highway after bus-hit kills pedestrian",
+      "summary": "Authorities negotiate with victim’s family and transport operators to reopen highway.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2025/12/14/locals-block-bp-highway-after-bus-hit-kills-pedestrian",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/32742141220250658511000x0-1765692553.jpg&w=300&height=200"
+    },
+    {
+      "title": "केन्द्रीय कमिटी बैठक : एमालेले वरिष्ठ उपाध्यक्ष पद हटाउने",
+      "summary": "महाधिवेशनकाे बन्दसत्र सुरु हुनुअघि बसेकाे बैठकले पार्टीको वरिष्ठ उपाध्यक्ष पद हटाउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/central-committee-meeting-uml-to-remove-senior-vice-president-post-44-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765691344_kendriye baithak-480x320.jpg"
+    },
+    {
+      "title": "फेरि सर्‍यो एमाले महाधिवेशनको बन्दसत्र",
+      "summary": "नेकपा एमालेको ११औं राष्ट्रिय महाधिवेशनको बन्दसत्रको समय फेरि सारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/closed-session-of-uml-general-convention-postponed-again-25-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765695024_kpoli-480x320.jpg"
+    },
+    {
+      "title": "अष्टलक्ष्मी शाक्य र युवराज ज्ञवालीले गरे पार्टीभित्र चुनाव नलड्ने घोषणा",
+      "summary": "प्रजनन केन्द्रमा हुर्किएर तालिमपछि सौराहा हात्तीसारमा लागिएका रुद्रकली र खगेन्द्र प्रसादलाई कतार पठाउन लागिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-khorsoor-tents-flying-in-qatar-65-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765699379_Bachha Hatti-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : सहमति नजुट्दा जुम्ला कांग्रेसमा विवाद",
+      "summary": "उदयपुरबाट एकै दिन फरक-फरक दुई स्थानबाट ब्राउनसुगरसहित पाँच जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/five-arrested-with-brown-sugar-in-udayapur-in-one-day-79-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765699013_dpo-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन : पदाधिकारी पुरानै लयमा, केन्द्रीय कमिटी ३०१ सदस्यीय बन्ने",
+      "summary": "महाधिवेशनकाे बन्दसत्र सुरु हुनुअघि बसेकाे बैठकले पार्टीको वरिष्ठ उपाध्यक्ष पद हटाउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/central-committee-meeting-uml-to-remove-senior-vice-president-post-44-43.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
