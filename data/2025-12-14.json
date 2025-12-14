@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-14T02:23:53.684584",
+  "scraped_at": "2025-12-14T04:40:42.818975",
   "date": "2025-12-14",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/messi-s-india-tour-fans-vandalize-stadium-by-throwing-chairs-organizers-arrested-87-12.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Campaign launched to make revered Devghat ‘plastic-free’",
+      "summary": "The religious site has struggled with unmanaged plastic waste, especially during peak pilgrimage seasons.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/campaign-launched-to-make-revered-devghat-plastic-free",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/debghatplastik2131220250522411000x0-1765681290.jpg&w=600&height=400"
+    },
+    {
+      "title": "Undocumented Nepalis face exploitation in Greece’s strawberry fields",
+      "summary": "A clause in the UML statute bars fresh faces from even contesting an office bearer position.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/09/undocumented-nepalis-face-exploitation-in-greece-s-strawberry-fields",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/money/dhan-1765675619.jpg&w=400&height=267"
+    },
+    {
+      "title": "उम्मेदवारहरूको नाम सिफारिस गर्न मातहत समितिलाई जसपा नेपालको सर्कुलर",
+      "summary": "अहिलेको परिस्थितिमा उमेर समूहको हिसाबले पदाधिकारीमा जानुपर्छ भन्ने सल्लाह र सुझाव पाएकी छु। त्यसबारेमा निर्णय गर्न बाँकी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/after-10-years-of-leadership-handover-should-be-done-rachana-khadka-64-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765687083_rachana-480x320.jpg"
+    },
+    {
+      "title": "झकिझकाउ र भव्य सल्लाघारी चौर",
+      "summary": "उनी पञ्चायत कालदेखि नै लोकतन्त्र, दलित तथा पछाडि पारिएको समुदायको हक अधिकारका क्षेत्रमा अनवरत संघर्ष गरिरहेका पात्र हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dalit-warrior-taylor-from-doti-receives-ambedkar-international-award-81-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765685816_Doti Dalit-480x320.jpg"
+    },
+    {
+      "title": "जिल्ला प्रतिनिधि भन्छन्: गुट हाेइन, एकढिक्का हुनुपर्छ",
+      "summary": "संविधान संशोधन गर्ने प्रयोजनका लागि सरकारले बनाउने ‘छुट्टै अर्को आयोग’लाई संविधानले चिन्दैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/questions-on-the-gen-g-agreement-br-31-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765685893_gud 45-480x320.jpg"
+    },
+    {
+      "title": "एमालेको ११ औं महाधिवेशन : बन्दसत्र अपराह्न १२ः१५ बाट सुरु हुने",
+      "summary": "संसदीय निर्वाचन क्षेत्र समन्वय समितिले पुस १० गतेभित्र जिल्ला समितिमा र जिल्ला समितिले आवश्यक निर्णयका साथ पुस १५ गतेभित्र प्रदेश समितिमा उम्मेदवारहरूको नाम पठाइसक्नुपर्ने निर्देशन दिइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-nepal-circular-to-subordinate-committee-to-recommend-names-of-candidates-45-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765684278_Jasapa-480x320.jpg"
     }
   ]
 }
