@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-14T16:32:30.117955",
+  "scraped_at": "2025-12-14T20:29:30.581908",
   "date": "2025-12-14",
-  "total_articles": 64,
+  "total_articles": 65,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -519,6 +519,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-party-should-present-itself-in-a-unified-manner-for-prosperity-oli-63-45.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "CIAA files graft case against former lawmaker and Gokarneshwar mayor Santosh Chalise",
+      "summary": "Anti-graft body seeks recovery of Rs36.84 million, on charges of accumulating illegal properties during 2017–2022 tenure as mayor.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/ciaa-files-graft-case-against-former-lawmaker-gokarneshwar-santosh-chalise",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/santoshjchalise141220251055391000x0-1765720681.jpg&w=300&height=200"
     }
   ]
 }
