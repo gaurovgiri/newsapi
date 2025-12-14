@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-14T12:53:02.039349",
+  "scraped_at": "2025-12-14T16:32:30.117955",
   "date": "2025-12-14",
-  "total_articles": 55,
+  "total_articles": 64,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -446,6 +446,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/khagendra-prasad-and-rudrakali-are-leaving-for-qatar-from-sauraha-tomorrow-19-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "12 Tharu villages work in tandem to keep 20-km irrigation canal flowing",
+      "summary": "Generations of farmers in Bhajani, Kailali rely on voluntary labour to repair and dredge the canal that sustains their agriculture.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/12-tharu-villages-work-in-tandem-to-keep-20-km-irrigation-canal-flowing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/sudur2111220250240061000x0-1765722824.jpg&w=300&height=200"
+    },
+    {
+      "title": "Valley local units unaware of federal mental health campaign",
+      "summary": "Several local units say they have received no notice for the three-month awareness drive. Add running campaigns are impossible without a budget.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/valley-local-units-unaware-of-federal-mental-health-campaign",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb14-1765721840.jpg&w=300&height=200"
+    },
+    {
+      "title": "CIAA files graft case against former lawmaker Gokarneshwar Santosh Chalise",
+      "summary": "Anti-graft body seeks recovery of Rs36.84 million, on charges of accumulating illegal properties during 2017–2022 tenure as mayor.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/ciaa-files-graft-case-against-former-lawmaker-gokarneshwar-santosh-chalise",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/santoshjchalise141220251055391000x0-1765720681.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kailali is turning waste into wealth",
+      "summary": "The far-western district has shown how solid waste and faecal sludge can be processed into compost and help ease fertiliser shortages.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/kailali-is-turning-waste-into-wealth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb13-1765721580.jpg&w=600&height=400"
+    },
+    {
+      "title": "समृद्धिका पक्षमा पार्टी एक लयमा प्रस्तुत हुनुपर्छ: ओली",
+      "summary": "एमालेका अध्यक्ष केपी शर्मा ओलीले देशीविदेशी पक्षका चुनौतीकाबीच पार्टीलाई एकढिक्का बनाउनुपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-party-should-present-itself-in-a-unified-manner-for-prosperity-oli-63-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765695024_kpoli-480x320.jpg"
+    },
+    {
+      "title": "यस्तो छ एमालेको महाधिवेशन निर्वाचन कार्यतालिका",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (एमाले) को ११औँ राष्ट्रिय महाधिवेशनले नयाँ निर्वाचनका लागि निर्वाचन कार्यतालिका सार्वजनिक गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/this-is-the-uml-general-convention-election-schedule-71-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765706756_Banda-480x320.jpg"
+    },
+    {
+      "title": "सरकारी कर्मचारी पनि एमालेको महाधिवेशन प्रतिनिधि!",
+      "summary": "जुम्लाको तातोपानी गाउँपालिकाले वर्षौँदेखि स्थानीय तहलाई गाँज्दै आएको बेरुजुको समस्या समाधान गर्न कडाइका साथ अभियान थालेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tatopani-rural-municipality-in-a-campaign-to-reduce-waste-62-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765726112_Untitled-10-480x320.jpg"
+    },
+    {
+      "title": "जेनजीको नामबाट हस्ताक्षर गर्ने अख्तियारले भ्रष्टचारको मुद्धामा पुनरावेदन गर्यो",
+      "summary": "क्यान अध्यक्ष चतुरबहादुर चन्दलाई आइतबार एक औपचारिक पत्रमार्फत आइसिसी अध्यक्ष शाहले बधाई दिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/icc-president-congratulates-can-on-successful-npl-br-73-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765725598_jay6-480x320.jpg"
+    },
+    {
+      "title": "एमाले प्रतिनिधिलाई प्रश्न: ईश्वर हारे माधव नेपाल र भीम रावलकै नियति दोहोरिने त होइन?",
+      "summary": "एमालेका अध्यक्ष केपी शर्मा ओलीले देशीविदेशी पक्षका चुनौतीकाबीच पार्टीलाई एकढिक्का बनाउनुपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-party-should-present-itself-in-a-unified-manner-for-prosperity-oli-63-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
