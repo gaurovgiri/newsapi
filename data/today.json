@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-15T02:21:14.040346",
+  "scraped_at": "2025-12-15T04:48:00.603048",
   "date": "2025-12-15",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/father-son-shooting-in-sydney-australia-16-dead-including-10-year-old-girl-86-67.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ज महानगरले बिपी उद्यान अतिक्रमण गरेर व्यवसाय गर्नेलाई हटायो",
+      "summary": "ज महानगरले बिपी उद्यान अतिक्रमण गरेर व्यवसाय गर्नेलाई हटायो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11675",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/20251214_085540-1765696759.jpg"
+    },
+    {
+      "title": "Valley local units unaware of federal mental health campaign",
+      "summary": "Several local units say they have received no notice for the three-month awareness drive. Add running campaigns are impossible without a budget.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/14/valley-local-units-unaware-of-federal-mental-health-campaign",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb14-1765721840.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepal’s trademark challenges",
+      "summary": "E-governance plays a vital role in nurturing and strengthening democratic foundations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2025/12/14/nepal-s-trademark-challenges",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/Main6-1765761525.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमालेको ११ औं महाधिवेशन : आज उम्मेदवारी मनोनयन",
+      "summary": "देशका अधिकांश स्थानीय तहले वन, नदीजन्य पदार्थ, खनिज, पानीसहितका प्राकृतिक स्रोतबाट राम्रो रोयल्टी प्राप्त गरिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/local-levels-did-not-receive-royalties-from-natural-resources-br-76-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765773822_kida 78 78-480x320.jpg"
+    },
+    {
+      "title": "एमाले बन्दसत्र: यस्तो हुनेछ केन्द्रीय कमिटी",
+      "summary": "भिडियो फुटेजमा उनी पार्किङमा लुकेर बन्दुकधारी साजिद अक्रममाथि पछाडिबाट आक्रमण गरेको देखिन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/ahmed-the-brave-hero-of-the-sydney-shooting-he-saved-many-by-putting-his-life-at-stake-br-81-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765772655_Hero-480x320.jpg"
     }
   ]
 }
