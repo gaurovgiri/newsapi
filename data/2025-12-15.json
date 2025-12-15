@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-15T08:41:55.885310",
+  "scraped_at": "2025-12-15T13:02:36.621888",
   "date": "2025-12-15",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-three-candidates-including-former-chief-minister-shahi-recommended-from-humla-28-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Oli, Pokhrel file candidacies for UML chair as election process begins",
+      "summary": "Two rival panels take shape at the party’s 11th general convention in Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/15/oli-pokhrel-file-candidacies-for-uml-chair-as-election-process-begins",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/5973959547552850942585587533709017151365738n-1765760276.jpg&w=300&height=200"
+    },
+    {
+      "title": "CIB recommends prosecution over Durbarmarg land lease",
+      "summary": "Police report on the 30-year lease of Nepal Trust land cites fraud, procedural lapses and bid manipulation, proposing action against former officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/15/cib-recommends-prosecution-over-durbarmarg-land-lease",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/newbuildingbuildnepaltrustland081120250955451000x01161120250256551000x0-1765794647.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal-born founder makes Forbes list for building fast-growing ‘house of brands’",
+      "summary": "Police report on the 30-year lease of Nepal Trust land cites fraud, procedural lapses and bid manipulation, proposing action against former officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/10/nepal-born-founder-makes-forbes-list-for-building-fast-growing-house-of-brands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=400&height=267"
+    },
+    {
+      "title": "सरकारसँग वार्ता गर्न दुर्गा प्रसाईंले बनाए समिति",
+      "summary": "सरकारले पनि सञ्चारमन्त्री जगदीश खरेलको संयोजकत्वमा तीन सदस्यीय आन्तरिक सहजीकरण तथा समस्या समाधान समिति गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-forms-committee-to-hold-talks-with-government-25-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "कुलमानले भने- निर्वाचनपछि बन्ने सरकारको नेतृत्व गर्नेगरी अघि बढाैं",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री कुलमान घिसिङले नयाँ शक्तिहरू अबको निर्वाचनपछि बन्ने सरकारको नेतृत्व गर्नेगरी अगाडि बढ्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-must-move-forward-to-lead-the-government-formed-after-the-next-election-67-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765803339_DSC_1949-480x320.jpg"
+    },
+    {
+      "title": "मधेसमा सरकार विस्तार, दुई मन्त्रीले लिए शपथ",
+      "summary": "राष्ट्रिय विपद जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार पछिल्ला २४ घण्टामा आगलागीका २२ वटा घटना भएका र ती घटनामा परी दुई जनाको मृत्यु हो",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/22-fire-incidents-in-24-hours-two-deaths-53-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741108256_Palpa Ribdikot Ma aaglagi Photo  (4)-480x320.jpg"
+    },
+    {
+      "title": "कृषि क्षेत्रको समस्या समाधान गर्न सरकार तत्पर: कृषिमन्त्री",
+      "summary": "पटक पटक ताकेता गर्दासमेत निर्माण कम्पनीले काम नगरेपछि यही मंसिर १२ गते सूचना निकालेर ठेक्का सम्झौता तोडिएको हुलाकी राजमार्ग निर्देशानालय वीरगञ्जले जानकारी दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/development-situation-the-rise-of-stalled-projects-66-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1765802864_Pul chitawan-480x320-wm.jpg"
+    },
+    {
+      "title": "योजना आयोगको उपाध्यक्षमा डा श्रेष्ठ नियुक्त",
+      "summary": "सरकारले पनि सञ्चारमन्त्री जगदीश खरेलको संयोजकत्वमा तीन सदस्यीय आन्तरिक सहजीकरण तथा समस्या समाधान समिति गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-forms-committee-to-hold-talks-with-government-25-23.html?click_from=just_in",
       "image_url": ""
     }
   ]
