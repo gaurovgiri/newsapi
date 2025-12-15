@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-15T04:48:00.603048",
+  "scraped_at": "2025-12-15T08:41:55.885310",
   "date": "2025-12-15",
-  "total_articles": 37,
+  "total_articles": 44,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -303,6 +303,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/ahmed-the-brave-hero-of-the-sydney-shooting-he-saved-many-by-putting-his-life-at-stake-br-81-88.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765772655_Hero-480x320.jpg"
+    },
+    {
+      "title": "अस्पताल भरिभराउ, फैलियो भाइरल, अक्सिजन पाउँनै मुस्किल",
+      "summary": "अस्पताल भरिभराउ, फैलियो भाइरल, अक्सिजन पाउँनै मुस्किल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11686",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Biramiko-Chap-1765768124.jpg"
+    },
+    {
+      "title": "UML statute changes reverted in just three months to suit Oli",
+      "summary": "As consensus efforts continue, the general convention could be prolonged, according to representatives.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/15/uml-statute-changes-reverted-in-just-three-months-to-suit-oli",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/5973959547552850942585587533709017151365738n-1765760276.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : हुम्लाबाट पूर्वमुख्यमन्त्री शाहीसहित तीन जना सिफारिस",
+      "summary": "प्रतिनिधिसभा सदस्य समानुपातिकतर्फ कांग्रेस हुम्लाले बलबहादुर लामा, ताराबहादुर लामा र रम्बा शाहीको नाम सिफारिस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-three-candidates-including-former-chief-minister-shahi-recommended-from-humla-28-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765787305_Jivan-480x320.jpg"
+    },
+    {
+      "title": "महेश बस्नेतले गरे सचिव पदमा उम्मेदवारी घोषणा",
+      "summary": "नेकपा एमालेका नेता महेश बस्नेतले पार्टीको ११औं महाधिवेशनमा सचिव पदमा उम्मेदवारी दिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-announces-candidacy-for-the-post-of-secretary-43-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756353690_mahesh_Basnet-480x320.jpg"
+    },
+    {
+      "title": "सिरहा कांग्रेसको उम्मेदवार सिफारिस : युवा र दलितलाई प्राथमिकता, दुई क्षेत्रमा विवाद",
+      "summary": "शहरी विकास अन्तर्गतको काठमाडौं उपत्यका विकास प्राधिकरणबाट धोबीखोला करिडोरका सडक किनारमा नयाँ रेलिङ राख्ने र हाल भत्किएकाको मर्मतसम्भार भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/railings-being-repaired-on-the-banks-of-dhobi-khola-after-an-increase-in-accidents-67-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765786124_Pul-480x320.jpg"
+    },
+    {
+      "title": "ओली पक्षबाट सहोदर दाजुभाइ नै केन्द्रीय सदस्यका उम्मेदवार",
+      "summary": "हाल उक्त मिसनमा नेपाली सेनाका एक हजार एक सय ८९ जना शान्ति सैनिकहरू कार्यरत रहेको नेपाली सेनाले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/exchange-of-nepali-peacekeepers-88-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765785599_UN-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनका लागि सरकारले दलहरूसँग पर्याप्त संवाद गरेको छैन : सहसंयोजक नेपाल",
+      "summary": "प्रतिनिधिसभा सदस्य समानुपातिकतर्फ कांग्रेस हुम्लाले बलबहादुर लामा, ताराबहादुर लामा र रम्बा शाहीको नाम सिफारिस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-three-candidates-including-former-chief-minister-shahi-recommended-from-humla-28-43.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
