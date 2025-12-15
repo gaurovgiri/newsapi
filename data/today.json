@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-15T13:02:36.621888",
+  "scraped_at": "2025-12-15T16:40:58.549894",
   "date": "2025-12-15",
-  "total_articles": 54,
+  "total_articles": 62,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -438,6 +438,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-forms-committee-to-hold-talks-with-government-25-23.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Probe commission records Nepali Army chief’s statement on Gen Z protests",
+      "summary": "Five Nepali Army officials questioned as investigation into September uprising continues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/15/probe-commission-records-nepali-army-chief-s-statement-on-gen-z-protests",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/ashoksigdel28820240925541000x0-1765802567.jpg&w=300&height=200"
+    },
+    {
+      "title": "KMC resuming vehicle emission testing next week",
+      "summary": "With no rains in winter, air quality in the Valley is worsening in the Valley, and reaches very unhealthy levels in the morning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/15/kmc-resuming-vehicle-emission-testing-next-week",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/VEHICLEEMISSION-1765803091.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government names team for talks with Durga Prasain",
+      "summary": "Officials say his most demands are unrealistic but could address some, may offer Rs100,000 relief to cooperative victims.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/15/government-names-team-for-talks-with-durga-prasain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/jagdishKharel-1765812305.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘गरिबकी वकिल’ वकिल राधिका संस्थापनबाट उम्मेदवार",
+      "summary": "पशुपति क्षेत्र विकास कोषको सदस्यसचिव पदमा कपिलवस्तुका प्रकाशमणि शर्मा भुसाल मनोनयन भएको संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालयले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bhusal-nominated-as-member-secretary-of-pashupati-area-development-fund-69-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1739320430_Pashupati-480x320.jpg"
+    },
+    {
+      "title": "एमालेको महाधिवेशनमा ८० वटा विद्युतीय भोटिङ मेसिन प्रयोग गरिने",
+      "summary": "किसानले कृषि बाली तथा पशुपन्छी बिमामार्फत दुई अर्ब ६५ करोड ९९ लाख रुपैयाँ भुक्तानी पाएका छन् । किसानले गत आर्थिक वर्ष २०८१/८२ मा सरकारको अनुदान रकम र बिमा कम्पनीमार्फत भुक्तानी पाएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/farmers-received-a-payment-of-rs-2-65-billion-through-insurance-43-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765814217_bima-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ गतेको निर्वाचन विकल्प संसद् पुनर्स्थापना !",
+      "summary": "अहिले समाजमा ठूलो बहस छ । राजनीति र नेतृत्व दल भित्रबाट कि बाहिरबाट ? कुन पुस्ताबाट ? कुन क्षेत्रबाट र कुन वर्गीय धरातलबाट ? यो बहसमा हाम्रो पार्टी नेकपा (एमाले)ले झनै ठूलो प्रश्नको सामना गरिरहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/i-am-a-candidate-of-cpn-uml-dr-bheshraj-thapa-66-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765813355_Thapa-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस, एमालेको अहङ्कार अन्त्य गर्न नेपाली कम्युनिष्ट पार्टी आवश्यक: रावल",
+      "summary": "दुई देशबीचको अर्ध शताव्दी भन्दा लामो सहकार्यको स्मरण गराउँदै भविष्यमा नेपालको उर्जा, जलस्रोत तथा सिँचाइ क्षेत्रमा थप कोरियाली लगानीले सार्थकता पाउने खुलाए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-korea-energy-partnership-discussed-34-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765813121_Korea-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशनः ओलीलाई सम्हाल्नै धौ-धौ, पोखरेललाई जुटाउनै समस्या",
+      "summary": "पशुपति क्षेत्र विकास कोषको सदस्यसचिव पदमा कपिलवस्तुका प्रकाशमणि शर्मा भुसाल मनोनयन भएको संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालयले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bhusal-nominated-as-member-secretary-of-pashupati-area-development-fund-69-17.html?click_from=just_in",
       "image_url": ""
     }
   ]
