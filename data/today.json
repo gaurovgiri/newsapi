@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-16T04:40:37.803065",
+  "scraped_at": "2025-12-16T08:40:36.885796",
   "date": "2025-12-16",
-  "total_articles": 40,
+  "total_articles": 50,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/titles-for-organizers-valley-public-tia-and-golden-peak-br-99-18.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गापिक्सेल जाइस क्यामेरासहित भिभो एक्स३०० प्रो नेपालमा सार्वजनिक",
+      "summary": "गापिक्सेल जाइस क्यामेरासहित भिभो एक्स३०० प्रो नेपालमा सार्वजनिक",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11698",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Pic_-1765864776.jpg"
+    },
+    {
+      "title": "यनको अनुभव दिने ‘लीला गार्डेन ब्याङ्क्वेट’ संचालनमा",
+      "summary": "यनको अनुभव दिने ‘लीला गार्डेन ब्याङ्क्वेट’ संचालनमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11692",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/5-1765782209.jpg"
+    },
+    {
+      "title": "Disquiet in Oli camp ahead of UML leadership vote",
+      "summary": "UML chief KP Sharma Oli and senior vice-chair Ishwar Pokhrel have fielded rival panels for top party posts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/16/disquiet-in-oli-camp-ahead-of-uml-leadership-vote",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/5986014077366975322301082367531338258597896n-1765847356.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ilam flood victims still await promised relief, struggle in temporary shelters",
+      "summary": "As many as 34 families displaced; tarpaulins offer little protection against winter.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/ilam-flood-victims-still-await-promised-relief-struggle-in-temporary-shelters",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/illam1151220251219051000x0-1765859323.jpg&w=300&height=200"
+    },
+    {
+      "title": "JSP-N lawmaker to hold Madhesh assembly speaker position",
+      "summary": "Provincial Assembly to publish election schedule Wednesday; JSP-N set to nominate Ram Ashish Yadav.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/jsp-n-lawmaker-set-to-be-elected-madhesh-assembly-speaker",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/madheshbhawan161220250633191000x0-1765866944.jpg&w=300&height=200"
+    },
+    {
+      "title": "एमाले महाधिवेशन : दुईको उम्मेदवारी खारेज, १४ जनाले फिर्ता लिए",
+      "summary": "सोही जिल्लाको बाह्रबिसे नगरपालिका–६ बस्ने शिवलाल तामाङलाई सशस्त्र प्रहरी बल नेपाल सुरक्षा बेस लामोसाँघुबाट खटिएको सुरक्षा फौजले नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/driver-arrested-with-chinese-goods-worth-2-2-million-18-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "शेखर-देउवा भेट : क्रियाशील फारम विवाद र कारबाही फुकुवाबारे चर्चा",
+      "summary": "भृकुटीमण्डपमा मतदानको तयारी तीव्र छ। बिहानैदेखि नयाँ नेतृत्वका लागि चहलपहल बढेको छ। देशभरबाट आएका प्रतिनिधिसँग उम्मेदवार र समर्थकहरू मत माग्दै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-convention-two-candidates-candidacies-rejected-14-withdraw-92-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765872825_Election -480x320.jpg"
+    },
+    {
+      "title": "शंकर पोखरेल सँगसँगै भोट माग्दै प्रदीप ज्ञवाली",
+      "summary": "नेकपा एमालेको ११औँ राष्ट्रिय महाधिवेशनस्थल भृकुटीमण्डपमा चुनावी रौनक छाएको छ। उम्मेदवार र समर्थकहरू साना-साना समूह बनाएर मत माग्दै प्रदर्शन गरिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/election-fervor-at-bhrikuti-mandap-supporters-solicit-votes-for-candidates-photos-85-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765872472_Jyoti-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन : आज निर्णायक मतदान, तयारी पूरा",
+      "summary": "ओएसआर डिजिटलबाट सार्वजनिक टिजरमा आर्यन फरक अवतारमा देखिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/teaser-of-hero-aryan-sigdel-s-bani-movie-released-br-88-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765871867_need 56-480x320.jpg"
+    },
+    {
+      "title": "राजेन्द्र गौतमको उम्मेदवारी फिर्ता",
+      "summary": "सोही जिल्लाको बाह्रबिसे नगरपालिका–६ बस्ने शिवलाल तामाङलाई सशस्त्र प्रहरी बल नेपाल सुरक्षा बेस लामोसाँघुबाट खटिएको सुरक्षा फौजले नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/driver-arrested-with-chinese-goods-worth-2-2-million-18-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
