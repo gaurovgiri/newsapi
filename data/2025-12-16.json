@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-16T08:40:36.885796",
+  "scraped_at": "2025-12-16T13:00:55.989128",
   "date": "2025-12-16",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/driver-arrested-with-chinese-goods-worth-2-2-million-18-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "CIAA files graft case against CAAN manager Binesh Munankarmi",
+      "summary": "The anti-graft body says Munankarki amassed over Rs25 million worth of illegal properties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/ciaa-files-graft-case-against-caan-manager-binesh-munankarmi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/pokharainternationalairport-1765887981.jpg&w=300&height=200"
+    },
+    {
+      "title": "UML leadership vote delayed, counting likely to run late",
+      "summary": "Evening start and lengthy electronic voting process expected to stretch polling beyond 10 hours at party convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/16/uml-leadership-vote-delayed-counting-likely-to-run-late",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/umlchunabprachar9161220250718511000x0-1765884197.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचनको उत्सव, महोत्वमा परिणत हुँदै गएको छ: खरेल",
+      "summary": "जिल्ला प्रहरी परिसर काठमाडौंको टोलीले काठमाडौं महानगरपालिका–१५ चमतिस्थित सडकमा ट्याक्सी जाँच गर्ने क्रममा लागुऔषध गाँजासहित भारतको केरलाका ३८ वर्षीय सोन साइमान ग्रेसेसलाई पक्राउ गरी आज सार्वजनिक गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/indian-citizen-caught-with-55-kg-of-marijuana-88-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "रविलाई भेट्न नख्खु पुगेका प्रदीपले भने- देश जोगाउनुपर्ने अवस्था आए राजनीतिमा आउन सक्छु",
+      "summary": "राष्ट्रिय कर दिवस २०८२ को अवसरमासरकारबाट सम्मानित उच्च करदाताहरुलाई परिसंघले सम्मान गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/awarded-by-the-best-taxpayer-confederation-50-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765889876_Kardata Sammanit-480x320.jpg"
+    },
+    {
+      "title": "ओलीको निरन्तरताले अब पार्टी चलायमान हुन्नः योगेश भट्टराई",
+      "summary": "युवा पत्रकार गौरब पौडेलले गिनिज वुक अफ वर्ल्ड रेकर्डस कायम गर्ने उद्देश्यले पहिलो पटक कमलादीस्थित ‘स्काइवाक टावर’ बाट १०० घण्टा नन–स्टप म्याराथन टिभी टक शो सञ्चालन गथालेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/non-stop-marathon-tv-talk-show-begins-inaugurated-by-communications-minister-kharel-16-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765889610_Sanchar Manrti-480x320.jpg"
+    },
+    {
+      "title": "एसियाली बैङ्कबाट १४ अर्ब ऋण स्वीकार गर्ने सरकारको निर्णय",
+      "summary": "सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनको वातावरण बनिसकेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-country-has-already-entered-the-election-minister-kharel-43-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761733899_jagdish_kharel-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन: मतदानको समय सर्‍यो, आज साँझ ७ बजेदेखि राति १ बजेसम्म भोटिङ",
+      "summary": "जिल्ला प्रहरी परिसर काठमाडौंको टोलीले काठमाडौं महानगरपालिका–१५ चमतिस्थित सडकमा ट्याक्सी जाँच गर्ने क्रममा लागुऔषध गाँजासहित भारतको केरलाका ३८ वर्षीय सोन साइमान ग्रेसेसलाई पक्राउ गरी आज सार्वजनिक गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/indian-citizen-caught-with-55-kg-of-marijuana-88-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
