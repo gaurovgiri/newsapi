@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-16T13:00:55.989128",
+  "scraped_at": "2025-12-16T16:39:20.841655",
   "date": "2025-12-16",
-  "total_articles": 57,
+  "total_articles": 66,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/indian-citizen-caught-with-55-kg-of-marijuana-88-80.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Buddha-era structures, coins unearthed in Panditpur, Nawalparasi West",
+      "summary": "Lack of funds has stalled plans to acquire 40 hectares needed to preserve the 6th century BCE archaeological remains.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/buddha-era-structures-coins-unearthed-in-panditpur-nawalparasi-west",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/Panditpurnewsphoto-1765886519.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s support system fails women survivors of psychological abuse",
+      "summary": "Limited counselling and psychological support leave survivors vulnerable to mental disorders, trauma and long-term emotional distress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/nepal-s-support-system-fails-women-survivors-of-psychological-abuse",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/DOMESTICVIOLENCE-1765888567.jpg&w=300&height=200"
+    },
+    {
+      "title": "Flush season brings relief to dairies as farmer dues largely cleared",
+      "summary": "DDC and private processors say payments are largely up to date this winter, though weak demand and high prices continue to weigh on milk consumption.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/16/flush-season-brings-relief-to-dairies-as-farmer-dues-largely-cleared",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/dairyfarmers-1765894147.jpg&w=300&height=200"
+    },
+    {
+      "title": "UML leadership vote postponed to Wednesday morning after e-voting glitch",
+      "summary": "Polling at the party’s national convention delayed due to problems in entering candidates’ names into electronic voting machines.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/16/uml-leadership-vote-postponed-to-wednesday-morning-after-e-voting-glitch",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/UMLCONVENTION-1765897696.jpg&w=600&height=400"
+    },
+    {
+      "title": "सरकार र दुर्गा प्रसाईं पक्षबीच वार्ता: माग सम्बोधन गर्दै जाने सहमति",
+      "summary": "टेस्ला र स्पेसएक्सका मालिक एलन मस्कले सम्पत्ति आर्जनमा विश्वकै अर्को ऐतिहासिक कीर्तिमान कायम गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/elon-musk-s-new-record-the-first-person-in-history-to-have-a-net-worth-exceeding-600-billion-25-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765901992_elon_musk-480x320.jpg"
+    },
+    {
+      "title": "बम काण्डमा पार्टी उपाध्यक्ष पक्राउ परेपछि हर्कले भने– प्रतिशोध हो भने विरोध हुन्छ",
+      "summary": "कोशी पर्यटन वर्ष २०८२ सफल बनाउन कलाकार एवम चलचित्रकर्मीहरुले सहयोग गर्ने प्रतिवद्धता जनाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/filmmakers-committed-to-making-koshi-tourism-year-a-success-75-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765901565_KOshi (5)-480x320.jpg"
+    },
+    {
+      "title": "सरकार र नागरिक बचाउ अभियानका टोलीबीच वार्ता",
+      "summary": "सरकारद्वारा गठित वार्ता समिति र राष्ट्र, राष्ट्रियता, धर्म, संस्कृति र नागरिक बचाउ महाअभियान बीचको वार्ता सकारात्मक रूपमा सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/talks-between-government-and-durga-prasai-faction-agreement-to-continue-addressing-demands-br-39-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765896577_Barta tOLI-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन: अबेर राति मतदान स्थगित, भोलि ८ बजे मात्र सुरु हुने",
+      "summary": "सप्तरीको सप्तकोशी नगरपालिका–७ ओदाहामा ज्योति विकास बैंकका कर्मचारीलाई बन्धक बनाएर कुटपिट तथा दुर्व्यवहार गरेको आरोपमा प्रहरीले दुई जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/misbehavior-against-bank-employees-two-arrested-including-deputy-mayor-s-husband-five-absconding-including-deputy-mayor-br-79-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765900840_g-480x320.jpg"
+    },
+    {
+      "title": "चुनावी मैदानमा टक्कर, मञ्चमा ‘मुसुक्क’ ओली–पोखरेल",
+      "summary": "टेस्ला र स्पेसएक्सका मालिक एलन मस्कले सम्पत्ति आर्जनमा विश्वकै अर्को ऐतिहासिक कीर्तिमान कायम गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/elon-musk-s-new-record-the-first-person-in-history-to-have-a-net-worth-exceeding-600-billion-25-40.html?click_from=just_in",
       "image_url": ""
     }
   ]
