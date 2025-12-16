@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-16T02:11:59.719832",
+  "scraped_at": "2025-12-16T04:40:37.803065",
   "date": "2025-12-16",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/terror-of-millions-of-dogs-in-bansah-93-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "What happens after the violence",
+      "summary": "Nepal is on its way to developing as a vibrant cricket destination in South Asia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2025/12/15/what-happens-after-the-violence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/secondstorymainnn-1765848230.jpg&w=400&height=267"
+    },
+    {
+      "title": "निर्णायक घडीमा शंकर पोखरेलको सन्देश : हामी जुट्यौँ, हामी जित्छौँ",
+      "summary": "तीन टोली आयोजक भ्याली पब्लिक, टिआइए र गोल्डेनपिकले १९औं भ्याली पब्लिक कप अन्तरविद्यालय बास्केटबल प्रतियोगिताको उपाधि उचालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/titles-for-organizers-valley-public-tia-and-golden-peak-br-99-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765859651_cc 57  cc 57-480x320.jpg"
+    },
+    {
+      "title": "अझै सञ्चालन भएन बनिसकेको सुरुङ मार्ग",
+      "summary": "पार्टी निर्माण, आन्दोलनको निरन्तरता र मूल नेतृत्वको रक्षा गर्ने सवालमा सदैव चट्टानी अडानका साथ उभिँदै आएका पोखरेलको उक्त सन्देशलाई महाधिवेशन प्रतिनिधिहरूले विशेष चासोका साथ लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/shankar-pokharel-s-message-at-a-crucial-moment-we-unite-we-win-19-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765845699_shankar_pokhrel1693575872_10241694600516-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा ओली-पोखरेलबिच रोमाञ्चक भिडन्त, ८० इभीएमबाट मतदान हुँदै",
+      "summary": "उम्मेदवारी दर्ता सकिएर अन्तिम नामावली सार्वजनिक भइसकेको छ। अध्यक्षमा केपी शर्मा ओली र ईश्वर पोखरेलबिच प्रतिस्पर्धा हुँदैछ। महासचिवमा शंकर पोखरेल र सुरेन्द्र पाण्डे उम्मेदवार छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/see-the-crowd-of-people-seeking-votes-at-the-uml-convention-venue-in-the-photo-72-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765858497_UML-480x320.jpg"
+    },
+    {
+      "title": "पार्टीलाई निर्णायक राष्ट्रिय शक्ति बनाउन नेतृत्वले सन्तुलित भूमिका निर्वाह गर्नुपर्छ : विष्णु पौडेल",
+      "summary": "सिड्नीस्थित बन्डाई बिचमा एक बन्दुकधारी आक्रमणकारीलाई निःशस्त्र पारेर कैयौंको ज्यान जोगाउन सफल अहमद अल–अहमदको विश्वभर प्रशंसा भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/sydney-attack-ahmed-who-snatched-the-gun-receives-global-praise-br-97-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765858577_khis 45-480x320.jpg"
+    },
+    {
+      "title": "एमाले केन्द्रीय सदस्यमा डा. सूर्यप्रसाद पाठकको उम्मेदवारी",
+      "summary": "तीन टोली आयोजक भ्याली पब्लिक, टिआइए र गोल्डेनपिकले १९औं भ्याली पब्लिक कप अन्तरविद्यालय बास्केटबल प्रतियोगिताको उपाधि उचालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/titles-for-organizers-valley-public-tia-and-golden-peak-br-99-18.html?click_from=just_in",
       "image_url": ""
     }
   ]
