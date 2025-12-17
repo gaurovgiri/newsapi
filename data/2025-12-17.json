@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-17T08:39:52.490734",
+  "scraped_at": "2025-12-17T13:00:31.964419",
   "date": "2025-12-17",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/first-female-mayor-kantika-recommended-as-congress-representative-from-jumla-89-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "िकाले टहरा भत्कायो, सिडियोलाई उजुरी",
+      "summary": "िकाले टहरा भत्कायो, सिडियोलाई उजुरी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11714",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Tarakari--Byapari-Aakroshit-1765941587.jpg"
+    },
+    {
+      "title": "Nepal signs $100 million concessional loan deal with ADB",
+      "summary": "Loan to support public finance management reforms and devolved service delivery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/17/nepal-signs-100-million-concessional-loan-deal-with-adb",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/f93e9a55d46e42b4a2babadefc73667d-1765964567.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal marks 70 years of partnership with United Nations",
+      "summary": "Prime Minister Sushila Karki reaffirms commitment to UN peacekeeping.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/17/nepal-marks-70-years-of-partnership-with-united-nations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/7e9f18abfe8043f7b8a632b2755c9d67-1765966316.jpg&w=300&height=200"
+    },
+    {
+      "title": "म झोले बन्न होइन, विवेक प्रयोग गर्ने कार्यकर्ता बन्न रास्वपामा आएको हुँ: राजिव खत्री",
+      "summary": "सञ्चारकर्मी राजिव खत्री राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा प्रवेश गरेका छन्। बुधबार पार्टी कार्यालयमा आयोजित एक कार्यक्रमका बीच उनी औपचारिक रूपमा रास्वपामा प्रवेश गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-came-to-the-rashtriya-swayamsevak-sangh-rss-not-to-be-a-cadre-but-to-be-a-worker-who-uses-his-conscience-rajiv-khatri-br-33-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765975543_rajib_khatri-480x320.jpg"
+    },
+    {
+      "title": "झापा पुगेर राजेन्द्र लिङदेनले भने: मुलुक हरेक दृष्टिकोणले सम्पन्न छ",
+      "summary": "लुम्बिनी बौद्ध विश्वविद्यालयमा विदेशी विद्यार्थीको आकर्षण बढ्दै गएको छ । बौद्ध दर्शन तथा सो सम्बन्धित विषयहरू अध्ययनका लागि विदेशी विद्यार्थीको सङ्ख्या बढ्दै गएको विश्वविद्यालयले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/foreign-students-are-being-attracted-to-study-in-nepal-17-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765975848_Buddha-480x320.jpg"
+    },
+    {
+      "title": "नेपाल हरेक दृष्टिकोणले सम्पन्न छः अध्यक्ष लिङ्देन",
+      "summary": "पर्यटकले २४ सै घण्टा खुल्ने भनेर मध्यरातमा पनि सेवा माग गरेपछि लेकसाइडका पर्यटन व्यावसायीलाई व्यवस्थापनको सकस बनेको छ। बहुसंख्यक व्यावसायीले २४ सै घण्टा खुल्ने भन्ने प्रावधानका कारण सकस खेप्नुपरेको व्यावसायीको भनाई छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-initiative-to-open-the-lakeside-24-hours-a-day-is-dangerous-for-itself-78-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765975332_Lakeside  (1)-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन: नेतृत्व चयनमा ‘हाइटेक’ अभ्यास, विद्युतीय मतदानमा उत्साहित प्रतिनिधि",
+      "summary": "पोखरा महानगरपालिकाले बुधबार ६७ औं स्थापना दिवस मनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/on-its-foundation-day-the-metropolis-conferred-pokhara-ratna-honors-to-9-people-36-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765975068_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "शान्ति स्थापनामा नेपाल विश्वकै पहिलो नम्बरमा: प्रधानमन्त्री",
+      "summary": "सञ्चारकर्मी राजिव खत्री राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा प्रवेश गरेका छन्। बुधबार पार्टी कार्यालयमा आयोजित एक कार्यक्रमका बीच उनी औपचारिक रूपमा रास्वपामा प्रवेश गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-came-to-the-rashtriya-swayamsevak-sangh-rss-not-to-be-a-cadre-but-to-be-a-worker-who-uses-his-conscience-rajiv-khatri-br-33-19.html?click_from=just_in",
       "image_url": ""
     }
   ]
