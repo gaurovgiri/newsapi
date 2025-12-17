@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-17T13:00:31.964419",
+  "scraped_at": "2025-12-17T16:38:46.501073",
   "date": "2025-12-17",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-came-to-the-rashtriya-swayamsevak-sangh-rss-not-to-be-a-cadre-but-to-be-a-worker-who-uses-his-conscience-rajiv-khatri-br-33-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Ex-secretary, three others charged over alleged Nepal Trust land lease scam",
+      "summary": "The case filed at Kathmandu District Court accuses former officials and a private firm of fraud in the Durbarmarg property deal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/17/ex-secretary-three-others-charged-over-alleged-nepal-trust-land-lease-scam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb3-1765980096.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court seeks written response in House dissolution case, rejects interim order",
+      "summary": "Constitutional bench issues show-cause order on petition filed by former Congress lawmakers challenging the dissolution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/17/supreme-court-seeks-written-response-in-house-dissolution-case-rejects-interim-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb1-1765969637.jpg&w=300&height=200"
+    },
+    {
+      "title": "ओली–लेखकलाई बयान लिने, आयोगको म्याद थप गर्दै",
+      "summary": "विश्वभरि नै जनस्वास्थ्यको गम्भीर चुनौतीका रूपमा देखा परेका नसर्ने रोग तथा मानसिक स्वास्थ्य समस्याको नियन्त्रणका लागि पहिलो पटक विश्वव्यापी रूपमै उच्चस्तरीय राजनीतिक प्रतिबद्धता घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/global-political-commitment-to-control-non-communicable-and-mental-illnesses-87-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765988939_un-480x320.jpg"
+    },
+    {
+      "title": "पुसमा कांग्रेस महाधिवेशन नहुने !",
+      "summary": "छानवीन आयोगले तत्कालिन प्रधानमन्त्री केपी शर्मा ओली र तत्कालिन गृहमन्त्री रमेश लेखकलाई बयानका लागि बोलाउने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-extends-deadline-for-commission-to-take-statement-from-writer-96-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761648503_oli_lekhak-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन नभए मुलुक संवैधानिक संकटमा फस्छ: शर्मा",
+      "summary": "सहकारीको रकम अपचलन मुद्दामा अदालतको आदेशपछि पनि न्याय नमिलेपछि दवाव स्वरुप नेपालगन्जमा आमरण अनसन थालिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fast-to-death-to-enforce-court-order-41-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765984628_Sahakari-480x320.jpg"
+    },
+    {
+      "title": "जनताले विकल्प खोजे: कमल थापा",
+      "summary": "तल्लो तहमा केन्द्रबाट पठाइएको ६ लाख क्रियाशील सदस्यता फाराममध्ये चार लाखमा सिरियल नम्बर नभएका कारण फेरि पठाउनुपर्दा तोकिएको मितिमा महाधिवेशन नहुने र कम्तीमा एक महिना पर सर्ने निकट स्रोतको दाबी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-will-be-no-congress-general-convention-in-december-87-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765985524_maha-480x320.jpg"
+    },
+    {
+      "title": "कार्की जाँचबुझ आयोग: एक महिना थप समय माग, अर्को साता ओली–लेखक बयान",
+      "summary": "विश्वभरि नै जनस्वास्थ्यको गम्भीर चुनौतीका रूपमा देखा परेका नसर्ने रोग तथा मानसिक स्वास्थ्य समस्याको नियन्त्रणका लागि पहिलो पटक विश्वव्यापी रूपमै उच्चस्तरीय राजनीतिक प्रतिबद्धता घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/global-political-commitment-to-control-non-communicable-and-mental-illnesses-87-78.html?click_from=just_in",
       "image_url": ""
     }
   ]
