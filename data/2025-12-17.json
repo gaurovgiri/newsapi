@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-17T04:38:30.730570",
+  "scraped_at": "2025-12-17T08:39:52.490734",
   "date": "2025-12-17",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -343,6 +343,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/uml-general-convention-voting-begins-delegates-line-up-see-photo-93-42.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765945517_Photo-480x320.jpg"
+    },
+    {
+      "title": "Voting begins to elect UML leadership",
+      "summary": "Chairperson candidates KP Sharma Oli and Ishwar Pokhrel cast their votes to begin the polling.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/17/voting-begins-to-elect-uml-leadership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/WhatsAppImage20251217at103233AM-1765947557.jpg&w=300&height=200"
+    },
+    {
+      "title": "पहिलो महिला मेयर कान्तिका जुम्लाबाट कांग्रेसको प्रतिनिधि सिफारिस",
+      "summary": "नेपाली कांग्रेस जुम्लाले प्रतिनिधि सभा, समानुपातिक र राष्ट्रिय सभाका लागि उम्मेदवार सिफारिस प्रक्रिया टुंग्याउँदै पूर्वसांसद सेजुवाललाई प्रतिनिधि सभा सदस्यका प्रमुख आकांक्षीमध्ये एकका रूपमा केन्द्रमा सिफारिस गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/first-female-mayor-kantika-recommended-as-congress-representative-from-jumla-89-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765960346_Kantika_Sejuwal-480x320.jpg"
+    },
+    {
+      "title": "संसद् विघटन : कांग्रेसको रिटमा सर्वोच्चको कारण देखाऊ आदेश",
+      "summary": "प्रतिनिधिसभा विघटनविरुद्ध न‍ेपाली कांग्रेसले दायर गरेको रिटमा सर्वोच्च अदालतले कारण देखाऊ आदेश जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-dissolution-supreme-court-orders-show-cause-in-congress-writ-petition-96-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757591311_supreme-480x320.jpg"
+    },
+    {
+      "title": "समयमै निर्वाचन गरेर नयाँ सरकारलाई सत्ता सुम्पिन्छौँ : प्रधानमन्त्री कार्की",
+      "summary": "एसियाली विकास बैंकद्वारा उक्त कार्यक्रमका लागि नेपाल सरकारलाई एक सय मिलियन अमेरिकी डलर बराबरको नीतिमा आधारित ऋण सहायता उपलब्ध गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/concessional-loan-agreement-between-the-government-of-nepal-and-the-asian-development-bank-12-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765958777_ADB-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशनमा मतदान जारी : ओली-पोखरेललाई पूरै घण्टा लाग्यो",
+      "summary": "सुन्तला टिप्ने काम खोज्दै धादिङका युवा म्याग्दी आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/young-people-from-dhading-seek-orange-picking-work-in-myagdi-br-48-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765958601_sun tala 52-480x320.jpg"
+    },
+    {
+      "title": "आधा घण्टामा ८० भोट : एमाले महाधिवेशनको नतिजा कहिले आउँछ?",
+      "summary": "नेपाली कांग्रेस जुम्लाले प्रतिनिधि सभा, समानुपातिक र राष्ट्रिय सभाका लागि उम्मेदवार सिफारिस प्रक्रिया टुंग्याउँदै पूर्वसांसद सेजुवाललाई प्रतिनिधि सभा सदस्यका प्रमुख आकांक्षीमध्ये एकका रूपमा केन्द्रमा सिफारिस गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/first-female-mayor-kantika-recommended-as-congress-representative-from-jumla-89-27.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
