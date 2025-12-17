@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-17T02:06:47.236349",
+  "scraped_at": "2025-12-17T04:38:30.730570",
   "date": "2025-12-17",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -271,6 +271,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-s-clear-message-to-the-world-we-have-adopted-a-strict-policy-of-zero-tolerance-against-corruption-88-48.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "धका घाइतेले वर्षौंपछि सुरक्षित घर पाए",
+      "summary": "धका घाइतेले वर्षौंपछि सुरक्षित घर पाए",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11711",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ghar-Hastantaran-1765940735.jpg"
+    },
+    {
+      "title": "र्पोरेट हाउसका सञ्चालकहरुले श्रमिकको अधिकार खोसेः अध्यक्ष सिम्खडा",
+      "summary": "र्पोरेट हाउसका सञ्चालकहरुले श्रमिकको अधिकार खोसेः अध्यक्ष सिम्खडा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11701",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1765870901-EXftl-1765871617.jpg"
+    },
+    {
+      "title": "UML general convention voting for new leadership to start this morning",
+      "summary": "Oli’s rival camp is emboldened as some of his staunch supporters switch sides.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/17/uml-general-convention-voting-for-new-leadership-to-start-this-morning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/172-1765934748.jpg&w=300&height=200"
+    },
+    {
+      "title": "Legal changes on cards to update 2011 census report for PR polls",
+      "summary": "There have been slight changes in the composition of caste groups and communities represented in Parliament.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/17/legal-changes-on-cards-to-update-2011-census-report-for-pr-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/173-1765935179.jpg&w=300&height=200"
+    },
+    {
+      "title": "Harshal Jayant Pathak’s entry excites Nepal ahead of Women’s T20 World Cup Qualifier in Mulpani",
+      "summary": "The coach has been a major force behind the success of Thailand’s women’s cricket team since he assumed the role in November 2018. Now, he will lead the Nepali side, who are aiming for a maiden berth at the biggest stage.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2025/12/17/harshal-jayant-pathak-s-entry-excites-nepal-ahead-of-women-s-t20-world-cup-qualifier-in-mulpani",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/Untitleddesign-1765936878.jpg&w=300&height=200"
+    },
+    {
+      "title": "This woman brings the universe closer to Nepal",
+      "summary": "In a field dominated by men and scarce resources, astrophysicist Manisha Dwa has carved out a path of her own. She is working to transform astronomy education in Nepal, empowering students and pushing for global recognition.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/17/this-woman-brings-the-universe-closer-to-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/mainphotoforonline-1765937595.jpg&w=600&height=400"
+    },
+    {
+      "title": "Troubling sign",
+      "summary": "In a field dominated by men and scarce resources, astrophysicist Manisha Dwa has carved out a path of her own. She is working to transform astronomy education in Nepal, empowering students and pushing for global recognition.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2025/12/17/troubling-sign",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/imgi90KJYWPJDKFNM4ZJ3A5ABGWSKBIY-1765944291.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले महाधिवेशन : ओली र पोखरेलले भोट हालेसँगै मतदान सुरु",
+      "summary": "नेपाल–भारतबिच एकीकृत महाकाली सन्धिअनुरूप नेपालले हिउँदमा तीन सय क्यूसेक र वर्षायाममा एक हजार क्यूसेक पानी पाउने व्यवस्था रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/we-are-confident-that-we-will-get-water-from-tanakpur-barrage-soon-minister-ghising-67-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765945972_Kulma-480x320.jpg"
+    },
+    {
+      "title": "एमाले महाधिवेशन : प्राविधिक समस्या सुल्झियो, मतदानका लागि अन्तिम तयारी",
+      "summary": "केन्द्रीय निर्वाचन आयोगका उपाध्यक्ष सानुराज पोखरेलका अनुसार अध्यक्ष पदका उम्मेदवारद्वय अध्यक्ष केपी शर्मा ओली र ईश्वर पोखरेलले मतदान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/uml-general-convention-voting-begins-delegates-line-up-see-photo-93-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765945517_Photo-480x320.jpg"
     }
   ]
 }
