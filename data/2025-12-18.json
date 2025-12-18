@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-18T12:58:54.097163",
+  "scraped_at": "2025-12-18T16:39:47.503679",
   "date": "2025-12-18",
-  "total_articles": 52,
+  "total_articles": 59,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -422,6 +422,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/lumbini-lions-trophy-celebration-tour-to-begin-on-december-20-18-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Scrub typhus has topped dengue in Nepal this year",
+      "summary": "Around 10,000 people contracted scrub typhus, while 8,262 people have tested positive for dengue so far this year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/18/scrub-typhus-has-topped-dengue-in-nepal-this-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb-1766066655.jpg&w=300&height=200"
+    },
+    {
+      "title": "UML elects Oli party chair for third term",
+      "summary": "Pokhrel’s camp fails to mount a tough challenge for the four-time prime minister who was in the eye of the Gen Z storm.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/18/uml-elects-oli-party-chair-for-third-term",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/59843869115577534821433446667046946507187147n-1766074002.jpg&w=300&height=200"
+    },
+    {
+      "title": "युवराज सफलको चेतावनी– रवि निर्दोष भएर छुटेका होइनन्, मैले चाहेँ भने भोलि नै खोरमा हाल्दिन सक्छु",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेलाई उच्च अदालतले धरौटीमा रिहा गर्ने आदेश दिएलगत्तै युवराज सफलले प्रतिक्रिया जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/yuvraj-safal-s-warning-ravi-is-not-innocent-and-has-been-released-i-can-put-him-in-a-cage-tomorrow-if-i-want-91-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766074643_yubraj-480x320.jpg"
+    },
+    {
+      "title": "नेपाली कम्युनिष्ट पार्टीले जनताको अधिकारलाई बलियो बनाउँछः भीम रावल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका नेता डा. भीम रावलले जनताका अधिकारलाई बलियो बनाउने लक्ष्यसहित जनताका माझमा आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-communist-party-strengthens-people-s-rights-leader-rawal-53-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765809783_bhim rawal-480x320.jpg"
+    },
+    {
+      "title": "चुनावमा हारेपछि माओवादीबाट एमाले आएका विष्टले पार्टी छाडे",
+      "summary": "नेकपा एमालेको ११औँ राष्ट्रिय महाधिवेशनमा केन्द्रीय सदस्य पदमा पराजित भएपछि पूर्वमाओवादी नेता ठम्मर विष्टले पार्टी परित्यागको घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bista-who-joined-the-uml-from-the-maoists-after-losing-the-election-left-the-party-69-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766073021_Bista-480x320.jpg"
+    },
+    {
+      "title": "उपाध्यक्ष जितेपछि पृथ्वीसुब्बाको प्रण– तपाईंहरूको विश्वासलाई रत्तिभर डगमगाउन दिने छैन",
+      "summary": "नेकपा (एमाले) का नवनिर्वाचित उपाध्यक्ष पृथ्वीसुब्बा गुरुङले महाधिवेशन प्रतिनिधिहरूले आफूमाथि गरेको भरोसा र विश्वासलाई रत्तिभर डगमगाउन नदिने प्रण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-winning-the-vice-presidential-election-prithvi-subba-vows-i-will-not-let-your-trust-waver-even-a-little-bit-25-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766072355_subba-480x320.jpg"
+    },
+    {
+      "title": "खोटाङका तीन जना एमाले केन्द्रीय सदस्य निर्वाचित",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेलाई उच्च अदालतले धरौटीमा रिहा गर्ने आदेश दिएलगत्तै युवराज सफलले प्रतिक्रिया जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/yuvraj-safal-s-warning-ravi-is-not-innocent-and-has-been-released-i-can-put-him-in-a-cage-tomorrow-if-i-want-91-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
