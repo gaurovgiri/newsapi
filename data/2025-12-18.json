@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-18T08:38:53.537846",
+  "scraped_at": "2025-12-18T12:58:54.097163",
   "date": "2025-12-18",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-faction-dominates-office-bearers-only-2-out-of-19-are-from-ishwar-with-names-32-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "KP Sharma Oli reelected UML chair for third term",
+      "summary": "Oli panel wins majority of office bearers. Shankar Pokharel repeated as general secretary.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/18/kp-sharma-oli-reelected-uml-chair-for-third-term",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/d7f5eb5e27e74d4d90ed0250d2136c391-1766043682.jpg&w=300&height=200"
+    },
+    {
+      "title": "एमाले महाधिवेशन पुराना पार्टी सकिए भन्नेलाई जवाफ होः ओली",
+      "summary": "नेपाल प्रिमियर लिग (एनपिएल) को दोस्रो संस्करणको विजेता लुम्बिनी लायन्सले यही पुस ५ गतेदेखि लुम्बिनी प्रदेशका विभिन्न जिल्लामा ट्रफी सेलिब्रेसन टुर सुरु गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/lumbini-lions-trophy-celebration-tour-to-begin-on-december-20-18-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766062383_lumnini-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाद्वारा समन्वय कार्यदल गठन",
+      "summary": "ओलीले भने,‘नेकपा एमाले सकिने पार्टी होइन, एक जीवन्त र अजम्बरी पार्टी हो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-general-convention-is-the-answer-to-those-who-say-old-parties-are-over-oli-br-77-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1752325515_kp Oli1-480x320.jpg"
+    },
+    {
+      "title": "एमालेको नयाँ नेतृत्वले लियो पद तथा गोपनीयताको शपथ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले स्थानीय, प्रदेश र सङ्घीय तहमा स्वतन्त्र उम्मेदवारी दिएका तथा निर्वाचित जनप्रतिनिधिसँग समन्वय गर्न ‘स्वतन्त्र जनप्रतिनिधि समन्वय कार्यदल’ गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-forms-coordination-task-force-45-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754562129_RSP-480x320.jpg"
+    },
+    {
+      "title": "एमाले नवनिर्वाचित केन्द्रीय समितिको पहिलो बैठक शुक्रबार बस्ने",
+      "summary": "नेकपा (एमाले) को एघारौं महाधिवेशनबाट निर्वाचित सम्पूर्ण पदाधिकारी तथा केन्द्रीय सदस्यहरूले पद तथा गोपनीयताको शपथ ग्रहण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-s-new-leadership-takes-oath-of-office-and-secrecy-74-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766061308_yemale_sapat-480x320.jpg"
+    },
+    {
+      "title": "रवि आजै रिहा हुने सम्भावना कति ?",
+      "summary": "नेपाल प्रिमियर लिग (एनपिएल) को दोस्रो संस्करणको विजेता लुम्बिनी लायन्सले यही पुस ५ गतेदेखि लुम्बिनी प्रदेशका विभिन्न जिल्लामा ट्रफी सेलिब्रेसन टुर सुरु गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/lumbini-lions-trophy-celebration-tour-to-begin-on-december-20-18-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
