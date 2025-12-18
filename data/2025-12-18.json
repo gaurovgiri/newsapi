@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-18T04:39:36.198943",
+  "scraped_at": "2025-12-18T08:38:53.537846",
   "date": "2025-12-18",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -311,6 +311,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/teacher-positions-not-in-proportion-to-the-number-of-schools-br-86-26.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766031314_feed 890-480x320.jpg"
+    },
+    {
+      "title": "‘SAFF moving to take South Asian football further’",
+      "summary": "From women’s club football to futsal championships and referee development to producing pro-license coaches, SAFF General Secretary Purushottam Kattel outlines a packed calendar aimed at building the game on and off the pitch.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2025/12/18/saff-moving-to-take-south-asian-football-further",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/sports/interview-1766020000.jpg&w=300&height=200"
+    },
+    {
+      "title": "Four killed in leopard attacks in Bardiya this fiscal year",
+      "summary": "Locals fear entering forests as authorities struggle to manage problematic animals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2025/12/18/four-killed-in-leopard-attacks-in-bardiya-this-fiscal-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/leopard-1766026316.jpg&w=300&height=200"
+    },
+    {
+      "title": "China ‘concerned’ as airport contractor is implicated in graft",
+      "summary": "PM Karki tells outgoing Chinese envoy she can’t intervene in a case being pursued by a constitutional anti-graft body.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/18/china-concerned-as-airport-contractor-is-implicated-in-graft",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/dd84db714e80456e8e412a717dff3000-1766018830.jpg&w=600&height=400"
+    },
+    {
+      "title": "पदाधिकारीमा ओली पक्षकै दबदबा : १९ मध्ये २ मात्रै ईश्वरका (नामसहित)",
+      "summary": "नेकपा एमालेको ११ औँ महाधिवेशनबाट अध्यक्ष पदमा पुन केपी शर्मा ओली निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-faction-dominates-office-bearers-only-2-out-of-19-are-from-ishwar-with-names-32-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766046891_Oli Team Final-480x320.jpg"
+    },
+    {
+      "title": "लोकप्रिय मत पाएपछि पिएसको प्रतिक्रिया: एमाले प्रतिस्पर्धामा च्याम्पियन पार्टी हो",
+      "summary": "‘म के भन्न चाहन्छु भने हामी जनताको बहुदलीय जनवादका चेलाहरू हौँ। यसले के भन्छ भने कार्यकर्ताले पत्याएको, विश्वास गरेको मान्छे पार्टी चलाउनुपर्छ भन्ने सिद्धान्त हो,’ गुरुङले भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ps-s-response-after-receiving-popular-vote-uml-is-the-champion-party-in-the-competition-18-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1766045909_PS1-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् एमाले सचिवमा निर्वाचित नौ जना नेता, कसको मत कति ?",
+      "summary": "नेकपा एमालेको ११ औं महाधिवेशनबाट सचिव पदमा अत्यधिक मतका साथ महेश बस्नेत विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-nine-leaders-elected-as-uml-secretaries-how-many-votes-do-they-have-66-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766045803_sachib-480x320.jpg"
+    },
+    {
+      "title": "सर्वाधिक मतसहित सचिवमा महेश बस्नेत विजयी",
+      "summary": "नेकपा एमालेको ११ औं महाधिवेशनबाट सचिव पदमा अत्यधिक मतका साथ महेश बस्नेत विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-wins-the-post-of-secretary-with-the-highest-number-of-votes-82-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756353690_mahesh_Basnet-480x320.jpg"
+    },
+    {
+      "title": "उपाध्यक्षमा ओली समूहको वर्चस्व, पृथ्वी सुब्बाले पाए सर्वाधिक मत",
+      "summary": "नेकपा एमालेको ११ औँ महाधिवेशनबाट अध्यक्ष पदमा पुन केपी शर्मा ओली निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-faction-dominates-office-bearers-only-2-out-of-19-are-from-ishwar-with-names-32-98.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
