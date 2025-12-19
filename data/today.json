@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-19T02:10:57.693811",
+  "scraped_at": "2025-12-19T04:39:21.919410",
   "date": "2025-12-19",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/birendranagar-mayor-dhakal-elected-as-central-member-for-the-second-time-53-62.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "वतीहरु लागुऔषधको उच्च जोखिममा",
+      "summary": "वतीहरु लागुऔषधको उच्च जोखिममा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11724",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Laguaushadha-ko-Jalo-1766031562.jpg"
+    },
+    {
+      "title": "आज मुख्यमन्त्रीले विश्वासको मत लिँदै",
+      "summary": "मधेश प्रदेश सरकारका मुख्यमन्त्री कृष्णप्रसाद यादवले शुक्रबार ४ बजे विश्वासको मत लिने तयारीमा जुटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chief-minister-taking-vote-of-confidence-today-88-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766118990_krishnap-480x320.jpg"
+    },
+    {
+      "title": "विदेश बस्ने नेपालीलाई मताधिकार दिन माग",
+      "summary": "रेनु नेपाल तेक्वान्दो संघको आयोजनामा डिसेम्बर १ देखि ६ तारिखसम्म भएको १३औं कोरियन एम्बेसडर इन्टरनेसनल तेक्वान्दो ओपन च्याम्पियनसिपकी स्वर्ण विजेता हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/medal-winners-of-para-taekwondo-honored-58-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766118719_Para-480x320.jpg"
+    },
+    {
+      "title": "एमालेको नवनिर्वाचित केन्द्रीय कमिटीको पहिलो बैठक आज बस्दै",
+      "summary": "प्रतियोगितामा बिआइएका प्रकाश बस्नेत उत्कृष्ट खेलाडी घोषित भए भने स्पाइनल इन्जुरी संघ नेपालका अनन्त राई ‘इमर्जिङ प्लेयर’ घोषित भए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bia-institute-wins-wheelchair-rugby-title-49-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766118404_Rubbly-480x320.jpg"
     }
   ]
 }
