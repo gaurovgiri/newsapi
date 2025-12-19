@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-19T08:38:37.147691",
+  "scraped_at": "2025-12-19T12:57:19.902590",
   "date": "2025-12-19",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/what-does-purna-bahadur-say-who-lost-even-when-jyoti-magar-stood-in-line-and-asked-for-votes-79-52.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "तीन करोड ७४ लाख ८४ हजार धरौटी बुझाएर छुटे रवि",
+      "summary": "हत्या आरोपी आशिषलाई कास्की प्रहरीले पक्राउ गरेको जनाएको छ । उनलाई पोखरा महानगरपालिका वडा नं.–१० बुद्धचोकबाट पक्राउ गरिएको डिएसपी बस्नेतले बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/22-year-old-grandson-kills-75-year-old-grandmother-43-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760168005_hatya-480x320.jpg"
+    },
+    {
+      "title": "एमालेको पोलिटब्युरो र स्थायी कमिटी गठन कहिले हुन्छ?",
+      "summary": "खोटाङको दक्षिणी स्थानीयतह खोटेहाङ गाउँपालिकामा शुक्रबारदेखि दुई दिने साहित्यिक जमघट सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/khotehang-literature-festival-24-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766148694_mahotsab-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सम्बन्धी अध्यादेश राष्ट्रपतिबाट जारी",
+      "summary": "पाँच खेलको सिरिजमा भारत २-१ ले अघि छ । पहिलो खेलमा १०१ रनको फराकिलो जित निकालेको भारत दोस्रो खेलमा भने ५१ रनले पराजित भएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-final-t20-between-india-and-south-africa-is-tonight-76-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766148498_ind-480x320.jpg"
+    },
+    {
+      "title": "शेखरलाई सुनिलको चेतावनीः टिमबाट सहमहामन्त्री लड्छु, नदिए विद्रोह गर्दै महामन्त्री लड्छु",
+      "summary": "नेपाल ओलम्पिक कमिटिले अमेरिकाको लस एन्जलसमा हुने ओलम्पिक २०२८, एसियन गेम्स २०२६ तथा डकार वल्र्ड युथ गेम्स २०२६ मा सहभागी हुने १४ जना नेपाली खेलाडीलाई आज छात्रवृत्ति प्रदान गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/14-players-received-scholarships-17-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766148080_Olympic-480x320.jpg"
+    },
+    {
+      "title": "एमालेको काँधमा ठूलो जिम्मेवारी छ: ओली",
+      "summary": "हत्या आरोपी आशिषलाई कास्की प्रहरीले पक्राउ गरेको जनाएको छ । उनलाई पोखरा महानगरपालिका वडा नं.–१० बुद्धचोकबाट पक्राउ गरिएको डिएसपी बस्नेतले बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/22-year-old-grandson-kills-75-year-old-grandmother-43-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
