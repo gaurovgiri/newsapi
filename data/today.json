@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-19T04:39:21.919410",
+  "scraped_at": "2025-12-19T08:38:37.147691",
   "date": "2025-12-19",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -311,6 +311,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/bia-institute-wins-wheelchair-rugby-title-49-40.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766118404_Rubbly-480x320.jpg"
+    },
+    {
+      "title": "UML elects Oli party chair for third term",
+      "summary": "Pokhrel fails to mount serious challenge against the 4-time prime minister who was in the eye of the Gen Z storm.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/18/uml-elects-oli-party-chair-for-third-term",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/oliandshanakr-1766100010.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bangladesh rocked by unrest after death of student leader",
+      "summary": "In Dhaka, videos circulating on social media showed mobs vandalising the offices of the country’s largest daily newspaper, Prothom Alo, as well as the Daily Star, on Thursday night.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2025/12/19/bangladesh-rocked-by-unrest-after-death-of-student-leader",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/imgi_63_BCYUIM4TQFK7VAL4G4CVPGKRIM.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rabi Lamichhane gets bail. Eligible for March polls, says legal expert",
+      "summary": "Butwal bench of the Tulsipur High Court has set bail at Rs27.48 million in Supreme Cooperative fraud case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/19/rabi-lamichhane-gets-bail-eligible-for-march-polls-says-legal-expert",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb1-1766100262.jpg&w=300&height=200"
+    },
+    {
+      "title": "ज्योति मगरले लाइनमै उभिएर मत माग्दा पनि हारेका पूर्णबहादुर के भन्छन्?",
+      "summary": "नेकपा (एमाले)को ११औँ महाधिवेशनमा नेताहरूसँगै गायिका ज्योति मगर पनि चर्चामा थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-does-purna-bahadur-say-who-lost-even-when-jyoti-magar-stood-in-line-and-asked-for-votes-79-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766132653_Jyoti-480x320.jpg"
+    },
+    {
+      "title": "विवेकशीलबाट रास्वपा प्रवेश गरेका नेताको रुचि समानुपातिक",
+      "summary": "जिल्ला प्रशासन कार्यालय कञ्चनपुरले जिल्लामा आठ हजार ८७५ परिवार शीतलहरबाट प्रभावित हुन सक्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/eight-thousand-families-to-be-affected-by-cold-wave-93-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737521462_sitlahar-480x320.jpg"
+    },
+    {
+      "title": "ओली अध्यक्षमा तेहेरिएपछि सुमनाको आक्रोश : हामी साँच्ची २२-२४ राज्यको जमानामा पुग्यौँ",
+      "summary": "पहिलो पटक आयोजना भएको उक्त च्याम्पियनसिपको फाइनलमा नेपाल एपीएफ क्लब र भारतको इस्ट बंगाल क्लबबिच प्रतिस्पर्धा हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-club-championship-final-match-time-changed-29-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766131387_Football-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ मा निर्वाचन हुनै पर्छ : शेखर कोइराला",
+      "summary": "उक्त सडक २०७६ सालमा निर्माण गर्नुपर्ने भए पनि २०८१ पुस मसान्तसम्म म्याद थपिएको थियो। यसको ४५ प्रतिशतमात्र प्रगति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/even-after-11-years-jajarkot-s-mid-hill-highway-remains-incomplete-87-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766130488_1761906714_aaroad-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस अर्घाखाँचीद्वारा प्रत्यक्षमा आठ जनासहित १७ को नाम सिफारिस",
+      "summary": "नेकपा (एमाले)को ११औँ महाधिवेशनमा नेताहरूसँगै गायिका ज्योति मगर पनि चर्चामा थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-does-purna-bahadur-say-who-lost-even-when-jyoti-magar-stood-in-line-and-asked-for-votes-79-52.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
