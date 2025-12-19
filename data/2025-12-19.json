@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-19T12:57:19.902590",
+  "scraped_at": "2025-12-19T16:36:22.339944",
   "date": "2025-12-19",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/22-year-old-grandson-kills-75-year-old-grandmother-43-87.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP chief Lamichhane walks free after completing paperwork in Rupandehi",
+      "summary": "Rabi Lamichhane reached the district court on Friday evening following Thursday’s high court order for his release.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/19/rsp-chief-lamichhane-walks-free-after-completing-paperwork-in-rupandehi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/rabilamichhar191220250128101000x0-1766149052.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal scales back key SDG health targets",
+      "summary": "New targets are maternal mortality rate at 110, neonatal mortality rate at 15, and under-five mortality at 25.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/19/nepal-scales-back-key-sdg-health-targets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/FILEPHOTOSDG-1766157899.jpg&w=300&height=200"
+    },
+    {
+      "title": "१० बुँदै दावी प्रस्तुत गर्दै शंकरले भने: एमालेमा सक्षम नेतृत्व चयन भयो",
+      "summary": "नेकपा(एमाले)का महासचिव शंकर पोखरेलले एमालेमा सक्षम नेतृत्व चयन भएको दाबी गरेका छन् । महासचिवमा दोस्रो पटक निर्वाचित भएपछि उनले यस्तो दाबी गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/presenting-a-10-point-claim-shankar-said-a-capable-leadership-was-elected-in-uml-95-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765845699_shankar_pokhrel1693575872_10241694600516-480x320.jpg"
+    },
+    {
+      "title": "मधेस प्रदेशका ७२ जना कर्मचारी कारबाहीमा",
+      "summary": "‘सरकारी सेवा लिनकै लागि महँगो खर्च र समय खेर फाल्नुपर्दैन,’ मयालाल भन्छन्, ‘यही हो परिवर्तन र संघीयताको मर्म।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-citizenship-can-be-obtained-from-narakot-93-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766158791_Humla-480x320.jpg"
+    },
+    {
+      "title": "हारेपछि गोकुलको प्रतिक्रिया: खाल हारियो, च्याँखे जितियो",
+      "summary": "झुटो शेयर कारोबार गरेको आरोपमा आज प्रहरीको केन्द्रीय अनुसन्धान ब्यूरो (सिआइबी)ले काठमाडौंबाट एक जनालाई पक्राउ गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/agrawal-arrested-on-charges-of-fraudulent-share-trading-24-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738939537_CIB New-480x320.jpg"
+    },
+    {
+      "title": "प्रदेशसभामा प्रतिनिधित्व गर्ने सबै दलले दिए मुख्यमन्त्री यादवलाई विश्वासको मत",
+      "summary": "मधेस प्रदेश सरकारअन्तर्गत धनुषा जिल्लामा रहेका कार्यालयको छड्के अनुगमन गर्दा दुई जना उपसचिवसहित ७२ जना कर्मचारी अनुपस्थित रहेको भेटिएपछि कारबाही प्रक्रिया अगाडि बढाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/72-employees-of-madhes-province-under-action-96-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753700927_Madesh Sarkar-480x320.jpg"
+    },
+    {
+      "title": "रविको थुनामुक्त आदेशमा ‘सेटिङ’को आरोप: न्यायाधीशविरुद्ध उजुरी",
+      "summary": "नेकपा(एमाले)का महासचिव शंकर पोखरेलले एमालेमा सक्षम नेतृत्व चयन भएको दाबी गरेका छन् । महासचिवमा दोस्रो पटक निर्वाचित भएपछि उनले यस्तो दाबी गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/presenting-a-10-point-claim-shankar-said-a-capable-leadership-was-elected-in-uml-95-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
