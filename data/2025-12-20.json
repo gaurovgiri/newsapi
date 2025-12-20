@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-20T16:32:08.183875",
+  "scraped_at": "2025-12-20T20:28:24.863056",
   "date": "2025-12-20",
   "total_articles": 59,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
