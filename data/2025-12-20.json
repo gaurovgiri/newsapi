@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-20T12:53:04.555388",
+  "scraped_at": "2025-12-20T16:32:08.183875",
   "date": "2025-12-20",
-  "total_articles": 52,
+  "total_articles": 59,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -422,6 +422,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/biplav-expressed-his-aspiration-to-become-prime-minister-in-this-way-56-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government scraps new medical testing standards and fees for migrant workers",
+      "summary": "The labour minister reverses the November 16 decision after complaints that the expanded tests and the Rs9,500 fee were against workers’ interests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/20/government-scraps-new-medical-testing-standards-and-fees-for-migrant-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/rajendrasingh201220250846201000x0-1766234409.jpg&w=300&height=200"
+    },
+    {
+      "title": "Shallow and deep borewells fail during drought in Madhesh",
+      "summary": "Budget shortage leaves long-defunct deep borewells unrepaired. Besides, technical faults, transformer theft, lack of pipelines, and absence of active local user committees have kept many borewells idle.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/20/shallow-and-deep-borewells-fail-during-drought-in-madhesh",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/shallowborewells-1766243705.jpg&w=600&height=400"
+    },
+    {
+      "title": "हामी शासक बन्न होइन, देश परिवर्तन गर्न आएका हौं : मन्त्री घिसिङ",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री एवं उज्यालो पार्टी नेपालका संरक्षक कुलमान घिसिङले आफूहरू परम्परागत राजनीति गर्न नभई देश परिवर्तनको संकल्प लिएर आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-not-here-to-become-rulers-but-to-change-the-country-minister-ghising-br-42-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765890394_kulman-480x320.jpg"
+    },
+    {
+      "title": "नुवाकोट कारागारको खाली ब्लक ‘बाल सुधार गृह’ बन्दै, गृहमन्त्रीले गरे निरीक्षण",
+      "summary": "जिल्लाको शैल्यशिखर नगरपालिका–७ बोहरीगाउँ केन्द्रविन्दु भएर शनिबार साँझ ८ बजेर ३६ मिनेटमा भूकम्पको धक्का महसुस गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/earthquake-with-epicenter-in-darchula-26-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743000857_earthquake-480x320.jpg"
+    },
+    {
+      "title": "बुटवल पुगेर हर्कले भनेः पार्टी बनाउन होइन, भत्केको देश बनाउन आएँ",
+      "summary": "स्थानीयले जिल्ला निर्वाचन कार्यालयमा तालाबन्दी गर्नेसहित आन्दोलनका कार्यक्रम घोषणा गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/announcement-to-lock-down-election-office-after-reconstruction-work-is-not-done-under-the-pretext-of-elections-43-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766245345_Rajduwali-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस नेता भन्छन्: प्रतिशोध होइन, प्रेरणा लिनुहोस्",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले नुवाकोटको विदुरस्थित केन्द्रीय कारागारको खाली रहेको ब्लकलाई बाल सुधार गृहका रूपमा सञ्चालनमा ल्याउन स्थलगत निरीक्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-aryal-inspects-nuwakot-prison-child-abusers-will-be-transferred-here-soon-35-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766245253_nirisan-480x320.jpg"
+    },
+    {
+      "title": "किरण बिकको दाबी- पहिलो दलित प्रधानमन्त्री उज्यालो नेपाल पार्टीले बनाउँछ",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री एवं उज्यालो पार्टी नेपालका संरक्षक कुलमान घिसिङले आफूहरू परम्परागत राजनीति गर्न नभई देश परिवर्तनको संकल्प लिएर आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-not-here-to-become-rulers-but-to-change-the-country-minister-ghising-br-42-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
