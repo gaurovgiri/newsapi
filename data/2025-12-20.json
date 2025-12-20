@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-20T04:33:31.691714",
+  "scraped_at": "2025-12-20T08:34:28.629702",
   "date": "2025-12-20",
-  "total_articles": 38,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -311,6 +311,62 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2025/12/19/after-the-unesco-tag-what-s-next-for-lalitpur-s-musicians",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/sports/ss-1766195952.jpg&w=400&height=267"
+    },
+    {
+      "title": "Rumours of poll postponement baseless: Karki",
+      "summary": "In an address marking 100 days, PM urges Gen Z groups to utilise elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/20/rumours-of-poll-postponement-baseless-karki",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/thumb-1766196598.jpg&w=300&height=200"
+    },
+    {
+      "title": "EVENTS: December 20 to December 26, 2025",
+      "summary": "In order to institutionalise the agendas of the Gen Z movement, all sides should show flexibility.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/20/events-december-20-to-december-26-2025",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/interviews/RajeshHamal1111-1766217487.jpg&w=400&height=267"
+    },
+    {
+      "title": "नेकपाको सन्देश सभा भृकुटीमण्डपमा सुरु, हज्जारौँको उपस्थिति",
+      "summary": "कार्यक्रममा अध्यक्ष ज्ञवालीले मधेश प्रदेशमा महिला उद्यमको क्षेत्रमा पहिलेको तुलनामा केही शिथिलता आएको बताउँदै प्रदेश सरकारले जुनसुकै अवस्थामा पनि काम गर्नुपर्ने बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/women-s-skill-development-program-to-be-implemented-through-six-ministries-of-madhesh-province-br-47-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766219119_Shova-480x320.jpg"
+    },
+    {
+      "title": "४५ वर्ष सक्रिय राजनीतिपछि कांग्रेस नेता केसीले भनेः अब चुनाव लड्दिनँ",
+      "summary": "सभालाई संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’, सहसंयोजक माधवकुमार नेपाल, नेताहरू झलनाथ खनाल, वामदेव गौतम, नारायणकाजी श्रेष्ठलगायतले सम्बोधन गर्ने कार्यक्रम छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-s-message-rally-begins-at-bhrikuti-mandap-thousands-in-attendance-12-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1766218948_nekapa1-480x320.jpg"
+    },
+    {
+      "title": "रविको टिप्पणीः ममाथि प्रतिशोध साँध्ने सरकार हेलिकप्टरमा झुन्डिएर भाग्यो",
+      "summary": "२०३८ सालदेखि नुवाकोटबाट निरन्तर चुनाव लड्दै आएका केसीले ४५ वर्षपछि प्रत्यक्ष निर्वाचनको दौड छाड्ने तयारीमा छन्। उनी २०३८ सालमा राष्ट्रिय पञ्चायत सदस्य बनेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-45-years-arjun-narsingh-kc-announces-he-will-not-contest-the-election-paving-the-way-for-a-new-generation-60-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743504002_arjun_kc-480x320.jpg"
+    },
+    {
+      "title": "तीन दिनपछि एमाले अध्यक्ष ओलीलाई पूर्वराष्ट्रपति भण्डारीको बधाई",
+      "summary": "‘बाङ्गा अक्षर’ ले ‘खाइराइड हास्यव्यङ्ग्य प्रतियाेगिता’ काे नतीजा घोषणा गरेकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/khairide-comedy-award-announcement-br-26-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766217759_final did 56-480x320.jpg"
+    },
+    {
+      "title": "सभामुख रिक्तताको चार महिना : बागमती प्रदेशसभा पुस तेस्रो साता बोलाउने तयारी",
+      "summary": "कार्यक्रममा अध्यक्ष ज्ञवालीले मधेश प्रदेशमा महिला उद्यमको क्षेत्रमा पहिलेको तुलनामा केही शिथिलता आएको बताउँदै प्रदेश सरकारले जुनसुकै अवस्थामा पनि काम गर्नुपर्ने बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/women-s-skill-development-program-to-be-implemented-through-six-ministries-of-madhesh-province-br-47-17.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
