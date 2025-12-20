@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-20T08:34:28.629702",
+  "scraped_at": "2025-12-20T12:53:04.555388",
   "date": "2025-12-20",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/women-s-skill-development-program-to-be-implemented-through-six-ministries-of-madhesh-province-br-47-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Alital lake regains prominence as conservation and tourism efforts accelerate",
+      "summary": "Local authorities say improved management, infrastructure and rising visitor interest are helping revive the potential of the scenic lake in Dadeldhura.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2025/12/20/alital-lake-regains-prominence-as-conservation-and-tourism-efforts-accelerate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/alital5-1766228750.jpg&w=300&height=200"
+    },
+    {
+      "title": "Survey records 366 gharials in Rapti and Narayani rivers, dolphin spotted during count",
+      "summary": "Chitwan National Park officials say Rapti’s gharial numbers have increased while Narayani has seen a slight decline from last year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/20/survey-records-366-gharials-in-rapti-and-narayani-rivers-dolphin-spotted-during-count",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/ghariyalinNarayani-1766227605.jpg&w=300&height=200"
+    },
+    {
+      "title": "विप्लवले यसरी सुनाए प्रधानमन्त्री बन्ने आकांक्षा",
+      "summary": "उनले वर्तमान राजनीतिक अवस्थाका कारण देशमा चुनाव हुन्छ कि हुँदैन भन्ने विषयमै आमनागरिकमा गहिरो शंका रहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/biplav-expressed-his-aspiration-to-become-prime-minister-in-this-way-56-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742465299_biplop-480x320.jpg"
+    },
+    {
+      "title": "एमालेको पोखरेल समूहको देशव्यापी समीक्षा गर्दै, पार्टीभित्रै सुधारका मुद्दा उठाउने",
+      "summary": "नेकपा एमालेका नेता ईश्वर पोखरेल समूहले हालै सम्पन्न महाधिवेशनबारे देशभर व्यापक समीक्षा गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-s-pokharel-group-to-conduct-nationwide-review-raise-issues-of-reform-within-the-party-65-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766233848_Ishwor-480x320.jpg"
+    },
+    {
+      "title": "रविले भने- नयाँ शक्तिहरू सबै मिल्छन्, एकैठाउँमा आउँछन्",
+      "summary": "दुई दिनसम्म चल्ने सम्मेलनको उद्घाटन सत्रका वक्ताहरुले अब शिक्षाको सुधारका लागि नयाँ अध्ययन अनुसन्धान हुनुपर्नेमा जोड दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/international-educational-conference-suggests-new-research-on-nepal-s-education-reform-84-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766232821_Edu-480x320.jpg"
+    },
+    {
+      "title": "म माथि धेरै तरबार झुन्डिएका छन्, तर अन्तिम साससम्म लड्छु: रवि",
+      "summary": "निर्देशक दीपक आचार्य (काकु) को डेब्यु निर्देशन रहेको चलचित्र ‘परान’ ले प्रदर्शनको ५१ औँ दिन पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/51-days-of-paraan-from-a-slow-start-to-the-superhit-of-the-year-62-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766231679_paran-480x320.jpg"
+    },
+    {
+      "title": "हामीले न्यायको लडाइँ जितिसकेका छैनौं, उत्सव मनाउने बेला भएको छैन: रवि",
+      "summary": "उनले वर्तमान राजनीतिक अवस्थाका कारण देशमा चुनाव हुन्छ कि हुँदैन भन्ने विषयमै आमनागरिकमा गहिरो शंका रहेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/biplav-expressed-his-aspiration-to-become-prime-minister-in-this-way-56-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
