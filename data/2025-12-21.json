@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-21T16:32:26.847168",
+  "scraped_at": "2025-12-21T20:29:48.626585",
   "date": "2025-12-21",
-  "total_articles": 56,
+  "total_articles": 59,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -455,6 +455,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/dr-shahi-warns-of-going-to-court-after-doctors-association-s-candidacy-is-rejected-67-80.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal’s household biogas dream is quietly collapsing",
+      "summary": "A new Kathmandu University study finds more than half of household biogas plants abandoned nationwide, turning decades of clean-energy investment into stranded public assets and threatening Nepal’s climate goals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/21/nepal-s-household-biogas-dream-is-quietly-collapsing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb3-1766329927.jpg&w=300&height=200"
+    },
+    {
+      "title": "Interim government working on key bills stalled for years",
+      "summary": "Law minister says work is ongoing on 121 bills crucial for full implementation of constitution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/21/interim-government-working-on-key-bills-stalled-for-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb4-1766330439.jpg&w=600&height=400"
+    },
+    {
+      "title": "छविलाल जोशीलाई धरौटीमा रिहा गर्न आदेश",
+      "summary": "सहकारी ठगी प्रकरणमा पुर्पक्षका लागि थुनामा रहेका गोर्खा मिडिया नेटवर्कका तत्कालीन सञ्चालक तथा पूर्वडीआईजी छविलाल जोशीलाई अदालतले धरौटीमा रिहा गर्ने आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chhabilal-joshi-released-br-71-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1729252284_1727005801_chabilal joshi-1200x560-480x320.jpg"
     }
   ]
 }
