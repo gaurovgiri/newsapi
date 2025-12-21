@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-21T12:53:31.127231",
+  "scraped_at": "2025-12-21T16:32:26.847168",
   "date": "2025-12-21",
-  "total_articles": 49,
+  "total_articles": 57,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/book-on-buddhist-history-published-47-73.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP chief Lamichhane says ‘no alternative to elections’, rejects calls for House reinstatement",
+      "summary": "Rabi Lamichhane backs Gen Z demands and warns against attempts to disrupt polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/21/rsp-chief-lamichhane-says-no-alternative-to-elections-rejects-calls-for-house-reinstatement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/rabi-1766321234.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal Demographic Health Survey faces funding crisis",
+      "summary": "Officials say they have been urging development partners for help to carry out the study, which requires huge funding and international technical help.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/21/nepal-demographic-health-survey-faces-funding-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb-1766323516.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ram Ashish Yadav elected Speaker of Madhesh Province Assembly",
+      "summary": "JSP-N lawmaker secures post with strong majority; rival UML proposal automatically scrapped after vote split.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/21/ram-ashish-yadav-elected-speaker-of-madhesh-province-assembly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/ramashish211220251133271000x0-1766322280.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेस क्रियाशिल सदस्यता बढाउँदै, भोट घटाउँदै",
+      "summary": "नेपाल चिकित्सक संघको आसन्न निर्वाचनका लागि बागमती प्रदेश संयोजक पदमा दिइएको उम्मेदवारी निर्वाचन समितिले खारेज गरिदिएपछि वरिष्ठ क्यान्सर रोग विशेषज्ञ डा. अरुण शाही कानुनी उपचारमा जाने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/dr-shahi-warns-of-going-to-court-after-doctors-association-s-candidacy-is-rejected-67-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766333870_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "‘चीन–नेपाल सम्बन्ध अद्वितीय छ’",
+      "summary": "जिल्लाको कमलामाई नगरपालिका-६ धुराबजारस्थित एक घरमा आगलागी हुँदा एक जनाको मृत्यु भएको छ भने एक जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/daughter-in-law-dies-in-fire-father-in-law-injured-br-12-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछाने र प्रधानमन्त्री कार्कीबीच भेटवार्ता",
+      "summary": "पार्टीमा युवाको आकर्षण बढाउन भन्दै १४औं महाधिवेशनमा क्रियाशील सदस्यता बढाएर दोब्बर बनाएकै हो । २०७९ को निर्वाचनमा सात लाख ५४ हजार मत गुमाएर २७ लाख १५ हजार दुई सय २५ अर्थात् २५.७१ मत मात्र पाएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-increasing-active-membership-decreasing-votes-80-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765984725_congress-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले भनिन्– बाँसको कलमले लेख्नेले अब ‘स्मार्टफोन’ पुस्तामाथि शासन गरेर हुँदैन",
+      "summary": "सीमा–नाकाबाट अवैध रूपमा अण्डा, दाना र भ्याक्सिन आयात हुँदा कुखुरापालक किसान मारमा परेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/poultry-business-hit-by-open-borders-78-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755501596_kukhura-480x320.jpg"
+    },
+    {
+      "title": "खेत-खेतमा विद्युत् पुग्नुपर्छः मन्त्री घिसिङ",
+      "summary": "नेपाल चिकित्सक संघको आसन्न निर्वाचनका लागि बागमती प्रदेश संयोजक पदमा दिइएको उम्मेदवारी निर्वाचन समितिले खारेज गरिदिएपछि वरिष्ठ क्यान्सर रोग विशेषज्ञ डा. अरुण शाही कानुनी उपचारमा जाने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/dr-shahi-warns-of-going-to-court-after-doctors-association-s-candidacy-is-rejected-67-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
