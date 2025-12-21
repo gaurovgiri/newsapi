@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-21T08:34:48.107739",
+  "scraped_at": "2025-12-21T12:53:31.127231",
   "date": "2025-12-21",
-  "total_articles": 44,
+  "total_articles": 49,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -359,6 +359,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kanchanpur-jail-clash-case-investigation-into-allegations-of-illegal-activities-br-73-71.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766303837_Kanchnpur-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिमा महिला: ठुला दलमा सधैँ उपेक्षा, अर्थपूर्ण सहभागिता कहिले?",
+      "summary": "श्रीलंकामा सिहाली भाषामा प्रकाशित पुस्तकलाई नेपाली भाषामा अनुवाद गरी प्रकाशित गरिएको हो । नेपाली भाषामा प्रकाशित यो पहिलो पुस्तक हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/book-on-buddhist-history-published-47-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766321285_Baudha Book-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीसँग भेट्न जाँदै रवि",
+      "summary": "एमालेको यो महाधिवेशनले दिएको नतिजाले समावेशिता मान्यताको खिल्ली मात्र उडाएको छैन, महिला प्रतिनिधित्वको सवाल पूर्णतः उपहास नै गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/women-in-politics-always-neglected-in-major-parties-when-will-they-have-meaningful-participation-49-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766321198_1645844928_mahila3-1200x560-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन गर्न विश्वासको वातावरण आवश्यक",
+      "summary": "नेपाल क्रिकेट संघ (क्यान) ले सन् २०२६ मा हुने आइसीसी टी-२० पुरुष विश्वकपको तयारीका लागि प्रारम्भिक टोलीको घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-can-announces-24-member-preliminary-squad-41-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760539564_Nepal-480x320.jpg"
+    },
+    {
+      "title": "कानुनलाई सरल बनाउन अध्ययन जारी छ: मन्त्री सिन्हा",
+      "summary": "१६ खेलको समाप्तिमा एस्टन भिल्लाको ३३ अंक छ भने समान खेलबाट युनाइटेडले २६ अंक जोडेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/premier-league-man-united-plays-against-aston-villa-85-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766320397_ASTONvsMUNTD-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगद्वारा समावेशी समूहको प्रतिशत निर्धारण",
+      "summary": "श्रीलंकामा सिहाली भाषामा प्रकाशित पुस्तकलाई नेपाली भाषामा अनुवाद गरी प्रकाशित गरिएको हो । नेपाली भाषामा प्रकाशित यो पहिलो पुस्तक हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/book-on-buddhist-history-published-47-73.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
