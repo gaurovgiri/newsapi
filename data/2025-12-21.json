@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-21T04:41:21.474082",
+  "scraped_at": "2025-12-21T08:34:48.107739",
   "date": "2025-12-21",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/former-prime-minister-bhattarai-leaves-for-four-day-visit-to-india-23-93.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756999398_baburam-480x320.jpg"
+    },
+    {
+      "title": "Pradeep Adhikari’s flight to power—and the turbulent fall",
+      "summary": "He became most powerful, most controversial official in Nepal’s aviation sector, exposing a system where policy corruption, patronage and regulatory failure trump public safety.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/21/pradeep-adhikari-s-flight-to-power-and-the-turbulent-fall",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb2-1766278293.jpg&w=300&height=200"
+    },
+    {
+      "title": "AFC to introduce Nations League for national teams",
+      "summary": "The AFC believes that the league will provide competitive balance and meaningful match exposure for Asian national teams.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2025/12/21/afc-to-introduce-nations-league-for-national-teams",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/IMG1212-1766302188.jpg&w=300&height=200"
+    },
+    {
+      "title": "Illegal crusher operates for years beside highway in Siraha",
+      "summary": "Power supplied through an industry registered in another ward in clear violations of legal criteria.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-2/2025/12/21/illegal-crusher-operates-for-years-beside-highway-in-siraha",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/20251219113727211220250429541000x0-1766292970.jpg&w=300&height=200"
+    },
+    {
+      "title": "सभामुख र राष्ट्रिय सभा अध्यक्षसँग चिनियाँ राजदूतको बिदाइ भेट",
+      "summary": "भेटमा नेपाल–चीन कूटनीतिक सम्बन्ध स्थापना भएको ७०औँ वार्षिकोत्सव वर्षभरि मनाइएको सन्दर्भ उल्लेख गर्दै सभामुख घिमिरेले सन् २०२५ मा दुवै पक्षबाट आयोजना गरिएका विविध कार्यक्रमहरूले द्विपक्षीय सम्बन्धलाई थप उचाइमा पुर्‍याएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chinese-ambassador-s-farewell-meeting-with-speaker-and-national-assembly-chair-91-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766304834_Bhet-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : नयाँ जनगणनाअनुसार समानुपातिक कोटा निर्धारण",
+      "summary": "समानुपातिक निर्वाचन प्रणालीतर्फ चुनाव लड्न चाहने राजनीतिक दलहरूका लागि आयोगले उम्मेदवारको बन्दसूची पेस गर्ने समय यही पुस १३ र १४ गते तोकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-proportional-quota-determination-based-on-new-census-40-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763442808_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "योग र ध्यानलाई विद्यालयमा अतिरिक्त क्रियाकलापमा समावेश गर्न शिक्षामन्त्रीको निर्देशन",
+      "summary": "गत शुक्रबार कैदीबन्दी र नाइकेबीच कारागारभित्र विवाद हुँदा भएको झडपमा आठ कैदीबन्दी घाइते भएका थिए। घाइतेमध्ये दुई जना कारागार फर्किएका छन् भने छ जनाको महाकाली प्रादेशिक अस्पतालमा उपचार हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kanchanpur-jail-clash-case-investigation-into-allegations-of-illegal-activities-br-73-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766303837_Kanchnpur-480x320.jpg"
     }
   ]
 }
