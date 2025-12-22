@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-22T04:47:12.391330",
+  "scraped_at": "2025-12-22T08:40:01.380157",
   "date": "2025-12-22",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/justification-of-himalayan-university-br-23-61.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766376917_dd chagu 45-480x320.jpg"
+    },
+    {
+      "title": "Kathmandu administration denies permission for Gen Z protest, demonstrators dispersed",
+      "summary": "Officials say organisers sought approval on day of planned demonstration.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/22/kathmandu-administration-denies-permission-for-gen-z-protest-demonstrators-dispersed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/59938640011891516327966558428555671436745792n-1766386650.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s household biogas dream is quietly collapsing",
+      "summary": "Study finds half of household plants in disuse nationwide, turning decades of investment into stranded public assets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/21/nepal-s-household-biogas-dream-is-quietly-collapsing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/hnadout-1766366026.jpg&w=300&height=200"
+    },
+    {
+      "title": "पूर्वानुमानमा आधारित पूर्वकार्यलाई संस्थागत बनाउन सरकार प्रतिबद्ध : गृहमन्त्री अर्याल",
+      "summary": "सेप्टेम्बरमा प्रधानमन्त्री मोदीको जन्मदिनको अवसरमा यो चलचित्रको घोषणा गरिएको थियो। ‘माँ वन्दे’ प्रधानमन्त्री मोदीको जीवनमा आधारित छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/filming-of-maa-vande-based-on-modi-s-life-begins-52-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766391888_Maa Vande-480x320.jpg"
+    },
+    {
+      "title": "मधेस प्रदेश: रामआशिष यादव शिक्षकदेखि सभामुखसम्म",
+      "summary": "रुसी अधिकारीहरूले राजधानी मस्कोमा भएको विस्फोटमा एक सेना जनरलको मृत्यु भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/explosion-in-moscow-army-general-killed-40-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766391358_car bisfot-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ मा निर्वाचन नभए देश अनिश्चिततातर्फ फर्किन्छ : महामन्त्री थापा",
+      "summary": "पुरुष टोलीका मुख्य प्रशिक्षक अनिल बहादुर गुरुङ र महिला टोलीका मुख्य प्रशिक्षक विक्रम महर्जनले फुटसल खेल्ने आ-आफ्ना अन्तिम टोली घोषणा गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-futsal-championship-men-s-and-women-s-teams-announced-91-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766391167_Football -480x320.jpg"
+    },
+    {
+      "title": "महाधिवेशन नगरी कांग्रेस निर्वाचनमा जान हुँदैन : महामन्त्री थापा",
+      "summary": "कार्यक्रममा आजका विश्वविद्यालयले विसौं वर्ष पछिसम्म आइपर्न सक्ने समस्यासँग मुकाविला गर्ने गरी भविष्यको योजना बनाउन सक्नुपर्ने आवश्यकता औंल्याइएकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/two-day-peer-learning-seminar-held-at-midwestern-university-br-83-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766390522_zu need 45-480x320.jpg"
     }
   ]
 }
