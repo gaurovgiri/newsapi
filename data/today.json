@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-22T08:40:01.380157",
+  "scraped_at": "2025-12-22T12:58:03.508715",
   "date": "2025-12-22",
-  "total_articles": 45,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -367,6 +367,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/two-day-peer-learning-seminar-held-at-midwestern-university-br-83-15.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766390522_zu need 45-480x320.jpg"
+    },
+    {
+      "title": "After China, now US also recalls its ambassador to Nepal",
+      "summary": "Envoy Dean Thompson is on the list of US ambassadors to be recalled by the Trump administration.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/22/after-china-now-us-also-recalls-its-ambassador-to-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/Dean-1766394189.jpg&w=300&height=200"
+    },
+    {
+      "title": "अभद्र व्यवहार गरेको भन्दै श्रम संस्कृति पार्टीका उपाध्यक्ष मित्र परियार निलम्बित",
+      "summary": "पूर्व–पश्चिम राजमार्ग अन्तर्गत बुटवल–गोरुसिङ्गे सडकखण्डको स्तरोन्नति आयोजनाका लागि नदीजन्य सामग्रीको अभाव हुँदा काम प्रभावित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/butwal-gorusinghe-road-project-work-affected-by-shortage-of-river-borne-materials-91-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766408162_construction-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीबाटै पुष्टि भो संसद् पुनर्स्थापनाको औचित्यता: महेश बर्तौला",
+      "summary": "एमाले नेता ऐन महर एक लाख धरौटीमा रिहा भएका छन् । तर सोही कसुरमा महरकी पत्नी अनुजा श्रेष्ठलाई भने साइबर ब्युरोबाट खटिएको प्रहरीले पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/uml-leader-ain-mahar-released-on-bail-of-rs-100-000-wife-anuja-shrestha-arrested-42-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756809416_yan mahar-480x320.jpg"
+    },
+    {
+      "title": "एमाले निर्वाचनमा सहभागी हुन्छ: सचिव राई",
+      "summary": "पार्टीको आचारसंहिता विपरीत गतिविधि गरेको र अभद्र व्यवहार देखाएको भन्दै पार्टी अध्यक्ष हर्कराज राईले उनलाई कारबाही गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mitra-pariyar-vice-president-of-shram-sanskriti-party-suspended-for-indecent-behavior-12-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766407588_mitra-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीकै अगाडि सागरले भने- चुनाव गराउनु मात्रै ठूलो कुरा होइन",
+      "summary": "महेश बर्तौलाले प्रधानमन्त्रीले आज बोलाएको सर्वदलीय बैठकले नै संसद् पुनर्स्थापनाको मागको संवैधानिक, कानुनी तथा व्यावहारिक औचित्यता पुष्टि गरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-prime-minister-himself-confirmed-the-appropriateness-of-restoring-parliament-mahesh-bartaula-37-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766406708_Mahesh-480x320.jpg"
+    },
+    {
+      "title": "ओलीले भने- रविलाई गुन लगाएको थिए, रविले भने- अदालत धाएर तिर्दै छु",
+      "summary": "पूर्व–पश्चिम राजमार्ग अन्तर्गत बुटवल–गोरुसिङ्गे सडकखण्डको स्तरोन्नति आयोजनाका लागि नदीजन्य सामग्रीको अभाव हुँदा काम प्रभावित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/butwal-gorusinghe-road-project-work-affected-by-shortage-of-river-borne-materials-91-63.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
