@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-22T12:58:03.508715",
+  "scraped_at": "2025-12-22T16:35:50.729258",
   "date": "2025-12-22",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/butwal-gorusinghe-road-project-work-affected-by-shortage-of-river-borne-materials-91-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rich or poor, educated or uneducated, many refuse free vaccines",
+      "summary": "HPV vaccine uptake lowest in Kathmandu Valley as big schools and well-off families refuse to vaccinate their children.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/22/rich-or-poor-educated-or-uneducated-many-refuse-free-vaccines",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/IMMUNISATION-1766416650.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pilgrimage retraces Mahaprajapati Gautami’s ancient path",
+      "summary": "Nuns from 13 countries walk 300km-trail from Tilaurakot to Vaishali.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/22/pilgrimage-retraces-mahaprajapati-gautami-s-ancient-path",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/lumbinifirst-1766409477.jpg&w=300&height=200"
+    },
+    {
+      "title": "संविधान संशोधन नगरी मुलुकले निकास पाउँदैनः उपेन्द्र यादव",
+      "summary": "जनता समाजवादी पार्टी (जसपा) नेपालका अध्यक्ष उपेन्द्र यादवले संविधान संशोधन नगरी चुनावमा गए पनि मुलुकले निकास नपाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-country-will-not-find-a-way-out-without-amending-the-constitution-upendra-yadav-47-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740808545_Upendra-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको संस्थापन इतरमा दुई धार",
+      "summary": "सभापति शेरबहादुर देउवा नेतृत्वमा रहेको संस्थापन पक्षसँग महाधिवेशनमा प्रतिस्पर्धा गर्न शेखर कोइराला नेतृत्वमा इतर समूह संगठित बनेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/two-factions-in-the-establishment-of-the-congress-37-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766419675_gagan_shekhar-480x320.jpg"
+    },
+    {
+      "title": "रवि र बालेन शाहबीच भेटवार्ता, चुनावी सहकार्यबारे छलफल",
+      "summary": "अब सरकारले तीन करोड रुपैयाँभन्दा बढीको घर जग्गा खरिदबिक्री गर्नुपरे कम्पनीमार्फत् गर्नुपर्ने नियम बनाएको छ। कारोबार गर्न एक सय ९७ कम्पनीले भूमि व्यवस्थापन विभागमा निवेदन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/two-hundred-companies-interested-in-real-estate-transactions-84-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766417781_kathmandu-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबारमा ६ घण्टा लामो सर्वपक्षीय बैठक: विदेशबाट मतदान र ‘बेजिल्ला भोटिङ’ मा जोड",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछाने र काठमाडौं महानगरपालिकाका प्रमुख बालेन शाहबीच भेटवार्ता भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-and-balen-shah-meet-discuss-election-cooperation-41-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766416884_rabi_balen-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेशसभा बैठक पुस ११ मा",
+      "summary": "जनता समाजवादी पार्टी (जसपा) नेपालका अध्यक्ष उपेन्द्र यादवले संविधान संशोधन नगरी चुनावमा गए पनि मुलुकले निकास नपाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-country-will-not-find-a-way-out-without-amending-the-constitution-upendra-yadav-47-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
