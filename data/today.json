@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-22T02:22:49.987394",
+  "scraped_at": "2025-12-22T04:47:12.391330",
   "date": "2025-12-22",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/india-beat-sri-lanka-by-eight-wickets-in-the-first-t20i-25-87.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "महासंघमा किन भाँडभैलो, अध्यक्षविरुद्ध तालाबन्दी",
+      "summary": "महासंघमा किन भाँडभैलो, अध्यक्षविरुद्ध तालाबन्दी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11756",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bibadit-apanga-mahasang___-1766372753.jpg"
+    },
+    {
+      "title": "ुरा मिल्यो, ५ महिनाकै तलब भत्ता आउने भयो",
+      "summary": "ुरा मिल्यो, ५ महिनाकै तलब भत्ता आउने भयो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11755",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Andolan-isthagit___-1766372572.jpg"
+    },
+    {
+      "title": "ोर्यो महोत्सवको स्टलमा राखेको सामान ? आयोजक भन्छः चोरी भएकै छैन !",
+      "summary": "ोर्यो महोत्सवको स्टलमा राखेको सामान ? आयोजक भन्छः चोरी भएकै छैन !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11743",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Aayojakko-Aalochana-1766199167.jpg"
+    },
+    {
+      "title": "महाधिवेशनपछि पुनः छुट्टाछुट्टै भेला आयोजना हुनु पार्टीका लागि हानिकारक : प्रदीप ज्ञवाली",
+      "summary": "जनशक्ति र प्रविधिको अभाव तथा पर्याप्त बजार नहुँदा उत्पादित सबै लप्सी प्रशोधन गर्न नसकिएको सञ्चालक भुसालको भनाइ छ। अहिले भने स्वदेशकै बजारमा निर्भर हुनुपरेको उनको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/parbat-s-lapsi-reaches-america-entrepreneurs-struggle-to-make-the-dish-13-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766378108_Lapsi-480x320.jpg"
+    },
+    {
+      "title": "निशा अधिकारी बनिन् गतिशील लोकतान्त्रिक पार्टीको महिला विभाग प्रमुख",
+      "summary": "देशको कति जनसंख्या बराबर एउटा विश्वविद्यालय चाहिन्छ भन्ने कुनै सर्वमान्य आधार हुँदैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/justification-of-himalayan-university-br-23-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766376917_dd chagu 45-480x320.jpg"
     }
   ]
 }
