@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-23T08:39:09.140378",
+  "scraped_at": "2025-12-23T12:59:43.386285",
   "date": "2025-12-23",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/pradeep-poudel-to-be-re-elected-as-general-secretary-21-10.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Inquiry commission summons ex-home minister Lekhak for statement on September 8–9 incidents",
+      "summary": "Panel gives the former minister seven days to appear; plans to send notice to ex-prime minister Oli next.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/23/inquiry-commission-summons-ex-home-minister-lekhak-for-statement-on-september-8-9-incidents",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/lekhak-1766489415.jpg&w=300&height=200"
+    },
+    {
+      "title": "शीतल निवास बैठक: निर्वाचन सम्पन्न गर्ने समझदारी",
+      "summary": "‘देशको परिस्थिति गम्भीर र संवेदनशील भएको अवस्थामा निकास दिनका लागि चुनावको घोषण भएको हो,’ राष्ट्रपतिको भनाई उद्धृत गर्दै पोखरेलले भने, ‘यो गम्भीरतालाई ध्यानमा राखेर निर्वाचन सफल बनाउन लाग्नु हामी सबैको एक मात्र दायित्व हो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sheetal-niwas-meeting-agreement-to-hold-elections-40-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766487401_bhetwarta-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति, प्रधानमन्त्री र शीर्ष दलका नेताबिच झण्डै ३ घण्टा छलफल",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेल, प्रधानमन्त्री सुशीला कार्की र प्रमुख तीन दलका शीर्ष नेताहरूबीच राष्ट्रपति भवन शीतल निवासमा भएको उच्चस्तरीय भेटवार्ता सकिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nearly-3-hours-of-discussion-between-the-president-prime-minister-and-top-party-leaders-69-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766487401_bhetwarta-480x320.jpg"
+    },
+    {
+      "title": "मिडियासँग किन रिसाए शेखर?",
+      "summary": "‘अब यो पत्रकारहरूले के लेख्छन् भने शेखर कोइरालाको समूहले अधिवेशन सार्न खोज्यो भनेर, मैले सार्न खोजेको होइन। म त पुस २६ गते नै महाधिवेशन हुनुपर्छ भन्ने पक्षमा हो नि।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-is-shekhar-angry-with-the-media-57-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762914706_Shekhar KOI 45-480x320.jpg"
+    },
+    {
+      "title": "पहिलो पटक राष्ट्रपति, प्रधानमन्त्री र शीर्ष नेताहरूबीच छलफल",
+      "summary": "पोखरा अन्तर्राष्ट्रिय विमानस्थबाट ट्याक्सी सेवा संचालन गरिरहेका ट्याक्सी चालकले बाहिरबाट आफन्त लिन र पुर्याउन जाने सवारी चालक र धनीलाई अभद्र व्यवहार गर्ने गरेका छन्। आफ्ना सवारी चढ्न नमानेको भन्दै ‘पिकअप’का लागि गएको सवारीमा यात्रु चढ्न नदिने तथा यात्रुमाथि अभद्र व्यवहार समेत गर्ने गरेका छन्। ट्याक्सी चालकको मनोमानीले यात्रुलाई समेत हैरानी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/taxi-fares-at-pokhara-international-airport-are-arbitrary-47-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1672484203_Pokhara Regional International Airport  (2)-480x320.jpg"
+    },
+    {
+      "title": "बालेनसँगको भेटपछि रवि- अब सुदन र कुलमानसँग पनि छलफल गर्छाैं",
+      "summary": "‘देशको परिस्थिति गम्भीर र संवेदनशील भएको अवस्थामा निकास दिनका लागि चुनावको घोषण भएको हो,’ राष्ट्रपतिको भनाई उद्धृत गर्दै पोखरेलले भने, ‘यो गम्भीरतालाई ध्यानमा राखेर निर्वाचन सफल बनाउन लाग्नु हामी सबैको एक मात्र दायित्व हो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sheetal-niwas-meeting-agreement-to-hold-elections-40-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
