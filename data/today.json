@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-23T02:11:59.948286",
+  "scraped_at": "2025-12-23T04:42:57.072512",
   "date": "2025-12-23",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/anfa-u-16-youth-league-four-teams-vying-for-the-title-58-34.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सर्वदलीय बैठकले विदेशमा रहेका नेपालीलाई मताधिकार दिन नसक्नु दुःखद : शिक्षामन्त्री पुन",
+      "summary": "शिक्षा मन्त्री महाविर पुनले विदेशमा रहेका नागरिकलाई मतदान अधिकार दिने विषयमा सर्वदलीय बैठकबाट कुनै ठोस निर्णय नभएकोमा दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-unfortunate-that-the-all-party-meeting-could-not-grant-voting-rights-to-nepalis-living-abroad-education-minister-pun-43-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764778261_mahabir-480x320.jpg"
+    },
+    {
+      "title": "थपिए १० लाख नयाँ मतदाता",
+      "summary": "संविधान जारी भएपछिको तीन तहमध्ये कुनै सरकारले आफूहरूलाई सम्बोधन नगरेको उनीहरूको गुनासो थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/conflict-victims-complain-about-being-rendered-identityless-by-the-state-26-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766464702_bimal-480x320.jpg"
+    },
+    {
+      "title": "एमालेका प्रदेश र जिल्ला कमिटीको भर्चुअल बैठक आज, महासचिव पोखरेलले सम्बोधन गर्ने",
+      "summary": "लहान नगरपालिकाअन्तर्गत रहेका दलित तथा मुसहर बस्तीमा निःशुल्क ट्युसन कक्षा सञ्चालन गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/lahan-municipality-conducting-free-tuition-classes-in-dalit-settlements-56-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1751865414_Lahan-480x320.jpg"
+    },
+    {
+      "title": "दलहरू चुनाव हुँदैन पनि भन्छन् आाफैँ खुसुखुसु नाम पनि बटुल्दै छन् : बास्कोटा",
+      "summary": "नेपालमा पहिलो पटक भित्रिएको नवीन प्रविधिबाट नेपालमा दिगो, प्रभावकारी तथा मितव्ययी सडक मर्मतका लागि मार्ग प्रशस्त भएको अर्थ मन्त्रालयका सह–सचिव डा. धनिराम शर्माले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/mcc-implementation-underway-rs-3-5-billion-agreement-to-repair-roads-62-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766462794_MCC-480x320.jpg"
     }
   ]
 }
