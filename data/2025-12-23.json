@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-23T12:59:43.386285",
+  "scraped_at": "2025-12-23T16:37:08.432891",
   "date": "2025-12-23",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sheetal-niwas-meeting-agreement-to-hold-elections-40-82.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "PM Karki holds first round of talks with top leaders of three major parties",
+      "summary": "Meeting with Deuba, Oli and Dahal at Sheetal Niwas focuses on creating the right conditions for elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/23/pm-karki-holds-first-round-of-talks-with-top-leaders-of-three-major-parties",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/pmwithmainleaders-1766490994.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress leader hints at some delay in party convention date",
+      "summary": "Shekhar Koirala says March 5 parliamentary polls may not be feasible.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/23/congress-leader-hints-at-some-delay-in-party-convention-date",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/shekharkoirala23220250800571000x0-1766497632.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमालेले थाल्यो समानुपातिक उम्मेदवार छनोट प्रक्रिया",
+      "summary": "एमालेले मंगलबार समानुपातिकतर्फ उम्मेदवार छनोट गर्न हरेक जिल्ला र जनवर्गीय संगठनहरूलाई दुई/दुई जनाको नाम पार्टी केन्द्रमा सिफारिस गर्न भनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-begins-proportional-candidate-selection-process-br-67-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765016248_KP_Oli1-480x320.jpg"
+    },
+    {
+      "title": "आगामी महाधिवेशनमा उपसभापति लड्ने दीपक गिरीको घोषणा",
+      "summary": "त्रिभुवन विश्वविद्यालय (त्रिवि) ले विद्यार्थीहरूको सहभागिता बढाउन र आर्थिक भार कम गर्न आगामी शैक्षिक सत्रदेखि दीक्षान्त समारोहलाई विकेन्द्रीकरण गर्दै क्षेत्रगत रूपमा सञ्चालन गर्ने तयारी थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/tu-prepares-to-hold-regional-convocations-to-increase-student-participation-90-000-graduates-only-16-000-fill-out-forms-nobel-prize-winner-takaaki-kajita-to-attend-tu-convocation-ceremony-63-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766505181_trivi-480x320.jpg"
+    },
+    {
+      "title": "उद्योगी व्यवसायीलाई सञ्चारमन्त्री खरेलको आग्रहः अब कुनै दलको झोले नबन्नुहोस्",
+      "summary": "नेपाली कांग्रेसका केन्द्रीय सदस्य दीपक गिरीले पार्टीको आगामी महाधिवेशनमा उपसभापति पदमा उम्मेदवारी दिने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deepak-giri-announces-to-run-for-vice-president-in-upcoming-general-convention-84-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766502628_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "क्रियाशील सदस्यता वितरणमा महामन्त्री थापाको ‘चार बुँदे’ निर्देशन(पत्रसहित)",
+      "summary": "किराना पसल तथा होटलको आवरणमा नाबालिकाहरूलाई वेश्यावृत्तिमा लगाएको आरोपमा लमजुङ प्रहरीले एक महिलालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sex-trafficking-under-the-cover-of-a-grocery-store-3-minors-rescued-from-lamjung-71-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737025110_pakrau_)_-480x320.jpg"
+    },
+    {
+      "title": "‘राजनीतिक दल निर्वाचनमा जान प्रतिबद्ध छन्, सरकार चुनाव गर्न तयार छ’",
+      "summary": "एमालेले मंगलबार समानुपातिकतर्फ उम्मेदवार छनोट गर्न हरेक जिल्ला र जनवर्गीय संगठनहरूलाई दुई/दुई जनाको नाम पार्टी केन्द्रमा सिफारिस गर्न भनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-begins-proportional-candidate-selection-process-br-67-94.html?click_from=just_in",
       "image_url": ""
     }
   ]
