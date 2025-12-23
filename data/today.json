@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-23T04:42:57.072512",
+  "scraped_at": "2025-12-23T08:39:09.140378",
   "date": "2025-12-23",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -311,6 +311,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/mcc-implementation-underway-rs-3-5-billion-agreement-to-repair-roads-62-78.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766462794_MCC-480x320.jpg"
+    },
+    {
+      "title": "Parties urge PM to engage top leaders to ensure elections",
+      "summary": "Maoist leader and legal expert stress caution as government aims to expand voting rights through ordinance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/22/parties-urge-pm-to-engage-top-leaders-to-ensure-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/parties-1766452958.jpg&w=300&height=200"
+    },
+    {
+      "title": "MCA-Nepal signs $23.66 million contracts for road maintenance project",
+      "summary": "Contracts aim to improve East-West Highway and Narayanghat-Muglin road using new technologies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/23/mca-nepal-signs-23-66-million-contracts-for-road-maintenance-project",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/b8d01198449f4aa7bbe1db33c6352d7b-1766464422.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu metropolis asks 107 non-operational schools to come into contact",
+      "summary": "Education department warns of cancellation of approval if schools fail to respond within 15 days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/kathmandu/2025/12/23/kathmandu-metropolis-asks-107-non-operational-schools-to-come-into-contact",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/kathmandu18120250523171000x0-1766472277.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रदीप पौडेल फेरि महामन्त्रीमा उठ्ने",
+      "summary": "नेपाली कांग्रेसका नेता एवं पूर्वमन्त्री प्रदीप पौडेलले पार्टीको १५औं महाधिवेशन आफू महामन्त्री पदमा उठ्ने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pradeep-poudel-to-be-re-elected-as-general-secretary-21-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752651451_pradeep poudel-1200x560-480x320.jpg"
+    },
+    {
+      "title": "महाधिवेशन नगरी कांग्रेस चुनावमा जानु हुँदैन : प्रदीप पौडेल",
+      "summary": "पार्टी सभापति देउवाले पदाधिकारीसहित नेताहरुलाई आगामी महाधिवेशन समयमै गर्न स्पष्ट रुपमा निर्देशन दिइसकेको र चाँडै नेतृत्व हस्तान्तरण गर्न चाहेको नेता पौडेलले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-should-not-go-to-the-elections-without-holding-a-general-convention-pradeep-poudel-38-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766478054_Pradeep-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समिति बैठक बुधबार बस्ने",
+      "summary": "कर्णालीमा पछिल्लो वर्षहरूमा लागुऔषध कारोबार र प्रयोगकर्ता बढेसँगै प्रहरीले निगरानीमा कडाइ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/karnali-police-increasing-surveillance-on-drugs-72-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758507394_1628652568_nepal police final2-1200x560-wm (1)-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सरकारी टोलीलाई कांग्रेसको प्रश्न: ‘जेठो छोरा’ले नै चुनाव हुन दिन्न भन्दैछन्, कसरी हुन्छ?",
+      "summary": "उनले विवाहका लागि आउने अन्य सबै प्रस्तावहरूलाई अस्वीकार गरिन्। बिहे गर्न सुझाउनेलाई उनी भन्थिन्, ‘यदि ऊ (हुआङ जुनफु) कुनै दिन फर्कियो भने के हुन्छ?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/others/woman-who-spent-80-years-waiting-for-husband-who-was-abroad-dies-at-103-73-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766476934_Chinese lady-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक उम्मेदवारका विषयमा शंकरलाई योगेशको फोन",
+      "summary": "नेपाली कांग्रेसका नेता एवं पूर्वमन्त्री प्रदीप पौडेलले पार्टीको १५औं महाधिवेशन आफू महामन्त्री पदमा उठ्ने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pradeep-poudel-to-be-re-elected-as-general-secretary-21-10.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
