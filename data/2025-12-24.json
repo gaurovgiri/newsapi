@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-24T08:38:51.907548",
+  "scraped_at": "2025-12-24T12:57:22.538104",
   "date": "2025-12-24",
-  "total_articles": 45,
+  "total_articles": 51,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/of-india-92-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Indian donor’s heart gives new life to 21-year-old Nepali woman",
+      "summary": "Kerala family donates organs of brain-dead relative; rare cross-border transplant marks emotional milestone in Nepal–India medical ties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/24/indian-donor-s-heart-gives-new-life-to-21-year-old-nepali-woman",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/durgaandtilakAsiaNetNEWS-1766579913.jpg&w=600&height=400"
+    },
+    {
+      "title": "गगनको आरोप: खड्का नाम मात्रको कार्यवाहक सभापति, सबै शक्ति देउवाकै हातमा",
+      "summary": "जेस संस्कृति सम्पदा सिरपाबाट भक्तपुर भक्तपुर नगरपालिका वडा नं २ का राजेश गाइजूलाई सम्मान गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/jess-culture-heritage-sirpa-gaijulai-11-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766580739_pic-480x320.jpg"
+    },
+    {
+      "title": "नेकपा जुम्लाबाट पाँच जनाको नाम सिफारिस",
+      "summary": "आर्थिक वर्ष २०८१/०८२ मा विकास बैंकहरु मध्ये सबैभन्दा बढी डिजिटल तथा त्तच्कारोबार गरे वापत उक्त अवार्डबाट सम्मानित भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/garima-bikas-bank-limited-honored-for-digital-banking-transactions-89-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766580566_Garima Bank-480x320.jpg"
+    },
+    {
+      "title": "छ वटा राजनीतिक दल खारेज",
+      "summary": "‘प्रविधिमा डेरी अर्थतन्त्रमा समृद्धि’ भन्ने मुल नाराका साथ चितवनको प्रदर्शनी केन्द्रमा कार्यक्रम हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/international-dairy-expo-to-be-held-in-chitwan-20-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766580167_pr-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठकः १९ जनाको नाम प्रदेश सभाको बन्द सूचीबाट हटाउने निर्णय",
+      "summary": "नेपालमै पहिलो र एकमात्र वृहत ट्रेड शोका रूपमा परिचित यस एक्स्पो डिसेम्बर २६ देखि २८ (पौष ११–१३) काठमाडौँको नक्सालस्थित अम्रपाली ब्याङ्क्वेट सेन्टरमा सञ्चालन हुने आयोजकले जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/cosmetica-2025-a-new-celebration-in-nepal-s-beauty-wellness-and-cosmetics-market-44-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766580047_news1-480x320.jpg"
+    },
+    {
+      "title": "चुनाव तोकिएकै मितिमा हुन्छ, तयारीमा लाग्नुहोस् : गृहमन्त्री अर्याल",
+      "summary": "जेस संस्कृति सम्पदा सिरपाबाट भक्तपुर भक्तपुर नगरपालिका वडा नं २ का राजेश गाइजूलाई सम्मान गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/jess-culture-heritage-sirpa-gaijulai-11-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
