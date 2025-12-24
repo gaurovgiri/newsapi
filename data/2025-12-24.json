@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-24T04:41:09.579581",
+  "scraped_at": "2025-12-24T08:38:51.907548",
   "date": "2025-12-24",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -319,6 +319,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/civil-hospital-preparing-to-provide-hpv-vaccine-to-both-women-and-men-br-13-13.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766548475_has pital 56-480x320.jpg"
+    },
+    {
+      "title": "पाठकको काँधमा नेपाली महिला क्रिकेटको भविष्य, खेल तालिका सार्वजनिक",
+      "summary": "पाठकको काँधमा नेपाली महिला क्रिकेटको भविष्य, खेल तालिका सार्वजनिक",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11777",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Can-Patrakar-Sammelan-1766546671.jpg"
+    },
+    {
+      "title": "निर्वाचनको माहोल बनाउन जनमत र राप्रपाको कार्यालयमा सरकारी टोली (तस्बिरहरू)",
+      "summary": "भारतीय युवा क्रिकेटर वैभव सूर्यवंशीले लिस्ट ‘ए’ क्रिकेटमा नयाँ विश्व कीर्तिमान कायम गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/of-india-92-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766564819_vaivab-480x320.jpg"
+    },
+    {
+      "title": "शाहीको गुनासो- जुम्लामा नेटवर्क छैन, संचारमन्त्री ‘फ्री वाइफाइ’ को गफ चुट्छन्",
+      "summary": "त्रिभुवन विश्वविद्यालय (त्रिवि) को ५१ औं दीक्षान्त समारोहका लागि प्रमुख अतिथि एवं नोबेल पुरस्कार विजेता वैज्ञानिक प्रा.डा. ताकाआकी काजिताको स्वागतको तयारी तीव्र पारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/tu-s-51st-convocation-ceremony-tomorrow-university-welcomes-nobel-laureate-kajita-br-41-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766563573_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "युवा पुस्ताको जायज मागलाई बेवास्ता गरेर अघि बढ्न सकिँदैन: गृहमन्त्री",
+      "summary": "अनेकौं म्युजिक भिडियो र चलचित्र निर्देशनमार्फत आफ्नो छुट्टै पहिचान बनाइसकेका निर्देशक राजन भुसाल अब पर्दा पछाडिबाट पर्दा अगाडि आउने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rajan-to-make-his-debut-with-vijay-baral-s-zero-degree-30-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766562786_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रविलक्ष्मीको स्वास्थ्य बुझ्न खनाल निवास पुगे प्रचण्ड र माधव नेपाल",
+      "summary": "कुनै वर्ष रोगले सुन्तला सखाप हुँदा निराश भए पनि हरेस नखाएकी कर्णकुमारीको दैनिकी सुन्तला बगैँचामै बित्ने गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/karna-kumari-s-earnings-from-oranges-help-her-build-a-solid-house-60-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766563853_dd vaju 56-480x320.jpg"
+    },
+    {
+      "title": "मुख्यमन्त्रीको दुखेसो: जेन-जी आन्दोलनमा मेरो घर जलाउनेलाई कारबाही भएन",
+      "summary": "भारतीय युवा क्रिकेटर वैभव सूर्यवंशीले लिस्ट ‘ए’ क्रिकेटमा नयाँ विश्व कीर्तिमान कायम गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/of-india-92-47.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
