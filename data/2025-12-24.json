@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-24T12:57:22.538104",
+  "scraped_at": "2025-12-24T16:34:32.378351",
   "date": "2025-12-24",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/jess-culture-heritage-sirpa-gaijulai-11-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RPP and RPP-Nepal agree to reunite",
+      "summary": "Kamal Thapa had left the party after losing the RPP chairmanship to Rajendra Lingden in 2021.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/24/rpp-and-rpp-nepal-agree-to-reunite",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/kamalandlingden241220250232121000x0-1766593499.jpg&w=300&height=200"
+    },
+    {
+      "title": "उज्यालो नेपाल पार्टी र सर्वोदय पार्टीबीच चुनावी एकता",
+      "summary": "भक्तपुर नगरपालिकाको आयोजना तथा चीनको युनानस्थित फुवाई युनान कार्डियो भास्कुलर अस्पतालमा कार्यरत मुटुरोग विशेषज्ञ चिकित्सकसहितको टोलीले भक्तपुरमा विद्यार्थीको निःशुल्क मुटु परीक्षण शिविर सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/free-heart-disease-screening-for-students-begins-63-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766591824_computer-480x320.jpg"
+    },
+    {
+      "title": "लामिछानेसँग चुनावी सहकार्य प्रचण्डको प्रस्ताव",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनलाई लक्षित गर्दै उज्यालो नेपाल पार्टी र सर्वोदय पार्टीबीच औपचारिक रूपमा चुनावी एकताको घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-unity-between-ujjaya-nepal-party-and-sarvodaya-party-88-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766590882_ujyalo-480x320.jpg"
+    },
+    {
+      "title": "शेखरको खुलासाः कोइराला निवास जलाउनेलाई सरकारले छाड्यो",
+      "summary": "बेनी नगरपालिकाको रत्नेचौर–भकुण्डे सडक कालोपत्र गरेको एक महिनामै भत्किन थालेपछि मापदण्डअनुसार सुधार गर्न जनप्रतिनिधि र उपभोक्ताले दबाब दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/after-the-road-started-collapsing-within-a-month-of-being-blacktopped-60-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766590179_kalopatra-480x320.jpg"
+    },
+    {
+      "title": "अरूको दोष खोजेर होइन, आफ्नै हातले काम गरेर देश बनाउने संस्कार आवश्यक : अध्यक्ष राई",
+      "summary": "आफ्ना सवारी चढ्न नमानेको भन्दै ‘पिकअप’का लागि गएका सवारीमा यात्रुलाई चढ्न नदिने र यात्रुलाई अभद्र व्यवहार समेत गर्ने गरेका छन् । ट्याक्सी चालकको मनोमानीले यात्रुलाईसमेत हैरानी भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/taxi-fares-at-pokhara-international-airport-are-arbitrary-59-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766589993_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीलाई मुख्यमन्त्रीको सुझाव : निर्वाचन गराउने हो भने राजनीतिक दललाई पाखा राख्ने सोच त्याग्नुस्",
+      "summary": "भक्तपुर नगरपालिकाको आयोजना तथा चीनको युनानस्थित फुवाई युनान कार्डियो भास्कुलर अस्पतालमा कार्यरत मुटुरोग विशेषज्ञ चिकित्सकसहितको टोलीले भक्तपुरमा विद्यार्थीको निःशुल्क मुटु परीक्षण शिविर सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/free-heart-disease-screening-for-students-begins-63-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
