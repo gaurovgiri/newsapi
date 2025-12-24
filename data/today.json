@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-24T02:09:53.394021",
+  "scraped_at": "2025-12-24T04:41:09.579581",
   "date": "2025-12-24",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/new-party-challenges-congress-uml-br-13-95.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "खाना भक्का, यसरी जित्दैछ सबैको मन",
+      "summary": "खाना भक्का, यसरी जित्दैछ सबैको मन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11776",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bhakka-Byapar-1766546336.jpg"
+    },
+    {
+      "title": "पन्नको उद्दारक बन्दै बागमतीका मुख्यमन्त्री बानियाँ",
+      "summary": "पन्नको उद्दारक बन्दै बागमतीका मुख्यमन्त्री बानियाँ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11758",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ghar-hastrantaran___-1766373085.jpg"
+    },
+    {
+      "title": "Lamichhane-Shah meet renews bid for new poll alliances",
+      "summary": "RSP chief reportedly sought to lure Kathmandu mayor with PM offer. Kulman Ghising also in talks for unity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/24/lamichhane-shah-meet-renews-bid-for-new-poll-alliances",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb15-1766537377.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठक आज, यी हुन् एजेन्डा",
+      "summary": "दोस्रो सतिसाले गोल्डकप खुला नकआउट फुटबल प्रतियोगिताको उपाधि इन्ट्रा पथरी–११ ले चुमेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/second-satisa-wins-gold-cup-title-for-intra-pathari-11-br-12-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766550359_dus 56-480x320.jpg"
+    },
+    {
+      "title": "संसद् पुनर्स्थापनाको पक्षमा बहुमत सांसद: ६८ जनाको पूरक रिटमा आज सर्वोच्चमा सुनुवाइ",
+      "summary": "उत्थानशील र समावेशी नेपाल निर्माणका लागि राजनीतिक स्थायित्व नै पूर्वशर्त भएको निष्कर्ष निकाल्दै ‘समावेशी र उत्थानशील नेपाल निर्माण सम्बन्धी बहस’ विषयक अन्तर्राष्ट्रिय सम्मेलन सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/inclusive-nepal-is-not-a-political-aspiration-but-a-social-necessity-br-35-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766549331_ae 52-480x320.jpg"
+    },
+    {
+      "title": "खण्डहर आश्रम, फुटेको शालिक: यसरी बित्यो सन्त नेताको जन्मजयन्ती",
+      "summary": "सिभिल सर्भिस अस्पतालले अब महिला र पुरुष दुवैलाई ह्युमन पेपिलोमा भाइरस(एचपिभी) विरुद्धको खोप दिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/civil-hospital-preparing-to-provide-hpv-vaccine-to-both-women-and-men-br-13-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766548475_has pital 56-480x320.jpg"
     }
   ]
 }
