@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-25T08:37:38.726260",
+  "scraped_at": "2025-12-25T12:56:59.953763",
   "date": "2025-12-25",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sudan-says-ravi-and-balen-are-in-discussions-internally-the-lock-will-not-be-opened-until-there-is-a-match-95-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कांग्रेस महामन्त्री शर्मा प्रतिनिधिसभा निर्वाचनमा उम्मेदवार नहुने",
+      "summary": "उनले भने, 'मेरो आग्रह छ चुनावमा अनुहार बदलेर जानुपर्छ । बढीभन्दा बढी युवा र नयाँ साथीहरूलाई अवसर दिनुपर्छ ।'",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-general-secretary-sharma-will-not-be-a-candidate-in-the-house-of-representatives-elections-12-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737546595_Biswa Prakash-480x320.jpg"
+    },
+    {
+      "title": "अब निर्वाचनको वातावरण बनाउनुपर्छ: उपसभापति गुरुङ",
+      "summary": "काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयले यातायात क्षेत्रमा हुने विकृति रोक्न विभिन्न यातायात कार्यालयहरूमा छापा मारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/14-people-arrested-for-working-as-middlemen-in-transportation-87-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766665750_6-480x320.jpg"
+    },
+    {
+      "title": "बालेन लक्षित ओलीको टिप्पणी- देश बनाउँछु भन्नेहरू नै नशामा भेटिन्छन्",
+      "summary": "संरक्षित तर आधिकारिक पहिचान नभएका क्षेत्रको जैविक विविधता बचाइराख्ने प्रयासस्वरूप अनुसन्धान र छलफल थालिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/oicm-being-studied-in-the-east-to-conserve-biodiversity-br-76-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766665370_Ilam-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको दिग्दारीः जेन-जीले आजै छाड्, भोलि छाड् भन्छन्, पेन्डुलम जस्तै भइयो",
+      "summary": "कृषकलाई भन्दा बिचौलियालाई पोस्नेगरी कार्यक्रम गरिएको कृषकको आरोप छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/farmers-unhappy-despite-orange-festival-in-pokhara-21-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766665006_Orange-480x320.jpg"
+    },
+    {
+      "title": "पूर्व गृहमन्त्री लेखकले पुस १४ गते कार्की आयोगमा बयान दिने",
+      "summary": "उनले भने, 'मेरो आग्रह छ चुनावमा अनुहार बदलेर जानुपर्छ । बढीभन्दा बढी युवा र नयाँ साथीहरूलाई अवसर दिनुपर्छ ।'",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-general-secretary-sharma-will-not-be-a-candidate-in-the-house-of-representatives-elections-12-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
