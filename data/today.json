@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-25T04:42:27.472443",
+  "scraped_at": "2025-12-25T08:37:38.726260",
   "date": "2025-12-25",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
     "News24",
     "NagarikNews",
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/initiative-launched-to-remove-dry-landslide-obstructions-on-kabeli-phungling-road-section-under-mechi-highway-br-91-93.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766636698_cc unit 45-480x320.jpg"
+    },
+    {
+      "title": "Balendra Shah intensifies political engagements, meets Lamichhane, Ghising and others",
+      "summary": "Kathmandu mayor’s meetings with political leaders, activists and public figures fuel speculation of his new political plan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/25/balendra-shah-intensifies-political-engagements-meets-lamichhane-ghising-and-others",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/unnamed-1766650938.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुदन भन्छन्ः रवि र बालेनलाई भित्र थुनेका छौँ, नमिलेसम्म गेटको ताल्चा खुल्दैन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछाने र काठमाडौं महानगरपालिका मेयर बालेन शाहबिच छलफल जारी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sudan-says-ravi-and-balen-are-in-discussions-internally-the-lock-will-not-be-opened-until-there-is-a-match-95-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766650966_SUDAN-480x320.jpg"
+    },
+    {
+      "title": "कुलमानपछि कुपण्डोलमा रविसँग छलफल गर्दै बालेन",
+      "summary": "महिलाहरूले गलैँचा बुन्न चासो देखाएपछि वडा कार्यालयले प्रशिक्षक राखेर तालिम दिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/women-give-up-carpet-weaving-after-finding-it-difficult-to-raise-wages-br-43-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766650393_dan 52-480x320.jpg"
+    },
+    {
+      "title": "जेनजीहरूसँग मिलेर जाने बालेनको प्रस्ताव, एकजुट बनाउने जिम्मेवारी रक्षालाई",
+      "summary": "सर्लाहीको बलरा नगरपालिका–१० सुदामामा मोटरसाइकल दुर्घटना हुँदा रामनगर गाउँपालिकाका कार्यालय सहयोगीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-motorcycle-accident-br-47-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "एमाले ताप्लेजुङबाट समानुपातिकमा साँवा, यक्सो र भट्टराई सिफारिस",
+      "summary": "त्रिभुवन विश्वविद्यालयको ५१औँ दीक्षान्त समारोहमा आज १६ हजार ३०० भन्दा बढी विद्यार्थी दीक्षित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/tribhuvan-university-s-convocation-ceremony-16-000-graduates-photo-feature-80-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766649092_dixanta-480x320.jpg"
+    },
+    {
+      "title": "पर्वहरूले विविधताबीचको राष्ट्रिय एकतालाई थप सुदृढ बनाउँछन्ः प्रधानमन्त्री",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछाने र काठमाडौं महानगरपालिका मेयर बालेन शाहबिच छलफल जारी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sudan-says-ravi-and-balen-are-in-discussions-internally-the-lock-will-not-be-opened-until-there-is-a-match-95-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
