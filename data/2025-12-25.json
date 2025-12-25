@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-25T12:56:59.953763",
+  "scraped_at": "2025-12-25T16:35:05.474960",
   "date": "2025-12-25",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-general-secretary-sharma-will-not-be-a-candidate-in-the-house-of-representatives-elections-12-56.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "CCTV camera monitors critically endangered vultures in Kaski",
+      "summary": "Researcher Hemanta Dhakal, who has tracked the nest for the past four years, says the camera helps him study the breeding of a slender-billed vulture pair.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/25/cctv-camera-monitors-critically-endangered-vultures-in-kaski",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/vulture-1766670516.jpg&w=300&height=200"
+    },
+    {
+      "title": "कठ्यांग्रिएका जनताको उद्धारमा खटिन सरकारलाई दाहालको आग्रह",
+      "summary": "गर्मी मौसम सकिएर जाडोयाम सुरु भएसँगै अस्पताल तथा क्लिनिकहरूमा एउटा साझा गुनासो लिएर आउने बिरामीहरूको संख्या ह्वात्तै बढ्ने गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/why-does-arthritis-flare-up-in-the-cold-br-42-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766680112_bathh-480x320.jpg"
+    },
+    {
+      "title": "दिनभरको ‘म्याराथन’ राजनीतिक भेटघाटपछि निस्किए बालेन",
+      "summary": "सिन्धुलीको कमलामाई नगरपालिका–४, धुरा बजारकी ३२ वर्षीया सुशीला घिसिङ बम्जनको पेट्रोल छर्केर आगो लगाई हत्या गरिएको घटनापछि उत्पन्न तनाव नियन्त्रणमा लिन जिल्ला प्रशासन कार्यालयले कर्फ्यु आदेश जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhuraphant-tense-after-daughter-in-law-murder-case-administration-imposes-curfew-18-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766678050_Sindhuli-480x320.jpg"
+    },
+    {
+      "title": "मेयर बालेनले सुनारलाई सोधे: म खुला राजनीतिमा आउँदा के गर्नपर्छ ?",
+      "summary": "दुई दिनअघि भक्तपुरमा मृत अवस्थामा भेटिएका युवा उदयपुरको ताप्ली गाउँपालिकाका भएको पुष्टि भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/youth-killed-in-bhaktapur-confirmed-to-be-from-udayapur-97-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756729847_death-480x320.jpg"
+    },
+    {
+      "title": "खोटाङबाट समानुपातिकमा दाजुबहिनी सिफारिस",
+      "summary": "नर्थ पोल (उत्तरी ध्रुव) को हिउँमा बस्ने, रेन्डियरको बग्गीमा उड्ने र बालबालिकालाई सुटुक्क उपहार दिने यि पात्रबारे हामीले सुन्दै आएका कथाहरू कति काल्पनिक हुन् र कति यथार्थ ?",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/santa-claus-final-resting-place-the-story-of-the-mysterious-12th-century-town-and-tomb-of-saint-nicholas-hidden-in-the-greenery-of-ireland-50-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766674370_santa-480x320.jpg"
+    },
+    {
+      "title": "बालेनलाई जेन-जी भने- दाई अब सबै नयाँहरु मिलेर अघि बढ्नुपर्छ",
+      "summary": "गर्मी मौसम सकिएर जाडोयाम सुरु भएसँगै अस्पताल तथा क्लिनिकहरूमा एउटा साझा गुनासो लिएर आउने बिरामीहरूको संख्या ह्वात्तै बढ्ने गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/why-does-arthritis-flare-up-in-the-cold-br-42-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
