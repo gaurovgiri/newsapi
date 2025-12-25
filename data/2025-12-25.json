@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-25T02:12:14.100545",
+  "scraped_at": "2025-12-25T04:42:27.472443",
   "date": "2025-12-25",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/goods-worth-40-billion-exported-abroad-via-birgunj-77-87.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "आन्दोलनमा जलाइएका सवारी वागमती सरकारलाई घाँडो",
+      "summary": "आन्दोलनमा जलाइएका सवारी वागमती सरकारलाई घाँडो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11791",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/astabesta-jaleka-gadi__-1766632465.jpg"
+    },
+    {
+      "title": "रमा नेविसंघको बलियो भेञ्चर्सले रच्यो भारतमा इतिहास",
+      "summary": "रमा नेविसंघको बलियो भेञ्चर्सले रच्यो भारतमा इतिहास",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11783",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jagantha-1766561031.jpg"
+    },
+    {
+      "title": "चारदिने भारत भ्रमण सकेर फर्किए बाबुराम भट्टराई",
+      "summary": "सुक्खा पहिरोका कारण अवरुद्ध मेची राजमार्ग अन्तर्गत काबेली–फुङलिङ सडक खण्डको अवरोध हटाउन पहल सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/initiative-launched-to-remove-dry-landslide-obstructions-on-kabeli-phungling-road-section-under-mechi-highway-br-91-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766636698_cc unit 45-480x320.jpg"
     }
   ]
 }
