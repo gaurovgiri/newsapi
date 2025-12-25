@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-25T16:35:05.474960",
+  "scraped_at": "2025-12-25T20:31:13.147404",
   "date": "2025-12-25",
-  "total_articles": 53,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -431,6 +431,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/why-does-arthritis-flare-up-in-the-cold-br-42-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Palpa farmers get livestock ultrasound services at home",
+      "summary": "For the first time in the district, veterinarians carry advanced diagnostic machines into village sheds to detect infertility and reproductive disorders in cattle.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/25/palpa-farmers-get-livestock-ultrasound-services-at-home",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/filephotolivestock-1766676705.jpg&w=600&height=400"
     }
   ]
 }
