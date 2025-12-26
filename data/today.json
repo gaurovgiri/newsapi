@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-26T02:11:23.688467",
+  "scraped_at": "2025-12-26T04:39:33.841825",
   "date": "2025-12-26",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/freedom-of-expression-is-the-foundation-of-democracy-31-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "म्झौताले उठिबास लाग्दै, व्यवस्थापनका लागि सरकारको भरोषा",
+      "summary": "म्झौताले उठिबास लाग्दै, व्यवस्थापनका लागि सरकारको भरोषा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11792",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bipanna-nagarik-ko-pida__-1766632923.jpg"
+    },
+    {
+      "title": "Nepal achieves global vaccine target, seven years ahead of schedule",
+      "summary": "The country has reduced the number of children who had never been vaccinated by half, according to The Lancet.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/25/nepal-achieves-global-vaccine-target-seven-years-ahead-of-schedule",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/vaccination-1766671312.jpg&w=300&height=200"
+    },
+    {
+      "title": "Fear grips Bardiya after leopards kill three persons in a month",
+      "summary": "Forest office records show leopard attacks have claimed 11 lives in the district over the past five years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/26/fear-grips-bardiya-after-leopards-kill-three-persons-in-a-month",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/bardiya-1766712733.jpg&w=300&height=200"
+    },
+    {
+      "title": "Invest in health data",
+      "summary": "For the first time in the district, veterinarians carry advanced diagnostic machines into village sheds to detect infertility and reproductive disorders in cattle.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2025/12/26/invest-in-health-data",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/imgi_110_42VSMAOQ2JNULDBJDEFT27LIMY.jpg&w=400&height=267"
+    },
+    {
+      "title": "Labour movements, adrift",
+      "summary": "Why can’t Nepal establish a transparent national channel to conduct health surveys?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2025/12/26/adrift-labour-movements",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/imgi_112_ABLIKBXN2NNBVA55EETWRF2Z4M.jpg&w=400&height=267"
+    },
+    {
+      "title": "More media, less freedom",
+      "summary": "Labour institutions should shun nostalgia and embrace change to reach out to the young people.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2025/12/26/more-media-less-freedom",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/Main.jpg&w=400&height=267"
+    },
+    {
+      "title": "सञ्चारमन्त्री खरेलले भेटे देउवा, के भयो कुराकानी ?",
+      "summary": "सञ्चारमन्त्री जगदिश खरेलले नेपाली कांग्रेसका सभापति शेरबहादुर देउवालाई भेटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-kharel-meets-deuba-what-happened-in-the-conversation-61-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766723393_deuba kharel-480x320.jpg"
+    },
+    {
+      "title": "ज्येष्ठ नागरिक समाजका अमूल्य धरोहर : मुख्यमन्त्री आचार्य",
+      "summary": "अमेरिकी अफ्रिका कमान्डका अनुसार सोकोटो राज्यमा नाइजेरियाली अधिकारीहरूसँग समन्वयमा गरिएको यो आक्रमणमा धेरै आईएसआईएस लडाकू मारिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-conducts-airstrike-in-nigeria-trump-says-powerful-and-deadly-attack-34-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766723196_Trump attack Nigeria-480x320.jpg"
+    },
+    {
+      "title": "सञ्चारमन्त्री खरेलले आज देउवा, ओली र प्रचण्ड भेट्दै",
+      "summary": "प्राज्ञिक विद्यार्थी परिषद ज्ञान बहुमुखी क्याम्पस इकाईले आयाेजना गरेकाे युवाको आवाज: आजको आवश्यकता वक्तृत्वकला प्रतियोगितामा कुमारी आचार्य प्रथम भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/elocution-winner-banin-kumari-acharya-br-14-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766722954_veed 52-480x320.jpg"
+    },
+    {
+      "title": "बालेनले रक्षा बमलाई जिम्मेवारी दिँदा सुदन गुरुङको अवस्था के?",
+      "summary": "लुम्बिनी प्रदेशका मुख्यमन्त्री चेतनारायण आचार्यले ज्येष्ठ नागरिक समाजका अमूल्य धरोहर भएका बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/senior-citizens-are-a-priceless-heritage-of-society-chief-minister-acharya-52-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738563792_chetnarayan lumbini-480x320.jpg"
+    },
+    {
+      "title": "चन्द्र भण्डारी भन्छन् : घर भत्काउने होइन, भित्र सुधार गर्नुपर्छ",
+      "summary": "सञ्चारमन्त्री जगदिश खरेलले नेपाली कांग्रेसका सभापति शेरबहादुर देउवालाई भेटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-kharel-meets-deuba-what-happened-in-the-conversation-61-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
