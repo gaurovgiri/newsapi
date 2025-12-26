@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-26T08:37:09.245275",
+  "scraped_at": "2025-12-26T12:57:07.309920",
   "date": "2025-12-26",
-  "total_articles": 50,
+  "total_articles": 59,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -406,6 +406,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-busy-with-meetings-with-top-leaders-oli-reaches-gundu-to-meet-him-83-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balananda Sharma sworn in as foreign minister",
+      "summary": "Former Nepali Army lieutenant general joins the Karki-led interim Cabinet.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/26/balananda-sharma-sworn-in-as-foreign-minister",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/balananda261220251022451000x0-1766741961.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court quashes writ petition against inquiry commission",
+      "summary": "Bench clears way for commission to continue work.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/26/supreme-court-quashes-writ-petition-against-inquiry-commission",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/karki-1766744827.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prabhu Bank CEO Ashok Sherchan released",
+      "summary": "Government attorney’s office frees the high-profile banker on condition to remain available when summoned.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/26/prabhu-bank-ceo-ashok-sherchan-released",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/AshokSherchan-1766748147.jpg&w=300&height=200"
+    },
+    {
+      "title": "Telling the human story of the Chicken’s Neck",
+      "summary": "The meeting between Prime Minister Karki and leaders of big parties is a step in the right direction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/books/2025/12/25/telling-the-human-story-of-the-chicken-s-neck",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/manmohan261220250922011000x0-1766748054.jpg&w=400&height=267"
+    },
+    {
+      "title": "निर्वाचनको विकल्प छैन: दाहाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले मुलुकमा विद्यमान राजनीतिक समस्या समाधान गर्न निर्वाचनको विकल्प नरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-alternative-to-elections-dahal-10-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764589065_Prachanda2-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले छान्यो उम्मेदवार",
+      "summary": "नेपाली कम्युनिष्ट पार्टीले फागुन २१ गतेका लागि तोकिएको प्रतिनिधि सभाको निर्वाचन तथा त्यसअघिको राष्ट्रिय सभाको निर्वाचनका लागि सर्वसम्म्त उम्मेदवार चयन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-chooses-candidate-93-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766753240_PTJ-480x320.jpg"
+    },
+    {
+      "title": "चुनाव र पार्टी अधिवेशन दुवैको तयारी गर्नुहोस्: खड्का",
+      "summary": "नेपाली कांग्रेसका कार्यवाहक सभापति पूर्णबहादुर खड्काले राष्ट्रिय राजनीतिको निकासका लागि महाधिवेशन र आमनिर्वाचन दुवै अनिवार्य भएको भएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prepare-for-both-elections-and-party-convention-khadka-36-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746110032_purnabahadur-480x320.jpg"
+    },
+    {
+      "title": "लिङ्देन–थापा मिलापः १६ गते राष्ट्रिय सभागृहमा घोषणा सभा",
+      "summary": "दुई पूर्व पञ्चहरूका पार्टीले पुस १६ गते राष्ट्रिय सभामा घोषणा सभा आयोजना गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lingden-thapa-reconciliation-announcement-meeting-at-the-national-assembly-on-the-16th-57-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766751579_Rpp1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा फेरि बल्झियो विशेष महाधिवेशन मुद्दा, गगनले नै भने–अनिवार्य बन्यो",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले मुलुकमा विद्यमान राजनीतिक समस्या समाधान गर्न निर्वाचनको विकल्प नरहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-alternative-to-elections-dahal-10-34.html?click_from=just_in",
       "image_url": ""
     }
   ]
