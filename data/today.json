@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-26T12:57:07.309920",
+  "scraped_at": "2025-12-26T16:33:22.612109",
   "date": "2025-12-26",
-  "total_articles": 59,
+  "total_articles": 68,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -478,6 +478,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-alternative-to-elections-dahal-10-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "State-run food company dismisses rumours about fortified rice",
+      "summary": "The Food Management and Trading Company says it is working to set up a factory to produce eight essential micronutrients for rice fortification.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2025/12/26/state-run-food-company-dismisses-rumours-about-fortified-rice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb-1766752576.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government to issue labour permits to Nepalis working in Iraq",
+      "summary": "The Cabinet decision aims to bring nearly 30,000 undocumented workers under official records, easing travel hurdles.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/26/government-to-issue-labour-permits-to-nepalis-working-in-iraq",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/OfficeofthePM111000097232copy-1766761048.jpg&w=300&height=200"
+    },
+    {
+      "title": "Affordable places for Nepali students in Brighton",
+      "summary": "The Food Management and Trading Company says it is working to set up a factory to produce eight essential micronutrients for rice fortification.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/21/affordable-places-for-nepali-students-in-brighton-1766280019",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/karki-1766744827.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal’s ban fails to stop Nepalis from working in Iraq",
+      "summary": "Event aims to boost tourist arrivals, link conservation with culture, and revive local hospitality business in Chitwan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/16/iraq-remains-off-limits-to-nepali-workers-despite-thousands-living-there",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/imgi101VSD6HPUGOZLBRMLMJZMCCMKMGM-1766743761.jpg&w=400&height=267"
+    },
+    {
+      "title": "समानुपातिक प्रतिनिधित्व सुनिश्चित गर्न माग गर्दै सर्वोच्च रिट",
+      "summary": "सर्वोच्च अदालतलमा अपाङ्गता भएका व्यक्तिहरूको संवैधानिकरूपमा सुनिश्चित राजनीतिक प्रतिनिधित्व कमजोर पारिएको उल्लेख गर्दै रिट निवेदन दायर गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-writ-petition-demanding-to-ensure-proportional-representation-31-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761699397_Court-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा समानुपातिकतर्फ ११ जनाको नाम सिफारिस",
+      "summary": "नेकपा एमाले जुम्लाले प्रतिनिधिसभा समानुपातिकतर्फका उम्मेदवारका लागि ११ जनाको नाम सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/11-names-recommended-for-proportional-representation-in-jumla-12-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764423871_Uml_Jumla-480x320.jpg"
+    },
+    {
+      "title": "विचार फरक हुनसक्छ, देशका सबै शक्ति एक ठाउँ हुनैपर्छ: प्रधानमन्त्री",
+      "summary": "नेपाल पोलियो भाइरसका शङ्कास्पद बिरामी खोजतलास गर्ने उत्कृष्ट मुलुकमा परेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/nepal-among-the-best-countries-in-tracing-polio-patients-11-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766764069_Polio-480x320.jpg"
+    },
+    {
+      "title": "ठूलै भूकम्प वा आँधी–तुफान आए मात्र अब चुनाव रोकिन्छः प्रधानमन्त्री कार्की",
+      "summary": "जंगली स्याल र भुस्याहा कुकुरको टोकाइबाट पशु तथा मानिसमा रेबिज फैलिन थालेपछि प्रदेशभर जनस्वास्थ्यमा ठुलो चुनौती थपिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/the-challenge-of-rabies-infection-is-growing-in-the-far-west-98-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752508935_rabies-480x320.jpg"
+    },
+    {
+      "title": "विभिन्न जिल्लाका नौ स्थानमा इलाका प्रशासन कार्यालय स्थापना गर्ने सरकारको निर्णय",
+      "summary": "सर्वोच्च अदालतलमा अपाङ्गता भएका व्यक्तिहरूको संवैधानिकरूपमा सुनिश्चित राजनीतिक प्रतिनिधित्व कमजोर पारिएको उल्लेख गर्दै रिट निवेदन दायर गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-writ-petition-demanding-to-ensure-proportional-representation-31-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
