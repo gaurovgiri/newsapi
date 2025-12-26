@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-26T04:39:33.841825",
+  "scraped_at": "2025-12-26T08:37:09.245275",
   "date": "2025-12-26",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-kharel-meets-deuba-what-happened-in-the-conversation-61-20.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "शीर्ष नेतासँगको भेटमा व्यस्त सञ्चारमन्त्री, ओली भेट्न गुण्डु पुगे",
+      "summary": "निर्वाचनको वातावरण बनाउन राजनीतिक दलका शीर्ष नेता सँगको संवादलाई वर्तमान सरकारले निरन्तरता दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-busy-with-meetings-with-top-leaders-oli-reaches-gundu-to-meet-him-83-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766738105_Jagadish-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्ड र मन्त्री खरेलबिच भेटवार्ता",
+      "summary": "बिपिएलको उद्घाटन खेलमा नेपालका स्टार खेलाडी सन्दीप लामिछाने रहेको राजशाही वारियर्स र सिल्हेट टाइटान्सबीच प्रतिस्पर्धा हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bpl-starts-today-sandeep-sammil-playing-for-rajshahi-warriors-30-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766737215_sandip-480x320.jpg"
+    },
+    {
+      "title": "देश थप ठूलो संकटतर्फ गइरहेको एमाले नेता बास्कोटाको चेतावनी",
+      "summary": "निर्वाचनको वातावरण बनाउन राजनीतिक दलका शीर्ष नेता सँगको संवादलाई वर्तमान सरकारले निरन्तरता दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/meeting-between-prachanda-and-minister-kharel-21-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766736688_dahal-480x320.jpg"
+    },
+    {
+      "title": "कास्कीमा १७ हजार बढी मतदाता थपिए",
+      "summary": "नेकपा (एमाले)का नेता गोकुल बास्कोटाले देशको राजनीतिक जटिलता झन् पेचिलो बन्दै गएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-leader-baskota-warns-that-the-country-is-heading-towards-a-bigger-crisis-br-58-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764643619_gokul-480x320.jpg"
+    },
+    {
+      "title": "ज्येष्ठ नागरिकको समस्या समाधान गर्न आपसी समन्वय आवश्यक छ : मन्त्री श्रेष्ठ",
+      "summary": "निर्वाचनको वातावरण बनाउन राजनीतिक दलका शीर्ष नेता सँगको संवादलाई वर्तमान सरकारले निरन्तरता दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-busy-with-meetings-with-top-leaders-oli-reaches-gundu-to-meet-him-83-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
