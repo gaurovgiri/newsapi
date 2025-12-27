@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-27T02:08:53.205100",
+  "scraped_at": "2025-12-27T04:37:52.308152",
   "date": "2025-12-27",
-  "total_articles": 34,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,102 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/in-politics-there-is-no-new-or-old-only-agenda-and-destination-general-secretary-pokharel-13-41.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "महासंघ सुदूरपश्चिममा तालाबन्दी किन ? विवाद थप बल्झिदै !",
+      "summary": "महासंघ सुदूरपश्चिममा तालाबन्दी किन ? विवाद थप बल्झिदै !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11812",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Apanga-mahasang-bibad__-1766803221.jpg"
+    },
+    {
+      "title": "वर हस्तान्तरणमा बागमती प्रदेश सरकार सक्रिय, स्थानीय पालिकालाई बुझाइदैं",
+      "summary": "वर हस्तान्तरणमा बागमती प्रदेश सरकार सक्रिय, स्थानीय पालिकालाई बुझाइदैं",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11803",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bagmati-vew-tawor___-1766718380.jpg"
+    },
+    {
+      "title": "Calls for special convention resurface in Nepali Congress",
+      "summary": "Uncertainty over regular convention makes special inevitable: Thapa, Sharma",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/27/calls-for-special-convention-resurface-in-nepali-congress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/thumb2-1766798758.jpg&w=300&height=200"
+    },
+    {
+      "title": "Gold’s rally continues as investors seek safe haven amid global uncertainties",
+      "summary": "Bullion has surged about 70 percent this year, driven by geopolitical tensions, the US rate cuts, strong central bank buying and robust investment demand.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/26/gold-s-rally-continues-as-investors-seek-safe-haven-amid-global-uncertainties",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/money/GOLD-1766800763.jpg&w=300&height=200"
+    },
+    {
+      "title": "Climbing with Sherpas on the roof of the world",
+      "summary": "Jon Gangdal blends personal reflection with history to highlight the courage and daily struggles of Nepal’s Sherpas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/27/climbing-with-sherpas-on-the-roof-of-the-world",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/booookk-1766804357.jpg&w=300&height=200"
+    },
+    {
+      "title": "When will Nepali-origin professional footballers in Europe play for Nepal?",
+      "summary": "They are part of some big European clubs and had been sought by former head coaches of the Nepal men’s team. Yet they did not get to represent the Gorkhalis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2025/12/27/when-will-nepali-origin-professional-footballers-in-europe-play-for-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/UK-1766799666.jpg&w=600&height=400"
+    },
+    {
+      "title": "Sushila Bishwakarma listens to the land through her lens",
+      "summary": "The meeting between Prime Minister Karki and leaders of big parties is a step in the right direction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/27/sushila-bishwakarma-listens-to-the-land-through-her-lens",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Dhurandhar’ becomes the ninth Indian film to join the INR10 billion club",
+      "summary": "Wary of failed guarantees from allies in the past, Ukraine is seeking robust and legally binding deals to prevent further Russian aggression.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/27/dhurandhar-becomes-the-ninth-indian-film-to-join-the-inr10-billion-club",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/MOVIE-1766802545.jpg&w=400&height=267"
+    },
+    {
+      "title": "My early years in St Xavier’s School",
+      "summary": "Over the years, Somalia has rallied international actors against any country recognising Somaliland.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/26/my-early-years-in-st-xavier-s-school",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/CS1-1766802029.jpg&w=400&height=267"
+    },
+    {
+      "title": "सिंहदरबार जलाउने या जल्दा उत्सव मनाउनेहरू पनि त्यही सिंहदरबारमा पुग्न खोज्नु सकारात्मक : प्रदीप ज्ञवाली",
+      "summary": "खेलको पहिलो दिन दुवै टोलीको पहिलो इनिङ सकिएको थियो। टेस्ट इतिहासमा पहिलो दिन तेस्रो इनिङ सुरु भएको यो तेस्रो पटक मात्र हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/fourth-test-of-the-ashes-australia-all-out-for-132-england-set-a-target-of-175-runs-28-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766749266_The Ashes-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपालको प्रदेशस्तरीय विरोध सभा आजदेखि सुरु, सोमबार जनकपुरमा हुने",
+      "summary": "सडक सञ्जाल नपुगेको कालीकोटको महाबै गाउँपालिकाको केन्द्र जोड्न सेरावाडा–पादमघाट सडकका लागि ठेक्का प्रक्रिया सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-road-connecting-mahabai-rural-municipality-is-being-upgraded-70-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766808346_sadak-480x320.jpg"
+    },
+    {
+      "title": "जीवनमा मनोनीत हुने अवसर एक जनालाई एक पटक दिउँ : एमाले नेता अधिकारी",
+      "summary": "रौतहट जिल्लाको कटहरिया नगरपालिका वडा नम्बर–९ स्थित ज्योती डिस्टिलरीमा शुक्रबार बिहान ठूलो दुर्घटना भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/boiler-explosion-at-distillery-in-katahariya-rautahat-one-dead-five-injured-55-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766808290_distrilary-480x320.jpg"
     }
   ]
 }
