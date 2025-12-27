@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-27T12:54:38.263369",
+  "scraped_at": "2025-12-27T16:33:02.498761",
   "date": "2025-12-27",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ujjaya-rejects-rsp-proposal-conditions-for-management-of-election-symbol-or-kulman-83-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prime Minister Karki urges top leaders to ensure elections succeed at any cost",
+      "summary": "The head of the government calls on Congress, UML and Nepali Communist Party to unite for a stable and enduring democratic future.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/27/prime-minister-karki-urges-top-leaders-to-ensure-elections-succeed-at-any-cost",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/nayaa271220251221561000x0-1766839466.jpg&w=300&height=200"
+    },
+    {
+      "title": "Calls mount to diversify Nepal’s cardamom export market as shipments soar",
+      "summary": "Pakistan, Bangladesh and West Asia are major consumers of the pricey spice but Nepal doesn’t sell to them directly.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/27/calls-mount-to-diversity-nepal-s-cardamom-export-market-as-shipments-soar",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/CARDAMOM-1766847910.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचनबाट मात्रै देशमा राजनीतिक निकास सम्भव छ: बस्नेत",
+      "summary": "नेपाली कांग्रेसका नेता मोहनबहादुर बस्नेतले निर्वाचनबाट मात्रै देशमा राजनीतिक निकास सम्भव हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-political-solution-is-possible-in-the-country-only-through-elections-56-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766852921_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सधैं विद्रोही गगन",
+      "summary": "हरिपूर्वा–६ स्थित पोखरी नजिकै इँटा लोड गरिएको मधेस प्रदेश ०३–००१ त ८७०४ नम्बरको ट्याक्टरले शनिबार दिउँसो ठक्कर दिँदा स्थानीय अफरोज साह फकिरकी दुई वर्षीया छोरी सोहानी साह फकिरको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-year-old-girl-dies-after-being-hit-by-tractor-63-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "सुशीला कार्कीको नियति: त्यो मुखै नहेर्ने अड्डी, यो हारगुहार",
+      "summary": "जिल्ला प्रहरी कार्यालय सिरहाका सूचना अधिकारी एवं प्रहरी नायब उपरीक्षक रमेशबहादुर पालका अनुसार नवाजपुर गाउँपालिका–३ जगतपुरस्थित आँप बगैँचाका २२ वर्षीय सञ्जीवकुमार यादव र ३२ वर्षीय श्यामसुन्दर यादवले एक युवतीलाई जबर्जस्ती करणी गरी फरार भएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-absconding-defendants-in-rape-case-arrested-31-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले समानुपातिक उम्मेदवार चयन प्रक्रिया थाल्यो",
+      "summary": "जुम्लाको सदरमुकाम खलंगामा सञ्चालित दर्जनौं ट्युसन तथा कोचिङ सेन्टरहरू अवैध रूपमा सञ्चालन भइरहेको पाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/tuition-center-in-jumla-arbitrary-no-registration-zero-monitoring-br-20-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738141957_jumla-480x320.jpg"
+    },
+    {
+      "title": "कारबाही भोगेकालाई माफी, पार्टी छाडेकालाई घर फर्कन आह्वान",
+      "summary": "नेपाली कांग्रेसका नेता मोहनबहादुर बस्नेतले निर्वाचनबाट मात्रै देशमा राजनीतिक निकास सम्भव हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-political-solution-is-possible-in-the-country-only-through-elections-56-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
