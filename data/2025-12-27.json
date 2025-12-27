@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-27T04:37:52.308152",
+  "scraped_at": "2025-12-27T08:35:25.403392",
   "date": "2025-12-27",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -367,6 +367,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/boiler-explosion-at-distillery-in-katahariya-rautahat-one-dead-five-injured-55-19.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766808290_distrilary-480x320.jpg"
+    },
+    {
+      "title": "गामा अब नियमित हवाई उडान, जिल्लाकै स्वरुप फेरिने स्थानीयको विश्वास",
+      "summary": "गामा अब नियमित हवाई उडान, जिल्लाकै स्वरुप फेरिने स्थानीयको विश्वास",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11817",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/rumjatar-bimansthal__-1766804508.jpg"
+    },
+    {
+      "title": "देउवा, ओली र दाहालसँग प्रधानमन्त्री कार्कीको वार्ता हुँदै",
+      "summary": "मुम्बईको बान्द्रामा रहेको उनको ग्यालेक्सी अपार्टमेन्ट र वरपर प्रहरीको उपस्थिति दोब्बर गरिएको थियो। निगरानीका लागि हेलिकप्टर र ड्रोन पनि तैनाथ गरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/salman-s-60th-birthday-party-amidst-tight-security-who-attended-from-dhoni-to-ex-girlfriend-sangeeta-92-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766824008_Salman-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ निर्वाचन : आचारसंहिता कडाइसाथ लागू हुने, मिथ्या सूचना नियन्त्रणको तयारी",
+      "summary": "करदाता सेवा कार्यालय पाँचथरले प्रदान गर्ने सेवा अब ताप्लेजुङस्थित कोष तथा लेखा नियन्त्रक कार्यालयबाटै प्रदान हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tax-work-will-now-be-done-from-taplejung-72-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766823038_Kosh-480x320.jpg"
+    },
+    {
+      "title": "शीर्ष नेताहरूको घरदैलो पुगेका मन्त्री खरेलको दाबी: फागुन २१ मै निर्वाचन, सबै दल सहभागी",
+      "summary": "प्रकृति प्रस्ताव गर्दै छ, रगत नबगेको नदी हेर्न, खतरनाक दुनिया छ अगाडि,ब्रेकिङ न्युज सुनाउन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/this-fire-begs-br-36-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757137052_parajuli 45-480x320.jpg"
+    },
+    {
+      "title": "महाधिवेशन गोलचक्करमा कांग्रेस",
+      "summary": "जेनजी आन्दोलनपछि उत्पन्न राजनीतिक परिस्थितिलाई सहज तुल्याउँदै आगामी निर्वाचनलाई निर्धारित मितिमै सम्पन्न गर्न सरकारले दलहरूसँग निरन्तर वार्ता र संवाद अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pm-karki-holds-talks-with-deuba-oli-and-dahal-22-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766821695_PM Bhet-480x320.jpg"
     }
   ]
 }
