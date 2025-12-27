@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-27T08:35:25.403392",
+  "scraped_at": "2025-12-27T12:54:38.263369",
   "date": "2025-12-27",
-  "total_articles": 51,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -415,6 +415,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/pm-karki-holds-talks-with-deuba-oli-and-dahal-22-64.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766821695_PM Bhet-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा प्रस्ताव उज्यालोद्वारा अस्वीकार, चुनाव चिन्ह वा कुलमानको व्यवस्थापन सर्त",
+      "summary": "पार्टी रास्वपा नै हुने, उसैको चुनाव चिन्ह रहने, सभापति रवि नै हुने, प्रधानमन्त्री बालेन हुने, कुलमान र उज्यालो पार्टीको अस्तित्व नै नरहने एकतामा आफूहरू नजाने ती केन्द्रीय सदस्यले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ujjaya-rejects-rsp-proposal-conditions-for-management-of-election-symbol-or-kulman-83-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766839542_ujyalo3-480x320.jpg"
+    },
+    {
+      "title": "‘हरेक नागरिक राष्ट्रका निम्ति इमानदारीपूर्वक लाग्नुपर्छ’",
+      "summary": "निर्वाचन आयोगले आगामी फागुन २१ गते हुने प्रतिनिधि सभा सदस्य निर्वाचनका लागि देशभर २३ हजारभन्दा बढी मतदान केन्द्र निर्धारण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/23-112-polling-stations-have-been-set-up-across-the-country-52-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1714059707_matadan-480x320.jpg"
+    },
+    {
+      "title": "रवि र बालेनप्रति लिङ्देनको कटाक्ष- जित्नु कहाँ छ कहाँ, प्रधानमन्त्री को हुने भनेर भागबन्डा चल्दैछ",
+      "summary": "निर्वाचन आयोगले आगामी फागुन २१ गते हुने प्रतिनिधि सभा सदस्य निर्वाचनका लागि अन्तिम मतदाता नामावली प्रकाशन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/final-voter-list-made-public-1-crore-89-lakh-voters-br-35-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1733144196_karnali election-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक समस्या सम्बोधन नभए चुनावले निकास दिँदैन: यादव",
+      "summary": "राजेन्द्र लिङ्देनले ठूला राजनीतिक दलबाट जनचाहनाअनुरुप देश निर्माणमा योगदान नहुँदा वर्तमान परिस्थिति सृजना भएको टिप्पणी गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/every-citizen-must-work-honestly-for-the-nation-97-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766837100_rajendra_lingdel-480x320.jpg"
+    },
+    {
+      "title": "भुसाल भन्छन्- प्रधानमन्त्रीको हातबाट जुस खान अनशन बसेको होइन, व्यवस्था बदल्न हो",
+      "summary": "पार्टी रास्वपा नै हुने, उसैको चुनाव चिन्ह रहने, सभापति रवि नै हुने, प्रधानमन्त्री बालेन हुने, कुलमान र उज्यालो पार्टीको अस्तित्व नै नरहने एकतामा आफूहरू नजाने ती केन्द्रीय सदस्यले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ujjaya-rejects-rsp-proposal-conditions-for-management-of-election-symbol-or-kulman-83-44.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
