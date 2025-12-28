@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-28T12:55:26.691801",
+  "scraped_at": "2025-12-28T16:33:51.628331",
   "date": "2025-12-28",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/biratnagar-petrol-pump-operator-arrested-with-600-000-rupees-from-unknown-source-85-97.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rasuwagadhi border opens after six months, traders still barred",
+      "summary": "Only Rasuwa residents allowed to cross as traders from other districts remain barred, leaving hundreds of containers stranded on the Chinese side.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2025/12/28/rasuwagadhi-border-opens-after-six-months-traders-still-barred",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb6-1766932716.jpg&w=300&height=200"
+    },
+    {
+      "title": "विचार अनेक हुनसक्छन्, विकासमा एक हुनुपर्छः मुख्यमन्त्री बानियाँ",
+      "summary": "काभ्रेपलाञ्चोक जिल्ला समन्वय समितिको आयोजनामा आज धुलिखेलमा आयोजित ‘तीन तहबीच समन्वय र सहजीकरण’ विषयक अन्तरक्रियामा उनले विकास सबैका लागि भए पनि विचारको आधारमा अनेकतालाई अन्यथा मान्न नहुने धारणा राखे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-may-be-many-opinions-but-there-must-be-unity-in-development-chief-minister-baniya-29-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766938874_fsf-480x320.jpg"
+    },
+    {
+      "title": "पोखरामा सञ्चार मन्त्रीको एक दिन!",
+      "summary": "सञ्चार तथा सूचना प्रविधि मन्त्री जगदीश खरेलले आज पोखरास्थित विभिन्न कार्यालयको निरीक्षण तथा भेटघाट गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-day-for-the-minister-of-communications-in-pokhara-30-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766938718_Kharel-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले समय थप्न नमानेपछि सोमबार नै बन्दसूची बुझाउने तयारीमा कांग्रेस",
+      "summary": "भुवन लोहनीले नयाँ म्यूजिक भिडियो नेपाली बजारमा ल्याएका छन् । गीत संगीतमा रमाउने लोहनी फरक पेशा र काममा अमेरिकामा रहेपनि नेपाली सांगीतिक क्षेत्रमा क्रियाशील छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/bhuvan-lohani-s-new-music-video-jun-sang-ke-dajan-ra-released-11-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766938328_Bhuwan-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको पहिचानमै संकट !",
+      "summary": "नेपाली कांग्रेसले प्रतिनिधिसभा निर्वाचन अन्तर्गत समानुपातिकतर्फको बन्दसूची सोमबार निर्वाचन आयोगमा बुझाउने तयारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-submitting-list-br-94-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762963301_congress-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपाल र लोसपाबीच एकता गर्ने सहमति",
+      "summary": "काभ्रेपलाञ्चोक जिल्ला समन्वय समितिको आयोजनामा आज धुलिखेलमा आयोजित ‘तीन तहबीच समन्वय र सहजीकरण’ विषयक अन्तरक्रियामा उनले विकास सबैका लागि भए पनि विचारको आधारमा अनेकतालाई अन्यथा मान्न नहुने धारणा राखे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-may-be-many-opinions-but-there-must-be-unity-in-development-chief-minister-baniya-29-20.html?click_from=just_in",
       "image_url": ""
     }
   ]
