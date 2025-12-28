@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-28T08:35:49.437807",
+  "scraped_at": "2025-12-28T12:55:26.691801",
   "date": "2025-12-28",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/myanmar-holds-general-election-amid-civil-war-11-15.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सभामुख घिमिरे र उपसभामुख रानामगरको कार्यकाल सकियो",
+      "summary": "विराटनगरमा स्रोत नखुलेको नेपाली ६ लाख रुपैयाँसहित एक जना पेट्रोल पम्प सञ्चालक पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/biratnagar-petrol-pump-operator-arrested-with-600-000-rupees-from-unknown-source-85-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766925733_Note-480x320.jpg"
+    },
+    {
+      "title": "रवि–बालेन सहमति: पदकै बाँडफाँटमा सीमित, देशका मुद्दालाई बेवास्ता",
+      "summary": "जारी नवौँ एनभिए च्याम्पियनसिपमा नेपाल पुलिस क्लबले लगातार दोस्रो जित निकाल्दै क्वाटरफाइनलमा स्थान बनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nva-championship-nepal-police-club-advances-to-quarterfinals-with-second-consecutive-win-86-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766924857_Police-480x320.jpg"
+    },
+    {
+      "title": "रवि-बालेन मिलनपछि कुलमानले भने- सकेसम्म एक हौं, नभए कार्यगत एकता गरेर जाऔं",
+      "summary": "विशेषज्ञहरूको सुझाव अनुसार खोपको नियमितता सुनिश्चित गर्न स्थानीय तह र केन्द्र सरकारबीच सहकार्य, बजेट वृद्धि र दातृ निकायको स्थिर सहयोग अपरिहार्य छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/challenges-in-continuity-of-11-routine-vaccines-in-nepal-14-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737018688_khop-480x320.jpg"
+    },
+    {
+      "title": "कार्यमैत्री वातावरणको माग गर्दै गैरसरकारी संस्थाले सरकारलाई बुझायो १० बुँदे माग पत्र",
+      "summary": "उच्च शिक्षा तथा माध्यामिक विद्यालय संघ नेपाल (हिसान)को नवौं महाधिवेशनबाट अध्यक्षमा युवराज शर्मा विजयी भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/sharma-wins-the-presidency-of-hisan-39-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766924331_Hisan-480x320.jpg"
+    },
+    {
+      "title": "ताप्लेजुङमा बढे २ हजार ४२ मतदाता",
+      "summary": "विराटनगरमा स्रोत नखुलेको नेपाली ६ लाख रुपैयाँसहित एक जना पेट्रोल पम्प सञ्चालक पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/biratnagar-petrol-pump-operator-arrested-with-600-000-rupees-from-unknown-source-85-97.html?click_from=just_in",
       "image_url": ""
     }
   ]
