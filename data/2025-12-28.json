@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-28T02:29:51.882682",
+  "scraped_at": "2025-12-28T04:49:58.535994",
   "date": "2025-12-28",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/signs-that-copper-mine-will-reopen-after-50-years-machhim-residents-excited-23-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP and Kathmandu mayor Balendra Shah reach ‘broad unity’ deal",
+      "summary": "Balendra Shah proposed as prime ministerial face while Rabi Lamichhane retains RSP leadership.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/28/rsp-and-kathmandu-mayor-balendra-shah-reach-broad-unity-deal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/60546703114361689978753514295798587313990467n-1766882455.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government to issue labour permits to Nepalis working in Iraq",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/26/government-to-issue-labour-permits-to-nepalis-working-in-iraq",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/RSS-201(1).jpg&w=400&height=267"
+    },
+    {
+      "title": "मतदाता १ करोड ८९ लाख",
+      "summary": "जेन-जी आन्दोलनपछि सुरक्षण मुद्रण केन्द्रले सात हजार सवारी चालक अनुमति पत्र (लाइसेन्स कार्ड) छापेर यातायात व्यवस्था विभागलाई हस्तान्तरण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/seven-thousand-license-cards-printed-after-gen-g-movement-br-30-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766896399_seh se 56-480x320.jpg"
+    },
+    {
+      "title": "गोकुल भन्छन्ः रवि-बालेन मिले, कुलमान-प्रचण्ड बाँकी",
+      "summary": "सोही सभामा पाकिस्तान पिपुल्स पार्टीका अध्यक्ष बिलावल भुट्टो जरदारीले मे द्वन्द्वमा पाकिस्तानले भारतमाथि विजय भएको दाबी गर्दै त्यसलाई राष्ट्रिय उपलब्धि बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/pakistan-president-s-clear-warning-to-india-we-are-ready-for-another-war-too-68-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763093800_General Asim Munir, now a Field Marshal, and President Asif Ali Zardari -480x320.jpg"
+    },
+    {
+      "title": "रविजी र बालेनजीको मिलनले मिलेर अघि बढ्न सक्नुपर्छ भन्ने सन्देश दिन्छ : चन्द्र भण्डारी",
+      "summary": "फाुगन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा एक करोड ८९ लाख तीन हजार ६ सय ८९ जनाले मताधिकार प्रयोग गर्न पाउने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/voters-1-crore-89-lakh-br-36-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761872829_Aayog 56-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन लोकतान्त्रिक अभ्यास भएकाले सहभागी हुन्छौँ : अध्यक्ष यादव",
+      "summary": "भारतीय व्यापारीले भन्दा चीनका व्यापारीले राम्रो मूल्य दिने भएकाले धेरै चिराइतो तिब्बत हुँदै चीन निर्यात हुँदै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-worried-about-lack-of-chiraito-sales-70-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766894531_Chiraito-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक दलहरूको परीक्षा सुरु भएको छ : माधव नेपाल",
+      "summary": "जेन-जी आन्दोलनपछि सुरक्षण मुद्रण केन्द्रले सात हजार सवारी चालक अनुमति पत्र (लाइसेन्स कार्ड) छापेर यातायात व्यवस्था विभागलाई हस्तान्तरण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/seven-thousand-license-cards-printed-after-gen-g-movement-br-30-91.html?click_from=just_in",
       "image_url": ""
     }
   ]
