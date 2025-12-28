@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-28T04:49:58.535994",
+  "scraped_at": "2025-12-28T08:35:49.437807",
   "date": "2025-12-28",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/seven-thousand-license-cards-printed-after-gen-g-movement-br-30-91.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "मन्त्री घिसिङद्वारा सेती पुलको निरीक्षण, निर्माण कार्यलाई तीव्रता दिन निर्देशन",
+      "summary": "तीन चरणमा हुने यो निर्वाचनको अन्तिम परिणाम जनवरीमा थप दुई चरणको मतदान सम्पन्न भएपछि मात्र स्पष्ट हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/myanmar-holds-general-election-amid-civil-war-11-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766908986_Myanmar Election-480x320.jpg"
+    },
+    {
+      "title": "नयाँ दलहरूबीच भएको एकता र सहकार्यले निर्वाचनको माहोल सिर्जना भयो : सञ्चारमन्त्री खरेल",
+      "summary": "अघिल्लो निर्वाचनको तुलनामा मोरङमा आगामी फागुन २१ गते हुने निर्वाचनमा सहभागि हुने मतदाताको संख्या ४७ हजारभन्दा बढीले थप भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/47-000-more-voters-added-to-morang-66-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766908383_nirwa-480x320.jpg"
+    },
+    {
+      "title": "बालेनसँगको एकतापछि सोबिता भन्छिन् : निलो क्रान्तिको सर्वोच्च ‘कमान्डर’ रवि लामिछाने",
+      "summary": "उनका अनुसार हिमाली जिल्लामा जडीबुटी संकलन इजाजत र छुट पुर्जी लिन सदरमुकाम जानुपर्ने झन्झट छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/herb-exports-increase-from-nepalgunj-border-87-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766908216_Jadibutii-480x320.jpg"
+    },
+    {
+      "title": "माघको पहिलो साता राजीनामा दिँदै मेयर बालेन",
+      "summary": "ताप्लेजुङस्थित तमोर–मेवा जलविद्युत आयोजनाले करिब २२ प्रतिशत काम सम्पन्न भएको बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/22-percent-work-of-tamor-mewa-hydropower-project-completed-capacity-increased-to-145-mw-43-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766907887_tamor-480x320.jpg"
+    },
+    {
+      "title": "तथ्यमा आधारित समाचार अझ विश्वसनीय हुन्छ : मुख्यमन्त्री आचार्य",
+      "summary": "तीन चरणमा हुने यो निर्वाचनको अन्तिम परिणाम जनवरीमा थप दुई चरणको मतदान सम्पन्न भएपछि मात्र स्पष्ट हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/myanmar-holds-general-election-amid-civil-war-11-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
