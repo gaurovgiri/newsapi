@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-29T13:00:49.324322",
+  "scraped_at": "2025-12-29T16:35:23.454050",
   "date": "2025-12-29",
-  "total_articles": 58,
+  "total_articles": 65,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -470,6 +470,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/supreme-court-issues-show-cause-order-on-implementation-of-tobacco-product-directive-97-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Lekhak takes moral responsibility for September 8 mayhem but calls September 9 a planned conspiracy",
+      "summary": "Former home minister Ramesh Lekhak, appearing before the inquiry commission, says September 9 attacks were orchestrated.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/29/lekhak-takes-moral-responsibility-for-september-8-mayhem-but-calls-september-9-planned-conspiracy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/ramesh291220251112371000x0-1767007448.jpg&w=300&height=200"
+    },
+    {
+      "title": "Elephant festival revives Sauraha tourism after prolonged slump",
+      "summary": "A surge in domestic and Indian visitors during the 19th Elephant and Tourism Festival has boosted hotel occupancy, even as debates over elephant welfare linger.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/29/elephant-festival-revives-sauraha-tourism-after-prolonged-slump",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/IMG92201-1767023291.jpg&w=300&height=200"
+    },
+    {
+      "title": "सन्तोष भन्छन्- रास्वपा छोडेकोमा पछुतो छैन, सहकार्यको ढोका खुल्लै छ",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि निर्वाचन आयोगले आवश्यक तयारी तीव्र पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-print-40-million-ballots-for-approximately-20-million-voters-br-88-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767024800_nirwachan-480x320.jpg"
+    },
+    {
+      "title": "यस्तो छ कुलमान, बालेन र रास्वपाबिचको ७ बुँदे सहमति: कुलमान उपसभापति, चुनाव चिह्न ‘घण्टी’",
+      "summary": "वार्षिक सवा १५ खर्ब रुपैयाँ व्यापार घाटा रहेको नेपालको एक सयभन्दा बढी मुलुकसँग व्यापार घाटा रहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-s-trade-deficit-with-more-than-100-countries-17-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755941228_1734877633_1733280966_Byapar-1200x560-1200x560-480x320.jpg"
+    },
+    {
+      "title": "बालेनको एकता पोस्ट: ११ मिनेटमै १ लाख लाइक !",
+      "summary": "त्रियुगा नगरपालिकाले सञ्चालन गर्दै आएको ‘मेयर रनिङ शिल्ड’ यसवर्ष पनि साविककै विजेता त्रियुगा नमूना माध्यमिक विद्यालय गाईघाटले सुरक्षित गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/triyuga-becomes-fourth-consecutive-winner-of-mayor-running-shield-66-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767024391_triyuga-480x320.jpg"
+    },
+    {
+      "title": "रवि र कुलमानसँगैको फोटो राखेर बालेनले भने- म नेपाल हाँसेको हेर्न चाहन्छु",
+      "summary": "नेपाल पुलिस स्कुल धरान रातो र सिद्धार्थ सेकेज्डरी स्कुल सुन्दरहरैँचा मोरङ कोशी प्रदेशस्तरीय अन्तरविद्यालय डीआइजी रनिङ् कप फुटबल प्रतियोगिताको सातौँ संस्करणको सेमिफाइनलमा प्रवेश गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-police-and-siddhartha-secondary-advance-to-semifinals-49-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767023514_Foot-480x320.jpg"
+    },
+    {
+      "title": "हर्कले फेरी भने- हुतिहाराहरू एक्लै लड्न सकेनन्, जमानत जफत हुन्छ",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि निर्वाचन आयोगले आवश्यक तयारी तीव्र पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-print-40-million-ballots-for-approximately-20-million-voters-br-88-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
