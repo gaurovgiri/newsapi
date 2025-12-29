@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-29T08:41:16.095429",
+  "scraped_at": "2025-12-29T13:00:49.324322",
   "date": "2025-12-29",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -414,6 +414,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/exhibition-of-local-products-at-baglung-festival-br-87-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Bangladesh’s Gen Z party faces revolt over Islamist alliance, risking its future",
+      "summary": "An interim government led by Nobel laureate Muhammad Yunus revoked, all the restrictions on Jamaat in August 2024.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2025/12/29/bangladesh-s-gen-z-party-faces-revolt-over-islamist-alliance-risking-its-future",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/world/BANGLADESHARMY-1767001427.jpg&w=300&height=200"
+    },
+    {
+      "title": "Upendra Yadav’s JSP-Nepal and Mahantha Thakur’s LSP agree to reunify",
+      "summary": "The two sides have yet to finalise the names and election symbol.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/29/upendra-yadav-s-jsp-nepal-and-mahantha-thakur-s-lsp-agree-to-reunify",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/jasapalosapa281220250417241000x0-1766971399.jpg&w=300&height=200"
+    },
+    {
+      "title": "समानुपातिक सूची बुझाएसँगै देश निर्वाचनमा होमियोः मन्त्री खरेल",
+      "summary": "न्यायाधीश टेकप्रसाद ढुंगानाको एकल इजलासले कारण देखाउ आदेश जारी गर्दै उक्त मुद्दालाई अग्राधिकारका साथ सुनुवाइ गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/supreme-court-issues-show-cause-order-on-implementation-of-tobacco-product-directive-97-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761699397_Court-480x320.jpg"
+    },
+    {
+      "title": "'राष्ट्रियसभा अधिवेशन पुस अन्तिम सातादेखि'",
+      "summary": "मन्त्री खरेलले निर्वाचनको पहिलो सर्त नै शान्ति सुरक्षा भएको उल्लेख गर्दै सरकारले मतदाता ढुक्क भएर मतदान गर्न सक्ने वातावरण निर्माण गरिरहेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-country-has-entered-the-election-with-the-submission-of-the-proportional-list-minister-kharel-11-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767012921_Jagadish Kharel-480x320.jpg"
+    },
+    {
+      "title": "हर्कले भने- बालेन जहाँबाट उठे पनि हराउँछौं, उनीहरू एमसीसीका मतियार हुन्",
+      "summary": "लामो समयदेखि निर्माणाधीन नेपाल टेलिकमको टावर सञ्चालनमा आएसँगै गाउँपालिकामा पहिलोपटक फोरजी इन्टरनेटसहितको भरपर्दो सञ्चार सेवा सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/now-4g-service-is-available-even-in-the-mountains-of-jumla-eliminating-the-need-to-climb-mountains-to-find-a-network-49-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767012590_tower-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्की र राष्ट्रिय सभाका अध्यक्ष दाहालबीच भेट",
+      "summary": "लगातार तीन दिनदेखि हुस्सु र कुहिरो लागेसँगै जिल्लाको जनजीवन प्रभावित भएको छ । शनिबार, आइतबार र सोमबार निरन्तर हुस्सु लागेपछि सर्वसाधारण चिसोबाट प्रभावित भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cold-affects-life-in-chitwan-flights-suspended-for-three-days-80-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767012072_Cold_Chitawan-480x320.jpg"
+    },
+    {
+      "title": "रास्वपासँग फेरि संवादमा जोडिए कुलमान, सह-सभापति सहित ३० प्रतिशतको बटमलाइन !",
+      "summary": "न्यायाधीश टेकप्रसाद ढुंगानाको एकल इजलासले कारण देखाउ आदेश जारी गर्दै उक्त मुद्दालाई अग्राधिकारका साथ सुनुवाइ गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/supreme-court-issues-show-cause-order-on-implementation-of-tobacco-product-directive-97-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
