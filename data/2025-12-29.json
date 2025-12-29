@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-29T02:27:36.275682",
+  "scraped_at": "2025-12-29T04:54:35.577062",
   "date": "2025-12-29",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/remittance-habits-br-61-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ाई चिया मञ्चको उद्घाटन",
+      "summary": "ाई चिया मञ्चको उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11821",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1000070367-1766819643.jpg"
+    },
+    {
+      "title": "With Mayor Shah, we expect to expand support base among educated urban class",
+      "summary": "Chairman Rabi Lamichhane has committed not to intervene in government functioning if Balendra Shah becomes prime minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2025/12/29/with-mayor-shah-we-expect-to-expand-support-base-among-educated-urban-class",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/interviews/shishirkhanalrspleaderinterviewphotos12282025BT5A9170copy-1766972279.jpg&w=600&height=400"
+    },
+    {
+      "title": "Creators’ Mela 2026 happening across three cities",
+      "summary": "The challenge lies not in the parliamentary system itself, but in the individuals who operate within it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/29/creators-mela-2026-happening-across-three-cities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/jasapalosapa281220250417241000x0-1766971399.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVENTS: December 27 to January 2, 2026",
+      "summary": "Beijing’s drills increasingly blur the line between routine exercises and potential preparations for an attack, aimed at giving the US and allies minimal warning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2025/12/27/events-december-27-to-january-2-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/main-1766971053.jpg&w=400&height=267"
+    },
+    {
+      "title": "युवालाई प्रचण्डको आग्रह : शान्तिपूर्ण र लोकतान्त्रिक प्रक्रियामार्फत देशलाई निकास दिऔँ",
+      "summary": "नेपाल कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले सामुदायिक क्याम्पसहरूको शिक्षाको गुणस्तर वृद्धि गर्नु चुनौतीपूर्ण भए पनि अनिवार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-appeal-to-youth-let-s-give-the-country-a-way-out-through-a-peaceful-and-democratic-process-28-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764589065_Prachanda2-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले समानुपातिकमा सबै नयाँ अनुहार पठाउने, यसअघि निर्वाचित सांसद तथा मन्त्री सूचीमा नपर्ने",
+      "summary": "सरकारी र निजी दुवै विद्यालयले कक्षामै नियमित योग र ध्यान अभ्यास गराएर विद्यार्थीका मन सबल बनाउन जरुरी भइसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/unbalanced-lifestyle-causes-memory-problems-in-students-br-29-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766984010_f ud 45-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा अध्यक्ष ओलीपछि बादल दोस्रो वरीयतामा",
+      "summary": "नेपाली कम्युनिष्ट पार्टीले प्रतिनिधिसभा तथा राष्ट्रिय सभामा यसअघि सांसद र मन्त्री भएका कसैलाई पनि समानुपातिक सूचीमा नराख्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-to-send-all-new-faces-in-proportional-representation-previously-elected-mps-and-ministers-will-not-be-included-in-the-list-94-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766983593_nekapa-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलनपछि निवर्तमान गृहमन्त्री लेखक पत्रकार सम्मेलन गर्दै",
+      "summary": "वीरेन्द्रनगरको टेम्पो पार्क नजिकै पैदलयात्रीलाई शनिबार बिहान ठक्कर दिएर फरार भएको फोर्स गाडी र गाडी धनीलाई प्रहरीले नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-seize-vehicle-that-hit-pedestrian-driver-absconds-55-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766983266_gadi-480x320.jpg"
+    },
+    {
+      "title": "एमालेले आज समानुपातिक तर्फका उम्मेदवारको नाम आयोगमा बुझाउँदै",
+      "summary": "नेपाल कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले सामुदायिक क्याम्पसहरूको शिक्षाको गुणस्तर वृद्धि गर्नु चुनौतीपूर्ण भए पनि अनिवार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-appeal-to-youth-let-s-give-the-country-a-way-out-through-a-peaceful-and-democratic-process-28-14.html?click_from=just_in",
       "image_url": ""
     }
   ]
