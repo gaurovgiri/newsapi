@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-29T04:54:35.577062",
+  "scraped_at": "2025-12-29T08:41:16.095429",
   "date": "2025-12-29",
-  "total_articles": 43,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -350,6 +350,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-appeal-to-youth-let-s-give-the-country-a-way-out-through-a-peaceful-and-democratic-process-28-14.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Former home minister Lekhak appears before probe commission",
+      "summary": "Lekhak testifies over alleged use of excessive force during September protests that left 77 dead.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/29/former-home-minister-lekhak-appears-before-probe-commission",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/ramesh-1766992248.jpg&w=300&height=200"
+    },
+    {
+      "title": "Gen Z reacts to RSP–Balendra Shah deal with cautious optimism",
+      "summary": "Wounded activists welcome the alliance, but movement leaders accuse them of power-driven politics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/29/gen-z-reacts-to-rsp-balendra-shah-deal-with-cautious-optimism",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/genzghaite291220250140381000x01-1766984225.jpg&w=300&height=200"
+    },
+    {
+      "title": "Gen Z revolt drove RSP to seek unity with Balendra Shah",
+      "summary": "Under a 7-point deal reached in the wee hours of Sunday, Kathmandu mayor will take a plunge into national politics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/29/gen-z-revolt-drove-rsp-to-seek-unity-with-balendra-shah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/combo-1766889750.jpg&w=600&height=400"
+    },
+    {
+      "title": "गायिका त्रिशला गुरुङ उज्यालो नेपाल पार्टीबाट समानुपातिकमा सिफारिस",
+      "summary": "महोत्सवको विभिन्न व्यापारिक स्टलहरूको सुरुवातमै ‘मेड इन बागलुङ’ को ब्यानरमुनि विभिन्न स्थानीय उत्पादन वस्तुहरू राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/exhibition-of-local-products-at-baglung-festival-br-87-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766996425_Local-480x320.jpg"
+    },
+    {
+      "title": "रमेश लेखक जाँचबुझ आयोगसमक्ष बयान दिन उपस्थित",
+      "summary": "विभागीय टोली त्रिभुवन आर्मी क्लब जारी नवौँ एनभिए महिला तथा पुरुष च्याम्पियनसिपको क्वटारफाइनलमा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nva-championship-army-advances-to-quarterfinals-47-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766996120_volley-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपाल र जसपाबिच एकीकरण : बुहमत केन्द्रीय सदस्य लिएर उपाध्यक्ष रेणु यादवले गरिन् एकता",
+      "summary": "ठगी, आपराधिक विश्वासघात तथा आपराधिक लाभ र सङ्गठित अपराध मुद्दामा इन्टरपोलबाट रेड नोटिस जारी भएका फरार प्रतिवादी संयुक्त अरब इमिरेट्स (युएई)बाट पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/fugitive-man-with-interpol-red-notice-arrested-in-uae-93-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "नेकपामा सांसद र मन्त्री भइसकेकालाई समानुपातिकमा ‘नो इन्ट्री’",
+      "summary": "आज बिहान थापाकी श्रीमतीले कोठाभित्र घाँटीमा पासो लागेको अवस्थामा भेटेपछि उद्धार गरी एभरेष्ट अस्पताल पुर्‍याएकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mysterious-death-of-an-attendant-working-at-the-police-headquarters-60-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "मदन-आश्रित स्मृति प्रतिष्ठानले विचार गोष्ठी गर्दै, प्रमुख वक्ता अध्यक्ष ओली",
+      "summary": "महोत्सवको विभिन्न व्यापारिक स्टलहरूको सुरुवातमै ‘मेड इन बागलुङ’ को ब्यानरमुनि विभिन्न स्थानीय उत्पादन वस्तुहरू राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/exhibition-of-local-products-at-baglung-festival-br-87-38.html?click_from=just_in",
       "image_url": ""
     }
   ]
