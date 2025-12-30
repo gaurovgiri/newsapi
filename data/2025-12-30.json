@@ -1,9 +1,10 @@
 {
-  "scraped_at": "2025-12-30T02:18:37.979949",
+  "scraped_at": "2025-12-30T04:45:13.815882",
   "date": "2025-12-30",
-  "total_articles": 21,
+  "total_articles": 39,
   "sources": [
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -173,6 +174,150 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/parties-ready-to-go-to-the-election-with-the-submission-of-the-closed-list-for-proportional-representation-doubts-about-the-election-not-being-held-have-been-dispelled-54-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ाई चिया मञ्चको उद्घाटन",
+      "summary": "ाई चिया मञ्चको उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11821",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1000070367-1766819643.jpg"
+    },
+    {
+      "title": "गामा अब नियमित हवाई उडान, जिल्लाकै स्वरुप फेरिने स्थानीयको विश्वास",
+      "summary": "गामा अब नियमित हवाई उडान, जिल्लाकै स्वरुप फेरिने स्थानीयको विश्वास",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11817",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/rumjatar-bimansthal__-1766804508.jpg"
+    },
+    {
+      "title": "महासंघ सुदूरपश्चिममा तालाबन्दी किन ? विवाद थप बल्झिदै !",
+      "summary": "महासंघ सुदूरपश्चिममा तालाबन्दी किन ? विवाद थप बल्झिदै !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11812",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Apanga-mahasang-bibad__-1766803221.jpg"
+    },
+    {
+      "title": "वर हस्तान्तरणमा बागमती प्रदेश सरकार सक्रिय, स्थानीय पालिकालाई बुझाइदैं",
+      "summary": "वर हस्तान्तरणमा बागमती प्रदेश सरकार सक्रिय, स्थानीय पालिकालाई बुझाइदैं",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11803",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bagmati-vew-tawor___-1766718380.jpg"
+    },
+    {
+      "title": "म्झौताले उठिबास लाग्दै, व्यवस्थापनका लागि सरकारको भरोषा",
+      "summary": "म्झौताले उठिबास लाग्दै, व्यवस्थापनका लागि सरकारको भरोषा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11792",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bipanna-nagarik-ko-pida__-1766632923.jpg"
+    },
+    {
+      "title": "आन्दोलनमा जलाइएका सवारी वागमती सरकारलाई घाँडो",
+      "summary": "आन्दोलनमा जलाइएका सवारी वागमती सरकारलाई घाँडो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11791",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/astabesta-jaleka-gadi__-1766632465.jpg"
+    },
+    {
+      "title": "रमा नेविसंघको बलियो भेञ्चर्सले रच्यो भारतमा इतिहास",
+      "summary": "रमा नेविसंघको बलियो भेञ्चर्सले रच्यो भारतमा इतिहास",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11783",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jagantha-1766561031.jpg"
+    },
+    {
+      "title": "पाठकको काँधमा नेपाली महिला क्रिकेटको भविष्य, खेल तालिका सार्वजनिक",
+      "summary": "पाठकको काँधमा नेपाली महिला क्रिकेटको भविष्य, खेल तालिका सार्वजनिक",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11777",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Can-Patrakar-Sammelan-1766546671.jpg"
+    },
+    {
+      "title": "खाना भक्का, यसरी जित्दैछ सबैको मन",
+      "summary": "खाना भक्का, यसरी जित्दैछ सबैको मन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11776",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bhakka-Byapar-1766546336.jpg"
+    },
+    {
+      "title": "पन्नको उद्दारक बन्दै बागमतीका मुख्यमन्त्री बानियाँ",
+      "summary": "पन्नको उद्दारक बन्दै बागमतीका मुख्यमन्त्री बानियाँ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11758",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ghar-hastrantaran___-1766373085.jpg"
+    },
+    {
+      "title": "महासंघमा किन भाँडभैलो, अध्यक्षविरुद्ध तालाबन्दी",
+      "summary": "महासंघमा किन भाँडभैलो, अध्यक्षविरुद्ध तालाबन्दी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11756",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bibadit-apanga-mahasang___-1766372753.jpg"
+    },
+    {
+      "title": "ुरा मिल्यो, ५ महिनाकै तलब भत्ता आउने भयो",
+      "summary": "ुरा मिल्यो, ५ महिनाकै तलब भत्ता आउने भयो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11755",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Andolan-isthagit___-1766372572.jpg"
+    },
+    {
+      "title": "Nepal-born founder makes Forbes list for building fast-growing ‘house of brands’",
+      "summary": "The Assembly is marked by a conspicuous absence of state authorities, while NOC restresses problems that come with unnecessary state intervention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/10/nepal-born-founder-makes-forbes-list-for-building-fast-growing-house-of-brands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/world/PUTINBW-1767024250.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्रीद्वारा तमु ल्होसारको शुभकामना",
+      "summary": "श्रम मन्त्री भण्डारीले इराकमा वर्षौँदेखि काम गर्दै आएका नेपाली नेपाल सरकारको अभिलेखमा नभएको र अभिलेखीकरण गर्ने निर्णयसँगै राहत मिल्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/labor-minister-bhandari-s-three-decisions-new-hope-for-foreign-employment-13-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767069638_Rajendra-480x320.jpg"
+    },
+    {
+      "title": "पोखरेलको प्रश्न: चुनावी सरकारका मन्त्रीलाई उपसभापति बनाउनु कति उचित?",
+      "summary": "उनले तमु समुदायको तमु ल्होसार तथा दुरा समुदायको म्हैप्रु नकुमा पर्वका अवसरमा स्वदेश तथा विदेशमा रहेका सम्पूर्ण नेपालीहरूमा हार्दिक शुभकामना व्यक्त गरेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-extends-greetings-on-tamu-lhosar-24-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765266152_PM Karki-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्ड-रविलक्षित गोकुलको टिप्पणी : शक्ति केन्द्र एउटै, पात्र मात्र फरक देखिए",
+      "summary": "म्याग्दीको अन्नपूर्ण गाउँपालिकाका पर्यटकीयस्थलमा लेक लाग्ने (अक्सिजनको कमी)ले बिरामी परेका पर्यटकको प्राथमिक उपचार गर्ने जनशक्ति तयार पारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manpower-ready-to-treat-patients-suffering-from-altitude-sickness-in-annapurna-36-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748836775_Annapurna-480x320.jpg"
+    },
+    {
+      "title": "राजनीति आकर्षक बन्दै जानु सकारात्मक, तर चुनौतीपूर्ण यात्रा : चन्द्र भण्डारी",
+      "summary": "अब पहाडलाई भौगोलिक विकटताको दोष दिने होइन। पहाडमा पोखरी बनाई अस्थायी राहत होइन, स्थायी समृद्धिको बाटो रोज्ने समय आएको छ। हाम्रो खाद्य सुरक्षा र भविष्य पहाड र त्यसमा थामिएको पानीमा निर्भर छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/rainwater-storage-for-irrigation-46-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767067066_Kirshi-480x320.jpg"
+    },
+    {
+      "title": "धमाधम एकीकृत हुँदै मधेस केन्द्रित दल",
+      "summary": "श्रम मन्त्री भण्डारीले इराकमा वर्षौँदेखि काम गर्दै आएका नेपाली नेपाल सरकारको अभिलेखमा नभएको र अभिलेखीकरण गर्ने निर्णयसँगै राहत मिल्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/labor-minister-bhandari-s-three-decisions-new-hope-for-foreign-employment-13-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
