@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-30T08:38:40.229056",
+  "scraped_at": "2025-12-30T12:59:42.732562",
   "date": "2025-12-30",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/mushroom-production-and-promotion-has-been-a-priority-of-the-ministry-minister-pariyar-67-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "राजनीतिले निकास नदिँदा कलाकार र खेलाडी राजनीतिमा आउन बाध्य भए: रवि",
+      "summary": "पीडितहरुले गरेको पत्रकार सम्मेलनमा मौलिक हकमा अंकुश लगाउने सम्पूर्ण मापदण्ड खारेज गर,खोला मामदण्ड खारेज गर भन्ने आफूहरुको माग रहेको बताइयो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/if-the-river-standard-is-increased-by-another-20-meters-more-than-84-000-households-in-the-valley-alone-will-be-affected-47-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767099446_Bhaktapur News 1-480x320.jpg"
+    },
+    {
+      "title": "आजपा समानुपातिक : जेनजी, चर्चित मोडेल, समाजसेवी, सहकारी एवं लघुवित पीडितदेखि मुस्लिम अभियन्तासम्म उम्मेदवार",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले राजनीतिले निकास दिन नसक्दा र देशमा निराशा छाएपछि कलाकार, पत्रकार र खेलाडी राजनीतिमा आउन बाध्य भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/artists-and-journalists-were-forced-to-enter-politics-when-politics-did-not-provide-an-outlet-ravi-60-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767099067_lamichahne-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले बुझाएको समानुपातिकतर्फको बन्दसूचीमा को-को छन् ?",
+      "summary": "२१ फागुनमा हुने प्रतिनिधिसभाको निर्वाचनका लागि निर्वाचन आयोगमा आजपाले समानुपातिक तर्फको उम्मेदवारको बन्दसूची बुझाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ajp-proportional-candidates-from-jenji-famous-model-social-worker-cooperative-and-low-income-victims-to-muslim-activists-11-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767098348_Aam Janata Party-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकमा कुन दलले के पाए चुनाव चिह्न?",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेसहित पार्टीका शीर्ष नेताहरू मंगलबार साँझ सामूहिक रूपमा चलचित्र हेर्न हल पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rsp-leaders-join-ravi-in-the-hall-to-watch-the-rainbow-after-the-rain-90-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767097716_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "उदयपुरको मतदाता २ लाख ३८ हजार, १ सय ३ मतदानस्थल",
+      "summary": "पीडितहरुले गरेको पत्रकार सम्मेलनमा मौलिक हकमा अंकुश लगाउने सम्पूर्ण मापदण्ड खारेज गर,खोला मामदण्ड खारेज गर भन्ने आफूहरुको माग रहेको बताइयो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/if-the-river-standard-is-increased-by-another-20-meters-more-than-84-000-households-in-the-valley-alone-will-be-affected-47-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
