@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-30T12:59:42.732562",
+  "scraped_at": "2025-12-30T16:37:19.910836",
   "date": "2025-12-30",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/if-the-river-standard-is-increased-by-another-20-meters-more-than-84-000-households-in-the-valley-alone-will-be-affected-47-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "China halts Rasuwa dry port project",
+      "summary": "Nearly completed, the facility at Rasuwagadhi was swept away in July floods, and resumption remains uncertain.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/30/china-halts-rasuwa-dry-port-project",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/RASUWADRYPORT-1767102462.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dangol to serve as acting mayor of Kathmandu for over a year",
+      "summary": "Officials say a by-poll to replace Mayor Shah is unlikely as the government is focused on the March parliamentary elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/30/dangol-to-serve-as-acting-mayor-of-kathmandu-for-over-a-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/SUNITADANGOL-1767096761.png&w=300&height=200"
+    },
+    {
+      "title": "कृषि मन्त्रीको सय दिने उपलब्धि : संरचनात्मक सुधारदेखि दिगो उत्पादनसम्मको आधार",
+      "summary": "कृषि तथा पशुपन्छी विकास मन्त्री डा. मदनप्रसाद परियारले आफ्नो कार्यकालको एक सय दिनमा कृषि क्षेत्रको संरचनात्मक सुधार र दिगो उत्पादनमा महत्त्वपूर्ण आधार तयार भएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/agriculture-minister-s-100-day-achievements-from-structural-reforms-to-sustainable-production-86-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767111172_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "तोकिएकै मितिमा चुनाव र शान्ति सुरक्षा सरकारको अर्जुनदृष्टि : गृहमन्त्री अर्याल",
+      "summary": "नेपालले च्याउ खेतीले व्यावसायिक फड्को मार्दै वार्षिक २० अर्ब रुपैयाँ बराबरको कारोबार गर्न सफल भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/annual-mushroom-trade-of-rs-20-billion-but-transportation-of-raw-materials-is-a-problem-br-76-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767110753_chau-480x320.jpg"
+    },
+    {
+      "title": "आधुनिकताका कारण संस्कृति बचाउन मुस्किल: मुख्यमन्त्री",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले वर्तमान सरकारको मुख्य लक्ष्य सुशासन र सेवा प्रवाहलाई सुदृढीकरण गर्नु रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-commitment-to-elections-and-peace-and-security-on-the-scheduled-date-home-minister-aryal-22-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767108842_om-480x320.jpg"
+    },
+    {
+      "title": "‘नयाँ’ भनिने रास्वपालाई गिज्याउने ‘पुरानो’ भनिने कांग्रेसको बन्दसूची",
+      "summary": "कर्णालीका मुख्यमन्त्री यामलाल कँडेलले नेपाल सानो मुलुक भए पनि धर्म, संस्कृतिका हिसाबले धनी भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/difficult-to-save-culture-due-to-modernity-chief-minister-31-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762858543_Yamlal Kandel-480x320.jpg"
+    },
+    {
+      "title": "‘डेलिभरी’ को अघिल्लो दिनसम्म चुनावी अभियानमा हिँड्छु: रन्जु",
+      "summary": "कृषि तथा पशुपन्छी विकास मन्त्री डा. मदनप्रसाद परियारले आफ्नो कार्यकालको एक सय दिनमा कृषि क्षेत्रको संरचनात्मक सुधार र दिगो उत्पादनमा महत्त्वपूर्ण आधार तयार भएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/agriculture-minister-s-100-day-achievements-from-structural-reforms-to-sustainable-production-86-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
