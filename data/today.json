@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-30T04:45:13.815882",
+  "scraped_at": "2025-12-30T08:38:40.229056",
   "date": "2025-12-30",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/labor-minister-bhandari-s-three-decisions-new-hope-for-foreign-employment-13-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Parties submit PR lists, clearing the path for March polls",
+      "summary": "Congress and NCP have prioritised new faces but UML repeated old ones. RSP made its picks through a primary.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/30/parties-submit-pr-lists-clearing-the-path-for-march-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/chunab-1767057912.jpg&w=300&height=200"
+    },
+    {
+      "title": "च्याउ उत्पादन र प्रवर्द्धन मन्त्रालयको प्राथमिकतामा रहँदै आएको छ : मन्त्री परियार",
+      "summary": "कृषि तथा पशुपन्छी विकासमन्त्री डा मदनप्रसाद परियारले च्याउ उत्पादन, प्रवर्द्धन तथा व्यावसायीकरण मन्त्रालयको प्राथमिकतामा रहँदै आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mushroom-production-and-promotion-has-been-a-priority-of-the-ministry-minister-pariyar-67-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758542373_Madan_pariyar-480x320.jpg"
+    },
+    {
+      "title": "६४ दलले बुझाए समानुपातिकको बन्दसूची",
+      "summary": "रास्वपाले आयोगमा दिएको ११० जनाको समानुपातिक सूचीमा मोडल तथा अभिनेता रुपक विश्वकर्मा घिमिरे समेत परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/from-artists-to-miss-nepal-in-the-rsvp-s-proportional-list-63-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767082657_Kalakar-480x320.jpg"
+    },
+    {
+      "title": "यो देश मेरो पनि हो भन्ने सोच राखेर सबै पक्ष जिम्मेवार बनौँ : प्रधानमन्त्री कार्की",
+      "summary": "नेपाल सरकारबाट यही पुस ११ गते भएको निर्णयबमोजिम आज प्रथम राष्ट्रिय च्याउ दिवस मनाउन लागिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/there-are-1-150-species-of-mushrooms-in-nepal-including-100-poisonous-species-72-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748656334_King Mushroom-480x320.jpg"
+    },
+    {
+      "title": "तमु ल्होसारले बन्धुत्वको भावना बढाउने राष्ट्रपतिको विश्वास",
+      "summary": "आसन्न प्रतिनिधिसभा निर्वाचनका लागि ६४ राजनीतिक दलले समानुपातिक प्रणालीतर्फको बन्दसूची बुझाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/64-parties-submit-closed-lists-for-proportional-representation-73-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762261986_Election Commission1-480x320.jpg"
+    },
+    {
+      "title": "कुलमानलाई हर्कको कटाक्ष : एक महिनामै पोइल जाने पार्टी कुन हो?",
+      "summary": "कृषि तथा पशुपन्छी विकासमन्त्री डा मदनप्रसाद परियारले च्याउ उत्पादन, प्रवर्द्धन तथा व्यावसायीकरण मन्त्रालयको प्राथमिकतामा रहँदै आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mushroom-production-and-promotion-has-been-a-priority-of-the-ministry-minister-pariyar-67-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
