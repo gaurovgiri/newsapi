@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-31T16:35:09.361572",
+  "scraped_at": "2025-12-31T20:31:11.444324",
   "date": "2025-12-31",
-  "total_articles": 57,
+  "total_articles": 58,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -463,6 +463,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/private-schools-and-colleges-will-no-longer-be-allowed-to-hire-dis-92-64.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal’s poultry sector faces post-Covid challenges despite growing demand",
+      "summary": "Rising feed costs, dependency on imports, and shrinking hatcheries threaten Nepal’s once-thriving poultry industry as stakeholders call for government support ahead of National Poultry Day.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2025/12/31/nepal-s-poultry-sector-faces-post-covid-challenges-despite-growing-demand",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb8-1767196386.jpg&w=300&height=200"
     }
   ]
 }
