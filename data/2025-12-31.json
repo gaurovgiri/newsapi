@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2025-12-31T08:38:30.850359",
+  "scraped_at": "2025-12-31T12:57:52.186575",
   "date": "2025-12-31",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-government-completes-by-adding-6-ministers-at-once-br-84-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कपिलवस्तुमा ३ लाख ९६ हजार २६५ मतदाता, २३५ मतदान स्थल",
+      "summary": "कपिलवस्तुमा आउने फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा कुल ३ लाख ९६ हजार २६५ मतदाता कायम भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/396-265-voters-235-polling-stations-in-kapilvastu-40-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767185695_electin 1-480x320.jpg"
+    },
+    {
+      "title": "कोशीमा निर्वाचन अधिकृतको कार्यालय स्थापना",
+      "summary": "बुधबार जिल्ला अदालत मोरङका न्यायाधीश तथा कोशी प्रदेशका निर्वाचन अधिकृत भिष्मराज प्रसाईले कार्यालयको उद्घाटन गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-officer-s-office-established-in-koshi-83-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767185203_nirwachan koshi-480x320.jpg"
+    },
+    {
+      "title": "सुमनाले भनिन्- मेरो राजनीतिक भविष्यको चिन्ता नलिनू, ‘नयाँ रास्वपा’ लाई शुभकामना",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) परित्याग गरेकी नेतृ सुमना श्रेष्ठले आफ्नो राजनीतिक भविष्यको चिन्ता नगर्न आग्रह गर्दै रास्वपालाई शुभकामना दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sumana-said-don-t-worry-about-my-political-future-best-wishes-to-the-new-rashtriya-swayamsevak-sangh-br-97-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764755530_sumana--480x320.jpg"
+    },
+    {
+      "title": "बालेनका पिए रास्वपाको सहमहामन्त्री बन्दै",
+      "summary": "शाह अछाम क्षेत्र नम्बर २ बाट प्रतिनिधिसभामा प्रत्यक्ष तर्फको उम्मेदवार हुने पनि स्रोतले बतायो। अछाम शाहको जन्मस्थान पनि हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-pi-becomes-joint-general-secretary-of-the-rashtriya-swayamsevak-sangh-rss-63-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767183588_PA2-480x320.jpg"
+    },
+    {
+      "title": "नयाँ शक्तिमा जेलेन्स्की प्रवृत्ति देखियो, देशलाई ५० वर्ष पछाडि धकेल्ने खतरा छ: थापा",
+      "summary": "कपिलवस्तुमा आउने फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा कुल ३ लाख ९६ हजार २६५ मतदाता कायम भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/396-265-voters-235-polling-stations-in-kapilvastu-40-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
