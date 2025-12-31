@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-31T02:18:52.029570",
+  "scraped_at": "2025-12-31T04:43:17.211093",
   "date": "2025-12-31",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mulpani-titaure-road-being-blacktopped-with-world-bank-support-80-54.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ा सडक महोत्सवको रौनक,  पुस १३ देखि १७ सम्म उत्सव",
+      "summary": "ा सडक महोत्सवको रौनक,  पुस १३ देखि १७ सम्म उत्सव",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11834",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sadak-Mahotsab-1766981288.jpg"
+    },
+    {
+      "title": "राष्ट्रिय मेलमिलापमा नेता कोइरालाको जोड",
+      "summary": "अमेरिका र चीन दुवै धेरै विषयमा समान धारणा र व्यवहारदेखाउँछन्। दुवैले विश्व अर्थतन्त्रलाई अहिले बन्धक बनाइरहेका छन् र अरू सबैका लागि व्यापारका अवसरहरू खुम्च्याइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/arrogant-superpowers-and-the-world-economy-br-88-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767155755_vv 78-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकतर्फ ६४ दल: १० दल एकल र ५४ दल आफ्नै चिन्हमा लड्ने",
+      "summary": "राष्ट्रिय मेलमिलाप दिवसका अवसरमा आज एक सन्देश जारी गर्दै उनले पार्टीभित्रमात्र नभई मुलुकमा नै राष्ट्रिय एकता आजको आवश्यकता भएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/leader-koirala-s-emphasis-on-national-reconciliation-84-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753239731_shekhar koirala-480x320.jpg"
+    },
+    {
+      "title": "जेन-जी कसैको अन्धभक्त बन्दैनन्: भावना राउत",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत समानुपातिकतर्फ ६४ वटा दलले भाग लिने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/64-parties-in-proportional-representation-10-parties-will-contest-alone-and-54-parties-will-contest-under-their-own-symbols-br-89-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763258984_Aayog 45-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री बांग्लादेश प्रस्थान",
+      "summary": "क्रमिक रुपमा बढ्दै गएको चिसोपनको समयमा न्यानो कपडाको अभावमा राति सुतेको सदाय आज बिहान मृत अवस्थामा ओछ्यानमा भेटिएको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-hit-by-cold-wave-55-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "राज्य सञ्चालन अनुहारले होइन विचार र संगठनले हुन्छ : सचिव अर्याल",
+      "summary": "अमेरिका र चीन दुवै धेरै विषयमा समान धारणा र व्यवहारदेखाउँछन्। दुवैले विश्व अर्थतन्त्रलाई अहिले बन्धक बनाइरहेका छन् र अरू सबैका लागि व्यापारका अवसरहरू खुम्च्याइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/arrogant-superpowers-and-the-world-economy-br-88-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
