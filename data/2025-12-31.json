@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2025-12-31T04:43:17.211093",
+  "scraped_at": "2025-12-31T08:38:30.850359",
   "date": "2025-12-31",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -318,6 +318,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/arrogant-superpowers-and-the-world-economy-br-88-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Forever rivals, UML and Congress hint at possible poll tie-up",
+      "summary": "Top leaders from the two parties stress they should come together to ‘protect democracy’.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/31/forever-rivals-uml-and-congress-hint-at-possible-poll-tie-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/thumb7-1767142372.jpg&w=300&height=200"
+    },
+    {
+      "title": "एकसाथ ६ मन्त्री थपेर मधेश सरकारलाई पूर्णता",
+      "summary": "मुख्यमन्त्री यादवले तेस्रोपटक मन्त्रिपरिषद् विस्तार गरेसँगै सरकारले पूर्णता पाएको छ। यादव गत १९ मंसिरमा मुख्यमन्त्रीमा नियुक्त भएपनि दलीय भागबन्डा नमिल्दा मन्त्रिपरिषद् विस्तार हुन सकेको थिएन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-government-completes-by-adding-6-ministers-at-once-br-84-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767169649_Madesh Cabinet -480x320.jpg"
+    },
+    {
+      "title": "भारतीय मिडियासँग बाबुरामले भने : नेपालमा राजतन्त्र फर्किने सम्भावना ‘शून्य’",
+      "summary": "निबन्धकार वसन्त खनालकाे निर्बन्ध- आख्यान कृतिको पाण्डुलिपि केन्द्रित विमर्श भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/discussion-of-the-manuscript-of-the-restriction-narrative-work-br-43-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767169736_mud 67-480x320.jpg"
+    },
+    {
+      "title": "नेपाल इतिहासकै कठिन मोडमा छ : उपमहासचिव भट्टराई",
+      "summary": "पूर्वप्रधानमन्त्री भट्टराईले जेनजी प्रदर्शन, नेपाल-भारत सम्बन्ध, अग्निपथ योजनालगायत विषयमा पनि कुरा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/baburam-told-indian-media-the-possibility-of-the-monarchy-returning-to-nepal-is-zero-58-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767168643_Baburam-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा नजाने निर्णय गरेका अर्जुननरसिंह केसी कांग्रेसको समानुपातिक बन्द सूचीमा",
+      "summary": "पूर्वमा नाम चलेका १३ जना कविले एकपछि अर्को कविता वाचन गर्दै गए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/audience-audience-captivated-by-the-poetry-presented-in-itahari-s-poetry-hall-78-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767168509_90 nepal-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा बाधा भए पनि तोकिएकै मितिमा गराउनुपर्छ : मुख्यमन्त्री कार्की",
+      "summary": "मुख्यमन्त्री यादवले तेस्रोपटक मन्त्रिपरिषद् विस्तार गरेसँगै सरकारले पूर्णता पाएको छ। यादव गत १९ मंसिरमा मुख्यमन्त्रीमा नियुक्त भएपनि दलीय भागबन्डा नमिल्दा मन्त्रिपरिषद् विस्तार हुन सकेको थिएन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-government-completes-by-adding-6-ministers-at-once-br-84-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
