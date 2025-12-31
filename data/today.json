@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2025-12-31T12:57:52.186575",
+  "scraped_at": "2025-12-31T16:35:09.361572",
   "date": "2025-12-31",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -414,6 +414,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/396-265-voters-235-polling-stations-in-kapilvastu-40-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RPP and RPP-Nepal reunify",
+      "summary": "The two parties finalised their merger on Tuesday, a week after Rajendra Lingden and Kamal Thapa signed unity agreement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2025/12/31/rpp-and-rpp-nepal-reunify",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/news/thapalingden-1767183257.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rampaging elephants force Kachanakawal farmers to slash sweet potato cultivation",
+      "summary": "Farmers’ efforts to deter the pachyderms have failed. Experts say the area lies on elephant corridor and growing human encroachment has worsened conflicts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2025/12/31/rampaging-elephants-force-kachanakawal-farmers-to-slash-sweet-potato-cultivation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2025/third-party/photo3301220251256041000x0-1767193956.jpg&w=300&height=200"
+    },
+    {
+      "title": "अन्योलमा कांग्रेस अधिवेशन",
+      "summary": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालयले देशभरका निजी शिक्षण संस्थाहरूमा ‘डिसिपिलिन इन्चार्ज’ (डिआई) अर्थात् अनुशासन प्रमुख राख्न नपाउने गरी प्रतिबन्ध लगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/private-schools-and-colleges-will-no-longer-be-allowed-to-hire-dis-92-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767198851_e-480x320.jpg"
+    },
+    {
+      "title": "‘कांग्रेस गठबन्धनको वैशाखी टेक्दैनौं, एक्लै लड्छ’",
+      "summary": "पूर्वनिर्धारित मितिमा बुधबार वडा अधिवेशन नभएपछि महाधिवेशनको समग्र कार्यतालिका प्रभावित भएको छ। तर कांग्रेस केन्द्रीय समितिले महाधिवेशन कार्यतालिका संशोधन वा अधिवेशन स्थगनको सूचना जारी गरेको छैन। यसबाट नेता–कार्यकर्तामा अन्योल बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-session-in-confusion-br-58-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767197601_ss-480x320.jpg"
+    },
+    {
+      "title": "‘म नै हुँ’ भन्ने ‘अहंकार’ ले पार्टी चल्दैन, म दुई पुस्ता जोड्ने ‘पुल’ बन्न सक्छु : डा. महत",
+      "summary": "नयाँ वर्षसँगै मुलुकका पर्यटकीय क्षेत्रमा स्वदेशी तथा विदेशी पर्यटकले भरिभराउ रहेका छन् । अहिले मेला, महोत्सव, क्रिसमससँगै बिहीबारदेखि अंग्रेजी नयाँ वर्षको रमझम छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/hotels-in-tourist-areas-are-full-95-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767196505_Thamel-480x320.jpg"
+    },
+    {
+      "title": "महाधिवेशन नहुनुको दोष महामन्त्रीहरूले सभापतिलाई थोपर्न मिल्दैन: डा. महत",
+      "summary": "सर्वोच्च अदालतले मानसिक स्वास्थ्यसम्बन्धी विषयमा दिएको आदेश तथा परमादेश कार्यान्वयन नहुँदा मानसिक स्वास्थ्य सेवा उपेक्षामा परेको सरोकारवालाले गुनासो गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/mental-health-services-neglected-due-to-non-implementation-of-supreme-court-s-mandate-61-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767196166_Pro-480x320.jpg"
+    },
+    {
+      "title": "नयाँ दलहरूसँग न भिजन छ, न राजनीतिक संस्कार: डा. महत",
+      "summary": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालयले देशभरका निजी शिक्षण संस्थाहरूमा ‘डिसिपिलिन इन्चार्ज’ (डिआई) अर्थात् अनुशासन प्रमुख राख्न नपाउने गरी प्रतिबन्ध लगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/private-schools-and-colleges-will-no-longer-be-allowed-to-hire-dis-92-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
