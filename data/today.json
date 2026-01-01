@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-01T04:53:05.450963",
+  "scraped_at": "2026-01-01T08:38:25.583548",
   "date": "2026-01-01",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -343,6 +343,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/nepal-open-university-to-operate-at-full-capacity-with-handover-of-report-29-35.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767239841_khula-480x320.jpg"
+    },
+    {
+      "title": "Locals protest after Sunsari shooting, block highway",
+      "summary": "Tensions flare in Laukahi Bazar following the death of Vijay Sah in a police firing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/01/locals-protest-after-sunsari-shooting-block-highway",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/laukahi01120260611441000x01-1767246067.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali students duped in UAE lodge another complaint at education ministry",
+      "summary": "According to reports, the UAE government is preparing to overhaul the country’s education sector with stern legal provisions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/01/nepali-students-duped-in-uae-lodge-another-complaint-at-education-ministry",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1767226981.jpg&w=300&height=200"
+    },
+    {
+      "title": "Celebrities, Gen Z and the ballot",
+      "summary": "Public figures are calling on young Nepalis to vote, seeing the election as a chance to end decades of political instability—while remaining wary of repeating past mistakes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/01/celebrities-gen-z-and-the-ballot",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mainnn-1767247534.jpg&w=600&height=400"
+    },
+    {
+      "title": "The cost of staying clean in a dirty system",
+      "summary": "Those now trying to stop polls will be fighting a losing battle—and earning public ire.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2025/12/31/the-cost-of-staying-clean-in-a-dirty-system",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/IMG9764-1767242281.jpg&w=400&height=267"
+    },
+    {
+      "title": "समानुपातिक सूचीमा हकदार कि पहुँचवाला ?",
+      "summary": "नेपाल–भारतबीच महाकाली सन्धि भएको तीन दशक पूरा भइसके पनि महाकाली सिँचाइ आयोजना तेस्रो चरणको मूल नहरमा भने पानी बग्ने सुरसार छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-decades-of-the-mahakali-treaty-no-water-flows-for-irrigation-79-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1674967666_mahakali bridge-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा मै हुँ भन्ने प्रवृत्ति हाबी: महत",
+      "summary": "काठमाडौंमा जारी नवौँ महिला तथा पुरुष एनभिए भलिबल च्याम्पियनसिपमा पुरुषतर्फ नेपाल पुलिस क्लब सेमिफाइनलमा पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nva-championship-police-club-advances-to-semifinals-40-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767254574_volleyball-480x320.jpg"
     }
   ]
 }
