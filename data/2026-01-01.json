@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-01T08:38:25.583548",
+  "scraped_at": "2026-01-01T12:58:01.890955",
   "date": "2026-01-01",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -383,6 +383,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/nva-championship-police-club-advances-to-semifinals-40-48.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767254574_volleyball-480x320.jpg"
+    },
+    {
+      "title": "Around 40 killed, 100 injured in explosion in Swiss ski resort bar, police say",
+      "summary": "A fire broke out at 1.30 am (0030 GMT) in a bar called “Le Constellation” in the resort in southwestern Switzerland.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/01/around-40-killed-100-injured-in-explosion-in-swiss-ski-resort-bar-police-say",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/swissbarexplosion-1767270565.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेन शाहको योगदान महानगर प्रहरीले सयौं वर्षसम्म बिर्सने छैन: प्रहरी प्रमुख पाण्डे",
+      "summary": "यस वर्षको विदेशी पर्यटनको आगमन कोभिड–१९ को महामारीअघिको तुलनामा ९७ प्रतिशतसम्म पुगेको पर्यटन बोर्डले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/1-15-million-foreign-tourists-entered-in-2025-how-many-from-which-countries-15-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767271613_tou1-480x320.jpg"
+    },
+    {
+      "title": "कोशी सरकार पुनर्गठन हुन्छ: मुख्यमन्त्री कार्की",
+      "summary": "कोशी प्रदेशमा प्राविधिक तथा व्यावसायिक सीप परीक्षण गराउनेहरूमा पुरुषको तुलनामा महिलाको सङ्ख्या उल्लेख्य देखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/women-s-attraction-to-technical-fields-is-increasing-83-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767271320_It-480x320.jpg"
+    },
+    {
+      "title": "स्वर्णलक्ष्मी सहकारी प्रकरण: रविसहितलाई धरौटीमा छाड्ने आदेश उच्चद्वारा सदर",
+      "summary": "धरानको प्रभात सेकेन्डरी इङ्लिस बोर्डिङ स्कुल कोशी प्रदेशस्तरीय अन्तरविद्यालय डीआइजी रनिङ् कप फुटबल प्रतियोगिताको उपाधि नजिक पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/prabhat-secondary-in-the-finals-of-the-dig-cup-39-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767271016_Game-480x320.jpg"
+    },
+    {
+      "title": "लेखकमाथिको स्थानहद फुकुवा",
+      "summary": "चौदण्डीगढी, त्रियुगा र बेलका नगरका स्थानीयको आँखा परीक्षण गर्न शिविर आयोजना हुने भएको हो । शिविर पुस १९ देखि ३० गतेसम्म सञ्चालन हुनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/three-municipalities-in-udayapur-are-running-eye-camps-10-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740014152_eye sibir-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद चाँडै हेरफेर हुन्छ: मुख्यमन्त्री कार्की",
+      "summary": "यस वर्षको विदेशी पर्यटनको आगमन कोभिड–१९ को महामारीअघिको तुलनामा ९७ प्रतिशतसम्म पुगेको पर्यटन बोर्डले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/1-15-million-foreign-tourists-entered-in-2025-how-many-from-which-countries-15-37.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
