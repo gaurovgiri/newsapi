@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-01T02:30:27.924234",
+  "scraped_at": "2026-01-01T04:53:05.450963",
   "date": "2026-01-01",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dharan-day-on-20th-poush-public-holiday-in-dharan-14-58.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "्नति गर्नुपर्न राजमार्गमा टालटुल शुरु",
+      "summary": "्नति गर्नुपर्न राजमार्गमा टालटुल शुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11868",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Siddartha-Rajmarg-1767238248.jpg"
+    },
+    {
+      "title": "वन विमानस्थलभन्दा अब्बल गौतम बुद्ध अन्तराष्ट्रिय विमानस्थल !",
+      "summary": "वन विमानस्थलभन्दा अब्बल गौतम बुद्ध अन्तराष्ट्रिय विमानस्थल !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11867",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sarokarwalako-Dukheso-1767238023.jpg"
+    },
+    {
+      "title": "शितलहर, विपन्न समुदाय प्रभावित",
+      "summary": "शितलहर, विपन्न समुदाय प्रभावित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11848",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/chiso-1767150395.jpg"
+    },
+    {
+      "title": "Election bound",
+      "summary": "The bull market, fuelled by stagnant capital and protected by a captured regulator, is a dangerous mirage.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2025/12/31/election-bound",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi1DN5MUXKMSBMNXC575AZ3HEQCPY-1767233748.jpg&w=400&height=267"
+    },
+    {
+      "title": "दुर्गा प्रसाईंसँग वार्ता गर्दै सरकार",
+      "summary": "सिन्धुलीमाढी र खुर्कोट बजारबाट करिब २० किलोमिटर दूरीमा रहेको सिन्धुलीगढीमादैनिक दुई सयभन्दा बढी पर्यटक पुग्ने गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tourist-attraction-increasing-in-historic-sindhuligarhi-30-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767242600_collage (26)-480x320.jpg"
+    },
+    {
+      "title": "दलहरूले समानुपातिक निर्वाचन प्रणालीको चरम दुरुपयोग गरे : बस्नेत",
+      "summary": "नेपाली भूमिको आमा र भारतीय भूमिको बुबाको एक छोराको कथा ‘बम बिहारी’ मा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-film-bam-bihari-is-being-made-53-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767242308_ff 56-480x320.jpg"
+    },
+    {
+      "title": "चीनको दाबी: हामीले भारत–पाकिस्तान संघर्ष रोक्यौँ",
+      "summary": "सरकारले आज राष्ट्र, राष्ट्रियता, धर्म, संस्कृति तथा नागरिक बचाऊ महाअभियानका संयोजक दुर्गा प्रसाईंसँग वार्ता गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-holding-talks-with-durga-prasai-br-76-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743067519_Durga prasain _ Nagarik-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री शर्मा बङ्लादेशका पूर्वप्रधानमन्त्री जियाको राजकीय अन्त्येष्टिमा सहभागी",
+      "summary": "नेपाल खुला विश्वविद्यालयलाई पूर्ण क्षमतामा सञ्चालन गर्न शिक्षा मन्त्रालयले तयार पारेको प्रतिवेदन हस्तान्तरण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/nepal-open-university-to-operate-at-full-capacity-with-handover-of-report-29-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767239841_khula-480x320.jpg"
     }
   ]
 }
