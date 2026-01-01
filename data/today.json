@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-01T12:58:01.890955",
+  "scraped_at": "2026-01-01T16:36:07.993144",
   "date": "2026-01-01",
-  "total_articles": 54,
+  "total_articles": 62,
   "sources": [
     "NagarikNews",
     "News24",
@@ -438,6 +438,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/1-15-million-foreign-tourists-entered-in-2025-how-many-from-which-countries-15-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Patan High Court refuses custody plea filed against RSP chief Lamichhane",
+      "summary": "Court upholds district court’s decision to release RSP chair on bail in Swarnalaxmi cooperative case",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/01/patan-high-court-refuses-custody-plea-filed-against-rsp-chief-lamichhane",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rabilamichhane261220220702001000x0181220251201361000x0-1767282248.jpg&w=300&height=200"
+    },
+    {
+      "title": "Qatar grants Amiri Amnesty to 13 Nepali prisoners",
+      "summary": "Nepal calls the humanitarian pardon a reflection of deepening friendship between the two countries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/01/qatar-grants-amiri-amnesty-to-13-nepali-prisoners",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/shutterstock2341048237-1767278789.jpg&w=300&height=200"
+    },
+    {
+      "title": "Inquiry commission lifts former home minister Lekhak’s travel ban",
+      "summary": "The panel investigating the September 8–9 incidents is preparing to summon former prime minister Oli to record his statement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/01/inquiry-commission-lifts-former-home-minister-lekhak-s-travel-ban",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/LEKHAK-1767270890.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेपाली कांग्रेस केन्द्रीय कार्यसम्पादन समिति बैठक भोलि",
+      "summary": "नेपाल–भारतबीच महाकालीसन्धि भएको तीन दशक पूरा भइसकेपनि महाकाली सिँचाइ आयोजना तेस्रो चरणको मूलनहरमा भने पानी बग्ने सुरसार छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-decades-of-the-mahakali-treaty-no-water-flows-for-irrigation-42-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767284087_Tanakpur-480x320.jpg"
+    },
+    {
+      "title": "अब राहदानी छपाइसँगै वितरण साविक अनुसार",
+      "summary": "गोदावरी नगरपालिका- ११ चापागाउँमा सञ्चालित तिलगंगा सर्जिकल आँखा केन्द्रले स्थापनाको पहिलो वर्ष पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/one-year-of-tilganga-surgical-eye-center-services-to-12-000-76-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767283780_ti-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक निर्वाचन प्रणालीको दुरुपयोगप्रति नागरिक समाजको आपत्ति",
+      "summary": "सुर्खेतको वीरेन्द्रनगर नगरपालिका–१२ बिरुवाबारीमा कोठामा निस्सासिएर एक जनाको मृत्यु भएको । निस्सासिएर अन्य दुई जना बेहोस अवस्थामा भेटिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-of-suffocation-two-unconscious-14-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767236945_1756729847_death-1200x560-480x320.jpg"
+    },
+    {
+      "title": "नेपालको राष्ट्रिय पहिचानको संरक्षणमा सबै जुट्नुपर्छः सञ्चारमन्त्री खरेल",
+      "summary": "सुरुङमार्ग सञ्चालन गर्न सडक विभागले सेवा प्रदायक कम्पनी छान्न नसकेका कारण ९८ प्रतिशतभन्दा बढी काम पूरा भइसक्दा पनि नागढुंगा सुरुङमार्ग अझै सञ्चालन हुन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/it-is-difficult-to-choose-a-company-to-operate-the-tunnel-route-83-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767283453_surung-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विवाद उत्कर्षमा: गगन–विश्वले गरे नियमित महाधिवेशन स्थगितको घोषणा",
+      "summary": "नेपाल–भारतबीच महाकालीसन्धि भएको तीन दशक पूरा भइसकेपनि महाकाली सिँचाइ आयोजना तेस्रो चरणको मूलनहरमा भने पानी बग्ने सुरसार छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-decades-of-the-mahakali-treaty-no-water-flows-for-irrigation-42-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
