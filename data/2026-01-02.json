@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-02T04:48:17.260685",
+  "scraped_at": "2026-01-02T08:38:23.188389",
   "date": "2026-01-02",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -367,6 +367,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/australian-batsman-s-retirement-accusations-of-racial-bias-32-48.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767327015_USMAN-480x320.jpg"
+    },
+    {
+      "title": "नै मधेशमा धेरै सवारी दुर्घ’टना, हता’हत हुने पनि उस्तै",
+      "summary": "नै मधेशमा धेरै सवारी दुर्घ’टना, हता’हत हुने पनि उस्तै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11878",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sadak-durghatana-___-1767324465.jpg"
+    },
+    {
+      "title": "Leadership dispute puts Congress in crisis",
+      "summary": "Amid tensions with party chief Deuba, general secretaries Thapa and Sharma unilaterally call special convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/02/leadership-dispute-puts-congress-in-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/11-1767317636.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेसमा पुस २८ भित्रै विशेष महाधिवेशन गर्न माग",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले भूकम्पबाट हुने क्षति न्यूनीकरणका लागि सुरक्षित निर्माण, बसोबास र व्यवहार अपरिहार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/safe-construction-housing-and-behavior-are-essential-to-minimize-damage-from-earthquakes-92-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767341118_aryal-480x320.jpg"
+    },
+    {
+      "title": "हाम्रो पुस्ताले 'कपटी' ओलीले गर्ने राजनीति जानेकै छैनौँ : भावना राउत",
+      "summary": "१५ जनवरीबाट सुरु हुने विश्वकपको लागि श्रीलंकाले विमथ दिनसाराको कप्तानीमा १५ सदस्यीय टोलीको घोषणा गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/icc-u-19-world-cup-sri-lankan-squad-announced-84-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767341288_Sri Lanka name squad for U19 Men’s Cricket World Cup-480x320.jpg"
+    },
+    {
+      "title": "बन्द सूचीमा विवाद आएपछि उम्मेदवार फेरबदल गर्न मिल्छ कि मिल्दैन?",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालको अध्यक्षतामा आज बसेको भूकम्प सुरक्षा दिवस मूल समारोह समितिको बैठकले यस वर्षको नारा तय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/slogan-for-28th-earthquake-safety-day-set-71-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767341118_aryal-480x320.jpg"
+    },
+    {
+      "title": "लोकतन्त्रलाई ट्रयाकमा ल्याउने जिम्मेवारी एमालेमा आएको छ : अध्यक्ष ओली",
+      "summary": "एक दशकअघिसम्म गुमनाम रहेको बेलढुङ्गा अहिले पर्यटकीय गन्तव्यका रूपमा परिचित भइसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tourists-in-beldhunga-to-see-the-mountains-19-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767340855_beldhunga-480x320.jpg"
+    },
+    {
+      "title": "जेलब्रेक गर्नेहरूलाई अगुवा बनाएर अगाडि बढ्न खोजियो : ओली",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले भूकम्पबाट हुने क्षति न्यूनीकरणका लागि सुरक्षित निर्माण, बसोबास र व्यवहार अपरिहार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/safe-construction-housing-and-behavior-are-essential-to-minimize-damage-from-earthquakes-92-65.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
