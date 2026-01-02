@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-02T02:21:12.954960",
+  "scraped_at": "2026-01-02T04:48:17.260685",
   "date": "2026-01-02",
-  "total_articles": 34,
+  "total_articles": 46,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -279,6 +279,102 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-24-32.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "एस पढ्न गरिबीले रोक्न खोज्यो, मेहनतले जित्यो",
+      "summary": "एस पढ्न गरिबीले रोक्न खोज्यो, मेहनतले जित्यो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11877",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Omprakash-Dashko--Chinta-1767323929.jpg"
+    },
+    {
+      "title": "ुम्ने जोखिमपछि स्थानीय आन्दोलनमा",
+      "summary": "ुम्ने जोखिमपछि स्थानीय आन्दोलनमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11869",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sthaniyako-Abarodha-1767238457.jpg"
+    },
+    {
+      "title": "Central bank sees signs of recovery, but private sector still wary",
+      "summary": "Bank points to policy support, easing inflation and election spending as lift factors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/01/central-bank-sees-signs-recovery-but-private-sector-still-wary",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/5-1767271098.jpg&w=300&height=200"
+    },
+    {
+      "title": "Under mounting criticism, parties pledge to correct lists of their proportional candidates",
+      "summary": "Parties are found to have undermined constitutional spirit of representing marginalised communities so as to award their relatives and favourites.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/02/under-mounting-criticism-parties-pledge-to-correct-lists-of-their-proportional-candidates",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/WhatsAppImage20260102at70822AM-1767319362.jpg&w=300&height=200"
+    },
+    {
+      "title": "A year of highs and lows for Nepali sports in 2025",
+      "summary": "2025 saw Nepali sports shine with major cricket milestones and international success but also faced controversies in football and sports governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/02/a-year-of-highs-and-lows-for-nepali-sports-in-2025",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SP1-1767320387.jpg&w=600&height=400"
+    },
+    {
+      "title": "When his dream came true",
+      "summary": "2025 saw Nepali sports shine with major cricket milestones and international success but also faced controversies in football and sports governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/01/02/when-his-dream-came-true",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi_123_6SDPGSTMBNMKXDQB2FOE7XG2BQ.jpg&w=400&height=267"
+    },
+    {
+      "title": "The three musketeers",
+      "summary": "Dr Bhagwan Koirala has done the country great service by establishing KIOCH.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/02/the-three-musketeers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "New voices, old promises",
+      "summary": "The new alliance between Lamichhane, Shah and Ghising opens a promising new political front.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/02/new-voices-old-promises",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/lifestyle/CS1-1767322421.jpg&w=400&height=267"
+    },
+    {
+      "title": "Rhythms of Rajasthan in Kathmandu",
+      "summary": "A few good picks can’t justify widespread capture of Proportional Representation seats by powerful elites.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/02/rhythms-of-rajasthan-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SP1-1767320387.jpg&w=400&height=267"
+    },
+    {
+      "title": "Celebrities, Gen Z and the ballot",
+      "summary": "Government spokesperson Fatemeh Mohajerani said on Thursday that the authorities would hold a direct dialogue with representatives of trades unions and merchants, but without giving details.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/01/celebrities-gen-z-and-the-ballot",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/thumb-1767319891.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रत्यक्ष उम्मेदवारको नामावली पठाउन जसपा नेपालको निर्देशन",
+      "summary": "कठ्याङ्ग्रिँदो चिसोसँगै हुस्सु लाग्दा सवारीसाधन चलाउन पनि समस्या भएको सवारी चालक नेपालगञ्ज १६ का रामप्रसाद थारु बताउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dense-fog-disrupts-normal-life-in-terai-number-of-patients-increases-61-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767327643_Hussu-480x320.jpg"
+    },
+    {
+      "title": "गोकुलको चिन्ता : नेपाली राजनीति ‘पाकिस्तानी-बंगलादेशी मोडेल’मा, हिंस्रक हुने खतरा",
+      "summary": "ख्वाजाले सिड्नी क्रिकेट मैदानमा पत्रकार सम्मेलन गरेर सन्यास घोषणा गरे, जसमा उनकी श्रीमती, दुई छोरी र आमाबुबा उपस्थित थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/australian-batsman-s-retirement-accusations-of-racial-bias-32-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767327015_USMAN-480x320.jpg"
     }
   ]
 }
