@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-02T12:56:44.840918",
+  "scraped_at": "2026-01-02T16:35:07.314690",
   "date": "2026-01-02",
-  "total_articles": 61,
+  "total_articles": 70,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -494,6 +494,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-to-be-held-in-mid-december-gagan-70-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Contraceptive shortages are driving up abortions in Nepal",
+      "summary": "Abortion rate has risen by over 31 percent in four years, and experts say unsafe abortions could put maternal health at risk.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/02/contraceptive-shortages-are-driving-up-abortions-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1767363648.jpg&w=300&height=200"
+    },
+    {
+      "title": "Women activists protest political parties’ PR lists",
+      "summary": "Over 200 women and civil society activists marched in Kathmandu demanding fair representation and accountability from political parties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/02/women-activists-protest-political-parties-pr-lists",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/protestMaitigar-1767359684.jpg&w=300&height=200"
+    },
+    {
+      "title": "Top court orders Election Commission to ensure inclusion of people with disabilities in PR lists",
+      "summary": "Interim order directs the poll body to make sure parties revise closed lists in line with the constitution, law and earlier court rulings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/02/top-court-orders-election-commission-to-ensure-inclusion-of-people-with-disabilities-in-pr-lists",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1767354837.jpg&w=300&height=200"
+    },
+    {
+      "title": "Engineering students are designing a settlement to suit Chepang way of life",
+      "summary": "A team from the Tribhuvan University’s Pulchowk campus is in Chitwan to build homes for a 57-household settlement. Bagmati provincial government is funding the project.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/02/engineering-students-are-designing-a-settlement-to-suit-chepang-way-of-life",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/chepang-1767358504.jpg&w=600&height=400"
+    },
+    {
+      "title": "सञ्चारमन्त्री भन्छन्: देश निर्माण गर्न एउटा पुस्ताले त्याग गर्नुपर्छ",
+      "summary": "जाडोयाम सुरु भएसँगै चिसो, कुहिरो, हिमपात लगायतका कारण जनस्वास्थ्यमा प्रतिकूल असर पर्न थालेको भन्दै स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयले आवश्यक सतर्कता अपनाउन आग्रह गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ministry-appeals-to-adopt-health-precautions-during-winter-35-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766134837_Cold-480x320.jpg"
+    },
+    {
+      "title": "६ बुँदे सम्झौतापछि तोडियो डा निकोलस भुसालको अनसन",
+      "summary": "संञ्चार तथा सूचना प्रबिधि मन्त्री जगदिश खरेलले देश निर्माणका लागि एउटा पुस्ताले त्याग गर्नु पर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-says-a-generation-must-sacrifice-to-build-the-country-61-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767370736_Jagadish1-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन रोक्ने बहाना स्वीकार्य छैनः योगेश भट्टराई",
+      "summary": "झापाको भद्रपुर विमानस्थलमा भएको विमान दुर्घटनामा सवार सबै यात्रु सुरक्षित भएका छन् । अवतरणका क्रममा बुद्ध एयरको विमान रन–वेबाट चिप्लिएर दुर्घटनामा परेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/update-all-passengers-safe-in-bhadrapur-plane-crash-65-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767369675_buddha-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस निर्णयः १५ औँ महाधिवेशन अघि बढिसक्यो, विशेषको औचित्य स्वतः समाप्त (निर्णयहरू)",
+      "summary": "बुद्ध एयरको जहाज भद्रपुर विमानस्थलमा दुर्घटनामा परेको छ । विमान रन–वेबाट चिप्लिएको झापाका प्रमुख जिल्ला अधिकारी शिवराम गेलालले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/buddha-air-plane-skids-off-runway-46-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767369675_buddha-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिमा विशेष महाधिवेशनको पक्षमा पाँच जना मात्रै!",
+      "summary": "जाडोयाम सुरु भएसँगै चिसो, कुहिरो, हिमपात लगायतका कारण जनस्वास्थ्यमा प्रतिकूल असर पर्न थालेको भन्दै स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयले आवश्यक सतर्कता अपनाउन आग्रह गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ministry-appeals-to-adopt-health-precautions-during-winter-35-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
