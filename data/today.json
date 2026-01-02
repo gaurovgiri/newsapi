@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-02T16:35:07.314690",
+  "scraped_at": "2026-01-02T20:30:55.023234",
   "date": "2026-01-02",
-  "total_articles": 70,
+  "total_articles": 71,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -567,6 +567,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ministry-appeals-to-adopt-health-precautions-during-winter-35-74.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepali Congress schedules general convention for May 11-14",
+      "summary": "General Secretaries Thapa and Sharma are adamant that the ‘mandatory’ special convention be held before the March 5 elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/02/nepali-congress-schedules-general-convention-for-may-11-14",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nepalicongresscentralcomittemeetingphotos01022026BT5A0131-1767367018.jpg&w=300&height=200"
     }
   ]
 }
