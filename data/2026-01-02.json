@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-02T08:38:23.188389",
+  "scraped_at": "2026-01-02T12:56:44.840918",
   "date": "2026-01-02",
-  "total_articles": 52,
+  "total_articles": 60,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -422,6 +422,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/safe-construction-housing-and-behavior-are-essential-to-minimize-damage-from-earthquakes-92-65.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Valley chokes as PM2.5 soars. Experts urge urgent action",
+      "summary": "Most monitoring stations showed red alerts Thursday. Light rain expected Friday may not clean the air.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/01/valley-chokes-as-pm2-5-soars-expert-urge-urgent-action",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/AIR-1767318195.jpg&w=300&height=200"
+    },
+    {
+      "title": "Probe commission seeks statements from Deuba and Dahal over September incidents",
+      "summary": "The commission has sent questionnaires to top leaders and plans to write to former prime minister KP Sharma Oli.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/02/probe-commission-seeks-statements-from-deuba-and-dahal-over-september-incidents",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1767348219.jpg&w=300&height=200"
+    },
+    {
+      "title": "Armed Police Force begins probe into Sunsari shooting",
+      "summary": "A 45-year-old man was killed after being shot in Koshi Rural Municipality, Sunsari.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-2/2026/01/02/armed-police-force-begins-probe-into-sunsari-shooting",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1767348342.jpg&w=300&height=200"
+    },
+    {
+      "title": "पुस मसान्तमा विशेष महाधिवेशन हुन्छः गगन",
+      "summary": "शुक्रबार केन्द्रीय कार्यसम्पादन समितिको बैठकले वैशाखमा नियमित महाधिवेशनको मिति तय गरेपछि विशेष महाधिवेशन अनिवार्य बनेको उनले बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-to-be-held-in-mid-december-gagan-70-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766380122_Gagan Thapa-480x320.jpg"
+    },
+    {
+      "title": "१५ औँ महाधिवेशनमा प्रवेश गरिसक्यौँ, कार्य तालिकाअनुसार काम मात्रै नभएको होः प्रवक्ता महत",
+      "summary": "नेपाल पुसिल स्कुल र प्रभात सेकेन्डरी स्कुलबिच भोलि डिआइजी कप फुटबलमा उपाधि भिडन्त हुँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/police-and-prabhat-secondary-clash-for-the-title-in-the-dig-cup-30-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767357964_DIG_CUp-480x320.jpg"
+    },
+    {
+      "title": "देउवा नेतृत्वको कार्यसमितिको म्याद थप",
+      "summary": "कार्य सम्पादन समितिको बैठकले वैशाख २८ देखि ३१ गतेसम्मका लागि १५ औँ महाधिवेशनको मिति तय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-entered-the-15th-general-convention-but-the-work-schedule-has-not-been-completed-spokesperson-mahat-20-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753354612_prkash saran mahat-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनको काम द्रूत गतिमा: खर्च सीमा तोकियो, चार करोड मतपत्र छाप्ने",
+      "summary": "यस्तै वैशाख २८ देखि ३१ सम्मका लागि १५ औँ महाधिवेशनको मिति पनि तोकिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/term-of-deuba-led-working-committee-extended-92-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767354071_Congress3-480x320.jpg"
+    },
+    {
+      "title": "‘कुलमान रास्वपा प्रवेश गरेको कुरा सरकारलाई थाहा छैन’",
+      "summary": "शुक्रबार केन्द्रीय कार्यसम्पादन समितिको बैठकले वैशाखमा नियमित महाधिवेशनको मिति तय गरेपछि विशेष महाधिवेशन अनिवार्य बनेको उनले बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-to-be-held-in-mid-december-gagan-70-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
