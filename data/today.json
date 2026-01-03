@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-03T02:08:14.894628",
+  "scraped_at": "2026-01-03T04:37:39.573144",
   "date": "2026-01-03",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -279,6 +279,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/earthquake-with-epicenter-near-falaincha-in-taplejung-65-70.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "त्ता र सुविधाविनै जनताको सेवामा समर्पित २ जनप्रतिनिधि",
+      "summary": "त्ता र सुविधाविनै जनताको सेवामा समर्पित २ जनप्रतिनिधि",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11888",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/janasewa-ma-janpritinidhi___-1767409262.jpg"
+    },
+    {
+      "title": "कुरिन्टार र KFC साझेदारीमा राजमार्ग \"ग्रीन रेस्टुरेन्ट\" संचालन",
+      "summary": "कुरिन्टार र KFC साझेदारीमा राजमार्ग \"ग्रीन रेस्टुरेन्ट\" संचालन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11879",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1fffnews-1767341069.jpg"
+    },
+    {
+      "title": "Supreme Court orders Election Commission to ensure disability representation in PR lists",
+      "summary": "People with disabilities will suffer irreparable harm if they are excluded, the apex court says in an interim order.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/03/supreme-court-orders-election-commission-to-ensure-disability-representation-in-pr-lists",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/WhatsAppImage20260103at74925AM-1767407042.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dapha Bhajan storytelling today at Patan Museum",
+      "summary": "A few good picks can’t justify widespread capture of Proportional Representation seats by powerful elites.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/03/dapha-bhajan-storytelling-today-at-patan-museum",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/cs2-1767408787.jpg&w=400&height=267"
+    },
+    {
+      "title": "Films and music that defined a year of change",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/03/films-and-music-that-defined-a-year-of-change",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/radio-1767408625.jpg&w=400&height=267"
+    },
+    {
+      "title": "Tales of undefined love",
+      "summary": "The Post brings you a lowdown on some major events this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/03/tales-of-undefined-love",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/spoooo-1767408394.jpg&w=400&height=267"
+    },
+    {
+      "title": "Writers should keep challenging themselves",
+      "summary": "The event will explore the history, meaning and tradition of Dapha Bhajan, held as part of the ‘Patan Pailai Pailama’ initiative.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/02/writers-should-keep-challenging-themselves",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/spo-1767408147.jpg&w=400&height=267"
+    },
+    {
+      "title": "फागुन २१ को निर्वाचनका लागि मतदाता नामावली छपाइ सुरु",
+      "summary": "निर्वाचन आयोगले आगामी फागुन २१ गते हुनेप्रतिनिधिसभा सदस्य निर्वाचनका लागि मतदाता नामावली छपाइ कार्य सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/printing-of-voter-lists-for-the-falgun-21-elections-begins-26-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767413941_ayog-480x320.jpg"
+    },
+    {
+      "title": "गोकुलको व्यंग्य : स्वार्थका लागि ‘मीत’ लगाउँदा छिमेकीले पनि ठान्छन् भन्ने भ्रम कागलाई बेल पाकेजस्तै हो",
+      "summary": "कनकाई नगरपालिका–४ स्थित पूर्वपश्चिम राजमार्गमा आज बिहान झोलाभित्र शङ्कास्पद वस्तु फेला परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/suspicious-object-found-on-highway-near-kankai-bridge-98-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767412747_kankai-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा चुनाव: ५१ थरी सामग्री जुटाउँदै निर्वाचन आयोग",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीबाट आशिफ शाहले निर्वाचनका लागि समानुपातिकतर्फको बन्द सूचीबाट आफ्नो उम्मेदवारी फिर्ता लिएको घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/after-trishala-asif-shah-also-announced-the-withdrawal-of-the-proportional-candidacy-of-the-rashtriya-swayamsevak-sangh-rss-29-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767412133_ashif-480x320.jpg"
     }
   ]
 }
