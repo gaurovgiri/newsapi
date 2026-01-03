@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-03T08:35:53.536212",
+  "scraped_at": "2026-01-03T12:54:55.720875",
   "date": "2026-01-03",
-  "total_articles": 49,
+  "total_articles": 58,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -399,6 +399,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/others/lily-who-set-a-record-by-having-sex-with-over-a-thousand-men-in-12-hours-has-returned-to-her-spiritual-journey-19-14.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767426010_Lily Phillips-480x320.jpg"
+    },
+    {
+      "title": "Trump says Venezuela’s Maduro captured after US military strikes",
+      "summary": "US President said Maduro has been taken out of the country.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/03/trump-claims-venezuela-s-maduro-captured-after-us-military-strikes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/MADURO-1767437255.jpg&w=300&height=200"
+    },
+    {
+      "title": "Beijing’s ‘Visit Nepal’ push fails as Chinese arrivals fall",
+      "summary": "Tourists visiting Nepal cross one million mark for third year in a row.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/03/beijing-s-visit-nepal-push-fails-as-chinese-arrivals-fall",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/money-1767406406.jpg&w=300&height=200"
+    },
+    {
+      "title": "CAN requests government for Lower Mulpani Ground’s ownership",
+      "summary": "Secretary Paras Khadka says the CAN has investors ready to upgrade Lower Mulpani into a better stadium.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/03/can-requests-government-for-lower-mulpani-s-ownership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/paraskhadka-1767436913.png&w=300&height=200"
+    },
+    {
+      "title": "140 inmates still at large after September’s mass jailbreak from Bhimphedi Prison",
+      "summary": "Security forces have recaptured 300 of the 440 escapees, including several who fled other prisons during the September 9 Gen Z protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/03/140-inmates-still-at-large-after-september-s-mass-jailbreak-from-bhimphedi-prison",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bhimfedi194202312145321920251057111000x0-1767442305.jpg&w=600&height=400"
+    },
+    {
+      "title": "ताप्लेजुङबाट योगेशसहित पाँच जनाको नाम सिफारिस",
+      "summary": "आगामी फागुन २१ गते हुन गइरहेको प्रतिनिधिसभा सदस्य निर्वाचनका लागि नेकपा (एमाले) ले प्रत्यक्षतर्फ पाँच जनाको नाम सिफारिस गर्ने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-names-including-yogesh-recommended-from-taplejung-45-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750041673_yogesh-480x320.jpg"
+    },
+    {
+      "title": "एमाले बाँकेबाट पाँचजनाको नाम सिफारिस",
+      "summary": "मादक पदार्थ सेवन (मापसे) चेकजाँचका क्रममा ड्युटीमा रहेका ट्राफिक प्रहरीलाई घाइते बनाएर फरार भएका कार चालकलाई प्रहरीले पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/car-driver-arrested-for-dragging-traffic-policeman-during-sobriety-check-26-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767444297_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको केन्द्रीय समिति बैठक आइतबार, संगठन विस्तारबारे छलफल हुने",
+      "summary": "बाँकेको राप्ती सोनारी–१ कुसुमस्थित सौरी जंगलमा पाटेबाघको आक्रमणमा परेका व्यक्तिको शव फेला परेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/update-leopard-kills-man-and-cow-72-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767444476_Tiger-480x320.jpg"
+    },
+    {
+      "title": "देश चुनावमा होमियो, अब सर्वदलीय सरकार बन्दैन: दाहाल",
+      "summary": "कपिलवस्तुको कृष्णनगर नगरपालिकाबाट प्रहरीले भारतबाट अवैध रूपमा भित्र्याइएका साढे ५ लाख रुपैयाँभन्दा बढी मूल्यका सामग्री बरामद गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/illegal-materials-worth-over-5-5-lakh-seized-in-kapilvastu-81-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767443969_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बाबुरामले गरे भेनेजुएलामाथि अमेरिकी हमलाको विरोध",
+      "summary": "आगामी फागुन २१ गते हुन गइरहेको प्रतिनिधिसभा सदस्य निर्वाचनका लागि नेकपा (एमाले) ले प्रत्यक्षतर्फ पाँच जनाको नाम सिफारिस गर्ने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-names-including-yogesh-recommended-from-taplejung-45-44.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
