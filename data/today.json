@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-03T12:54:55.720875",
+  "scraped_at": "2026-01-03T16:34:02.801323",
   "date": "2026-01-03",
-  "total_articles": 58,
+  "total_articles": 64,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -470,6 +470,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/five-names-including-yogesh-recommended-from-taplejung-45-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Month-long Swasthani Brata and Madhav Narayan festival begins at Shalinadi",
+      "summary": "Devotees from various parts of Nepal and India gather in Sankhu as the annual month-long festival commences.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/01/03/month-long-swasthani-brata-and-madhav-narayan-festival-begins-at-shalinadi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/shalinadi11-1767444102.jpg&w=300&height=200"
+    },
+    {
+      "title": "हर्कले भने- भिजन नभएकाहरूले चुनाव जित्नु हुँदैन",
+      "summary": "स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयले अत्यधिक चिसो बढिरहेकाले स्वास्थ्य प्रतिकूल हुनसक्ने भन्दै अत्यावश्यक कामबाहेक बाहिर ननिस्कन सर्वसाधारणमा अनुरोध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cold-weather-worsens-advice-not-to-go-out-except-for-essential-work-54-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767012150_aago-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशनका पक्षमा छु: सहमहामन्त्री परियार",
+      "summary": "धरान उपमहानगरपालिकाका प्रमुख एवं श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङले भिजन नभएका र ठगी धन्दामा मुछिएकाहरूले चुनाव जित्नु नहुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-said-those-without-vision-should-not-win-elections-br-95-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767019726_harka-480x320.jpg"
+    },
+    {
+      "title": "दिगो आर्थिक विकास गर्न उद्योग र पर्यटन एकीकृत गर्न आवश्यक: मन्त्री सिन्हा",
+      "summary": "भेनेजुएलाका उपराष्ट्रपति डेल्सी रोड्रिगेजले राष्ट्रपति निकोलस मदुरो र प्रथम महिला सेलिया फ्लोरेसबारे सरकारसँग कुनै सूचना नभएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/venezuela-asks-us-for-information-about-president-60-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767454656_maduro-480x320.jpg"
+    },
+    {
+      "title": "दैलेख २ का एमाले कार्यकर्ताको रोजाइम विष्णु रिजाल",
+      "summary": "कांग्रेसका दुई महामन्त्री गगन थापा र विश्वप्रकाश शर्माले विशेष महाधिवेशन गर्नुपर्ने बताइरहेका बेला सहमहामन्त्री जीवन परियार पनि विशेष महाधिवेशनको पक्षमा उभिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-in-favor-of-a-special-general-convention-joint-general-secretary-pariyar-43-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767454178_jiwan-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको बन्दसूचीबाट हट्न चाहनेलाई आयोगले भन्यो- फेसबुकमा भनेर हुँदैन, आफैं आउनू",
+      "summary": "स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयले अत्यधिक चिसो बढिरहेकाले स्वास्थ्य प्रतिकूल हुनसक्ने भन्दै अत्यावश्यक कामबाहेक बाहिर ननिस्कन सर्वसाधारणमा अनुरोध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cold-weather-worsens-advice-not-to-go-out-except-for-essential-work-54-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
