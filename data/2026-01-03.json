@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-03T04:37:39.573144",
+  "scraped_at": "2026-01-03T08:35:53.536212",
   "date": "2026-01-03",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -351,6 +351,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/after-trishala-asif-shah-also-announced-the-withdrawal-of-the-proportional-candidacy-of-the-rashtriya-swayamsevak-sangh-rss-29-87.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767412133_ashif-480x320.jpg"
+    },
+    {
+      "title": "The magic of Khaleda Zia",
+      "summary": "A team from the Tribhuvan University’s Pulchowk campus is in Chitwan to build homes for a 57-household settlement. Bagmati provincial government is funding the project.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/03/the-magic-of-khaleda-zia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/AIRindia-1767429151.jpg&w=400&height=267"
+    },
+    {
+      "title": "शेखरले पदाधिकारी, केन्द्रीय सदस्य र जिल्ला सभापतिसँग छलफल गरी राय लिए",
+      "summary": "अमेरिकाले शनिबार राति भेनेजुएलाको राजधानी काराकसमा सातवटा हवाई आक्रमण गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-missile-attack-on-venezuela-trump-orders-it-61-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767428112_trump-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन पर्यवेक्षणमा ४० संस्थालाई अनुमति",
+      "summary": "यसपल्टको एनएसजेएफ पल्सर स्पोर्ट्स अवार्डको २२औं संस्करणमा हुँदै छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/a-difference-in-the-22nd-edition-of-the-nsjf-pulsar-sports-awards-br-34-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767427088_gop 65-480x320.jpg"
+    },
+    {
+      "title": "भावुक हुँदै रास्वपा समानुपातिक सूचीबाट सचिन ढकालले नाम फिर्ता लिए, के भने ?",
+      "summary": "भेनेजुएलाका स्थानीय सञ्चार माध्यमहरूले उत्तरको ला गुएरा राज्य र तटीय क्षेत्र हिगुएरोटेमा पनि विस्फोटको आवाज सुनिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/powerful-explosion-in-venezuela-us-attack-suspected-12-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767426539_Venezuela Update-480x320.jpg"
+    },
+    {
+      "title": "बन्दसूचीबाट उम्मेदवारले नाम फिर्ता लिए अर्को थप्न समय दिइने",
+      "summary": "यसअघि सन् २०२४ मा लिलीले एकै दिनमा १०१ पुरुषहरूसँग सुतेर विश्वव्यापी चर्चा कमाएकी थिइन्। पछि सन् २०२५ मा १२ घण्टामा एक हजार ११३ पुरुषहरूसँग सुतेर आफ्नै दाबी गरिएको विश्व रेकर्ड तोडेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/others/lily-who-set-a-record-by-having-sex-with-over-a-thousand-men-in-12-hours-has-returned-to-her-spiritual-journey-19-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767426010_Lily Phillips-480x320.jpg"
     }
   ]
 }
