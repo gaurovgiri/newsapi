@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-04T08:37:03.166060",
+  "scraped_at": "2026-01-04T12:55:32.572287",
   "date": "2026-01-04",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -343,6 +343,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/bangladesh-team-announced-for-t20-world-cup-44-76.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767512895_Bangladesh Team-480x320.jpg"
+    },
+    {
+      "title": "Tensions flare in Dhanusha after dispute between groups, protests erupt in Birgunj",
+      "summary": "Police fire tear gas shells to disperse demonstrators following mosque vandalism in Kamala Municipality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/04/tensions-flare-in-dhanusha-after-dispute-between-groups-protests-erupt-in-birgunj",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/birgunj04120260743501000x0-1767513268.jpg&w=300&height=200"
+    },
+    {
+      "title": "Chiuri bloom draws beekeepers to Chitwan hills",
+      "summary": "Migratory beekeeping boosts honey production and pollination in Siddhi.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/01/04/chiuri-bloom-draws-beekeepers-to-chitwan-hills",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ChiuriMaChardaiMahuri7-1767516153.jpg&w=600&height=400"
+    },
+    {
+      "title": "चितवन-१ बाट ६ जनाको नाम सिफारिस गर्दा परेनन् सुरेन्द्र पाण्डे",
+      "summary": "हाल अन्तरिम राष्ट्रपतिको भूमिकामा रहेकी डेल्सी रोड्रिगेज मदुरोको नजिकको विश्वासपात्र मानिन्छिन् । उनी लामो समयदेखि मदुरोसँगै रहेर काम गरेको र सत्ताको भित्री घेरामा सक्रिय रहेको बताइन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-s-plan-to-control-venezuela-suffers-setback-caracas-under-control-of-maduro-supporters-38-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767530638_Venezueala-480x320.jpg"
+    },
+    {
+      "title": "जाँचबुझ आयोगले ओलीलाई पत्र काट्यो, गुन्डुस्थित निवासमै बुझाइयो",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीका श्रीमान दुर्गाप्रसाद सुवेदीको स्वास्थ्यमा समस्या आएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/prime-minister-karki-s-husband-subedi-to-travel-to-india-for-further-treatment-48-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767529630_Durga_Subedi-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको केन्द्रीय सदस्यमा रञ्जु र समीक्षासहित ७ जना मनोनीत",
+      "summary": "नेपाल प्रहरीको काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयले फरक ठगीका घटनामा तीन जनालाई पक्राउ गरेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-arrested-for-defrauding-millions-by-promising-to-send-them-to-the-uk-15-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कार्यसम्पादन समितिको बैठक सोमबार बोलाइयो",
+      "summary": "संयुक्त राष्ट्रसंघीय विकास कार्यक्रमको कर्मचारी हुँ भन्दै ठगी गर्ने एक युवकलाई लमजुङ प्रहरीले पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/youth-arrested-from-lamjung-for-fraud-claiming-to-be-a-undp-employee-99-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "ब्याटल ग्राउन्ड दाङ–२ः जितेकी रेखा सिफारिसमै छुटिन, हारेका शंकर एकल सिफारिस",
+      "summary": "हाल अन्तरिम राष्ट्रपतिको भूमिकामा रहेकी डेल्सी रोड्रिगेज मदुरोको नजिकको विश्वासपात्र मानिन्छिन् । उनी लामो समयदेखि मदुरोसँगै रहेर काम गरेको र सत्ताको भित्री घेरामा सक्रिय रहेको बताइन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-s-plan-to-control-venezuela-suffers-setback-caracas-under-control-of-maduro-supporters-38-91.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
