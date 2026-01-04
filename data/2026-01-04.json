@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-04T04:53:27.684716",
+  "scraped_at": "2026-01-04T08:37:03.166060",
   "date": "2026-01-04",
-  "total_articles": 35,
+  "total_articles": 41,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -287,6 +287,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/buildings-burned-during-gen-g-protests-to-be-rebuilt-within-two-years-br-79-62.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767501441_nirman 56-480x320.jpg"
+    },
+    {
+      "title": "Maduro is out but his top allies still hold power in Venezuela",
+      "summary": "Power struggle looms as inner circle closes ranks and military figures hold the balance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/04/maduro-is-out-but-his-top-allies-still-hold-power-in-venezuela",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/imgi1P5BS35YRHJI65OCHHQBPL2DIG4-1767513555.jpg&w=300&height=200"
+    },
+    {
+      "title": "Factional feud over proportional candidates hits RSP-UNP unity",
+      "summary": "Ujyalo Nepal side members absent from RSP’s Pokhara meet saying they didn’t have clear instructions from the centre.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/04/factional-feud-over-proportional-candidates-hits-rsp-unp-unity",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1767489106.jpg&w=300&height=200"
+    },
+    {
+      "title": "विष्णु पौडेल रुपन्देही–२ बाट प्रत्यक्ष निर्वाचनका लागि सिफारिस",
+      "summary": "विगत दुई वर्षदेखि कम्पनीसँग आबद्ध रहेका ऐरीसँगको सम्झौताको अवधि पुनः थप गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/dipendra-singh-airi-continues-as-brand-promoter-of-esewa-money-transfer-78-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767514100_DS Aire-480x320.jpg"
+    },
+    {
+      "title": "एमाले दाङ-२ बाट महासचिव पोखरेल एकल सिफारिस",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचन प्रत्यक्षतर्फका लागि नेकपा एमालेका उपाध्यक्ष विष्णु पौडेलको नाम रुपन्देही–२ बाट सिफारिस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bishnu-poudel-recommended-for-direct-election-from-rupandehi-2-27-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765854060_bishnu-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा चुनावअघि ओली र दाहालबिच भेटवार्ता",
+      "summary": "अमेरिकाले भेनेजुएलामा आक्रमण गरी त्यहाँका राष्ट्रपति निकोलास मादुरोलाई नियन्त्रणमा लिएसँगै विश्व जगत दुई धारमा बाँडिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-lawmaker-s-question-what-happens-if-putin-arrests-zelensky-76-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767513642_venejuela-480x320.jpg"
+    },
+    {
+      "title": "संवैधानिक विषयको निरुपण छिटो हुनुपर्छ : उप-महासचिव भट्टराई",
+      "summary": "टी-२० विश्वकप भारत र श्रीलंकाले संयुक्त रूपमा आयोजना गर्दैछन्। विश्वकप फेब्रुअरी ७ गतेदेखि सुरु हुँदैछ। समूह ‘सी’ मा परेको बांगलादेशीले नेपाल, इंग्ल्यान्ड, इटाली र वेस्ट इन्डिजको सामना गर्नेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bangladesh-team-announced-for-t20-world-cup-44-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767512895_Bangladesh Team-480x320.jpg"
     }
   ]
 }
