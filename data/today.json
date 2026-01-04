@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-04T02:31:57.141066",
+  "scraped_at": "2026-01-04T04:53:27.684716",
   "date": "2026-01-04",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-students-die-9-injured-in-jeep-accident-while-returning-from-shield-game-61-24.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "भेनेजुएलामाथि अमेरिकी हस्तक्षेप संयुक्त राष्ट्रसंघको वडापत्रको उल्लङ्घन : महासचिव पोखरेल",
+      "summary": "संयुक्त राज्य अमेरिकाले जनवरी २ र ३ को राति भेनेजुएलामा विस्फोटक आक्रमण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/delcy-becomes-interim-president-of-venezuela-trump-also-supports-her-who-is-she-11-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767502062_delsi venejuela-480x320.jpg"
+    },
+    {
+      "title": "स्वतन्त्र राष्ट्र भेनेजुएलामाथि साम्राज्यवादी हस्तक्षेप निन्दनीय : महेश बस्नेत",
+      "summary": "जेनजी आन्दोलनका क्रममा क्षतिग्रस्त सरकारी भवन तथा संरचना पुनर्निर्माणको काम दुई वर्षभित्र सक्ने योजना सरकारले बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/buildings-burned-during-gen-g-protests-to-be-rebuilt-within-two-years-br-79-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767501441_nirman 56-480x320.jpg"
     }
   ]
 }
