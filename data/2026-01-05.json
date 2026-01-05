@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-05T08:44:35.172940",
+  "scraped_at": "2026-01-05T13:02:49.951891",
   "date": "2026-01-05",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-s-term-of-office-lifted-13-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Inquiry commission lifts travel ban on UML chair Oli",
+      "summary": "The probe panel took the decision after recording the former prime minister’s statement on charges of use of excessive force during Gen Z protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/05/inquiry-commission-lifts-movement-ban-on-uml-chair-oli",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kpsharmaoliinterviewphotos120620250374071220250227441000x0-1767608195.jpg&w=300&height=200"
+    },
+    {
+      "title": "Venezuela’s Maduro due in court, loyalists send message to Trump",
+      "summary": "Though denouncing Maduro as a dictator and drug kingpin, who flooded the US with cocaine, Trump has made no bones about wanting to share in Venezuela’s oil riches.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/05/venezuela-s-maduro-due-in-court-loyalists-send-message-to-trump",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/VENEZEULA-1767609883.jpg&w=300&height=200"
+    },
+    {
+      "title": "कोशीको मन्त्रिपरिषद् पुनर्गठन हुने",
+      "summary": "आइतबारदेखि वीरगञ्जमा जारी प्रदर्शनलाई रोकथाम गर्न जिल्ला सुरक्षा समितिले कर्फ्यू लगाउने निर्णय गरेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/curfew-extended-in-birgunj-will-remain-in-effect-until-8-am-88-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767617836_Birjung 2-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको विश्वास: निर्वाचन हुन्छ नै, मुलुकलाई निकास पनि दिनुपर्छ",
+      "summary": "कोशी प्रदेश सरकारको कामलाई प्रभावकारी बनाउन मन्त्रिपरिषद् पुनर्गठन गर्न सत्तारुढ दलका नेताहरूले केही महिना पहिलेदेखि नै आवाज उठाउँदै आएका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/koshi-s-cabinet-to-be-reorganized-96-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756275285_koshi_pradesh-1200x560-1200x560-480x320.jpg"
+    },
+    {
+      "title": "गाली गरेका महेश बस्नेत र दुर्गा प्रसाईं दुवैको मुद्दामा दावी पुग्ने",
+      "summary": "निर्वाचनका लागि सबै राजनीतिक दलहरु तयार भइसकेको र अब मतदाता शिक्षामा सबैले काम गर्नुपर्ने धारणा प्रधानमन्त्री कार्कीको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-belief-elections-will-happen-but-the-country-must-find-a-way-out-52-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767616190_PM Baluwatar-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा १ लाख २८ हजार मतदाता थपिए",
+      "summary": "गाली बेइज्यती सम्बन्धि नेकपा एमालेका सचिव महेश बस्नेत र अभियन्ता दुर्गा प्रसाई दुवैको मुद्दामा दावी पुग्ने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/claims-will-be-filed-in-the-cases-of-both-mahesh-basnet-and-durga-prasai-36-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767616451_Durga_Mahesh-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको केन्द्रीय समितिमा १० प्रतिशत सहभागिता माग्दै पेसागत संगठनले बुझाए देउवालाई ज्ञापनपत्र",
+      "summary": "आइतबारदेखि वीरगञ्जमा जारी प्रदर्शनलाई रोकथाम गर्न जिल्ला सुरक्षा समितिले कर्फ्यू लगाउने निर्णय गरेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/curfew-extended-in-birgunj-will-remain-in-effect-until-8-am-88-99.html?click_from=just_in",
       "image_url": ""
     }
   ]
