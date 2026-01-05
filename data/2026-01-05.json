@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-05T05:00:50.662959",
+  "scraped_at": "2026-01-05T08:44:35.172940",
   "date": "2026-01-05",
-  "total_articles": 41,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-to-hold-political-adjustment-announcement-rally-today-38-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "तमा सिटी हल, बनेको ८ वर्ष, सञ्चालन गर्न नसक्दा जीर्ण बन्दै",
+      "summary": "तमा सिटी हल, बनेको ८ वर्ष, सञ्चालन गर्न नसक्दा जीर्ण बन्दै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11905",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Payogbihin-City-hall-1767584271.jpg"
+    },
+    {
+      "title": "Trump says second Venezuela strike possible if government does not cooperate",
+      "summary": "Trump raises possibility of further military action in Latin America, targeting Colombia and Mexico over drug trafficking, while Venezuela grapples with political uncertainty and civilian casualties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/05/trump-says-second-venezuela-strike-possible-if-government-does-not-cooperate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/imgi12JGPG6AN2JOXVI2SRXTMHGZS4M-1767584971.jpg&w=300&height=200"
+    },
+    {
+      "title": "Complaint filed against five cops over disappearance of Dolpa youth",
+      "summary": "Search continues in nearby rivers for missing youth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/01/05/complaint-filed-against-five-cops-over-disappearance-of-dolpa-youth",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/dpodolpa05120260700421000x0-1767596293.jpg&w=300&height=200"
+    },
+    {
+      "title": "When animals are abused, reporting is rare and punishments minimal",
+      "summary": "Activists say lack of awareness and fear of getting involved in the legal process keep many witnesses from reporting incidents.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/04/when-animals-are-abused-reporting-is-rare-and-punishments-minimal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/animallove-1767540442.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीको स्थानहद फुकुवा",
+      "summary": "नेकपा एमालेका अध्यक्ष तथा पूर्वप्रधानमन्त्री केपी शर्मा ओलीको स्थानहद फुकुवा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-s-term-of-office-lifted-13-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765427875_kpoli-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको ‘बृहत राजनीतिक समायोजन घोषणा सभा’ सुरु",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को आयोजनामा बृहत राजनीतिक समायोजन घोषणा सभा काठमाडौंमा सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-s-major-political-adjustment-announcement-meeting-begins-39-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754562129_RSP-480x320.jpg"
+    },
+    {
+      "title": "धार्मिक विद्वेष फैलाउनेलाई रोक्न सरकार र नागरिक समाजबिच हातेमालो जरुरी : गृहमन्त्री",
+      "summary": "झापामा जङ्गली हात्तीबाट पीडित बनेका परिवारलाई रु एक करोड ३७ लाख बढी राहत उपलब्ध गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/patrol-team-mobilized-to-protect-crops-from-elephants-33-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743655131_hatti-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशन पनि हुँदैन कांग्रेस पनि फुट्दैन : सिटौला",
+      "summary": "पर्साको वीरगञ्जमा दुई समुदाय प्रदर्शनमा उत्रिएपछि प्रमुख जिल्ला अधिकारीले निषेधाज्ञा जारी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibitory-order-issued-in-birgunj-20-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762137195_Birgunj naka-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा निर्वाचनमा चार शक्तिबिच तालमेलको प्रयास",
+      "summary": "नेकपा एमालेका अध्यक्ष तथा पूर्वप्रधानमन्त्री केपी शर्मा ओलीको स्थानहद फुकुवा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-s-term-of-office-lifted-13-59.html?click_from=just_in",
       "image_url": ""
     }
   ]
