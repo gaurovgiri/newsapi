@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-05T13:02:49.951891",
+  "scraped_at": "2026-01-05T16:39:35.681817",
   "date": "2026-01-05",
-  "total_articles": 57,
+  "total_articles": 65,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -462,6 +462,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/curfew-extended-in-birgunj-will-remain-in-effect-until-8-am-88-99.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "DDA recalls Nepali antibiotic over quality concerns",
+      "summary": "The third-generation antibiotic, Levoflox-500 tablet, was made by Bara based Magnus Pharma.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/05/dda-recalls-nepali-antibiotic-over-quality-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1767619731.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal allows sending workers to Israel’s agriculture and caregiving sectors",
+      "summary": "Cabinet approves three labour protocols, paving the way for long-term employment opportunities and recruitment through government channels.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/05/nepal-allows-sending-workers-to-israel-s-agriculture-and-caregiving-sectors",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/postfilephotoisrael-1767619405.jpg&w=300&height=200"
+    },
+    {
+      "title": "Curfew enforced in Birgunj after rival groups defy prohibitory orders",
+      "summary": "Authorities enforce overnight restrictions until 8 am Tuesday as demonstrations continue despite earlier bans.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/05/curfew-enforced-in-birgunj-after-rival-groups-defy-prohibitory-orders",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/birgunj05120260901241000x0-1767617346.jpg&w=300&height=200"
+    },
+    {
+      "title": "ओलीसहित सबैको स्थान हद फुकुवा",
+      "summary": "कुनै समय आफ्नो वन-जंगलको गस्ती र सुरक्षाका लागि विदेशबाट हात्ती आयात गर्नुपर्ने बाध्यतामा रहेको नेपाल आज आफ्नै प्रजनन केन्द्रमा हुर्काएका हात्ती मित्रराष्ट्रलाई उपहार स्वरूप प्रदान गर्न सक्ने अवस्थामा आइपुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/starting-a-breeding-center-with-elephants-from-abroad-a-gift-to-qatar-66-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767630716_tttt-480x320.jpg"
+    },
+    {
+      "title": "उम्मेदवार छनोटको गृहकार्यमा रास्वपा",
+      "summary": "अंग्रेजी नयाँ वर्ष (सन् २०२६) को अवसर पारेर पाँचथरको चिवाभञ्ज्याङबाट सुरु भएको मध्यपहाडी लोकमार्ग साइकल यात्रा अन्तर्गत विभिन्न जिल्लामा क्यान्सर सचेतना कार्यक्रमहरू सम्पन्न भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/cancer-awareness-program-in-phidim-tehrathum-and-dhankuta-br-94-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767629599_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "विद्यमान समस्या समाधानको विकल्प मात्र निर्वाचनः नेपाल",
+      "summary": "जेन-जी आन्दोलनको क्षतिबारे छानबिन गर्न बनेको उच्चस्तरीय जाँचबुझ आयोगले बयानका लागि लगाएको सबै उच्च पदस्थ व्यक्तिहरूको स्थान हद फुकुवा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-including-everyone-has-been-granted-a-place-of-residence-70-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767093511_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "देशलाई माथि उठाउने बेला आयो: कुलमान घिसिङ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को केन्द्रीय समिति बैठकले पार्टी समायोजन तथा निर्वाचन केन्द्रित दुई उपसमिति गठन गरेसँगै उम्मेदवारको टुंगो लगाउने गृहकार्य सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-on-candidate-selection-homework-89-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767629061_Raswapa1-480x320.jpg"
+    },
+    {
+      "title": "सोलुखुम्बुबाट एमालेका पाँच जना उम्मेदवार सिफारिस",
+      "summary": "कुनै समय आफ्नो वन-जंगलको गस्ती र सुरक्षाका लागि विदेशबाट हात्ती आयात गर्नुपर्ने बाध्यतामा रहेको नेपाल आज आफ्नै प्रजनन केन्द्रमा हुर्काएका हात्ती मित्रराष्ट्रलाई उपहार स्वरूप प्रदान गर्न सक्ने अवस्थामा आइपुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/starting-a-breeding-center-with-elephants-from-abroad-a-gift-to-qatar-66-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
