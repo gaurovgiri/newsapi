@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-05T02:31:32.780101",
+  "scraped_at": "2026-01-05T05:00:50.662959",
   "date": "2026-01-05",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-colombian-president-after-venezuela-cuba-s-government-will-soon-fall-91-66.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ो मारमा सदा परिवार, छोरी अस्पतालमै, आमाको मृत्युले झन बेहाल",
+      "summary": "ो मारमा सदा परिवार, छोरी अस्पतालमै, आमाको मृत्युले झन बेहाल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11903",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Garibiko-Pida-1767583613.jpg"
+    },
+    {
+      "title": "श्चिमका पालिकामा यस्तो सुविधा, करदाता सेवा कार्यालय शुरु",
+      "summary": "श्चिमका पालिकामा यस्तो सुविधा, करदाता सेवा कार्यालय शुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11889",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/kar-karyala-sathapana__-1767411835.jpg"
+    },
+    {
+      "title": "RSP is a residual power of older parties, not a true alternative",
+      "summary": "Leaders are still using rhetoric to shape their narrative rather than engaging in substantive policy work.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/01/05/rsp-is-a-residual-power-of-older-parties-not-a-true-alternative",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/interviews/interviewsuchitapyakurel01032026DSC9602copy-1767576322.jpg&w=600&height=400"
+    },
+    {
+      "title": "आज राजनीतिक समायोजन घोषणा सभा गर्दै रास्वपा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)ले आज बृहत राजनीतिक समायोजन घोषणा सभा गर्दैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-to-hold-political-adjustment-announcement-rally-today-38-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767588920_rasopa-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं ५ बाट ईश्वर पोखरेल एकल सिफारिस",
+      "summary": "काठमाडौं निर्वाचन क्षेत्र ५ बाट प्रतिनिधिसभा निर्वाचनका लागि प्रत्यक्षतर्फ नेकपा (एमाले)का पूर्ववरिष्ठ उपाध्यक्ष ईश्वर पोखरेलको नाम एकल सिफारिस भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ishwor-pokharel-single-nomination-from-kathmandu-5-29-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766233848_Ishwor-480x320.jpg"
+    },
+    {
+      "title": "बन्दसूची विवादमा विदुषी : लालच होइन, उद्योग र महिलाको आवाज लिएर संसद् जान लागेकी हुँ",
+      "summary": "सचेत मतदाताले गलत प्रवृत्तिलाई अस्वीकार गरी नेतृत्व छनोट गर्दा दलहरू सुधारको बाटोमा",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/power-balance-in-the-new-party-br-96-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767587513_sakti sami karan 56-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकमा जुम्लालाई कांग्रेस-एमालेले पत्याएनन्!",
+      "summary": "चीन भेनेजुएलाको मुख्य तेल खरिदकर्ता र ठूलो लगानीकर्ता हो, जसले यस क्षेत्रमा आफ्नो आर्थिक चासो बढाइरहेको छ। विश्लेषकहरूका अनुसार यो घटनाले चीन र अमेरिका तनाव थप बढाउन सक्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-china-and-north-korea-say-after-the-us-arrested-maduro-br-89-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767586818_China North Korea-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुर २ बाट महेश बस्नेतको एकल सिफारिस",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)ले आज बृहत राजनीतिक समायोजन घोषणा सभा गर्दैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-to-hold-political-adjustment-announcement-rally-today-38-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
