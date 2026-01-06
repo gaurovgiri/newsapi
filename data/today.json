@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-06T02:20:28.983024",
+  "scraped_at": "2026-01-06T04:46:13.721997",
   "date": "2026-01-06",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/minister-ingnam-takes-action-to-stop-middlemen-in-land-revenue-89-67.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "एमाले सचिवालय बैठक सुरु, के छन् एजेण्डा?",
+      "summary": "पाको उमेरमा आनुवंशिक पदार्थ जीर्ण हुने भएकाले जिनको खराबीका कारण बुढेसकालमा क्यान्सर लाग्नुलाई केही स्वाभाविक रूपमा लिन सकिन्छ। तर पछिल्लो समय क्यान्सरले उल्लेख्य संख्यामा बच्चा तथा युवा वर्गलाई सताएको देखिन्छ। कम उमेरमै महारोगले सताउनु स्वाभाविक होइन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/the-pain-of-cancer-in-old-age-88-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767674612_Churot-480x320.jpg"
+    },
+    {
+      "title": "कुलमानलक्षित आशिकाको कटाक्ष : भनेपछि ससुरा बा र भान्जाले नाम फिर्ता लिन मानेनन्",
+      "summary": "बैठकले समसामयिक राजनीतिक परिस्थिति, राष्ट्रियसभा निर्वाचनमा भोली हुने मनोनयन र केन्द्रीय कमिटीका एजेण्डा तय गर्ने सचिव पद्मा अर्यालले जानकारी दिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-secretariat-meeting-begins-what-is-the-agenda-17-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767672897_UML-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्डको भारत भ्रमणप्रति संकेत गर्दै गोकुले भने : चुनाव सुरुङमार्गको प्रवेशमै अल्झियो",
+      "summary": "व्यवस्था फेरिए पनि जनताको अवस्था सोचेअनुसार फेरिन नसकेको तीतो सत्य छ तर पनि स्थानीय जनता मनमा आशा र सपना बोकेर परिवर्तन पर्खिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rolpa-becoming-a-gulzar-82-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767672283_Rolpa-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपालद्वारा रुपन्देहीमा उम्मेदवार सिफारिस",
+      "summary": "सामाजिक अभियन्ता आशिका तामाङले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा मिसिएका ऊर्जामन्त्री कुलमान घिसिङलाई लक्षित गर्दै कडा कटाक्ष गरेकी छन‍्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ashika-s-sarcasm-after-saying-this-her-father-in-law-and-nephew-refused-to-take-back-the-name-33-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767672073_ashika-480x320.jpg"
     }
   ]
 }
