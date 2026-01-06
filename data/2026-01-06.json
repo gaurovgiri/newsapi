@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-06T08:41:01.812903",
+  "scraped_at": "2026-01-06T13:00:19.850169",
   "date": "2026-01-06",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-government-and-some-external-forces-have-become-uncomfortable-as-uml-congress-get-closer-chairman-oli-18-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "राष्ट्रिय सभामा तालमेल गर्ने कांग्रेसको आधिकारिक निर्णय",
+      "summary": "कांग्रेसले आधिकारिक निर्णय गर्नुअघि नै नेकपा एमाले, नेपाली कम्युनिस्ट पार्टी र जनता समाजवादी पार्टी नेपालसँग मिलेर जाने गरी सहमति जुटाइसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-official-decision-to-coordinate-in-the-national-assembly-27-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764636097_Congress-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले तीन मन्त्रीको राजीनामा मागेको हल्ला निराधार: सञ्चारमन्त्री",
+      "summary": "राष्ट्रिय मानवअधिकार आयोगले साम्प्रदायिक, सामाजिक, सांस्कृतिक एवं राजनीतिक हिंसा भड्किन सक्ने सम्भावित घटनालाई रोकी सामाजिक सद्भाव कायम राख्न सरकारलाई निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/commission-directs-government-to-maintain-social-harmony-26-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743769257_Human-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले राजीनामा दिन भनिन्, कुलमानले ‘अहिलेसम्म दलको सदस्य नै छैन’ भने",
+      "summary": "सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले प्रधानमन्त्री सुशीला कार्कीले मन्त्रीहरूसँग राजीनामा मागेको भन्ने हल्लामा कुनै सत्यता नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rumors-that-the-prime-minister-has-asked-for-the-resignation-of-three-ministers-are-baseless-communications-minister-br-77-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767690585_jagdish-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सुरक्षा सम्बन्धमा गृहमन्त्रीले गरे प्रदेशका प्रमुख सचिवहरूसँग छलफल",
+      "summary": "‘आजको मितिसम्म म कुनै पनि पार्टीको सदस्य छैन,’ घिसिङले पत्रकारको प्रश्नको जवाफ दिँदै भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-prime-minister-asked-him-to-resign-but-kulman-said-i-am-not-a-party-member-yet-82-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767703297_mantri3-480x320.jpg"
+    },
+    {
+      "title": "यस्ता छन् सरकारका ३५ निर्णयहरु (सूची)",
+      "summary": "कांग्रेसले आधिकारिक निर्णय गर्नुअघि नै नेकपा एमाले, नेपाली कम्युनिस्ट पार्टी र जनता समाजवादी पार्टी नेपालसँग मिलेर जाने गरी सहमति जुटाइसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-official-decision-to-coordinate-in-the-national-assembly-27-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
