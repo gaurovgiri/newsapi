@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-06T13:00:19.850169",
+  "scraped_at": "2026-01-06T16:39:28.280169",
   "date": "2026-01-06",
-  "total_articles": 50,
+  "total_articles": 55,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-official-decision-to-coordinate-in-the-national-assembly-27-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "लमजुङबाट रास्वपा उम्मेदवारमा धर्म केसी सर्वसम्मत सिफारिस",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) लमजुङले आगामी फागुन २१ गते हुने प्रतिनिधि सभा निर्वाचनका लागि प्रत्यक्षतर्फ धर्म केसीको नाम एकल उम्मेदवारका रूपमा सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-lamjung-recommends-dharma-kc-s-name-for-house-of-representatives-member-36-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767716111_dharma_pic-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिवालय बैठकः निर्वाचन घोषणापत्र मस्यौदा कमिटी गठन",
+      "summary": "खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले चालु सिजनमा हालसम्म १ लाख ३२ हजार क्विन्टल धान खरिद गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/food-company-buys-132-000-quintals-of-rice-br-12-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765121860_Dhan11-480x320.jpg"
+    },
+    {
+      "title": "मधेश प्रमुखलाई प्रधानमन्त्रीको आग्रहः शान्ति र सद्भाव कायम राख्न अभिभावकीय भूमिका खेल्नुहोस्",
+      "summary": "वाणिज्य, आपूर्ति तथा उपभोक्ता संरक्षण विभागले मापदण्ड पालना नगर्ने दुईवटा उद्योगलाई साढे दुई लाख रुपैयाँ जरिवाना गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/commerce-department-fines-two-industries-rs-250-000-73-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767713444_badiya-480x320.jpg"
+    },
+    {
+      "title": "देशको अर्थतन्त्र सुधार गर्नु वर्तमान आवश्यकता: अर्थमन्त्री",
+      "summary": "नेकपा (एमाले) ले आसन्न फागुन २१ गते हुने प्रतिनिधिसभाको निर्वाचनका लागि घोषणापत्र मस्यौदा कमिटी गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-secretariat-meeting-election-manifesto-drafting-committee-formed-14-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767093511_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचनका लागि एमाले उदयपुरबाट १४ जना सिफारिस",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) लमजुङले आगामी फागुन २१ गते हुने प्रतिनिधि सभा निर्वाचनका लागि प्रत्यक्षतर्फ धर्म केसीको नाम एकल उम्मेदवारका रूपमा सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-lamjung-recommends-dharma-kc-s-name-for-house-of-representatives-member-36-10.html?click_from=just_in",
       "image_url": ""
     }
   ]
