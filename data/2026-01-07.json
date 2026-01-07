@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-07T13:01:37.740989",
+  "scraped_at": "2026-01-07T16:40:01.460192",
   "date": "2026-01-07",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/cricketer-pooja-mahato-wins-young-player-of-the-year-award-53-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "कुलमानको घोषणा- अब मेरो यात्रा राजनीतिको हुनेछ",
+      "summary": "मन्त्री पदबाट राजीनामा दिएका कुलमान घिसिङले अब आफू पूर्णकालीन राजनीतिमा होमिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-s-announcement-now-my-journey-will-be-political-64-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767802742_kulman-480x320.jpg"
+    },
+    {
+      "title": "मन्ती पदमा आफ्ना मान्छे नियुक्त गर्न दबाब दिएको भन्ने समाचार भ्रामक: कुलमान",
+      "summary": "निवर्तमान ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङले राजीनामापछि रिक्त हुने पदमा आफ्ना मान्छे नियुक्त गर्न सरकारलाई दबाब दिएको भन्ने समाचार भ्रामक भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/news-that-pressure-was-exerted-to-appoint-his-people-to-ministerial-positions-is-misleading-kulman-br-60-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766919823_kulman-480x320.jpg"
+    },
+    {
+      "title": "राजीनामा पछि कुलमानको स्पष्टीकरण: मैले कुनै पार्टीको सदस्यता लिएको छैन",
+      "summary": "निवर्तमान ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङले आफूले हालसम्म कुनै पनि राजनीतिक दलको सदस्यता नलिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-s-clarification-after-resignation-i-have-not-joined-any-party-54-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765467673_Kulman-480x320.jpg"
+    },
+    {
+      "title": "राजीनामापछि कुलमानले भने- कुर्सीभन्दा आत्मसम्मान माथि हुन्छ",
+      "summary": "निवर्तमान ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङले पदभन्दा आत्मसम्मान ठूलो हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-resigning-kulman-said-self-respect-is-more-important-than-the-chair-26-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766919823_kulman-480x320.jpg"
+    },
+    {
+      "title": "कुलमानको राजीनामा बुझ्दै प्रधानमन्त्रीले भनिन्- रातदिन नभनी खट्नुभयो, धन्यवाद",
+      "summary": "मन्त्री पदबाट राजीनामा दिएका कुलमान घिसिङले अब आफू पूर्णकालीन राजनीतिमा होमिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-s-announcement-now-my-journey-will-be-political-64-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
