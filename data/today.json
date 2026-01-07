@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-07T02:20:19.971561",
+  "scraped_at": "2026-01-07T04:48:15.451960",
   "date": "2026-01-07",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/misbehaving-due-to-different-opinions-is-wrong-gagan-thapa-53-48.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ऊर्जा मन्त्री घिसिङप्रति अभियन्ता आशिका तामाङको कटाक्ष",
+      "summary": "कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेजले ट्रम्पको विरोध गर्दै भनेकी छन्, ‘व्यक्तिगत रूपमा, मलाई धम्की दिनेहरूलाई म भन्न चाहन्छु कि मेरो भाग्य उनीहरूद्वारा होइन, भगवानले निर्धारण गर्नुहुन्छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-claims-us-will-receive-50-million-barrels-of-oil-from-venezuela-br-89-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767760147_Venezuela oil Trump-480x320.jpg"
+    },
+    {
+      "title": "फरक विचारको कारण दुर्व्यवहार गर्नु गलत :महामन्त्री थापा",
+      "summary": "ट्रम्पले भारतमा कुल ५० प्रतिशत भन्सार शुल्क लगाएका छन्, जसमध्ये २५ प्रतिशत रुसबाट तेल खरिद गरेको सजायको रूपमा हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-claims-modi-is-not-happy-with-me-over-russian-oil-tax-warns-of-further-tax-hike-83-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767758706_Trump Modi-480x320.jpg"
     }
   ]
 }
