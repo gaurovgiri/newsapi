@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-07T16:40:01.460192",
+  "scraped_at": "2026-01-07T20:34:18.524657",
   "date": "2026-01-07",
-  "total_articles": 53,
+  "total_articles": 54,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -431,6 +431,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-s-announcement-now-my-journey-will-be-political-64-84.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "82-year-old Mahantha Thakur sets his sights on National Assembly",
+      "summary": "Backed by a Congress–UML–JSP-N alliance in Madhesh Province, the veteran leader is set to get elected to the upper house.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/07/82-year-old-mahantha-thakur-sets-his-sights-on-national-assembly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/mahanthathakur107120260924451000x0-1767791192.jpg&w=300&height=200"
     }
   ]
 }
