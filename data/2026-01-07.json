@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-07T08:40:32.258136",
+  "scraped_at": "2026-01-07T13:01:37.740989",
   "date": "2026-01-07",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -350,6 +350,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-finalizes-national-assembly-candidates-42-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गण्डकीमा कांग्रेस-एमालेको गठबन्धनको जित सुनिश्चित",
+      "summary": "(एनएसजेएफ) को आयोजनामा पोखरामा भएको २२ औं एनएसजेफ पल्सर स्पोर्टस अवार्ड उनले अन्तर्गत युवा वर्ष खेलाडीको अवार्ड जितेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/cricketer-pooja-mahato-wins-young-player-of-the-year-award-53-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767790589_Pooja Mahato-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा निर्वाचनः कर्णालीमा चार जनाको मनोनयन दर्ता",
+      "summary": "एक समय नेपाली फिल्म उद्योगकै चर्चित जोडी मानिएका अभिनेता सौगात मल्ल र अभिनेत्री सृष्टि श्रेष्ठ लामो अन्तरालपछि फेरि एकसाथ पर्दामा फर्किँदैछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/gift-creation-together-again-discussion-of-the-dai-address-57-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767790303_Sristhi-480x320.jpg"
+    },
+    {
+      "title": "केन्द्रीय कार्यालयले भन्यो: महाधिवेशन बोलाउने अधिकार केन्द्रीय कार्यसमितिबाहेक कसैलाई छैन",
+      "summary": "नियात्राकार छविरमण सिलवालको नविनतम नियात्राकृति अमेरिकाको घाम लोकार्पित भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/silwal-s-american-sun-released-96-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767789943_Chhabi-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आचारसंहितामा एआईको प्रयोग थप, सामाजिक सञ्जालको परिभाषा संशोधन",
+      "summary": "दुई दल मिलेका कारण गण्डकीमा उनीहरुको जित सुनिश्चित छ । मतभारमा कमजोर रहेको नेकपा र राष्ट्रिय जनमोर्चाले पनि उम्मेदवारी भने दर्ता गराएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/victory-of-congress-uml-alliance-assured-in-gandaki-51-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767789866_Pokhara News 1-480x320.jpg"
+    },
+    {
+      "title": "मधेशी र मुस्लिम आयोगका पदाधिकारीसँग गृहमन्त्री अर्यालको छलफल",
+      "summary": "(एनएसजेएफ) को आयोजनामा पोखरामा भएको २२ औं एनएसजेफ पल्सर स्पोर्टस अवार्ड उनले अन्तर्गत युवा वर्ष खेलाडीको अवार्ड जितेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/cricketer-pooja-mahato-wins-young-player-of-the-year-award-53-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
