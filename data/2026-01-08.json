@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-08T08:40:29.739989",
+  "scraped_at": "2026-01-08T13:02:13.867846",
   "date": "2026-01-08",
-  "total_articles": 47,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -382,6 +382,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/lockdown-at-tribhuvan-university-students-angry-after-fee-adjustment-agreement-not-implemented-nbsp-95-23.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "बाँकेमा पहिलो पटक आमाको नामबाट वंशजको नागरिकता जारी",
+      "summary": "पर्यटकीय राजधानी पोखरामा आजदेखि ‘आर्ट इन हिमालय’ कला प्रदर्शनी सुरु भएको छ। सिर्जनशील कलाकार समूह, पोखराको आयोजनामा तथा नेपाल ललितकला प्रज्ञा प्रतिष्ठानको सहकार्यमा आयोजित प्रदर्शनीको उद्घाटन पोखरा महानगरपालिकाका प्रमुख धनराज आचार्यले गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/art-in-himalaya-exhibition-to-introduce-nepali-art-to-the-world-11-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767877260_Tourist-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्ड भन्छन्: देश समृद्ध बनाउने जिम्मेवारी हाम्रो काँधमा छ, तर एक्लैदुक्लै सकिन्न",
+      "summary": "अमेरिकी सरकारको वेबसाइट 'ट्राभल डट स्टेट डट गभ'मा मंगलबार राखिएको सूचनामा अफ्रिका, ल्याटिन अमेरिका र एशियाका ३८ देशलाई भिसाका लागि धरौटी बुझाउनुपर्ने देशहरूको सूचीमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bail-is-now-mandatory-to-travel-to-america-why-is-nepal-on-the-list-of-high-risk-countries-31-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767875719_Us_America-480x320.jpg"
+    },
+    {
+      "title": "भारत–चीनमाथि ५०० प्रतिशत ट्यारिफ लगाउने विधेयकमा ट्रम्पको समर्थन",
+      "summary": "विराटनगर महानगरपालिकाले चालु आर्थिक वर्षका लागि विनियोजित बजेट २० प्रतिशत कटौती गर्ने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/biratnagar-metropolitan-city-to-cut-budget-by-20-percent-81-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767874853_Biratnagar-480x320.jpg"
+    },
+    {
+      "title": "राजावादी लाइनमा खुले रविका दाइ हरिशरण",
+      "summary": "प्रमुख जिल्ला अधिकारी दिलकुमार तामाङले नागरिकता ऐन, २०६३ को दोस्रो संशोधन तथा नियमावलीको चौथो संशोधन बमोजिम नेपालगन्ज उपमहानगरपालिका-८ अन्सारीटोल निवासी २४ वर्षीय मोहन गोडीयालाई आज वंशजका आधारमा नागरिकता प्रदान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/for-the-first-time-in-banke-citizenship-is-issued-to-descendants-in-the-mother-s-name-16-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767874133_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिसँग अमेरिकी राजदूत थम्सनको बिदाइ भेट",
+      "summary": "पर्यटकीय राजधानी पोखरामा आजदेखि ‘आर्ट इन हिमालय’ कला प्रदर्शनी सुरु भएको छ। सिर्जनशील कलाकार समूह, पोखराको आयोजनामा तथा नेपाल ललितकला प्रज्ञा प्रतिष्ठानको सहकार्यमा आयोजित प्रदर्शनीको उद्घाटन पोखरा महानगरपालिकाका प्रमुख धनराज आचार्यले गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/art-in-himalaya-exhibition-to-introduce-nepali-art-to-the-world-11-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
