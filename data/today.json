@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-08T02:20:40.905878",
+  "scraped_at": "2026-01-08T04:46:14.219295",
   "date": "2026-01-08",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/large-protests-in-the-us-after-a-woman-was-murdered-by-an-immigration-officer-34-94.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "त विज्ञापन बिजुलीको पोलपोलमा, सिद्धार्थनगर नगरपालिका किन मौन ?",
+      "summary": "त विज्ञापन बिजुलीको पोलपोलमा, सिद्धार्थनगर नगरपालिका किन मौन ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11933",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bazar-Kshetra-kurup-1767843127.jpg"
+    },
+    {
+      "title": "प्रहरीद्धारा ६० केजी गाँजा बरामद",
+      "summary": "प्रहरीद्धारा ६० केजी गाँजा बरामद",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11908",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/1000071782-1767601614.jpg"
+    },
+    {
+      "title": "समानुपातिकको मतपत्र छपाई",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले कोलम्बियाली राष्ट्रपति गुस्ताभो पेट्रोसँग बुधबार मैत्रीपूर्ण फोन वार्ता गरेर उनलाई निकट भविष्यमा ह्वाइट हाउसमा भेट्न निम्तो दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-s-u-turn-petro-invited-to-the-white-house-amid-threats-of-military-action-against-colombia-br-78-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767846438_Trump New-480x320.jpg"
+    },
+    {
+      "title": "नवलपुरमा दुई लाख ६८ हजार मतदाता कायम",
+      "summary": "नियात्राकार छविरमण सिलवालकोनियात्रासंग्रह ‘अमेरिकाको घाम’ लोकार्पण भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/travel-writer-chhabiraman-silwal-s-second-travel-collection-american-sun-to-be-launched-br-31-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767844905_chhabi 52-480x320.jpg"
+    },
+    {
+      "title": "चितवनमा निर्वाचनको तयारी तीव्र",
+      "summary": "संयुक्त राज्य अमेरिका र युक्रेनका राजदूतहरूले पेरिसमा जेलेन्स्कीले भनेका रुसको कब्जामा रहेको जापोरिज्जिया आणविक ऊर्जा संयन्त्रको भाग्य र पूर्वी युक्रेनको क्षेत्रको नियन्त्रण मुद्दाहरूमा वार्ता गरिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-will-europe-do-if-russia-attacks-again-after-ceasefire-zelensky-still-hasn-t-received-a-clear-answer-br-62-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767844790_Zelenskyy Europ-480x320.jpg"
     }
   ]
 }
