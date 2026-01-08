@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-08T04:46:14.219295",
+  "scraped_at": "2026-01-08T08:40:29.739989",
   "date": "2026-01-08",
-  "total_articles": 39,
+  "total_articles": 48,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -319,6 +319,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/what-will-europe-do-if-russia-attacks-again-after-ceasefire-zelensky-still-hasn-t-received-a-clear-answer-br-62-26.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767844790_Zelenskyy Europ-480x320.jpg"
+    },
+    {
+      "title": "Thapa and Sharma formally call Congress special convention",
+      "summary": "Wednesday announcement sets stage for a factional clash ahead of polls. Deuba asks leaders to shun Jan 11-12 event.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/08/thapa-and-sharma-formally-call-congress-special-convention",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/61206107914280239986739223019131985519174033n1767833636-1767835727.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal urges restraint amid Venezuela tensions",
+      "summary": "Foreign ministry says disputes should be resolved through dialogue and respect for UN principles.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/08/nepal-urges-restraint-amid-venezuela-tensions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1767853119.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nagdhunga–Muglin road widening delayed as utility poles hold up work",
+      "summary": "Three years into the project, slow pole removal and material shortages blamed for delay.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/08/nagdhunga-muglin-road-widening-delayed-as-utility-poles-hold-up-work",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1767853033.jpg&w=300&height=200"
+    },
+    {
+      "title": "Exploring Nepal-India ties in a changing world",
+      "summary": "Former Indian ambassador to Nepal, Ranjit Rae, discusses his new edited volume and why listening to voices from both sides matters today.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/books/2026/01/08/exploring-nepal-india-ties-in-a-changing-world",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/booktalkmain-1767835034.jpg&w=600&height=400"
+    },
+    {
+      "title": "देउवा–कोइराला भेट, खड्काले बोलाए आकस्मिक कार्यसम्पादन समिति बैठक",
+      "summary": "त्रिभुवन विश्वविद्यालयका पदाधिकारीले विद्यार्थीसँग गरेको शुल्क समायोजनको सहमति कार्यान्वयनको माग गर्दै क्रान्तिकारी विद्यार्थीले विश्वविद्यालयका पदाधिकारीको कार्यकक्षमा अनिश्चितकालीन तालाबन्दी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/lockdown-at-tribhuvan-university-students-angry-after-fee-adjustment-agreement-not-implemented-nbsp-95-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767860480_TU-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठक आज बस्दै",
+      "summary": "भिडियोमा सैनिकले खुला क्षेत्रतर्फ (नागरिक घरहरूमा होइन) हल्का मेसिन गनबाट गोली चलाएको देखिन्छ। सैनिकले यो भिडियो आफैँ सामाजिक सञ्जालमा पोस्ट गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-soldier-who-fired-into-gaza-during-new-year-s-celebrations-gets-20-days-in-jail-38-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767859904_Army 20 Days-480x320.jpg"
+    },
+    {
+      "title": "विभाजनको डिलमा कांग्रेस",
+      "summary": "परिषद्ले नेपालमा उत्पादित हस्तकलाका सामान, फेल्ट, धातुका सामग्री, गार्मेन्ट, नेपाली ढाकाका कपडा, उलनका हाते उत्पादनलगायतका सामाग्री विदेशमा निर्यात गर्दै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/new-working-committee-of-export-council-elected-thapaliya-elected-unopposed-as-chairman-br-41-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767858344_Ramsharan-480x320.jpg"
+    },
+    {
+      "title": "रवि-लिङ्देन भेट : एजेन्डामा चुनाव निष्पक्ष बनाउनेदेखि अन्तर्राष्ट्रिय अवस्थासम्म",
+      "summary": "कोइरालाले उपसभापति पूर्णबहादुर खड्कालाई कार्यवाहक दिइसकेको भनेर सभापति देउवा चुप लाग्न नहुने अवस्था सिर्जना भएको पनि स्मरण गराएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-koirala-meet-khadka-calls-emergency-work-performance-committee-meeting-br-11-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767858259_Deuba-Shekhar-Purna1-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली प्रदेशः मन्त्रिपरिषद् बैठकका निर्णय सार्वजनिक",
+      "summary": "त्रिभुवन विश्वविद्यालयका पदाधिकारीले विद्यार्थीसँग गरेको शुल्क समायोजनको सहमति कार्यान्वयनको माग गर्दै क्रान्तिकारी विद्यार्थीले विश्वविद्यालयका पदाधिकारीको कार्यकक्षमा अनिश्चितकालीन तालाबन्दी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/lockdown-at-tribhuvan-university-students-angry-after-fee-adjustment-agreement-not-implemented-nbsp-95-23.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
