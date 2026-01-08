@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-08T13:02:13.867846",
+  "scraped_at": "2026-01-08T16:39:59.754719",
   "date": "2026-01-08",
-  "total_articles": 52,
+  "total_articles": 61,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -422,6 +422,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/art-in-himalaya-exhibition-to-introduce-nepali-art-to-the-world-11-25.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal must create 6.5m jobs by 2050 to reap demographic dividend",
+      "summary": "World Bank report says Nepal’s prospects hinge on creating quality jobs and harnessing skills of women and returning migrants.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/08/nepal-must-create-6-5m-jobs-by-2050-to-reap-demographic-dividend",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1767878550.jpg&w=300&height=200"
+    },
+    {
+      "title": "Trump withdraws US from dozens of international and UN entities",
+      "summary": "The United States skipped the annual UN international climate summit last year for the first time in three decades.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/08/trump-withdraws-us-from-dozens-of-international-and-un-entities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi_119_R237XCF2FBMRTHVFUMLSUMD7IQ.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bollywood star Sanjay Dutt in Nepal",
+      "summary": "Actor to attend the opening of Baadshah Casino at Hotel Barahi.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/08/bollywood-star-sanjay-dutt-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dutt-1767880302.jpg&w=600&height=400"
+    },
+    {
+      "title": "Government to issue labour permits to Nepalis working in Iraq",
+      "summary": "Actor to attend the opening of Baadshah Casino at Hotel Barahi.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2025/12/26/government-to-issue-labour-permits-to-nepalis-working-in-iraq",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi89L56UZZIG7BJ4ZD4SZJ33QPFUPI-1767861844.jpg&w=400&height=267"
+    },
+    {
+      "title": "विशेष महाधिवेशन रोक्न कांग्रेसको अपिल : ‘विधान विपरीतको भेलामा सहभागी नहुनू’",
+      "summary": "प्रहरीले रोजगारीका लागि बेलायत पठाउने भन्दै २८ लाख ठगी गरेको अभियोगमा एक जनालाई पक्राउ गरी आज सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/maharjan-arrested-for-defrauding-rs-2-8-million-by-promising-to-send-him-to-the-uk-90-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा कांग्रेसमा असन्तोष: सभापति ललितजंग शाहीविरुद्ध बहुमत प्रतिनिधि",
+      "summary": "नेपालको सांस्कृतिक सम्पदाको संरक्षण र पुरातात्त्विक वस्तुहरूको अवैध ओसारपसार नियन्त्रण गर्ने उद्देश्यले नेपाल र संयुक्त राज्य अमेरिकाबिच ऐतिहासिक सांस्कृतिक सम्पत्ति सम्झौता भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-s-archaeological-artifacts-banned-from-being-taken-to-the-us-br-31-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767888641_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "ओलीसँगको भेटमा प्रधानमन्त्रीले भनिन्-निर्वाचनको सुरक्षामा शङ्का नगर्नुस्, ढुक्क हुनुस्",
+      "summary": "एनआईसी एशिया बैंकले इटहरी शाखामा कर्मचारीमाथि कलुषित मनसायले गरिएको गालीगलौज र अभद्र व्यवहारप्रति गम्भीर ध्यानाकर्षण भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/attack-on-employee-at-nic-asia-bank-itahari-branch-81-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752160094_NIC ASIA BANK-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशन’को पक्षमा अर्घाखाँची कांग्रेस",
+      "summary": "नेपाली कांग्रेसले पार्टीभित्रको असन्तुष्ट पक्षले आह्वान गरेको विशेष महाधिवेशनलाई अवैधानिक ठहर गर्दै उक्त भेला तत्काल रोक्न अपिल गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-appeals-to-stop-special-general-convention-do-not-participate-in-gatherings-that-violate-the-constitution-27-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766576280_congress kendriye-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशनको आह्वान फिर्ता हुँदैन, सभापति पनि सहभागी हुनुपर्छ: थापा",
+      "summary": "प्रहरीले रोजगारीका लागि बेलायत पठाउने भन्दै २८ लाख ठगी गरेको अभियोगमा एक जनालाई पक्राउ गरी आज सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/maharjan-arrested-for-defrauding-rs-2-8-million-by-promising-to-send-him-to-the-uk-90-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
