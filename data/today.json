@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-09T04:47:14.155509",
+  "scraped_at": "2026-01-09T08:40:29.005636",
   "date": "2026-01-09",
-  "total_articles": 36,
+  "total_articles": 44,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -295,6 +295,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/controversy-over-sports-minister-gupta-s-us-visit-nrna-says-we-have-not-invited-him-br-22-83.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767932316_Bablu-480x320.jpg"
+    },
+    {
+      "title": "By 2050, Nepal must create 6.5m jobs to reap demographic dividend",
+      "summary": "World Bank: Country’s prospects hinge on creating good jobs and harnessing skills of women, returning migrants.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/08/nepal-must-create-6-5m-jobs-by-2050-to-reap-demographic-dividend",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/woldbankreport-1767924482.jpg&w=300&height=200"
+    },
+    {
+      "title": "List of free essential medicines to be revised",
+      "summary": "Some of the medicines on the list have become obsolete, and even doctors don’t prescribe them, officials say.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/09/list-of-free-essential-medicines-to-be-revised",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb13-1767924782.jpg&w=300&height=200"
+    },
+    {
+      "title": "US adds Nepal to visa bond list, expands pilot programme to 38 countries",
+      "summary": "Interim order bars further publication and broadcast of content the court says appears defamatory prima facie.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/01/07/us-adds-nepal-to-visa-bond-list-expands-pilot-programme-to-38-countries",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/manstorymainphoto-1767922108.jpg&w=400&height=267"
+    },
+    {
+      "title": "सिटौलाको आग्रहः विशेषका नाममा खैलाबैला उचित छैन, वृहत एकता चाहिएको बेला छ",
+      "summary": "पार्टीको हितका लागि अहिले कार्यसम्पादनको निर्णय मान्न केन्द्रदेखि वडासम्मका नेताकार्यकर्तालाई उनले आग्रह गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sitaula-s-request-it-is-not-appropriate-to-create-chaos-in-the-name-of-special-interests-it-is-time-for-greater-unity-98-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767947601_Sitaula1-480x320.jpg"
+    },
+    {
+      "title": "विमलेन्द्र निधिमाथि भएको दुर्व्यवहारमा कांग्रेसका १७ भ्रातृ संगठनको आपत्ति",
+      "summary": "त्यसैगरी दुर्घटनामाचार जना घाइते भएको भएकोप्रहरीले जनाएको छ। छेडागाड नगरपालिका–९ पजारुका ७० वर्षीया नन्दकलाअधिकारी, २८ वर्षीय राजु अधिकारीको घटनास्थल मृत्यु भएको जाजरकोटका प्रहरी प्रमुख वसन्तकुमार शर्माले जानकारी दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-killed-in-jeep-accident-in-jajarkot-37-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764911820_1649837678_accident-1200x560-480x320.jpg"
+    },
+    {
+      "title": "गिरिराज केसी नेतृत्वको स्वतन्त्र वाम समूह नेपाली कम्युनिस्ट पार्टीमा समाहित",
+      "summary": "आगामी फागुन २१ गते हुन गइरहेको प्रतिनिधिसभा सदस्य निर्वाचनको लागि निर्वाचन प्रहरी भर्ना आजदेखि खुलेको छ। प्रहरी प्रधान कार्यालयले १ लाख ३३ हजार ९८० जना निर्वाचन प्रहरी माग गर्दै बिहीबार सूचना प्रकाशन गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/recruitment-for-temporary-police-is-open-see-photo-60-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767947127_Police-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री गुप्ताको अमेरिका भ्रमण: एनआरएनए दुई समूहको आ-आफ्नै दाबी",
+      "summary": "शुक्रबार अखिल नेपाल फुटबल संघ एन्फाले एन्फाको मुख्यालयमा फुटसल च्याम्पियनसिप खेल्ने टोलीलाई बिदाई गरेको हो। थाइल्यान्डको राजधानी बैंककमा हुने सो च्याम्पियनसिप आगामी जनवरी १३ देखि २६ गतेसम्म आयोजना हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/farewell-to-nepali-men-s-and-women-s-teams-playing-saff-futsal-97-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767946628_Sports-480x320.jpg"
+    },
+    {
+      "title": "अन्तिम समयमा कांग्रेसको पत्रकार सम्मेलन स्थगित",
+      "summary": "पार्टीको हितका लागि अहिले कार्यसम्पादनको निर्णय मान्न केन्द्रदेखि वडासम्मका नेताकार्यकर्तालाई उनले आग्रह गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sitaula-s-request-it-is-not-appropriate-to-create-chaos-in-the-name-of-special-interests-it-is-time-for-greater-unity-98-72.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
