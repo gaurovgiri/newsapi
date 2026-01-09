@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-09T02:21:28.681319",
+  "scraped_at": "2026-01-09T04:47:14.155509",
   "date": "2026-01-09",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/accident-reduction-campaign-and-traffic-week-from-tomorrow-69-64.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "भक्तपुर कांग्रेस पनि दुई खेममा : विशेष महाधिवेशनमा सहभागी हुन आह्वान",
+      "summary": "आठौं ओप्स खेलकुद महोत्सवअन्तर्गत एथलेटिक्सको ४ सय मिटर दौडमा हिमरश्मिका अंकित अधिकारी र न्युटनकी अनिता बुढाले बिहीबार स्वर्ण जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/8th-ops-sports-festival-ankit-and-anita-win-gold-in-400m-race-br-21-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767933752_Anita 67-480x320.jpg"
+    },
+    {
+      "title": "झापा निर्वाचन : ७५ सय सुरक्षाकर्मी खटाइने, ९५ मतदानस्थल अतिसंवेदनशील",
+      "summary": "संस्थाले आफ्नो नाम, ईआईएन नम्बर र डिजिटल पहिचानको दुरुपयोग गरी अनधिकृत कार्यक्रम सञ्चालन तथा मानव तस्करीजस्ता गम्भीर गैरकानुनी गतिविधि भइरहेको विश्वसनीय जानकारी प्राप्त भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/controversy-over-sports-minister-gupta-s-us-visit-nrna-says-we-have-not-invited-him-br-22-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767932316_Bablu-480x320.jpg"
     }
   ]
 }
