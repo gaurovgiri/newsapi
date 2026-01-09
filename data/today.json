@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-09T13:01:23.096609",
+  "scraped_at": "2026-01-09T16:38:11.340806",
   "date": "2026-01-09",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-wild-elephant-attack-16-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Grassroots recommendations do not guarantee a poll ticket",
+      "summary": "In Nepal’s political parties, district units recommend candidates, but party leadership often override the rules to pick their favourites at the last minute.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/09/grassroots-recommendations-do-not-guarantee-a-poll-ticket",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ELECTION-1767968792.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister Karki takes stock of election preparations with Election Commission",
+      "summary": "National Assembly election is scheduled for January 25, while the House of Representatives election will be held on March 5.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/09/prime-minister-karki-takes-stock-of-election-preparations-with-election-commission",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/pmkarki09120261222091000x0-1767962645.jpg&w=300&height=200"
+    },
+    {
+      "title": "को नायक को खलनायक ?",
+      "summary": "नेपालमा पछिल्लो समयमा तापक्रम घट्दो क्रममा रहेकामा आज काठमाडौंको न्यूनतम तापक्रम थप घटेर २.४ डिग्रीमा झरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/temperature-in-kathmandu-drops-to-2-4-degrees-urges-caution-55-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767783064_Cold-480x320.jpg"
+    },
+    {
+      "title": "विप्लव नेतृत्वको माओवादी पहिलोपटक चुनावमा, जुम्लाबाट शाहीको एकल सिफारिस",
+      "summary": "मेचीनगर नगरपालिका–१० धुलाबारीमा निर्माणाधीन होटलबाट खसेर आज एक कामदारको मृत्यु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/worker-dies-after-falling-from-fourth-floor-of-hotel-41-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767236945_1756729847_death-1200x560-480x320.jpg"
+    },
+    {
+      "title": "वाम शक्तिबीच ध्रुवीकरण अहिलेको आवश्यकता: प्रचण्ड",
+      "summary": "विकास योजना, सार्वजनिक सुनुवाइदेखि सांस्कृतिक प्रस्तुतिसम्म सबै कार्यक्रम खेत, चौर र खुला मैदानमै सीमित थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-unfinished-assembly-hall-moves-forward-after-11-years-br-76-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767974931_Jumla-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशनमा सहभागी नहुन मधेसका आठ जिल्लाका सभापतिको आग्रह",
+      "summary": "‘नायक नहीं खलनायक हुँ मैं,’ पुष्पकमल दाहाल र सञ्जय दत्तबिच भएको भेटको तस्बिर सार्वजनिक गर्दै सामाजिक सञ्जाल प्रयोगकर्ता प्रल्हाद थापाले लेखेका छन्, ‘को नायक को चाहिँ खलनायक ?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/who-is-the-hero-and-who-is-the-villain-17-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767974566_Prachanda_Sanjaya-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा पार्टी फुटको पूर्वाभ्यास, केन्द्रदेखि गाउँसम्म चल्दैछ कित्ताकाँट",
+      "summary": "नेपालमा पछिल्लो समयमा तापक्रम घट्दो क्रममा रहेकामा आज काठमाडौंको न्यूनतम तापक्रम थप घटेर २.४ डिग्रीमा झरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/temperature-in-kathmandu-drops-to-2-4-degrees-urges-caution-55-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
