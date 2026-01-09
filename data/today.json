@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-09T08:40:29.005636",
+  "scraped_at": "2026-01-09T13:01:23.096609",
   "date": "2026-01-09",
-  "total_articles": 44,
+  "total_articles": 49,
   "sources": [
     "News24",
     "NagarikNews",
@@ -358,6 +358,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sitaula-s-request-it-is-not-appropriate-to-create-chaos-in-the-name-of-special-interests-it-is-time-for-greater-unity-98-72.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "हर्क साङपाङ भन्छन्: पूराना देश भत्काउने र नयाँ जलाउने",
+      "summary": "सुनसरीको बराहक्षेत्र नगरपालिका-३ नडाहास्थित कालिन्द्र सामुदायिक वनमा जङ्गली हात्तीको आक्रमणबाट दुई जना घाइते भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-wild-elephant-attack-16-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760060449_1672588455_1629948796_1610072429_elephant-1200x560-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंका ७ क्षेत्रीय र महानगर सभापति विशेष महाधिवेशनको विपक्षमा",
+      "summary": "निर्वाचन आयोगले आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा सामाजिक सञ्जालबाट प्रवाह हुनसक्ने नकारात्मक सन्देश र गतिविधिलाई नियन्त्रण गरिने जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/negative-messages-on-social-media-will-be-blocked-during-the-election-32-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763989533_Social-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसका झण्डाले सिँगारिए उपत्यकाका सडक",
+      "summary": "जाडो र शीलतहरले पठनपाठनमा समस्या आए पछि कपिलवस्तु नगरपालिका-६ का ५ विद्यालयका विद्यार्थीहरुलाई न्यानो कपडा वितरण गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/warm-clothes-were-distributed-to-students-31-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767962662_Kapada-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगका पदाधिकारीसँग प्रधानमन्त्रीको छलफल, प्रगति विवरण माग",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङ्ले पुराना दलहरु देशलाई भत्काउने र नयाँ दलहरु देशलाई जरैदेखि जलाउने भएकाले गर्दा देशलाई माया गर्ने पार्टी श्रम संस्कृति मात्र भएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sangpang-says-destroy-the-old-country-and-burn-the-new-one-33-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767961709_Harka-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री गुप्ताले अमेरिका भ्रमण रद्द गरे, नैतिक पराजय व्यहोरे",
+      "summary": "सुनसरीको बराहक्षेत्र नगरपालिका-३ नडाहास्थित कालिन्द्र सामुदायिक वनमा जङ्गली हात्तीको आक्रमणबाट दुई जना घाइते भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-wild-elephant-attack-16-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
