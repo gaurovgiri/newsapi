@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-10T08:35:31.588033",
+  "scraped_at": "2026-01-10T12:54:59.023923",
   "date": "2026-01-10",
-  "total_articles": 45,
+  "total_articles": 53,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -366,6 +366,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/targeting-ravi-and-balen-oli-said-these-are-forces-that-want-to-create-chaos-91-15.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Deuba faction panics as special convention looks inevitable",
+      "summary": "As convention backers seek to include all in the Jan 11-12 event, Congress establishment side suspects ‘foreign ploy’.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/10/deuba-faction-panics-as-special-convention-looks-inevitable",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/60871478711976747225234801794686735365762768n-1768008034.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress leader Homnath Dahal passes away",
+      "summary": "Congress decides to fly the party flag at half-mast for three days to mourn his death",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/10/congress-leader-homnath-dahal-passes-away",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/6135274272387778835016805637939377168803996n-1768035006.jpg&w=300&height=200"
+    },
+    {
+      "title": "Denmark’s Greenland dilemma: Defending a territory already on its way out",
+      "summary": "US President-elect Donald Trump said on Tuesday he wants to make mineral-rich, strategically placed Greenland a part of the United States.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/10/denmark-s-greenland-dilemma-defending-a-territory-already-on-its-way-out",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/denmark-1768043935.jpg&w=600&height=400"
+    },
+    {
+      "title": "रास्वपासँग एकताका १२ दिन अत्यन्त पीडादायीः कुलमान",
+      "summary": "‘यो बिचमा हामी पूरै इन्गेज्ड भयौँ, इन्गेज्ड बनाएर राखियो। र, रास्वपाले ठाउँठाउँमा पार्टी प्रवेश कार्यक्रम राख्नुभयो, उज्यालो नेपाल पार्टीका साथीहरूलाई बोलाउनुभयो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/12-days-of-unity-with-rsp-are-extremely-painful-kulman-13-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768040951_Rabi Kulman1-480x320.jpg"
+    },
+    {
+      "title": "कुलमानले भनेः मैले आजै पार्टी सदस्यता लिएँ, बैठकले अध्यक्ष बनायो",
+      "summary": "शनिवार पत्रकार सम्मेलन गर्दै आफूले आजैबाट पार्टी सदस्यता लिएको बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-said-i-took-party-membership-today-the-meeting-made-me-the-chairman-48-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768049216_kulman1-480x320.jpg"
+    },
+    {
+      "title": "कार्की नेतृत्वको वर्तमान सरकारलाई संविधान र प्रदेशले चिन्दैन : मन्त्री पौडेल",
+      "summary": "सुगौली सन्धिपछि नेपाली सेनाले प्रयोग गरेको बाटोलाई पर्यटन प्रोडक्टका रूपमा विकास गर्न निसान पदमार्ग पदयात्रा गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nissan-footpath-trek-from-mechibazar-to-ilam-concludes-37-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768048449_Padyatra-480x320.jpg"
+    },
+    {
+      "title": "१७ देशका जनसम्पर्क समितिका सभापति विशेष महाधिवेशनको विपक्षमा",
+      "summary": "बागमती प्रदेशका कृषि तथा पशुपन्छी विकास मन्त्री मधुसूदन पौडेलले सुशीला कार्की नेतृत्वको वर्तमान केन्द्र सरकारलाई संविधान र प्रदेश सरकारले नचिन्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-current-karki-led-government-is-not-recognized-by-the-constitution-and-the-province-bagmati-minister-poudel-43-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768048240_mela-480x320.jpg"
+    },
+    {
+      "title": "रास्वपासँग छुट्टिएपछि उनेपा फुट्याे",
+      "summary": "‘यो बिचमा हामी पूरै इन्गेज्ड भयौँ, इन्गेज्ड बनाएर राखियो। र, रास्वपाले ठाउँठाउँमा पार्टी प्रवेश कार्यक्रम राख्नुभयो, उज्यालो नेपाल पार्टीका साथीहरूलाई बोलाउनुभयो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/12-days-of-unity-with-rsp-are-extremely-painful-kulman-13-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
