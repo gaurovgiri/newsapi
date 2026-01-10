@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-10T02:11:09.638678",
+  "scraped_at": "2026-01-10T04:38:41.629799",
   "date": "2026-01-10",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/6-hindus-killed-in-18-days-british-mp-warns-stop-the-violence-immediately-br-32-38.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "मा पनि मेलम्चीबासीले न पाए राहत, न भए पुनःस्थापित",
+      "summary": "मा पनि मेलम्चीबासीले न पाए राहत, न भए पुनःस्थापित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11958",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Melamchi__-1768013944.jpg"
+    },
+    {
+      "title": "३ पटक पानी बाँढ्ने तयारी, गमगढीबासी दंग",
+      "summary": "३ पटक पानी बाँढ्ने तयारी, गमगढीबासी दंग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11937",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Khanepani-Bistar-Aayojana-1767844244.jpg"
+    },
+    {
+      "title": "कांग्रेसको आकस्मिक केन्द्रीय समिति बैठक सुरु",
+      "summary": "पक्राउ परेका उप्रेतीलाई बैंकिङ कसुर र सट्टेबाजीजन्य कसुरमा आवश्यक अनुसन्धान एवं कारबाहीको लागि जिल्ला प्रहरी परिसर भद्रकालीमा पठाइएको प्रवक्ता आचार्यले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/upreti-arrested-for-misusing-company-documents-to-make-multi-million-dollar-transactions-48-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768018760_Bhadrakali Police-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा विशेष महाधिवेशन विवाद: पक्ष–विपक्षमा खुल्दै नेता–कार्यकर्ता",
+      "summary": "हरेक वर्षजस्तै यस वर्ष पनि पौष शुक्ल पूर्णिमादेखि श्री स्वस्थानी व्रत आरम्भ भइसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/swasthani-katha-in-russian-br-92-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768018886_bb 67-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको आकस्मिक केन्द्रीय समिति बैठक आह्वान, ९ बजे बस्दै",
+      "summary": "कांग्रेस मुख्य सचिव कृष्णप्रसाद पौडेलका अनुसार बैठक शनिबार बिहान ९ बजे पार्टी केन्द्रीय कार्यालय, बीपी स्मृति भवन ललितपुरमा सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-emergency-central-committee-meeting-begins-81-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768018607_congress_-480x320.jpg"
     }
   ]
 }
