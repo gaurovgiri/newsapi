@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-10T16:33:37.900302",
+  "scraped_at": "2026-01-10T20:30:17.090743",
   "date": "2026-01-10",
-  "total_articles": 60,
+  "total_articles": 61,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -487,6 +487,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/the-private-sector-is-targeted-in-every-movement-92-84.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepali man who sold his truck to go to Europe killed in Ukraine war",
+      "summary": "Baitadi man recruited into Russian army through agents is confirmed dead in combat.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/10/nepali-man-who-sold-his-truck-to-go-to-europe-killed-in-ukraine-war",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rasiyansena09120260503271000x01-1768063094.jpg&w=600&height=400"
     }
   ]
 }
