@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-10T12:54:59.023923",
+  "scraped_at": "2026-01-10T16:33:37.900302",
   "date": "2026-01-10",
-  "total_articles": 52,
+  "total_articles": 60,
   "sources": [
     "NagarikNews",
     "News24",
@@ -422,6 +422,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/12-days-of-unity-with-rsp-are-extremely-painful-kulman-13-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali Army’s ‘Unification torch rally’ arrives in Kathmandu",
+      "summary": "The rally launched from Gorkha to mark the 304th Prithvi Jayanti and National Unity Day arrives at Hanuman Dhoka, Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/01/10/nepali-army-s-unification-torch-rally-arrives-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PrithviJayanti8-1768050751.jpg&w=300&height=200"
+    },
+    {
+      "title": "Online business platforms come under ICT minimum standards",
+      "summary": "New e-commerce guidelines mandate registration, audits and local representation for foreign platforms to curb fraud and protect consumers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/10/online-business-platforms-come-under-ict-minimum-standards",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb11-1768057664.jpg&w=300&height=200"
+    },
+    {
+      "title": "A dialogue between artistic practice and political ecology",
+      "summary": "Nepal’s failure to manage its highways has enormous social and economic costs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/10/a-dialogue-between-artistic-practise-and-political-ecology",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/denmark-1768043935.jpg&w=400&height=267"
+    },
+    {
+      "title": "पार्टी नाम फेर्नेसम्मको प्रस्ताव आएपछि एकता भङ्ग भएको हो : रास्वपा",
+      "summary": "चन्द्रप्रसाद ढकालले हरेक आन्दोलनमा निजी क्षेत्र निशानामा पर्ने गरेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-private-sector-is-targeted-in-every-movement-92-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768062082_Chandra-480x320.jpg"
+    },
+    {
+      "title": "‘नयाँ’ भनिएकाहरूको एकता १२ दिन टिकेन",
+      "summary": "न्यु डायमन्ड युथ स्पोर्ट्स क्लबले केएनपी नेरोलेक नवौँ शेरबहादुर खड्का स्मृति राष्ट्रिय महिला भलिबल प्रतियोगिताको उपाधि जितेको छ । न्यु डायमन्ड अपराजित रहँदै प्रतियोगिताको च्याम्पियन बनेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/new-diamond-became-the-champion-70-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768060558_Volley-480x320.jpg"
+    },
+    {
+      "title": "चुनाव वैशाख २१ मा सार्न निलकण्ठ उप्रेतीको सुझाव",
+      "summary": "जिल्ला प्रशासन कार्यालय, कास्कीले कुनै व्यक्ति वा समूहसँग अवैध हातहतियार भएमा आगामी माघ १५ गतेभित्र नजिकको प्रहरी कार्यालयमा बुझाउन सूचित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kaski-administration-urges-surrender-of-illegal-weapons-92-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762342524_kaski_police-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशनमा तीन हजार ६०० प्रतिनिधि सहभागी हुने दाबी",
+      "summary": "खोटाङको हलेसी तुवाचुङ नगरपालिकामा यसवर्षको राष्ट्रपति रनिङ सिल्ड प्रतियोगिता शनिबारदेखि सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/presidential-running-shield-begins-in-halesi-tuwachung-53-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768059912_Halesi_Chuwang-480x320.jpg"
+    },
+    {
+      "title": "भोलि कहाँ कहाँबाट निस्कछन् कांग्रेसको जुलुस ?",
+      "summary": "चन्द्रप्रसाद ढकालले हरेक आन्दोलनमा निजी क्षेत्र निशानामा पर्ने गरेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-private-sector-is-targeted-in-every-movement-92-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
