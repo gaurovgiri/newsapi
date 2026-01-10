@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-10T04:38:41.629799",
+  "scraped_at": "2026-01-10T08:35:31.588033",
   "date": "2026-01-10",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -319,6 +319,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-s-emergency-central-committee-meeting-begins-81-94.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768018607_congress_-480x320.jpg"
+    },
+    {
+      "title": "Congress calls an emergency central working committee meeting",
+      "summary": "The emergency meeting has been called amid deepening intra-party tension.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/10/congress-calls-an-emergency-central-working-committee-meeting",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/congress10120260438471000x0-1768024228.jpg&w=600&height=400"
+    },
+    {
+      "title": "रवि, बालेन प्रति लक्षित गर्दै ओलीले भने- यिनिहरु भद्रगोल सिर्जना गर्न चाहने शक्ति",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले मुलुकको राजनीति दुई विपरित ध्रुवमा तीव्र रूपमा ध्रुवीकृत भइरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/targeting-ravi-and-balen-oli-said-these-are-forces-that-want-to-create-chaos-91-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767089809_oli_-480x320.jpg"
+    },
+    {
+      "title": "चन्द्र–सुनिलको कित्ता क्लियर: पार्टी नफुटाल्ने, देउवाको सम्मानजनक बिदाइ",
+      "summary": "फ्यानहरूले सुनील ग्रोभरको नक्कलको धेरै प्रशंसा गरेका छन्। कतिपयले यसलाई एआईसँग पनि तुलना गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/aamir-was-shocked-to-see-sunil-s-caricature-and-said-it-felt-like-he-was-looking-at-himself-34-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768033461_Sunial Aamir-480x320.jpg"
+    },
+    {
+      "title": "एमाले केन्द्रीय कमिटीको बैठक एकान्तकुनामा जारी, के छन् एजेन्डा ?",
+      "summary": "‘पहिला गणेशमान,किसुनजी र गिरिजाबाबु झगडा गरिरहने। आरएसएस भनिन्थ्यो क्या–रामचन्द्रजी, शेरबहादुरजी, शैलजा मिलाउन हिँडेको हिँड्यो हुने गाडीमा,’ भण्डारीले भने,‘त्यस्तै अहिले हामी पार्टी मिलाउने सोचमा छौँ क्या।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chandra-sunil-s-fate-is-clear-deuba-will-not-break-up-the-party-bids-a-respectful-farewell-57-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768033595_Chndra1-480x320.jpg"
+    },
+    {
+      "title": "‘विशेष महाधिवेशनको नाममा कांग्रेस फुट्दैन, हामी फुट्न दिँदैनौं’",
+      "summary": "बंगलादेश सरकार र क्रिकेट अधिकारीहरू आगामी आइसिसी टी ट्वाटी विश्वकप २०२६ को आफ्ना खेलहरू भारतबाट सहआयोजक श्रीलंकामा सार्नुपर्ने दृढ अडानमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/icc-t20-world-cup-2026-bangladesh-determined-to-move-its-matches-to-bangladesh-br-96-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768032862_vivi 67-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशन पक्षधरको आजको सबै कार्यक्रम स्थगन",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले मुलुकको राजनीति दुई विपरित ध्रुवमा तीव्र रूपमा ध्रुवीकृत भइरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/targeting-ravi-and-balen-oli-said-these-are-forces-that-want-to-create-chaos-91-15.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
