@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-11T02:31:39.246818",
+  "scraped_at": "2026-01-11T04:52:50.115927",
   "date": "2026-01-11",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/smriti-yogi-resonates-in-dang-br-41-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "EVENTS: January 10 to January 16, 2026",
+      "summary": "‘Bhatti Tales’ uses humour and silence to examine marriage, loss, and unmet emotional needs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/10/events-january-10-to-january-16-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/112-1768094752.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेन लेख्छन्: घुस लिन्या र घुस दिन्या दुवै राष्ट्रका शत्रु हुन्",
+      "summary": "चिल्खाया गाउँमा विद्युतकाे राष्ट्रिय प्रसारण लाइन जोडिँदा स्थानीयमा खुसीयाली छाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-rejoice-as-national-electricity-transmission-line-is-connected-to-village-92-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768106412_batti-480x320.jpg"
+    },
+    {
+      "title": "जेलेन्स्कीहरू जन्माउने साम्राज्यवादी षड्यन्त्रबाट नेपाल राष्ट्रलाई जोगाउने सङ्कल्प गरौँ: महासचिव पोखरेल",
+      "summary": "चितवनकी प्रतिभा श्रेष्ठ र भक्तपुरकी सोया चक्रधरले बागमती प्रदेशस्तरीय खुला तेक्वान्दो लिगमा स्वर्ण जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/gold-for-pratibha-and-soya-br-59-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768106431_need  ni 52-480x320.jpg"
+    },
+    {
+      "title": "हरेक सिजनमा नयाँ मान्छेलाई यहाँ भगवान् बनाइन्छ : रेखा थापा",
+      "summary": "बेनी नगरपालिका–९ घतानको वडा कार्यालय रहेको नेप्टेचौर जोड्ने सडक कालोपत्र भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/road-connecting-ghatan-ward-office-blacktopped-48-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768105816_ghatan sadak-480x320.jpg"
+    },
+    {
+      "title": "नेपाललाई युग सुहाउँदो सरकार चाहिएको छ : मन्त्री खरेल",
+      "summary": "पृथ्वी जयन्तीको अवसरमा आइतबार सामाजिक सञ्जाल मार्फत उनले राष्ट्रिय एकता दिवसको शुभकामना दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-writes-both-the-bribe-taker-and-the-bribe-giver-are-enemies-of-the-nation-33-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752400618_balen-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशनले पार्टी संगठन झन् बलियो हुन्छ : महामन्त्रीद्वय",
+      "summary": "चिल्खाया गाउँमा विद्युतकाे राष्ट्रिय प्रसारण लाइन जोडिँदा स्थानीयमा खुसीयाली छाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-rejoice-as-national-electricity-transmission-line-is-connected-to-village-92-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
