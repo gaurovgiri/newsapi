@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-11T16:33:41.949425",
+  "scraped_at": "2026-01-11T20:31:10.685222",
   "date": "2026-01-11",
-  "total_articles": 62,
+  "total_articles": 63,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -503,6 +503,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-closed-session-from-8-am-on-monday-54-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "निर्वाचन लक्षित एमालेले थाल्यो प्रदेशगत छलफल",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (एमाले)ले आगामी फागुन २१ मा हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि प्रदेशबाट प्रतिनिधित्व गर्ने केन्द्रीय सदस्यसँग छलफल गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-begins-provincial-discussions-targeting-elections-64-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767170575_uml1-480x320.jpg"
     }
   ]
 }
