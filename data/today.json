@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-11T12:56:04.948033",
+  "scraped_at": "2026-01-11T16:33:41.949425",
   "date": "2026-01-11",
-  "total_articles": 55,
+  "total_articles": 63,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -446,6 +446,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-not-split-we-will-lead-the-entire-party-by-making-decisions-based-on-conscience-not-on-impulse-70-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Six-month maternity leave proposal gutted in September protests",
+      "summary": "Officials say the proposal aimed at promoting breastfeeding among new working mothers will have to be rewritten.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/11/six-month-maternity-leave-proposal-gutted-in-september-protests",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768137408.jpg&w=300&height=200"
+    },
+    {
+      "title": "How do Nepal’s World Cup preparations compare with their group opponents’?",
+      "summary": "Nepal have no matches scheduled before the T20 World Cup, unlike their group opponents, who will benefit from multiple preparatory games",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/11/how-do-nepal-s-world-cup-preparations-compare-with-their-group-opponents",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SP1-1768097579.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal, Bangladesh resume talks on preferential trade deal after years of deadlock",
+      "summary": "Commerce secretary-level meeting in Dhaka to revisit tariff disputes, trade facilitation, transit routes and investment cooperation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/11/nepal-bangladesh-resume-talks-on-preferential-trade-deal-after-years-of-deadlock",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/jute-1768146680.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशनः बन्दसत्र सोमबार बिहान ८ बजेदेखि",
+      "summary": "नेपाली कांग्रेसका विशेष महाधिवेशन पक्षधर समूहको आह्वानमा आजदेखि सुरु भएको विशेष महाधिवेशनको बन्दसत्र सोमबा बिहान ८ बजेदेखि हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-closed-session-from-8-am-on-monday-54-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768127902_congress_mahadibesan-480x320.jpg"
+    },
+    {
+      "title": "संस्थापन पक्षको बुझाइ: महामन्त्रीहरू पार्टी फुटको बाटोमा लगे",
+      "summary": "डा. प्रकाशशरण महत त्यसका लागि तत्कालै विशेष महाधिवेशनको पक्षमा लागेका नेताहरूलाई कारबाहीको रणनीति नलिने देउवाको मनसाय रहेको एक नेताले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/understanding-of-the-establishment-side-the-general-secretaries-led-the-party-on-the-path-of-division-43-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768149129_f-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन: पहिलो दिन २,६६२ प्रतिनिधिद्वारा नाम दर्ता",
+      "summary": "आज उनी परिवारको काखमा फर्किएका छन्, तर अपांग शरीर र अनिश्चित भविष्य बोकेर ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/uae-dream-orphan-in-delhi-treatment-in-kathmandu-59-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768146317_Ganga_Bahadur-480x320.jpg"
+    },
+    {
+      "title": "लामो रस्साकस्सीपछि नेकपा उदयपुरको उम्मेदवार सिफारिस टुंगियो",
+      "summary": "नेपाली कांग्रेसको दोस्रो विशेष महाधिवेशनको पहिलो दिन २ हजार ६ सय ६२ जना महाधिवेशन प्रतिनिधिले आफ्नो नाम दर्ता गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-2-662-delegates-register-on-first-day-48-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768127902_congress_mahadibesan-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस ब्युँझाउने गगन–विश्व सहयात्रा",
+      "summary": "नेपाली कांग्रेसका विशेष महाधिवेशन पक्षधर समूहको आह्वानमा आजदेखि सुरु भएको विशेष महाधिवेशनको बन्दसत्र सोमबा बिहान ८ बजेदेखि हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-closed-session-from-8-am-on-monday-54-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
