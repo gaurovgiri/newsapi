@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-11T08:35:49.319052",
+  "scraped_at": "2026-01-11T12:56:04.948033",
   "date": "2026-01-11",
-  "total_articles": 47,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -382,6 +382,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/tourist-arrivals-in-mustang-decrease-as-cold-weather-increases-41-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Special general convention of Congress stirs debate on generational shift",
+      "summary": "Delegates say the gathering is about leadership renewal, not party split.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/11/special-general-convention-of-congress-stirs-debate-on-generational-shift",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/congressspratinidhi11120261023551000x0-1768125942.jpg&w=300&height=200"
+    },
+    {
+      "title": "JSP-N and LSP-N merge, Upendra Yadav to lead unified party",
+      "summary": "Parties agree on name, umbrella as election symbol and central coordination committee.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/11/jsp-n-and-lsp-n-merge-upendra-yadav-to-lead-unified-party",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/60939227911917352262700486275489390340358053n11120261201101000x01-1768132115.jpg&w=300&height=200"
+    },
+    {
+      "title": "Medicines shortage hits health facilities in Dolpa’s Tripurasundari Municipality",
+      "summary": "Delay in procurement linked to absence of chief administrative officer, officials say",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/01/11/medicines-shortage-hits-health-facilities-in-dolpa-s-tripurasundari-municipality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/100008572311120260733031000x0-1768132227.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘कांग्रेस फुट्दैन, आवेगमा होइन विवेकले निर्णय गरेर सिंगो पार्टीको नेतृत्व गर्छौं’",
+      "summary": "नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले काठमाडौंमा जारी विशेष महाधिवेशनले पार्टी फुटाउने नभई सिंगो पार्टीलाई एकताबद्ध बनाएर नेतृत्व गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-not-split-we-will-lead-the-entire-party-by-making-decisions-based-on-conscience-not-on-impulse-70-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768134714_prakash-480x320.jpg"
+    },
+    {
+      "title": "‘संसद् भवन तोडिन दिएको भए के बिग्रन्थ्यो ? कम्तीमा ज्यान त जाँदैनथ्यो’",
+      "summary": "जनकपुरधाम उपमहानगरपालिकाले चालु आर्थिक वर्ष २०८२/८३ का लागि दुई अर्ब ४६ करोड ८९ लाख १६ हजार ८९४ वार्षिक संशोधित बजेट विनियोजनगरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/janakpurdham-sub-metropolitan-city-brings-revised-budget-93-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768136107_Jankpur_Mahanagasr-480x320.jpg"
+    },
+    {
+      "title": "भदौ २३ मा भुल भएकै हो, त्यसपछि कैयौं रात निदाएनौं: महामन्त्री शर्मा",
+      "summary": "नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले जेन-जी आन्दोलनका क्रममा भदौ २३ गते नवयुवाहरूको मृत्यु भएको घटना अत्यन्त दुर्भाग्यपूर्ण रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-would-have-happened-if-the-parliament-building-had-been-demolished-at-least-no-lives-would-have-been-lost-30-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768134714_prakash-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक दल, उम्मेदवार र मतदाताका लागि सुरक्षाको भरपर्दो वातावरण छ : आयोग",
+      "summary": "नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले विगतको राजनीतिक घटनाक्रममा नेतृत्वबाट भुल भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-was-a-mistake-on-bhadra-23-we-didn-t-sleep-for-many-nights-after-that-general-secretary-sharma-br-13-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768134714_prakash-480x320.jpg"
+    },
+    {
+      "title": "पार्टीका कमीकमजोरीको केही हिस्सा ‘डाइभिङ सिट’ को छेउमा बसेको नाताले हामी लिन्छौं: शर्मा",
+      "summary": "नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले काठमाडौंमा जारी विशेष महाधिवेशनले पार्टी फुटाउने नभई सिंगो पार्टीलाई एकताबद्ध बनाएर नेतृत्व गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-not-split-we-will-lead-the-entire-party-by-making-decisions-based-on-conscience-not-on-impulse-70-59.html?click_from=just_in",
       "image_url": ""
     }
   ]
