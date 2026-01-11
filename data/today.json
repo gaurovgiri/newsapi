@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-11T04:52:50.115927",
+  "scraped_at": "2026-01-11T08:35:49.319052",
   "date": "2026-01-11",
-  "total_articles": 40,
+  "total_articles": 47,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-rejoice-as-national-electricity-transmission-line-is-connected-to-village-92-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ा फोहोर व्यवस्थापनमा समस्या, वडा नं ३३ मा प्रशोधन केन्द्र निर्माणमा स्थानीयको अवरोध",
+      "summary": "ा फोहोर व्यवस्थापनमा समस्या, वडा नं ३३ मा प्रशोधन केन्द्र निर्माणमा स्थानीयको अवरोध",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11959",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Pokhara-fohar__-1768014188.jpg"
+    },
+    {
+      "title": "Congress special general convention kicks off today",
+      "summary": "Party chief Sher Bahadur Deuba declines to attend. It is unclear if the convention will pick a new party president.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/11/congress-special-general-convention-kicks-off-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/111-1768094542.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन सुरु",
+      "summary": "हिउँदयामको अत्यधिक चिसो बढेसँगै धार्मिक तथा पर्यटकीय जिल्ला मुस्ताङमा पर्यटकीय रौनक घट्दै जान थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tourist-arrivals-in-mustang-decrease-as-cold-weather-increases-41-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761638085_mustang-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशनः सहभागी नाम दर्ता जारी (फोटोफिचर)",
+      "summary": "नेपाली कांग्रेसका महामन्त्रीद्वयको अगुवाइमा आजदेखि काठमाडौंको भृकुटीमण्डपमा भइरहेको विशेष महाधिवेशन सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-session-begins-40-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768119677_congress-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सहमहामन्त्री आचार्यले पनि लिए समानुपातिक सूचीबाट नाम फिर्ता",
+      "summary": "नेपाली कांग्रेसका महामन्त्रीद्वयको अगुवाइमा आजदेखि काठमाडौंको भृकुटीमण्डपमा भइरहेको विशेष महाधिवेशनमा भाग लिन आउने महाधिवेशन प्रतिनिधिहरूको नाम दर्ता प्रक्रिया जारी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-participant-registration-released-photo-feature-40-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768118881_congress-480x320.jpg"
+    },
+    {
+      "title": "एमालेका केन्द्रीय सदस्यहरू प्रादेशिक रूपमा चुनावी रणनीति बनाउँदै",
+      "summary": "आचार्य रास्वपाले निर्वाचन आयोगमा बुझाएको समानुपातिक सूचीमा खसआर्यतर्फ पहिलो नम्बरमा थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-joint-general-secretary-acharya-also-withdrew-his-name-from-the-proportional-list-99-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768118481_Bipin Acharya1-480x320.jpg"
+    },
+    {
+      "title": "एकतामा जोड दिँदै कोइरालाले भने: बिपीको मेलमिलापको नीति कुनै विधानबाट आएको थिएन",
+      "summary": "हिउँदयामको अत्यधिक चिसो बढेसँगै धार्मिक तथा पर्यटकीय जिल्ला मुस्ताङमा पर्यटकीय रौनक घट्दै जान थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tourist-arrivals-in-mustang-decrease-as-cold-weather-increases-41-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
