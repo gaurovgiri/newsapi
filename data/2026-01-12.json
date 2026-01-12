@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-12T04:55:43.265636",
+  "scraped_at": "2026-01-12T08:42:53.209546",
   "date": "2026-01-12",
-  "total_articles": 39,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -318,6 +318,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-registration-continues-from-this-morning-72-76.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Congress special general convention plans major structural reforms, youth representation in focus",
+      "summary": "Bishwa Prakash Sharma’s report proposes age-based representation, inclusivity, and merit-based appointments to restore public trust.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/12/congress-special-general-convention-plans-major-structural-reforms-youth-representation-in-focus",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/60984640718004964840028019146871421748039987n-1768201251.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three killed in Baitadi jeep crash",
+      "summary": "Vehicle plunges 300 metres off Jayaprithvi Highway.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/12/three-killed-in-baitadi-jeep-crash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deaths from Iran protests reach more than 500, rights group says",
+      "summary": "The protests began on December 28 in response to soaring prices, before turning against the clerical rulers who have governed since the 1979 Islamic Revolution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/12/deaths-from-iran-protests-reach-more-than-500-rights-group-says",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/imgi1LXPVYSCAFZP3JGF3U55PQJ3BJE-1768183856.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tatopani border point shut after forest fire across Nepal–China border",
+      "summary": "Blaze in Nyalam–Khasa area disrupts movement and trade; smoke blankets border settlements.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/01/12/tatopani-border-point-shut-after-forest-fire-across-nepal-china-border",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/aac2926e64fa46c0895523405e11969b1all1141212120260516511000x0-1768192592.jpg&w=600&height=400"
+    },
+    {
+      "title": "Teaching Nepali culture, but making it fun",
+      "summary": "To deny Prithivi Narayan Shah’s vision or methods is to misunderstand him, and by extension, ourselves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/12/teaching-nepali-culture-but-making-it-fun",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/imgi1SCLK5Z3RJJJWJOJS5XOTMSP76Q-1768193722.jpg&w=400&height=267"
+    },
+    {
+      "title": "जेनजी विद्रोहको मर्म थियो परिवर्तन : महामन्त्री थापा",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गगन थापाले जेनजी विद्रोहको मूल मर्म परिवर्तन भएको बताउँदै आफूहरू सोही बाटोमा रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-essence-of-the-genji-rebellion-was-change-general-secretary-thapa-40-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768206464_gagan dai-480x320.jpg"
+    },
+    {
+      "title": "महामन्त्री थापाको समसामयिक राजनीतिक प्रस्ताव : प्रधानमन्त्रीको दुई कार्यकाल",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गगन थापाले प्रधानमन्त्रीको दुई कार्यकालको व्यवस्था हुनुपर्ने बताएका छन‍्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-thapa-s-contemporary-political-proposal-two-terms-for-the-prime-minister-61-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768205439_Gagan New-480x320.jpg"
+    },
+    {
+      "title": "महामन्त्री थापाको आह्वान : परिवर्तनको लहरमा कांग्रेसलाई नेतृत्वदायी बनाऔँ",
+      "summary": "काठमाडौँ महानगरपालिका-१३ गौरीगाउँस्थित सडकमा भएको मोटरसाइकल दुर्घटनामा परी गम्भीर घाइते भएका एकजनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-seriously-injured-in-accident-dies-br-42-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्डले समय नदिएपछि रोकियो नेकपाको सन्देशसभा",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गगन थापाले पार्टीको दोस्रो विशेष केन्द्रीय महाधिवेशनको बन्द सत्रमा सोमबार समसामयिक राजनीतिक प्रस्ताव प्रस्तुत गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/general-secretary-thapa-s-call-let-s-make-the-nepali-congress-a-leader-in-the-wave-of-change-55-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768205439_Gagan New-480x320.jpg"
+    },
+    {
+      "title": "विश्वप्रकाशले दोहोर्‍याएर भने : जेनजी कहीँ अन्तरिक्षबाट आएका थिएनन्",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गगन थापाले जेनजी विद्रोहको मूल मर्म परिवर्तन भएको बताउँदै आफूहरू सोही बाटोमा रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-essence-of-the-genji-rebellion-was-change-general-secretary-thapa-40-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
