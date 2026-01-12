@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-12T13:03:43.911118",
+  "scraped_at": "2026-01-12T16:37:02.908074",
   "date": "2026-01-12",
-  "total_articles": 56,
+  "total_articles": 63,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -454,6 +454,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/cooperation-in-tourism-agreement-signed-between-gandaki-and-koshi-92-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Congress special convention extended to Tuesday as leadership selection looms",
+      "summary": "Party president Deuba seeks legal advice amid concerns over legitimacy of the convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/12/congress-special-convention-extended-to-tuesday-as-leadership-selection-looms",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/60971488318871124352234847346870741029046876n12120260748021000x0-1768222260.jpg&w=300&height=200"
+    },
+    {
+      "title": "Patan High Court intervenes in ANFA’s plan for early elections",
+      "summary": "The ANFA has planned early elections on February 11 in Jhapa.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/12/patan-high-court-intervenes-in-anfa-s-plan-for-early-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anfapressmeet-1768229714.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रमुख जिल्ला अधिकारीसहित गृहका कर्मचारीको सरुवा",
+      "summary": "गृह मन्त्रालयले आज प्रमुख जिल्ला अधिकारीसहित आठ कर्मचारीको सरुवा तथा पदस्थापन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/transfer-of-home-affairs-employees-including-chief-district-officer-14-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762864968_home-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा निर्वाचनः बागमती प्रदेशका उम्मेदवारहरुलाई चुनाव चिह्न प्रदान",
+      "summary": "आगामी माघ ११ गते हुने राष्ट्रियसभा निर्वाचनका लागि बागमती प्रदेशमा उम्मेदवारी दर्ता गराएका उम्मेदवारहरुलाई चुनाव चिह्न प्रदान गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-assembly-election-bagmati-province-candidates-given-election-symbols-91-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768178261_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले प्रत्यक्षतर्फ प्राइमरी इलेक्सन नगर्ने, पुरानै सिफारिस प्रक्रियाबाट उम्मेदवार छान्ने",
+      "summary": "नेपालको जनसाङ्ख्यिक संरचनामा काम गर्न सक्ने उमेर समूहको बाहुल्यता हुँदाहुँदै पनि युवा बेरोजगारीको दर उच्च र श्रमशक्ति सहभागिता न्यून रहेको तथ्य सरकारी तथ्याङ्कले उजागर गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/12-7-percent-of-youth-are-unemployed-76-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768234510_fs-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनको परिणाम एमालेको पक्षमा हुन्छ: महासचिव पोखरेल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आगामी निर्वाचनमा प्रत्यक्षतर्फ उम्मेदवार छनोटका लागि प्राइमरी इलेक्सनको अभ्यास लागू नगर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-will-not-hold-direct-primary-elections-will-select-candidates-through-the-old-recommendation-process-58-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753102635_raswapa office building-480x320.jpg"
+    },
+    {
+      "title": "पर्वतारोहण सङ्घलाई एकाधिकार दिन मिल्दैनः मन्त्री सिन्हा",
+      "summary": "गृह मन्त्रालयले आज प्रमुख जिल्ला अधिकारीसहित आठ कर्मचारीको सरुवा तथा पदस्थापन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/transfer-of-home-affairs-employees-including-chief-district-officer-14-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
