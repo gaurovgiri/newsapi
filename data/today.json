@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-12T16:37:02.908074",
+  "scraped_at": "2026-01-12T20:33:20.463123",
   "date": "2026-01-12",
-  "total_articles": 63,
+  "total_articles": 65,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -511,6 +511,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/transfer-of-home-affairs-employees-including-chief-district-officer-14-77.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "After funding dispute, TU Teaching Hospital halts services under government health insurance",
+      "summary": "Hospital says decision takes effect from January 15, but patients reported being denied services from Monday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/12/after-funding-dispute-tu-teaching-hospital-halts-services-under-government-health-insurance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/healthinsurance-1768223125.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bridge work stalls as equipment stuck at customs",
+      "summary": "The equipment has been held at Kerung for the past two weeks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/12/bridge-work-stalls-as-equipment-stuck-at-customs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1768233248.jpg&w=300&height=200"
     }
   ]
 }
