@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-12T02:27:14.983665",
+  "scraped_at": "2026-01-12T04:55:43.265636",
   "date": "2026-01-12",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-in-kalimati-for-today-18-14.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "्षेत्र किकस्टार्ट बुटक्याम्प तालिम सञ्‍चालनमा",
+      "summary": "्षेत्र किकस्टार्ट बुटक्याम्प तालिम सञ्‍चालनमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11965",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/3-1768118888.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन : बिहानैदेखि नाम दर्ता जारी",
+      "summary": "कांग्रेस विशेष महाधिवेशन पक्षधर समूहले नाम दर्ता गराउनका लागि भिन्दाभिन्दै आठ स्टलको व्यवस्था गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-registration-continues-from-this-morning-72-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768193409_Congress (1)-480x320.jpg"
+    },
+    {
+      "title": "महासचिव पोखरेलको प्रश्न : देश जलिरहेको बेला उत्सव कसरी मनाउन सकिन्छ?",
+      "summary": "ट्रम्पले कारबाहीपछि अमेरिकाले भेनेजुएलालाई ‘सुरक्षित, उचित र न्यायपूर्ण संक्रमण’ नभएसम्म चलाउने भनेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-declares-himself-acting-president-of-venezuela-76-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768192819_Trump Claim-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशन : बन्दसत्रमा देउवा जाने चर्चा, सचिवालयले भन्यो- गलत सूचना",
+      "summary": "साहित्य सङ्गम मकवानपुरको ३९औँ वार्षिकोत्सवको अवसरमा आयोजित तेस्रो राष्ट्रिय पर्याकविता उत्सवमा मकवानपुरका कवि किशन पौडेल प्रथम भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/poudel-s-poem-dohan-debuts-at-national-poetry-festival-br-39-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768192979_ud 56-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा दुई लाख १३ हजार कर्मचारी परिचालन हुँदै",
+      "summary": "अमेरिकाले सैन्य कारबाहीको धम्की दिएपछि इरानका सर्वोच्च नेता अली खामेनीको नेतृत्वले कुरा गर्न चाहेको दाबी उनले गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-claims-iran-wants-to-talk-15-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768179276_Iran-480x320.jpg"
+    },
+    {
+      "title": "नेपाली कांग्रेस विशेष महाधिवेशन : बिहान १० बजेदेखि बन्दसत्र सुरु हुने",
+      "summary": "कांग्रेस विशेष महाधिवेशन पक्षधर समूहले नाम दर्ता गराउनका लागि भिन्दाभिन्दै आठ स्टलको व्यवस्था गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-registration-continues-from-this-morning-72-76.html?click_from=just_in",
       "image_url": ""
     }
   ]
