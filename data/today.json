@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-12T08:42:53.209546",
+  "scraped_at": "2026-01-12T13:03:43.911118",
   "date": "2026-01-12",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-essence-of-the-genji-rebellion-was-change-general-secretary-thapa-40-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Free and fair election key to restoring Nepal’s international reputation",
+      "summary": "Use of force on Gen Z protesters fell outside standards of legitimacy, necessity and proportionality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/01/12/free-and-fair-election-key-to-restoring-nepal-s-international-reputation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ProfSubediSpeakingatLincolnsInnLondon-1768182758.png&w=300&height=200"
+    },
+    {
+      "title": "राष्ट्रपतिले आह्वान गरे राष्ट्रिय सभाको अधिवेशन",
+      "summary": "समझदारी अनुसार दुई प्रदेशबीच पर्यटन विकास, प्रवद्र्दन, पूर्वाधार, पहुँच बिस्तार, मानव संसाधन विकास तथा संस्थागत सहकार्यलाई सुदृढ बनाउन सहकार्य गरिनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/cooperation-in-tourism-agreement-signed-between-gandaki-and-koshi-92-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768222869_Samjhauta Patra paxi PIC-480x320.jpg"
+    },
+    {
+      "title": "पार्टी एकढिक्का राख्न संवादको ढोका खुला छः नेता कार्की",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलले राष्ट्रिय सभाको अधिवेशन आह्वान गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/president-calls-for-national-assembly-session-93-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766453146_1640057564_rastriyashava-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको विशेष महाधिवेशन लम्बियो",
+      "summary": "नेपाली कांग्रेसका नेता ज्ञानेन्द्रबहादुर कार्कीले पार्टीलाई एकढिक्का राख्न लचकताका साथ संवादको ढोका खुला रहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/door-to-dialogue-open-to-keep-party-united-leader-karki-34-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750585957_Gyanendra Karki _ Nagarik-480x320.jpg"
+    },
+    {
+      "title": "देउवाले आजैगगन-विश्वसँग संवाद गर्ने",
+      "summary": "नेपाली क्रिकेट इतिहासमै कोसेढुङ्गा साबित मानिएको ‘आइसीसी महिला टी-२० विश्वकप ग्लोबल छनोट’ प्रतियोगिता सन्निकट आइपुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/women-s-t20-world-cup-global-qualifiers-are-approaching-how-are-can-s-preparations-going-25-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768222891_women-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा एक वर्षमा प्रेस स्वतन्त्रता हननका १२१ घटना",
+      "summary": "समझदारी अनुसार दुई प्रदेशबीच पर्यटन विकास, प्रवद्र्दन, पूर्वाधार, पहुँच बिस्तार, मानव संसाधन विकास तथा संस्थागत सहकार्यलाई सुदृढ बनाउन सहकार्य गरिनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/cooperation-in-tourism-agreement-signed-between-gandaki-and-koshi-92-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
