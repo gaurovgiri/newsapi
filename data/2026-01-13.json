@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-13T02:18:50.267910",
+  "scraped_at": "2026-01-13T04:48:01.550203",
   "date": "2026-01-13",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -270,6 +270,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/rules-based-world-order-33-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "विशेष महाधिवेशनले नेपाली कांग्रेसलाई अझ एकताबद्ध बनाउने छ : प्रदीप पौडेल",
+      "summary": "नेपाली कांग्रेसका नेता प्रदीप पौडेलले विशेष महाधिवेशनले पार्टीलाई अझ एकताबद्ध बनाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-will-further-unite-nepali-congress-pradeep-poudel-45-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761660266_pradip-480x320.jpg"
+    },
+    {
+      "title": "झापाबाट रास्वपाले बालेनको राजनीति सिध्याउने रणनीति बनायो : अध्यक्ष गिरी",
+      "summary": "त्रिवि शिक्षण अस्पतालले सार्वजनिक सूचना जारी गरेर आगामी माघ १ गतेदेखि स्वास्थ्य बिमा कार्यक्रम बन्द गर्ने निर्णय गरेको जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/health-insurance-program-failed-72-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768277300_Bima-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : सङ्खुवासभामा तयारी तीव्र",
+      "summary": "नेकपा एमाले झापाका अध्यक्ष प्रेम गिरीले रास्वपाले बालेनको राजनीति झापाबाटै सिध्याउने रणनीति बनाएको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-has-developed-a-strategy-to-end-balen-s-politics-in-jhapa-chairman-giri-70-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768277055_rabi balen-480x320.jpg"
+    },
+    {
+      "title": "नेकपाका केन्द्रीय सदस्यहरूले आज शपथ ग्रहण गर्दै",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनलाई लक्षित गरेर जिल्ला प्रशासन कार्यालयले सुरक्षा योजना तयार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/preparations-intensify-in-sankhuwasabha-for-house-of-representatives-elections-86-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762691787_1761872829_Aayog 56-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन : विभिन्न प्रतिवेदनमाथि छलफल जारी",
+      "summary": "नेपाली कांग्रेसका नेता प्रदीप पौडेलले विशेष महाधिवेशनले पार्टीलाई अझ एकताबद्ध बनाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-will-further-unite-nepali-congress-pradeep-poudel-45-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
