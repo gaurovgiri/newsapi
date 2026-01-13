@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-13T08:40:54.366539",
+  "scraped_at": "2026-01-13T13:03:39.208481",
   "date": "2026-01-13",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/election-committee-publishes-election-schedule-br-98-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "श्याम घिमिरे भन्छन्- रातभरिमा सहमतिको विन्दुमा पुग्छौं",
+      "summary": "नेपाली कांग्रेसका नेता श्यामकुमार घिमिरेले पार्टीमा पछिल्लो समय देखिएको विवाद समाधानका लागि नेताहरूबीच छलफल र वार्ता सकारात्मक रूपमा अघि बढेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-reach-a-consensus-overnight-congress-leader-ghimire-45-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768309080_shyam-480x320.jpg"
+    },
+    {
+      "title": "महामन्त्रीहरूले बोलाएको महाधिवेशन ‘भेला’ मात्रै हो, पार्टी फुट्दैन: एनपी साउद",
+      "summary": "नेपाली कांग्रेसका नेता एनपी साउदले महामन्त्रीद्वय गगन थापा र विश्वप्रकाश शर्माको आह्वानमा भृकुटीमण्डपमा भइरहेको विशेष महाधिवेशनलाई भेला मात्रै भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-general-convention-called-by-the-general-secretaries-is-just-a-gathering-the-party-will-not-split-np-saud-13-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768308308_saasa-480x320.jpg"
+    },
+    {
+      "title": "विशेष महाधिवेशन : सभापतिमा ६ जनाले लगे फारम, उम्मेदवारी दर्ता सुरु",
+      "summary": "नेपाली कांग्रेसको जारी विशेष महाधिवेशनमा नयाँ नेतृत्व चयनका लागि चुनावी प्रक्रिया सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-6-candidates-submit-forms-for-presidency-candidacy-registration-begins-br-86-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768307454_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन: उम्मेदवारी दर्ता आजै, मतदान प्रक्रिया भने बुधबारलाई सारियो",
+      "summary": "नेपाली कांग्रेसको विशेष महाधिवेशन अन्तर्गत नयाँ कार्यसमिति चयनका लागि मतदान प्रक्रिया बुधबार सम्मका लागि धकेलिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-candidature-registration-today-voting-process-postponed-to-wednesday-31-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768306185_gagan_biswo-480x320.jpg"
+    },
+    {
+      "title": "‘एक रुपैयाँ भ्रष्टाचार गरेको छैन, मन्दिरमा कसम खान सक्छु’",
+      "summary": "नेपाली कांग्रेसका नेता श्यामकुमार घिमिरेले पार्टीमा पछिल्लो समय देखिएको विवाद समाधानका लागि नेताहरूबीच छलफल र वार्ता सकारात्मक रूपमा अघि बढेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-reach-a-consensus-overnight-congress-leader-ghimire-45-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
