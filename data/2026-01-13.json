@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-13T04:48:01.550203",
+  "scraped_at": "2026-01-13T08:40:54.366539",
   "date": "2026-01-13",
-  "total_articles": 38,
+  "total_articles": 45,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -310,6 +310,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/special-general-convention-will-further-unite-nepali-congress-pradeep-poudel-45-56.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nine from Salyan killed in cooking gas cylinder blast in India",
+      "summary": "Two families from Takura, ward 2 of Siddha Kumakh, died while asleep.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/01/13/nine-from-salyan-killed-in-cooking-gas-cylinder-blast-in-india",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/Sreengrab-1768286335.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah’s hint at candidacy heats up Jhapa-5 politics",
+      "summary": "Possible run seen as challenge to KP Sharma Oli’s stronghold amid calls for generational shift.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/13/balendra-shah-s-hint-at-candidacy-heats-jhapa-5-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balen-1768277458.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन: निर्वाचन तालिका सार्वजनिक",
+      "summary": "नेपाली कांग्रेसको विशेष महाधिवेशन पक्षधरको आह्वानमा यही पुस २७ गतेदेखि यहाँ सुरु भएको विशेष महाधिवशेनबाट गठन भएको निर्वाचन समितिले नयाँ नेतृत्व चयनका लागि आज कार्यतालिका सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-committee-publishes-election-schedule-br-98-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768292999_gagan_biswo-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा चुनावी चासो बढ्दै",
+      "summary": "आज मंगलबार हुसेनले सामाजिक सञ्जाल मार्फत उक्त जानकारी दिएका छन्। जहाँ उनले एक भिडियो मार्फत १४ जनवरी भोलिबाट अब कम्बोडियामा पनि प्रदर्शन हुने भएको उनले जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-film-gunyu-cholo-will-also-be-screened-in-cambodia-65-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768292259_Najir-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक बन्दसूचीबाट १८ दलका १६४ उम्मेदवारका नाम फिर्ता",
+      "summary": "युएसएस एसेक्समा इन्जिनियर (मेसिनिस्ट मेट) का रूपमा कार्यरत वेई सन् २०२३ को अगस्ट ३ मा चीनलाई संवेदनशील सैन्य जानकारी उपलब्ध गराएको आरोपमा पक्राउ परेका दुई क्यालिफोर्निया नाविकमध्ये एक थिए। अर्का नाविक वेनहेङ झाओलाई सन् २०२४ मा षड्यन्त्र र घुसखोरीको अभियोगमा २७ महिना जेल सजाय सुनाइएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-us-navy-sailor-sentenced-to-16-years-in-prison-for-selling-classified-information-to-china-31-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768291277_China-USA-480x320.jpg"
+    },
+    {
+      "title": "महाधिवेशन स्थलमा नयाँ नेतृत्व चयनको पक्षमा नाराबाजी",
+      "summary": "फागुन २१ गते तय भएको प्रतिनिधिसभा सदस्य निर्वाचन नजिकिँदै गर्दा हिमाली जिल्ला जुम्लामा राज्य संयन्त्रपूर्ण रूपमा सक्रिय भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-interest-growing-in-jumla-35-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768290315_jumla-480x320.jpg"
+    },
+    {
+      "title": "सबै दल उत्साहका साथ निर्वाचनमा सहभागी हुनुपर्नेमा सभामुखको जोड",
+      "summary": "नेपाली कांग्रेसको विशेष महाधिवेशन पक्षधरको आह्वानमा यही पुस २७ गतेदेखि यहाँ सुरु भएको विशेष महाधिवशेनबाट गठन भएको निर्वाचन समितिले नयाँ नेतृत्व चयनका लागि आज कार्यतालिका सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-committee-publishes-election-schedule-br-98-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
