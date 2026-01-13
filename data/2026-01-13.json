@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-13T13:03:39.208481",
+  "scraped_at": "2026-01-13T16:41:40.200519",
   "date": "2026-01-13",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-reach-a-consensus-overnight-congress-leader-ghimire-45-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Passenger bus missing in Chitwan landslide found after 18 months",
+      "summary": "Two buses carrying more than 60 passengers were hit by a landslide at Simaltal on July 12, 2024 and went missing in the Trishuli river.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/13/passenger-bus-missing-in-chitwan-landslide-found-after-18-months",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260113at35822pm13120261221521000x0-1768317846.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali Congress central working committee meeting postponed amidst mounting internal tensions",
+      "summary": "Party spokesperson says talks continue to avert a split as special convention endorses general secretaries’ reports.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/13/nepali-congress-central-working-committee-meeting-postponed-amidst-mounting-internal-tensions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nc-1768316934.jpg&w=300&height=200"
+    },
+    {
+      "title": "Regime change in Venezuela and the crisis of global order",
+      "summary": "Residents of Hima Rural Municipality say they are finally free from daily water worries and can focus on other household chores, hygiene and even kitchen gardening.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/13/regime-change-in-venezuela-and-the-crisis-of-global-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mediumscalesindustries-1768318955.jpg&w=400&height=267"
+    },
+    {
+      "title": "वारपारको अवस्थामा कांग्रेस",
+      "summary": "मुलुकको सबैभन्दा पुरानो र लोकतान्त्रिक पार्टी नेपाली कांग्रेस सबैभन्दा कठिन अवस्थामा उभिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-in-a-state-of-war-90-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768322250_d-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विशेष महाधिवेशन: उमदेवारी मनोनयन स्थगित",
+      "summary": "नेपाली कांग्रेसका विशेष महाधिवेशन अन्तर्गत उमदेवारी मनोनयन स्थगित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-special-general-convention-candidate-nominations-postponed-65-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768313972_manonayen-480x320.jpg"
+    },
+    {
+      "title": "महेशको ‘स्याल’ टिप्पणीमा बालेनको ‘लभ’ रिप्लाई !",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले काठमाडौं महानगरपालिकाका प्रमुख बालेन शाह झापाबाट चुनाव लड्ने चर्चामाथि गरेको व्यङ्ग्यमा मेयर शाहले रोचक जवाफ फर्काएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-response-to-mahesh-basnet-s-fox-comment-how-much-do-you-love-me-73-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768320438_balen_-480x320.jpg"
+    },
+    {
+      "title": "चार वर्षमा साढे १७ खर्बका परियोजना स्वीकृत",
+      "summary": "बोर्डमा २०७९ सालदेखि २०८२ सालसम्ममा उक्त रकम बराबरका ठूला परियोजनाको प्रस्ताव स्वीकृत भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/projects-worth-rs-1-75-trillion-approved-in-four-years-34-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768319715_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "पार्टीको निर्णयभन्दा बाहिर नहिँड्न महामन्त्रीद्वयलाई कांग्रेसको चेतावनी",
+      "summary": "मुलुकको सबैभन्दा पुरानो र लोकतान्त्रिक पार्टी नेपाली कांग्रेस सबैभन्दा कठिन अवस्थामा उभिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-in-a-state-of-war-90-81.html?click_from=just_in",
       "image_url": ""
     }
   ]
