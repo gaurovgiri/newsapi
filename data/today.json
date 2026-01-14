@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-14T13:03:19.414084",
+  "scraped_at": "2026-01-14T16:40:42.225283",
   "date": "2026-01-14",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
     "News24",
     "NagarikNews",
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ranjita-shrestha-joined-ncp-after-continuous-conspiracy-in-naupa-58-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Thapa claims clear majority in Congress despite suspension",
+      "summary": "Rival factions prepare for legal battle as Nepali Congress crisis deepens.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/14/thapa-claims-clear-majority-at-congress-special-general-convention-despite-suspension",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6131796389741326691128585158600969647539041n-1768389878.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rural youths rush to obtain citizenship and apply for election police",
+      "summary": "Most say the short-term police job will help them fund studies and support their families.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/14/rural-youths-rush-to-obtain-citizenship-and-apply-for-election-police",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/electionpolicefile-1768396352.jpg&w=600&height=400"
+    },
+    {
+      "title": "बागमती सरकारले निजामती सेवा नियमावली लोक सेवा आयोग पठाउने",
+      "summary": "काठमाडौं सुन्धारास्थित जगन्नाथ देवल कारागारमा १० वर्ष कैद सजाय भुक्तान गरिरहेका तीन कैदीबन्दी ‘हेडमास्टर’ को परिचय बनाएर फर्कंदै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-14-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768407493_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "रविको संगठित अपराधको मुद्दा फिर्ता लिने निर्णयबारे लेखक- ‘मैले अध्ययन गरेको छैन, यो कानुनी विषय हो’",
+      "summary": "बागमती मन्त्रिपरिषद्को आज साँझ बसेको बैठकले प्रदेश निजामती सेवा नियमावलीको मस्यौदा परामर्शका लागि लोक सेवा आयोगमा पठाउने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bagmati-government-to-send-civil-service-regulations-to-public-service-commission-57-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752903084_Bagmati Sarkar-480x320.jpg"
+    },
+    {
+      "title": "जेन-जीको शान्तिपूर्ण आन्दोलनमा घुसपैठ हुँदा दुर्घटना भयो: लेखक",
+      "summary": "नेपाली कांग्रेसका नेता तथा पूर्व गृहमन्त्री रमेश लेखकले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेविरुद्धको मुद्दा फिर्ता लिने महान्यायाधिवक्ता कार्यालयको निर्णयबारे अनविज्ञता प्रकट गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/writer-on-ravi-s-decision-to-withdraw-organized-crime-case-i-haven-t-studied-it-it-s-a-legal-matter-93-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768400104_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "रमेश लेखकको दाबीः शेरबहादुर देउवा नेतृत्व कांग्रेस नै आधिकारिक, कारण यस्तो",
+      "summary": "टोखाबाट यसवर्षपाँच करोडभन्दा बढी मूल्य बराबरको चाकु बिक्री भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/knife-sales-exceed-50-million-rupees-from-tokha-this-year-78-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768406582_03_Chaku-1200x560-wm-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको विवाद कानुनी लडाइँमा परिणत: लेखक",
+      "summary": "काठमाडौं सुन्धारास्थित जगन्नाथ देवल कारागारमा १० वर्ष कैद सजाय भुक्तान गरिरहेका तीन कैदीबन्दी ‘हेडमास्टर’ को परिचय बनाएर फर्कंदै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-14-94.html?click_from=just_in",
       "image_url": ""
     }
   ]
