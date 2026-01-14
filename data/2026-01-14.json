@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-14T16:40:42.225283",
+  "scraped_at": "2026-01-14T20:30:15.453657",
   "date": "2026-01-14",
-  "total_articles": 63,
+  "total_articles": 65,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -511,6 +511,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-14-94.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Attorney general directs withdrawal of organised crime and money laundering charges against RSP chair Lamichhane",
+      "summary": "OAG clarified that the cooperative fraud case against him will continue unchanged.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/14/attorney-general-s-office-directs-withdrawal-of-organised-crime-and-money-laundering-charges-against-rsp-chair-lamichhane",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Rabilamichhane-1768399837.jpg&w=300&height=200"
+    },
+    {
+      "title": "आठ दशकमा तेस्रो पटक फुट्यो कांग्रेस",
+      "summary": "पुसको अन्तिम दिन आज काठमाडौंको तापक्रम अझै घटेको छ ।न्यूनतम तापक्रम २.४ मा झरेर थोरै उकालो लागि ३ डिग्रीसम्म पुगेको तापक्रम आज फेरि झरेर न्यूनतम तापक्रम २.३ डिग्रीमा आइपुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-s-temperature-drops-further-40-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767783064_Cold-480x320.jpg"
     }
   ]
 }
