@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-14T04:51:00.977136",
+  "scraped_at": "2026-01-14T08:40:40.894481",
   "date": "2026-01-14",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -335,6 +335,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-woman-dies-driver-injured-in-motorcycle-accident-br-53-49.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764911820_1649837678_accident-1200x560-480x320.jpg"
+    },
+    {
+      "title": "At least 25 killed after crane falls on train in Thailand, police say",
+      "summary": "The crane was working on a high-speed rail project when it collapsed and hit the passing train, causing it to derail and briefly catch fire.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/14/at-least-25-killed-after-crane-falls-on-train-in-thailand-police-say",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi16PJVESCCOEFOWBELX46NHKH63J4-1768379251.jpg&w=300&height=200"
+    },
+    {
+      "title": "Over Rs31 million looted from bank in Sindhuli",
+      "summary": "Masked gang injures guard, flees with cash; police recover money from nearby forest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/01/14/over-rs-31-million-looted-from-bank-in-sindhuli",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/baink2sindhuli14120260502311000x01-1768365374.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस विवादः विशेष महाधिवेशन पक्षले संस्थापनलाई पठायो ८ बुँदे शर्त",
+      "summary": "यसैबिचमा विशेष महाधिवेशन पक्षधरको वार्ता समितिले अन्तिम शर्त भन्दै ८ बुँदे शर्त पठाएको छ। जसमा लगभग सबै बुँदा यसअघि नै संस्थापन पक्षले स्वीकार गरिसकेका विषय परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-controversy-special-general-conference-pakshe-samsthapanalay-pathayo-8-bunde-bet-19-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768306185_gagan_biswo-480x320.jpg"
+    },
+    {
+      "title": "पार्टी जोगाउन गगनलाई प्रधानमन्त्रीमा सार्न पनि संस्थापन तयार!",
+      "summary": "पछिल्लो समय दर्शकमाझ निकै चर्चामा रहेको चलचित्र ‘गोबर गणेश’ ले सेन्सर बोर्डबाट ‘ग्रीन सिग्नल’ पाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/gobar-ganesh-gets-green-signal-from-censor-board-br-10-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768379694_nn 45-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनलाई सफल बनाउनु सबैको दायित्व : गृहमन्त्री अर्याल",
+      "summary": "सन् २०२३ मा हाकिमीमाथि एक २४ वर्षीया महिलाले बलात्कारको आरोप लगाएकी थिइन्। उनलाई न्यायिक निगरानीमा राखिएको थियो। आरोप लगाउने महिलालाई सम्पर्क गर्न प्रतिबन्ध लगाइएको थियो तर फ्रान्स छोड्न अनुमति दिइएको थियो। हाकिमीका वकिल फ्यानी कोलिनले आरोपहरूलाई पूर्ण रूपमा अस्वीकार गर्दै आएका छन्। यो मुद्दा अझै विचाराधीन छ र फ्रान्सेली अभियोजनकर्ताले सन् २०२५ मा ट्रायलका लागि सिफारिस गरेका छन्, तर अदालतले अन्तिम निर्णय लिन बाँकी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nora-s-mysterious-love-rumors-of-dating-moroccan-football-star-hakimi-br-97-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768378533_Nora-480x320.jpg"
+    },
+    {
+      "title": "महान्यायाधिवक्ता कार्यालयमा रवि लामिछानेको पुरक निवेदन, मुद्दा फिर्ताको माग",
+      "summary": "गायक यम बरालद्वारा स्वरबद्ध ३ गीत सार्वजनिक गरिएको छ। राजधानीमा आयोजित एक कार्यक्रमका बिच ‘यो साँझ फेरि’, ‘जुन र सुनको’ र ‘टेण्डर माया’ सार्वजनिक गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/madan-krishna-shrestha-releases-3-songs-from-yama-baral-br-85-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768378832_need 92-480x320.jpg"
+    },
+    {
+      "title": "स्वजागरणले सुशासन र समृद्धि ल्याउने प्रधानमन्त्रीकोविश्वास",
+      "summary": "यसैबिचमा विशेष महाधिवेशन पक्षधरको वार्ता समितिले अन्तिम शर्त भन्दै ८ बुँदे शर्त पठाएको छ। जसमा लगभग सबै बुँदा यसअघि नै संस्थापन पक्षले स्वीकार गरिसकेका विषय परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-controversy-special-general-conference-pakshe-samsthapanalay-pathayo-8-bunde-bet-19-86.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
