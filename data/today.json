@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-14T08:40:40.894481",
+  "scraped_at": "2026-01-14T13:03:19.414084",
   "date": "2026-01-14",
-  "total_articles": 49,
+  "total_articles": 57,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-controversy-special-general-conference-pakshe-samsthapanalay-pathayo-8-bunde-bet-19-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "आमाबाबु गुमाउँदा राज्यले नै ठग्यो",
+      "summary": "आमाबाबु गुमाउँदा राज्यले नै ठग्यो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11985",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/84-Barsham-Nagarikta-1768358132.jpg"
+    },
+    {
+      "title": "Congress central committee suspends Gagan Thapa and Bishwa Sharma for five years",
+      "summary": "Disciplinary action taken as special general convention moves towards voting amid deepening rift.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/14/congress-central-committee-suspends-gagan-thapa-and-bishwa-sharma-for-five-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6131025719132362647218843019545228117012446n14120261121291000x0-1768386599.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bulk SMS calling for royalist protests sparks privacy concerns",
+      "summary": "Around six million messages sent via Nepal Telecom network; regulator probes possible data breach.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/14/bulk-sms-calling-for-royalist-protests-sparks-privacy-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SMSSS-1768384470.jpg&w=300&height=200"
+    },
+    {
+      "title": "नाउपामा निरन्तर षड्यन्त्र भएपछि नेकपामा आए: रञ्जिता श्रेष्ठ",
+      "summary": "नागरिक उन्मुक्ति पार्टीकी पूर्वअध्यक्ष रञ्जिता श्रेष्ठले पार्टी नेतृत्व सम्हाल्ने क्रममा निरन्तर षड्यन्त्र र अवरोधको सामना गर्नुपरेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ranjita-shrestha-joined-ncp-after-continuous-conspiracy-in-naupa-58-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753960194_ranjita-480x320.jpg"
+    },
+    {
+      "title": "पार्टी विभाजनमा दुवै पक्ष जिम्मेवार छन्: रामहरि खतिवडा",
+      "summary": "नेपाली कांग्रेसका नेता रामहरि खतिवडाले पार्टी विभाजनमा दुवै पक्ष जिम्मेवार भएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/both-sides-are-responsible-for-the-party-split-ramhari-khatiwada-34-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743499847_ramhari_-480x320.jpg"
+    },
+    {
+      "title": "उपसभापतिमा फरमुल्लाह, महामन्त्रीमा गुरु–प्रदीप",
+      "summary": "बुधबार साँझ सर्वसम्मतका लागि भइरहेको प्रयासमा दुई उपसभापतिमध्ये एकमा फरमुल्लाहको नाम टुंगिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/farmullah-as-vice-chairman-guru-pradeep-as-general-secretary-57-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768394075_Padadhikari1-480x320.jpg"
+    },
+    {
+      "title": "भृकटीमण्डपको नारा- ‘सानेपा खाली गर, गगन दाई आउँदैछन्’",
+      "summary": "नेपाली कांग्रेसको विशेष महाधिवेशन चलिरहेको भृकुटीमण्डपमा कार्यकर्ताहरूले संस्थापन पक्षविरुद्ध चर्को नाराबाजी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-slogan-of-bhrikati-mandap-is-empty-sanepa-gagan-dai-is-coming-85-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768392779_nara-480x320.jpg"
+    },
+    {
+      "title": "ओली जस्तो अभिभावक नहुँदा कांग्रेस विभाजनतर्फ धकेलियो: बस्नेत",
+      "summary": "नागरिक उन्मुक्ति पार्टीकी पूर्वअध्यक्ष रञ्जिता श्रेष्ठले पार्टी नेतृत्व सम्हाल्ने क्रममा निरन्तर षड्यन्त्र र अवरोधको सामना गर्नुपरेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ranjita-shrestha-joined-ncp-after-continuous-conspiracy-in-naupa-58-89.html?click_from=just_in",
       "image_url": ""
     }
   ]
