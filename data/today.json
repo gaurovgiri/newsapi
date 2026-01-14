@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-14T02:26:02.315315",
+  "scraped_at": "2026-01-14T04:51:00.977136",
   "date": "2026-01-14",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/musk-s-company-starlink-launches-free-service-amid-internet-shutdown-in-iran-23-81.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "उपत्यकामा ४५ प्रजातिका पानी चराको अभिलेख",
+      "summary": "उपत्यकामा ४५ प्रजातिका पानी चराको अभिलेख",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11971",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Jalapanchhi-Ganana-1768189804.jpg"
+    },
+    {
+      "title": "Nepali nurses leave home for better pay and careers abroad",
+      "summary": "Low wages, weak job protection and global demand are pushing thousands of trained nurses to the US, Australia and beyond.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/14/nepali-nurses-leave-home-for-better-pay-and-careers-abroad",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1768364059.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali Congress in last-ditch talks to prevent party split",
+      "summary": "Party chief Deuba’s resignation or formation of an interim high-command at the crux of ongoing negotiations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/14/nepali-congress-in-last-ditch-talks-to-prevent-party-split",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/141-1768353761.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s domestic football resurrects with National League kicking off today",
+      "summary": "The league replaces A-Division. But despite 17 teams in action, rushed build-up, shortage of time to prepareand a long gap in professional domestic league lead players to doubt the quality of football.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/14/nepal-s-domestic-football-resurrects-with-national-league-kicking-off-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/sp1-1768355782.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal on alert after Nipah cases found in India’s West Bengal state",
+      "summary": "Officials say cross-border movement heightens risk of spread of the disease, which is highly fatal and has no cure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/14/nepal-on-alert-after-nipah-cases-found-in-india-s-west-bengal-state",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/143-1768354164.jpg&w=600&height=400"
+    },
+    {
+      "title": "A blur between survival and morality",
+      "summary": "Its neighbours have been largely silent or supportive of the US raid that captured Maduro, but the impact of that raid will be felt far beyond South America.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/14/a-blur-between-survival-and-morality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitleddesign11-1768357560.jpg&w=400&height=267"
+    },
+    {
+      "title": "The illusion of ‘cool’ parenting",
+      "summary": "Masked gang injures guard, flees with cash; police recover money from nearby forest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/13/the-illusion-of-cool-parenting",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘मिति घोषणा भएपछि विधि र प्रविधि परिवर्तन गरेर निर्वाचन हुँदैन’",
+      "summary": "वीरेन्द्रनगर नगरपालिका ११ पिपिराचोकमा कर्णाली प्रदेश ०२– ००२ प ३२७१ नम्बरको मोटरसाइकलले ठक्कर दिँदा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-woman-dies-driver-injured-in-motorcycle-accident-br-53-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764911820_1649837678_accident-1200x560-480x320.jpg"
     }
   ]
 }
