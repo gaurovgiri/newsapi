@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-15T04:49:02.453825",
+  "scraped_at": "2026-01-15T08:40:45.130112",
   "date": "2026-01-15",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/challenging-socialist-journey-br-66-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali Congress splits ahead of elections",
+      "summary": "Third division in the party since 1950. March 5 elections could be affected. Both factions claim legitimacy from Election Commission.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/14/nepali-congress-splits-again",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Congress-1768440044.jpg&w=300&height=200"
+    },
+    {
+      "title": "गगन कांग्रेसका प्रवक्ता भन्छन्: पार्टी कार्यालयमा हुल हुज्जत गर्दैनौँ, वैधानिक ढंगले जान्छौँ",
+      "summary": "उदयपुरको कटारी नगरपालिका २ खोक्सास्थित त्रिबेणीमा बिहीबारदेखि ‘मैनी मेला’ सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/20-day-historic-makar-mela-begins-in-tribeni-katari-76-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768466366_tribeni-480x320.jpg"
+    },
+    {
+      "title": "गगन नेतृत्वकाे कांग्रेसको निर्णय: समानुपातिक सूची पनि संशोधन गर्ने",
+      "summary": "रचनात्मक झिल्कादेखि व्यावसायिक उद्यमसम्म, यसवर्षको विषयवस्तु ‘भिजन टु भेन्चर’ डिजिटल कथाकथन र व्यावसायिक उद्यमबिचको खाडल पुर्नेतर्फ लक्षित छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/us-embassy-completes-preparations-for-creators-fair-2026-vision-to-venture-25-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768465891_us dutabas-480x320.jpg"
+    },
+    {
+      "title": "गगनले घोषणापत्र निर्माणको नेतृत्व गर्ने, विश्वप्रकाशले निर्वाचन परिचालन",
+      "summary": "नेपाल टेलिकमले आर्थिक वर्ष २०८१/८२ को मुनाफाबाट सेयर धनीलाई नगद लाभांश दिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/30-percent-cash-dividend-for-nepal-telecom-shareholders-50-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738667817_nepal_telecom-480x320.jpg"
+    },
+    {
+      "title": "शेखरको समीक्षा: षडयन्त्रका राष्ट्रिय–अन्तर्राष्ट्रिय तानाबाना बुनिए, फुट रोक्न सकिएन",
+      "summary": "चालिसेलाई पत्रकारले ‘तपाईँहरू पार्टी कार्यालय जानुहुन्न?’ भनेर प्रश्न सोधेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-congress-spokesperson-says-we-will-not-argue-with-the-crowd-at-the-party-office-we-will-go-in-a-legal-manner-42-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768465638_office1-480x320.jpg"
+    },
+    {
+      "title": "सूचना प्रविधिबिनाको निर्वाचनसम्भव छैनः आयुक्त भण्डारी",
+      "summary": "उदयपुरको कटारी नगरपालिका २ खोक्सास्थित त्रिबेणीमा बिहीबारदेखि ‘मैनी मेला’ सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/20-day-historic-makar-mela-begins-in-tribeni-katari-76-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
