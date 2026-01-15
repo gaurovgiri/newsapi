@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-15T08:40:45.130112",
+  "scraped_at": "2026-01-15T13:02:02.851232",
   "date": "2026-01-15",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/20-day-historic-makar-mela-begins-in-tribeni-katari-76-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali Congress elects Gagan Thapa as new president",
+      "summary": "The special general convention on Wednesday also finalised office-bearers and central members, including representatives from provinces, women, Dalit, indigenous, Madhesi, Muslim, Tharu, Khas Arya, and backward regions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/15/here-is-the-list-of-newly-elected-office-bearers-central-committee-members-of-nepali-congress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6139147331382371863039233656194663499718129n-1768463433.jpg&w=300&height=200"
+    },
+    {
+      "title": "रवि बाठा रैछन्, बालेन सोझा परेछन्: केपी ओली",
+      "summary": "मृतकका आफन्तको माग सम्बोधन नहुँदा सोनियापट्टी दुर्घटनामा ज्यान गुमाएका पाँच जनाको शव अझै परिवारले बुझेका छैनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/no-agreement-reached-in-talks-relatives-still-haven-t-received-the-body-br-69-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768482020_Rode-480x320.jpg"
+    },
+    {
+      "title": "हामी विविध छौं, तर एउटै छौंः प्रधानमन्त्री कार्की",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेलाई बाठा र काठमाडौं महानगरका मेयर बालेन शाहलाई सोझाको संज्ञा दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-is-a-fool-balen-is-a-fool-kp-oli-96-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768480707_1-480x320.jpg"
+    },
+    {
+      "title": "यलम्बरको इतिहासबिना काठमाडौं अधुरो, मौलिक सभ्यता जोगाउन महानगर लाग्छ: बालेन",
+      "summary": "राष्ट्रिय कृषि आधुनिकीकरण कार्यक्रम, कार्यक्रम कार्यान्वयन ईकाई चितवनको आयोजनामा रत्ननगरको टिकौली चौरमा जारी रत्ननगर महोत्सव परिसरमा लागेको दोस्रो मह उत्सव बिहीबार औपचारिक रुपमा सकिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/second-chitwan-honey-festival-ends-more-than-10-000-people-watched-live-25-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768480935_Chitawan news 12-480x320.jpg"
+    },
+    {
+      "title": "ओलीको शुभकामना पोस्टमा अधिकांश कमेन्ट:‘नो ओली, वन्ली बालेन’",
+      "summary": "बैंकले आफ्नो संस्थागत पहिचानलाई समयसापेक्ष थप सशक्त बनाउने उद्देश्यले आजदेखि लागू हुनेगरी लोगो तथा छाप परिवर्तन गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/garima-bikas-bank-s-logo-and-seal-changed-57-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768480245_Garima New Logo-480x320.jpg"
+    },
+    {
+      "title": "नेपालमा नेपालीको सरकार हुनुपर्छ, विदेशीको आदेश मान्ने ‘पपेट’ होइन: ओली",
+      "summary": "मृतकका आफन्तको माग सम्बोधन नहुँदा सोनियापट्टी दुर्घटनामा ज्यान गुमाएका पाँच जनाको शव अझै परिवारले बुझेका छैनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/no-agreement-reached-in-talks-relatives-still-haven-t-received-the-body-br-69-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
