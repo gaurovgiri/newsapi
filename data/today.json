@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-15T13:02:02.851232",
+  "scraped_at": "2026-01-15T16:44:48.630101",
   "date": "2026-01-15",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/no-agreement-reached-in-talks-relatives-still-haven-t-received-the-body-br-69-95.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Magar community celebrates Maghe Sankranti with cultural festivities",
+      "summary": "The festival is observed as an occasion for family reunions, meetings between maternal and extended relatives, the exchange of greetings and the sharing of joy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/01/15/magar-community-celebrates-maghe-sankranti-with-cultural-festivities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/MAGAR3-1768482808.jpg&w=300&height=200"
+    },
+    {
+      "title": "Special convention–elected Congress committee submits details to Election Commission",
+      "summary": "Newly elected party president Gagan Thapa urges the Election Commission to take an early decision on updating party records.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/15/special-convention-elected-congress-committee-submits-details-to-election-commission",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/gaganthapa-1768479648.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police nab consultancy operators behind UAE study scam",
+      "summary": "Move comes after months of student protests over fraudulent education consultancies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/15/police-nab-consultancy-operators-behind-uae-study-scam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/arrest-1768486517.jpg&w=600&height=400"
+    },
+    {
+      "title": "केपी ओली र बालेन दुवैलाई झापा–५ मा पाहा पछारेझैं पछार्छौं: हर्क साम्पाङ",
+      "summary": "ट्राफिक प्रहरीले काठमाडौं उपत्यकामा आज सात हजार ९८७ पैदलयात्रीलाई सुरक्षित तरिकाले जेब्राक्रसिङबाट बाटो काट्न सिकाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/seven-thousand-passengers-were-taught-to-cross-the-road-at-zebra-crossings-72-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1739070657_traffic light-480x320.jpg"
+    },
+    {
+      "title": "तनावमा केपी-देउवा, प्रचण्ड ‘चिल’ !",
+      "summary": "‘नेपाल अफ्रिका अन्तरराष्ट्रिय चलचित्र महोत्सव’ को १४औँ संस्करण भोलिदेखि चार दिनसम्म काठमाडौंमा सञ्चालन गरिने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/14th-nepal-africa-international-film-festival-to-begin-tomorrow-br-40-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768492881_Flim1-480x320.jpg"
+    },
+    {
+      "title": "हामी ठेक्कापटा मिलाइदिन्छौ भनेर भोट माग्दैनौंः बिजुक्छें",
+      "summary": "‘नेपाल अन्तरराष्ट्रिय चलचित्र महोत्सव’ (निफ) को नवौँ संस्करण आगामी चैत १९ देखि २३ गतेसम्म हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/88-films-from-40-countries-to-be-screened-at-nif-53-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768492814_Flim-480x320.jpg"
     }
   ]
 }
