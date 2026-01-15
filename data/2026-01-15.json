@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-15T02:20:31.751706",
+  "scraped_at": "2026-01-15T04:49:02.453825",
   "date": "2026-01-15",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/free-bus-service-to-devghat-on-maghe-sankranti-36-49.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ागत र रैथाने खाद्य सामग्रीको माग बढ्यो",
+      "summary": "ागत र रैथाने खाद्य सामग्रीको माग बढ्यो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11996",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Raithane-Annabali-1768445759.jpg"
+    },
+    {
+      "title": "भई २० वर्षमा विवाह गर्ने चेलीलाई गाउँपालिकाको सम्मान",
+      "summary": "भई २० वर्षमा विवाह गर्ने चेलीलाई गाउँपालिकाको सम्मान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11993",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/cheli-protsahan--Karyakram-1768445115.jpg"
+    },
+    {
+      "title": "किशोरलाई अन्तर्राष्ट्रिय अवार्ड",
+      "summary": "किशोरलाई अन्तर्राष्ट्रिय अवार्ड",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11991",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/la-1768382739.jpg"
+    },
+    {
+      "title": "कांग्रेसको विभाजन दुखद : विश्लेषक खनाल",
+      "summary": "नेपाली कम्युनिस्टहरूको ध्रुवीकरण र एकताको सन्देश मुलुकमा तीव्र गतिमा छाउन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/challenging-socialist-journey-br-66-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768451529_futu 76 76-480x320.jpg"
+    },
+    {
+      "title": "माघी पर्वले राष्ट्रिय एकतामा योगदान पुर्‍याउँछ : अध्यक्ष दाहाल",
+      "summary": "सुनसरी भोक्राह नरसिंह गाउँपालिकाको सोनियापट्टीमा आज बिहान ट्रक पल्टिँदा पाँच जनाको घटनास्थलमै मृत्यु भएको छ भने अन्य तीन जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/truck-carrying-marble-overturns-in-sunsari-five-people-die-on-the-spot-33-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "हाम्रा चाडपर्वले सामाजिक सद्‍भाव सुदृढ बनाउँछन्ः सभामुख घिमिरे",
+      "summary": "काठमाडौं महानगरपालिका–८ को सहयोग तथा श्री पिङ्ला तेक्वान्दो डोजाङको आयोजनामा वडाध्यक्ष तेक्वान्दो प्रतियोगिता शनिबार हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ward-chairman-taekwondo-saturday-br-98-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768450687_khit khit 67  67-480x320.jpg"
+    },
+    {
+      "title": "जिउँदो मानिसले प्रशंसा पनि पाउँछ, गाली पनि खान्छः चन्द्र भण्डारी",
+      "summary": "रोयटर्सको रिपोर्टअनुसार इरानका विदेश मन्त्री अब्बास अराघचीले बुधबार इरानतर्फबाट कसैलाई पनि मृत्युदण्ड दिने कुनै योजना नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iranian-foreign-minister-says-no-execution-plans-after-us-threat-78-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768449795_iiii-480x320.jpg"
+    },
+    {
+      "title": "बाबुराम भट्टराईद्वारा नेपाली कांग्रेसको पुनर्संरचनाको प्रशंसा",
+      "summary": "नेपाली कम्युनिस्टहरूको ध्रुवीकरण र एकताको सन्देश मुलुकमा तीव्र गतिमा छाउन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/challenging-socialist-journey-br-66-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
