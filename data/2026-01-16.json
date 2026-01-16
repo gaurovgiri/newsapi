@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-16T04:46:44.664034",
+  "scraped_at": "2026-01-16T08:39:34.178661",
   "date": "2026-01-16",
-  "total_articles": 45,
+  "total_articles": 53,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -366,6 +366,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/45-sheep-perish-in-barn-fire-29-76.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court moved against decision to amend charge-sheets against Rabi Lamichhane",
+      "summary": "Petitioner argues the move to drop organised crime and money laundering charges was arbitrary.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/16/supreme-court-moved-against-decision-to-amend-charge-sheets-against-rabi-lamichhane",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768547170.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sagar Dhakal plans rematch against Sher Bahadur Deuba in Dadeldhura",
+      "summary": "Says groundwork has begun, claims broad support within RSP.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/16/sagar-dhakal-plans-rematch-against-sher-bahadur-deuba-in-dadeldhura",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sagar16120260810261000x0-1768550328.jpg&w=300&height=200"
+    },
+    {
+      "title": "Clash of titans looms in Jhapa-5 as Balen targets Oli’s bastion",
+      "summary": "Voters say they are eager for a new face and even a small shift in support could throw surprise results.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/16/clash-of-titans-looms-in-jhapa-5-as-balen-targets-oli-s-bastion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/768f9424f07b4ea79787380a7a822db3-1768527190.jpg&w=300&height=200"
+    },
+    {
+      "title": "जब मन्त्रीले आफ्नै मन्त्रालयलाई ‘घुस्याहाको मन्त्रालय’ भने...",
+      "summary": "उनले संघ, प्रदेश र स्थानीय तहबीच समन्वय गरेर भूमि प्रशासनलाई स्वच्छ, पारदर्शी र जनमैत्री बनाउने लक्ष्य लिइएको जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-a-minister-called-his-own-ministry-a-ministerial-secret-service-36-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768552651_Kageshowori-480x320.jpg"
+    },
+    {
+      "title": "मुलुकको समृद्धिका लागि एमाले नेतृत्व अपरिहार्य : महासचिव पोखरेल",
+      "summary": "महासचिव पोखरेलका अनुसार एमाले नेतृत्वको सरकारका पालामा दैलेखको पेट्रोलियम खानी, नवलपरासीको फलाम खानी तथा मुस्ताङको युरेनियम खानीको उत्खनन र अध्ययन कार्य सुरु गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-leadership-indispensable-for-country-s-prosperity-general-secretary-pokharel-39-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767498232_shankar pokhrel-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिवालय बैठक भोलि बस्दै, प्रत्यक्षतर्फका उम्मेदवार टुंग्याइने",
+      "summary": "फागुन २१ गते हुने निर्वाचनका उम्मेदवारको टुंगो लगाउन नेकपा एमालेले पार्टी केन्द्रीय सचिवालयको बैठक बोलाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-secretariat-meeting-to-be-held-tomorrow-direct-candidates-to-be-finalized-74-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767680142_emale sachiwalaya-480x320.jpg"
+    },
+    {
+      "title": "बौद्धमा उज्यालो नेपालको बृहत्त भेला सम्पन्न, सात सय बढी नेता–कार्यकर्ता पार्टी प्रवेश",
+      "summary": "हङकङ प्रहरीले गत नोभेम्बरमा एउटा अपार्टमेन्ट कम्प्लेक्समा भएको ठूलो आगलागीमा १६८ जनाको मृत्यु भएको बताइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/hong-kong-apartment-fire-death-toll-rises-to-168-59-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768551999_hongkong-480x320.jpg"
+    },
+    {
+      "title": "युवाको आकांक्षाअनुरुप चल्नुपर्छ, इमानदार सांसद जिताएर पठाउनुहोस् : प्रधानमन्त्री कार्की",
+      "summary": "उनले संघ, प्रदेश र स्थानीय तहबीच समन्वय गरेर भूमि प्रशासनलाई स्वच्छ, पारदर्शी र जनमैत्री बनाउने लक्ष्य लिइएको जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-a-minister-called-his-own-ministry-a-ministerial-secret-service-36-85.html?click_from=just_in",
       "image_url": ""
     }
   ]
