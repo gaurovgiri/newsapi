@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-16T16:39:04.599126",
+  "scraped_at": "2026-01-16T20:29:52.770895",
   "date": "2026-01-16",
-  "total_articles": 65,
+  "total_articles": 70,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -527,6 +527,46 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/16/three-dead-one-missing-in-kalikot-jeep-crash",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=600&height=400"
+    },
+    {
+      "title": "पूर्णबहादुरले बोलाए कांग्रेस केन्द्रीय कार्य समितिको बैठक",
+      "summary": "निर्वाचन आयोगले गगन थापा नेतृत्वलाई औपचारिक मान्यता दिएपछि कार्यबाहक सभापति पूर्णबहादुर खड्काले पार्टीको केन्द्रीय कार्यसमितिको बैठक बोलाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/purna-bahadur-calls-meeting-of-nepali-congress-central-working-committee-75-60.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सभापति भएपछि गगनको पहिलो सन्देशः कांग्रेस विधि, विधान र एकतामै अघि बढ्छ",
+      "summary": "वादी समुदायका लागि देशमा आएको लोकतान्त्रिक गणतन्त्र केबल शब्दमा मात्र सीमित छ । पदम राना वादी भन्छन्, ‘राजनीतिक परिवर्तन भयो, सरकार फेरियो तर वादीको उत्थान कहिल्यै प्राथमिकतामा परेन । न त हामीमाथि हुने जातीय विभेद मेटियो न जीवन नै फेरियो । वादीको समस्या वादीकै प्रतिनिधिलाई मात्र थाहा हुन्छ, गैरवादीले त्यो पीडा बुझ्न सक्दैनन् ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-badi-community-says-caste-discrimination-has-neither-been-eliminated-nor-life-has-changed-br-82-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गगनलाई आधिकारिकता दिएपछि महेश: वैदेशिक हस्तक्षेपको नांगो नाच",
+      "summary": "कालीकोटको सेरी–पान्तडी सडक खण्डअन्तर्गत शुभकालिका गाउँपालिका–४ सल्लेरीमा बोलेरो जिप दुर्घटना हुँदा तीन जनाको मृत्यु भएको छ । एक जना बेपत्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-killed-as-jeep-falls-off-cliff-in-kalikot-89-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गगन कांग्रेसको सभापति बन्दा महेश बस्नेतको आक्रोश !",
+      "summary": "सभापतिमा निर्वाचित गगन थापाले पार्टी विधि, विधान र लोकतान्त्रिक प्रक्रियामै अघि बढ्ने स्पष्ट सन्देश दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-s-first-message-after-becoming-the-president-congress-will-move-forward-with-laws-statutes-and-unity-25-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "शक्ति, प्रविधि र मूल्यको उत्कृष्ट संयोजन प्रोटोन इमास ७ एसयूभी",
+      "summary": "ओखलढुङ्गा जिल्लाको चम्पादेवी गाउँपालिका–८ बिलन्दुमा ४३ वर्षीय पुरुष मृत फेला परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/43-year-old-man-found-dead-in-champadevi-28-83.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
