@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-16T13:01:00.087365",
+  "scraped_at": "2026-01-16T16:39:04.599126",
   "date": "2026-01-16",
-  "total_articles": 60,
+  "total_articles": 64,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -487,6 +487,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunsari-accident-agreement-to-provide-compensation-of-rs-1-1-million-per-family-90-11.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Birthing centres remain out of reach for many in Karnali",
+      "summary": "A recent assessment found gaps in services, ranging from limited facilities to a shortage of trained staff, are more severe in the province.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/16/birthing-centres-remain-out-of-reach-for-many-in-karnali",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768562125.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal, Bangladesh move to fast-track preferential trade agreement",
+      "summary": "Eighth commerce secretary-level meeting in Dhaka agrees to conclude PTA draft, rules of origin and product list within three months, but tariff and para-tariff hurdles persist.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/16/nepal-bangladesh-move-to-fast-track-preferential-trade-agreement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1768578890.jpg&w=300&height=200"
+    },
+    {
+      "title": "Election police application deadline extended in 36 districts after low submissions",
+      "summary": "Several districts of Koshi, Bagmati, Gandaki, Lumbini and Sudurpashchim provinces saw applications below target.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/16/fewer-applications-for-election-police-deadline-extended-in-36-districts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ElectionPoliceAdmissionStartsDistrictPoliceOfficeKathmandu05-1768558873.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three dead, one missing in Kalikot jeep crash",
+      "summary": "Accident occurs on Seri-Pantadi road.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/16/three-dead-one-missing-in-kalikot-jeep-crash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=600&height=400"
     }
   ]
 }
