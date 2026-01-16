@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-16T08:39:34.178661",
+  "scraped_at": "2026-01-16T13:01:00.087365",
   "date": "2026-01-16",
-  "total_articles": 53,
+  "total_articles": 60,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -430,6 +430,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/when-a-minister-called-his-own-ministry-a-ministerial-secret-service-36-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Fewer applications for election police, deadline extended in 36 districts",
+      "summary": "Shortfall in several districts prompts authorities to extend deadline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/16/fewer-applications-for-election-police-deadline-extended-in-36-districts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ElectionPoliceAdmissionStartsDistrictPoliceOfficeKathmandu05-1768558873.jpg&w=300&height=200"
+    },
+    {
+      "title": "FDI commitments see over 52 percent rise despite political uncertainty",
+      "summary": "Industrialists call for a conducive investment climate to better utilise Nepal’s growing cash reserves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/16/fdi-inflows-drop-nearly-40-percent-amid-political-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/Untitleddesign-1768528260.jpg&w=600&height=400"
+    },
+    {
+      "title": "रवि लामिछानेको मुद्दा फिर्ता गर्ने निर्णयमा बारको आपत्ति",
+      "summary": "सहमतिसँगै प्रदर्शनका क्रममा पक्राउ परेका तीन जनालाई पनि छाडिएको छ ।पीडित पक्षले जनही १५ लाख रुपैयाँ क्षतीपूर्ति माग गरेका थिए",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunsari-accident-agreement-to-provide-compensation-of-rs-1-1-million-per-family-90-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768567904_Durghatna -480x320.jpg"
+    },
+    {
+      "title": "ओली भन्छन्: सडकबाट बहुमत पुर्‍याएँ भनेर हुँदैन",
+      "summary": "नेपाल बार एसोसिएसनले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको सङ्गठित अपराध र सम्पत्ति शुद्धीकरणको मुद्दा फिर्ता गर्ने निर्णय अनुचित भएको जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bar-association-objects-to-decision-to-withdraw-ravi-lamichhane-s-case-36-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767620113_rabi_-480x320.jpg"
+    },
+    {
+      "title": "सिरक ओढेर धम्की दिनेसँग किन डराउँने: केपी ओली",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी ओलीले देश संकटमा परेको बेलामा नेपाली कांग्रेसको विभाजन हुनु दुखद भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-says-it-s-not-enough-to-just-say-you-achieved-a-majority-through-the-streets-68-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768565289_KP1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस समूह एकै ठाउँ नाराबाजी गर्दै: संयमतासहित सुरक्षा दिँदै प्रहरी",
+      "summary": "‘यिनको रिमोट कहाँ छ, यिनलाई आफैं थाहा छैन। यिनको भाग्य र भविष्यको फैसला कसले गर्छ त्यो यिनलाई आफैं थाहा छैन।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-should-we-be-afraid-of-those-who-threaten-us-with-a-mask-kp-oli-78-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767782645_kp-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोग अगाडी दुई समूहका कांग्रेसको प्रदर्शन (तस्बिर)",
+      "summary": "सहमतिसँगै प्रदर्शनका क्रममा पक्राउ परेका तीन जनालाई पनि छाडिएको छ ।पीडित पक्षले जनही १५ लाख रुपैयाँ क्षतीपूर्ति माग गरेका थिए",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sunsari-accident-agreement-to-provide-compensation-of-rs-1-1-million-per-family-90-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
