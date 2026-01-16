@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-16T02:22:18.307243",
+  "scraped_at": "2026-01-16T04:46:44.664034",
   "date": "2026-01-16",
-  "total_articles": 33,
+  "total_articles": 45,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,102 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/voter-conscience-test-br-65-58.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Congress split lands in Election Commission",
+      "summary": "Gagan Thapa and Sher Bahadur Deuba factions submit rival claims as candidate nomination day for March 5 parliamentary election approaches.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/16/congress-split-lands-in-election-commission",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Wh162-1768526862.jpg&w=300&height=200"
+    },
+    {
+      "title": "Valley sees jump in respiratory problems as pollution worsens",
+      "summary": "Experts say masks are not enough and call for concerted action against air pollution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/15/valley-sees-jump-in-respiratory-problems-as-pollution-worsens",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/postrespiratory-1768484312.jpg&w=300&height=200"
+    },
+    {
+      "title": "Newcomers Laligurans Association Club stun Jawalakhel Youth Club",
+      "summary": "The Pokhara-based club open their National League campaign with a 1-0 victory over the A-Division side. In the day’s other match, Satdobato and Sankata play a goalless stalemate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/16/newcomers-laligurans-association-club-stun-jawalakhel-youth-club",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SP-1768529064.jpg&w=300&height=200"
+    },
+    {
+      "title": "FDI inflows drop nearly 40 percent amid political uncertainty",
+      "summary": "Investors wait and see as commitments fall in the second quarter, raising concerns over Nepal’s investment climate ahead of elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/16/fdi-inflows-drop-nearly-40-percent-amid-political-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/Untitleddesign-1768528260.jpg&w=600&height=400"
+    },
+    {
+      "title": "Reinventing political praxis",
+      "summary": "Nepal needs a strong Congress party, a historically moderate, left-of-centre democratic force.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/15/reinventing-politics-after-the-gambit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi9046P3XS5PWNMK3FSRBKHSI4DNQM-1768532173.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Shared Terrain’ brings Nepali voices to India Art Fair",
+      "summary": "Return of league football is a partial victory for Nepali players and fans alike.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/16/shared-terrain-brings-nepali-voices-to-india-art-fair",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Danfe%20Final%20Poster-2-2-2.png&w=400&height=267"
+    },
+    {
+      "title": "Second Queer Film Festival from today",
+      "summary": "India is pursuing labour mobility deals and a new bill to safeguard workers abroad, yet challenges persist, including skills mismatches and the need for constant agreement updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/15/second-queer-film-festival-from-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SP-1768529064.jpg&w=400&height=267"
+    },
+    {
+      "title": "देउवा पक्षका नेताहरू निर्वाचन आयोगमा, आयोग घेर्ने तयारीमा तरुण दल",
+      "summary": "कालीकाेटकाे पलाँता गाउँपालिका-३स्थित भकार लेखमा रहेको भेडा गोठमा आगलागी हुँदा स्थानीय कृष्णलाल रोकायाका ४५ वटा भेडा, पाठा जलेर नष्ट भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/45-sheep-perish-in-barn-fire-29-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "बालेनप्रति ओलीको टिप्पणी : युवा राजनीतिमा आउनु राम्रो, तर जिम्मेवार हुनुपर्छ",
+      "summary": "इलाम विकास समाजलेमाघे स‌ंक्रान्तिकाे अवसर पारेर आयाेजित कार्यक्रममा इलामेली सर्जकहरू सम्मान गरेकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/elamite-creators-honored-br-34-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768537629_head neeed-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ को निर्वाचनका लागि निर्वाचन अधिकृतको कार्यालय स्थापना हुने",
+      "summary": "गत बुधबार गगन थापा र विश्वप्रकाश शर्मा समूहले पार्टीको विशेष महाधिवेशनबाट नयाँ कार्य समिति चयन गरेपछि कांग्रेसभित्रको विवाद झनै चुलिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-faction-leaders-in-the-election-commission-tarun-dal-prepares-to-surround-the-commission-97-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768178261_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "रुसी टिभीमा ओलीले भने : जेनजी प्रदर्शन योजनाबद्ध षड्यन्त्र थियो",
+      "summary": "सोही क्रममा जब ओलीलाई तपाईं फेरि प्रधानमन्त्री बन्न सक्नुहुन्छ भनेर सोधियो, जवाफमा उनले भने, ‘हामी (एमाले) नेपालको सबैभन्दा लोकप्रिय पार्टी हौं, म त्यसको एक नेता हुँ। मैले विगत ६० वर्षदेखि देशको लागि सधैं काम गरेको छु।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-comment-on-balen-it-s-good-for-young-people-to-enter-politics-but-they-must-be-responsible-br-90-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768536032_Balen Oli-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कार्यवाहक सभापति खड्काले पत्रकार सम्मेलन गर्दै",
+      "summary": "कालीकाेटकाे पलाँता गाउँपालिका-३स्थित भकार लेखमा रहेको भेडा गोठमा आगलागी हुँदा स्थानीय कृष्णलाल रोकायाका ४५ वटा भेडा, पाठा जलेर नष्ट भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/45-sheep-perish-in-barn-fire-29-76.html?click_from=just_in",
       "image_url": ""
     }
   ]
