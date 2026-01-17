@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-17T02:09:32.024928",
+  "scraped_at": "2026-01-17T04:37:29.874483",
   "date": "2026-01-17",
-  "total_articles": 33,
+  "total_articles": 45,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,102 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kalikot-jeep-accident-3-dead-identified-driver-safe-br-62-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ञ्चनदेखि अन्तर्राष्ट्रिय कुस्ती प्रदर्शन",
+      "summary": "ञ्चनदेखि अन्तर्राष्ट्रिय कुस्ती प्रदर्शन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/11997",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Saraswati-Pujanotsab-Tayari-1768446348.jpg"
+    },
+    {
+      "title": "Election offices set up in all 165 constituencies",
+      "summary": "Political parties raise concerns over possible misuse of state power and biased statements of ministers as they call for free and fair elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/17/election-offices-set-up-in-all-165-constituencies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/173-1768613887.jpg&w=300&height=200"
+    },
+    {
+      "title": "Empty grandstands greet National League game",
+      "summary": "Despite a musical concert and a high-profile clash between Machhindra FC and New Road Team, the National League’s return to Dasharath Stadium drew only a sparse crowd, raising fresh questions about fan engagement and ticket pricing in Nepali football.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/17/empty-grandstands-greet-national-league-game",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/sp1-1768614755.jpg&w=600&height=400"
+    },
+    {
+      "title": "EVENTS: January 17 to January 23, 2026",
+      "summary": "Return of league football is a partial victory for Nepali players and fans alike.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/17/events-january-17-to-january-23-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/css1-1768616962.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Mahayug’: A journey towards liberation",
+      "summary": "Here are some of the photos taken by our photojournalists and reporters this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/17/mahayug-a-journey-towards-liberation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/musicperformance-1768616111.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘In-between’ maps the beauty of uncertainty",
+      "summary": "Based on the 2023 National Nutrition Survey by the Food and Nutrition Research Institute of the Department of Science and Technology, 23.6 percent of children under 5 years old are stunted, while 15.1 percent are underweight.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/17/in-between-maps-the-beauty-of-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260117at75555AM-1768615943.jpg&w=400&height=267"
+    },
+    {
+      "title": "The game of Pickleball gaining traction in Kathmandu",
+      "summary": "Trump said last week that drug cartels were running Mexico and suggested the US could strike land targets to combat them, in one of a series of threats to deploy US military force against cartels.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/16/the-game-of-pickleball-gaining-traction-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sp2-1768614918.jpg&w=400&height=267"
+    },
+    {
+      "title": "आधिकारिकता पाएपछि कांग्रेस केन्द्रीय कार्यसमितिको पहिलो बैठक बस्दै",
+      "summary": "फराकिला र चिल्ला सडकमा रातिको समयमा पनि झलमल्लको उज्यालो छर्दै शिक्षा, स्वास्थ्य, कृषि र पर्यटन जस्ता क्षेत्रमा गरेको सुधार उनलाई भरतपुरले बिर्सन नसक्ने बनाउने कामहरू हुन्। वर्षातको समयमा रातमा निदाउन नपाउने नारायणी तटीय क्षेत्रका बासिन्दा लाग्छ वर्षायामको रातमा पनि रेनुलाई सपनामा देख्दै निदाउने समय आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mayor-renu-dahal-takes-leave-after-changing-the-face-of-bharatpur-br-64-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768624533_Renu-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछानेलाई कारागारमा थुन्नु उनको राजनीतिक उदय रोक्नु थियो : सोबिता गौतम",
+      "summary": "रुसको तीन दिनमा किभ कब्जा गर्ने उद्घोष र आर्थिक नाकाबन्दीको माध्यमबाट रुसको अर्थतन्त्रलाई तीन महिनाभित्र डामाडोल गरिदिने युरोपको धम्की दुवै विफल भए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/russia-trapped-in-a-protracted-war-br-39-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768623344_sumi 56-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको केन्द्रीय समिति बैठक आइतबार बस्दै",
+      "summary": "आगामी आर्थिक वर्षको बजेटका लागि सम्भावित स्रोत खोज्ने र खर्चको सीमा निर्धारण गर्नेगरी राष्ट्रिय स्रोत अनुमान समितिले काम थालिसकेको राष्ट्रिय योजना आयोगले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/budget-preparation-for-the-next-fiscal-year-begins-99-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740733688_yojana ayog-480x320.jpg"
+    },
+    {
+      "title": "प्रत्यक्षतर्फका उम्मेदवार टुंग्याउन एमाले सचिवालय बैठक बस्दै",
+      "summary": "गोर्खामा भएको दोस्रो तान्द्राङ कप खुला पुरुष फुटबल प्रतियोगिताको उपाधि लोकतान्त्रिक क्लबले जितेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/democratic-club-wins-second-tandrang-cup-title-57-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768622995_football03-480x320.jpg"
+    },
+    {
+      "title": "उज्यालो नेपाल पार्टीले मोटरसाइकल र्‍याली गर्दै",
+      "summary": "फराकिला र चिल्ला सडकमा रातिको समयमा पनि झलमल्लको उज्यालो छर्दै शिक्षा, स्वास्थ्य, कृषि र पर्यटन जस्ता क्षेत्रमा गरेको सुधार उनलाई भरतपुरले बिर्सन नसक्ने बनाउने कामहरू हुन्। वर्षातको समयमा रातमा निदाउन नपाउने नारायणी तटीय क्षेत्रका बासिन्दा लाग्छ वर्षायामको रातमा पनि रेनुलाई सपनामा देख्दै निदाउने समय आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mayor-renu-dahal-takes-leave-after-changing-the-face-of-bharatpur-br-64-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
