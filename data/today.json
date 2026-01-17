@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-17T04:37:29.874483",
+  "scraped_at": "2026-01-17T08:34:55.005390",
   "date": "2026-01-17",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mayor-renu-dahal-takes-leave-after-changing-the-face-of-bharatpur-br-64-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ा भूकम्प अभ्यासः त्रास होइन, सजगताको सन्देश",
+      "summary": "ा भूकम्प अभ्यासः त्रास होइन, सजगताको सन्देश",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12012",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bhukampa-surchaya-diwas___-1768618937.jpg"
+    },
+    {
+      "title": "कांग्रेसलाई एक ढिक्का बनाएर अगाडि लैजान्छौँ : सभापति थापा",
+      "summary": "बलिउड चलचित्र ‘स्त्री २’ को गीत ‘आज की रात’ प्रदर्शनको एक वर्ष भइ सकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/tamannaah-s-aaj-ki-raat-at-the-one-billion-club-51-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768638284_tamannah-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाबाट गोरखा-१ मा शिशिर बन्जाराको उम्मेदवारी घोषणा",
+      "summary": "यो बयानले अमेरिका र इरानबिचको तनाव केही कम हुने संकेत गरेको छ, यद्यपि इरानमा प्रदर्शन जारी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-softens-on-iran-instead-of-threats-he-now-thanks-them-what-is-the-reason-31-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768179276_Iran-480x320.jpg"
+    },
+    {
+      "title": "विद्रोहबाटै नेतृत्वमा थापा",
+      "summary": "पर्खौं माया एक रात, अग्राख कतै पलाउँछ कि, करुणाले हाम्रो प्रीति, दुबोसरी फैलाउँछ कि!",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/i-will-see-maya-for-one-night-55-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768637529_khit did-480x320.jpg"
+    },
+    {
+      "title": "सुजाताले स्वीकारिन् गगनको नेतृत्व : बिपीको विचार र गिरिजाको संगठन नबिर्सन सुझाव",
+      "summary": "ओन्लरले मेरी कोमले राजनीतिमा प्रवेश गर्न दबाब दिएको र चुनावमा करोडौं खर्च गरेको पनि बताएकी छिन्। सन् २०१६ मा मेरी कोम राज्यसभामा मनोनीत भएकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/indian-boxer-mary-criticized-for-saying-my-ex-husband-didn-t-earn-a-single-penny-he-used-to-eat-my-wealth-br-53-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768635737_Kom-480x320.jpg"
+    },
+    {
+      "title": "आयोगको निर्णयविरुद्ध भोलि अदालत जाँदै देउवा पक्ष",
+      "summary": "बलिउड चलचित्र ‘स्त्री २’ को गीत ‘आज की रात’ प्रदर्शनको एक वर्ष भइ सकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/tamannaah-s-aaj-ki-raat-at-the-one-billion-club-51-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
