@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-01-17T02:09:32.024928",
   "date": "2026-01-17",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -131,14 +131,6 @@
     {
       "title": "Three dead, one missing in Kalikot jeep crash",
       "summary": "Accident occurs on Seri-Pantadi road.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/16/three-dead-one-missing-in-kalikot-jeep-crash",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=600&height=400"
-    },
-    {
-      "title": "Three dead, one missing in Kalikot jeep crash",
-      "summary": "Decision follows counter claims by Thapa and Deuba factions over party legitimacy.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/16/three-dead-one-missing-in-kalikot-jeep-crash",
