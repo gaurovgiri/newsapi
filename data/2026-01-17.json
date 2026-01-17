@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-17T08:34:55.005390",
+  "scraped_at": "2026-01-17T12:54:43.879818",
   "date": "2026-01-17",
-  "total_articles": 51,
+  "total_articles": 56,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/tamannaah-s-aaj-ki-raat-at-the-one-billion-club-51-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "बालेन जहाँबाट उठे पनि ‘पत्तासाफ’ हुन्छन्: महेश",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले काठमाडौं महानगरपालिकाका मेयर बालेन शाह जहाँबाट चुनावमा उठे पनि ‘पत्तासाफ’ हुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-is-clean-no-matter-where-he-rises-from-mahesh-br-90-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768320438_balen_-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपालका केन्द्रीय उपाध्यक्ष बज्राचार्यसहित सयौं नेता-कार्यकर्ता नेकपा प्रवेश",
+      "summary": "जनता समाजवादी पार्टी (जसपा) नेपालका केन्द्रीय उपाध्यक्ष एवं सचिवालय सदस्य विद्युत बज्राचार्यसहित सयौं नेता तथा कार्यकर्ताहरू नेपाल कम्युनिस्ट पार्टी (नेकपा) मा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/big-blow-to-jsp-nepal-hundreds-of-leaders-and-activists-including-vice-president-vidyut-bajracharya-join-ncp-br-43-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768653057_prawes-480x320.jpg"
+    },
+    {
+      "title": "प्रेम आले कैलाली–५ बाट बने नेकपाको उम्मेदवार",
+      "summary": "नेकपाले कैलाली क्षेत्र नम्बर ५ बाट प्रेम आलेलाई प्रतिनिधिसभा उम्मेदवार बनाउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prem-ale-becomes-ncp-candidate-from-kailali-5-85-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768652340_Prem_Ale-480x320.jpg"
+    },
+    {
+      "title": "नारायणकाजी सर्लाही–३ बाट प्रतिनिधि सभा निर्वाचन लड्ने",
+      "summary": "नेपाली कम्युनिस्ट पार्टीका नेता नारायणकाजी श्रेष्ठ आगामी प्रतिनिधिसभा निर्वाचनमा सर्लाही–३ बाट उम्मेदवार बन्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/narayan-kaji-to-contest-house-of-representatives-elections-from-sarlahi-3-77-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768652148_NarayanKaji-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन केन्द्रित जनप्रदर्शनको तयारीमा एमाले",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले काठमाडौं महानगरपालिकाका मेयर बालेन शाह जहाँबाट चुनावमा उठे पनि ‘पत्तासाफ’ हुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-is-clean-no-matter-where-he-rises-from-mahesh-br-90-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
