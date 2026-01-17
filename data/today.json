@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-17T12:54:43.879818",
+  "scraped_at": "2026-01-17T16:32:06.794145",
   "date": "2026-01-17",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-is-clean-no-matter-where-he-rises-from-mahesh-br-90-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nylam–Khasa wildfire contained, Tatopani crossing still remains shut",
+      "summary": "Residual flames and disruption to Chinese customs systems keep border point closed as scores of containers remain stranded.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/17/nylam-khasa-wildfire-contained-tatopani-crossing-still-remains-shut",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nakakatnerapic117120260123531000x0-1768664241.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rhinos eye strong showing at their third T20 World Cup",
+      "summary": "The team competing in the 10th edition includes a majority of players who were part of the previous World Cup in 2024.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/17/rhinos-eye-strong-showing-at-third-t20-world-cup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/61629011913471790974384674949903588976829154n-1768654501.jpg&w=600&height=400"
+    },
+    {
+      "title": "वार्ता र संवादबाट समाधान खोज्न त्रिविको आग्रह",
+      "summary": "त्रिभुवन विश्वविद्यालयले वार्ता र संवादका विधिसम्मत माध्यमबाट समाधान खोज्न सबैलाई आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tu-urges-to-find-solutions-through-talks-and-dialogue-97-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768666825_TU-480x320.jpg"
+    },
+    {
+      "title": "सुनील शर्मा भन्छन्- रास्वपा मुख्य प्रतिस्पर्धी हुँदैन, अब हामी ‘स्वीप’ गरिहाल्छौं नि !",
+      "summary": "नेपाली कांग्रेसका नेता सुनील शर्माले आगामी निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) कांग्रेसको मुख्य प्रतिस्पर्धी नहुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-is-not-a-competitor-to-congress-in-the-upcoming-elections-we-will-make-a-clean-sweep-sunil-sharma-65-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768127357_sunil_sharma-480x320.jpg"
+    },
+    {
+      "title": "किन उम्मेदवारी दिन चाहँदैनन् विश्वप्रकाश ?",
+      "summary": "नेपाली महिला क्रिकेट टोली आइतबारदेखि सुरु हुने आइसिसी महिला टि–२० विश्वकप ग्लोबल छनोट प्रतियोगितामा सुधारिएको ब्याटिङ, फिल्डिङ र घरेलु मैदानको अनुकूलता प्रयोग गर्दै प्रस्तुत हुने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepali-women-s-team-takes-to-the-field-with-improved-batting-and-fielding-34-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768664904_Nepal-480x320.jpg"
+    },
+    {
+      "title": "देउवा पक्षलाई गगनको आह्वान- निर्वाचन आयोगको निर्णय स्वीकारौं, मिलेर जाऔं",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले आगामी निर्वाचनमा आफू उम्मेदवार नबन्ने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-doesn-t-vishwaprakash-want-to-run-for-office-51-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768387454_biswo-480x320.jpg"
+    },
+    {
+      "title": "जुम्लाबाट नेकपाको उम्मेदवार नरेश भण्डारी",
+      "summary": "त्रिभुवन विश्वविद्यालयले वार्ता र संवादका विधिसम्मत माध्यमबाट समाधान खोज्न सबैलाई आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tu-urges-to-find-solutions-through-talks-and-dialogue-97-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
