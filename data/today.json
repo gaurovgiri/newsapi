@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-18T08:35:25.937265",
+  "scraped_at": "2026-01-18T12:55:01.728523",
   "date": "2026-01-18",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/large-protest-in-greenland-saying-we-are-not-for-sale-after-trump-says-he-will-take-over-56-82.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Kathmandu mayor Balendra Shah resigns",
+      "summary": "Shah plans to contest from Jhapa-5 to challenge Oli.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/kathmandu/2026/01/18/kathmandu-mayor-balendra-shah-resigns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768730378.jpg&w=300&height=200"
+    },
+    {
+      "title": "Three writ petitions filed at Supreme Court against attorney general’s decision to amend chargesheets",
+      "summary": "Petitioners seek interim order, saying move intended to withdraw cooperative fraud cases.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/18/three-writ-petitions-filed-at-supreme-court-against-attorney-general-s-decision-to-amend-chargesheets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rabisabita18120260820281000x01-1768723033.jpg&w=300&height=200"
+    },
+    {
+      "title": "जनकपुर पुगेर बालेनले भने- आजलाई शान्त भएर बसिदिनुस्, भोलि कार्यक्रम स्थलमै भेटौंला",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन शाहले जनकपुर पुगेलगत्तै आफ्ना समर्थकहरूलाई शान्त रहन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/upon-reaching-janakpur-balen-said-please-sit-quietly-today-we-will-meet-at-the-event-venue-tomorrow-91-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768740329_len-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगले भन्योः दुर्गा प्रसाईंलाई कारबाही होस्",
+      "summary": "भक्तपुरस्थित निवासमा केही सञ्चारकर्मीसँग प्रसाईंले शनिबारमात्रै थापा समूहलाई आधिकारिकता दिन निर्वाचन आयोगले ठुलै रकम लिएको आरोप लगाएका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-commission-says-action-should-be-taken-against-durga-prasai-65-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768740476_Nirwachan Ayog 1-480x320.jpg"
+    },
+    {
+      "title": "फेरियो विष्णु पौडेलको ‘मुड’, रुपन्देही–२ मै चुनाव लड्ने",
+      "summary": "चर्को आलोचना र रुपन्देहीका कार्यकर्ताबाट पनि दबाब आएपछि अन्ततः उनी रुपन्देही–२ बाटै निर्वाचन लड्ने निर्णयमा पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bishnu-poudel-s-mood-has-changed-he-will-contest-elections-from-rupandehi-2-52-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1744270067_bishnu paudel-480x320.jpg"
+    },
+    {
+      "title": "‘टिम मिटिङ’मा शेखरः मध्यमार्गमै हिँड्छु, विचलित हुन्न",
+      "summary": "पार्टीभित्रको आधिकारिक विवाद सर्वोच्च अदालतमा प्रवेश गरिसकेको बताउँदै शेखरले अदालतको फैसला आफूलाई मान्य हुने पनि बताएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/shekhar-in-team-meeting-i-walk-the-middle-path-i-don-t-get-distracted-78-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758351919_shekhar-480x320.jpg"
+    },
+    {
+      "title": "जनकपुर पुगे बालेन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन शाहले जनकपुर पुगेलगत्तै आफ्ना समर्थकहरूलाई शान्त रहन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/upon-reaching-janakpur-balen-said-please-sit-quietly-today-we-will-meet-at-the-event-venue-tomorrow-91-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
