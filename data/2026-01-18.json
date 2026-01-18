@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-18T12:55:01.728523",
+  "scraped_at": "2026-01-18T16:33:24.531936",
   "date": "2026-01-18",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/upon-reaching-janakpur-balen-said-please-sit-quietly-today-we-will-meet-at-the-event-venue-tomorrow-91-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Mayor Balen resigns to contest March 5 elections",
+      "summary": "Despite questions on delivery, his corruption-free record stands out, say analysts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/18/mayor-balen-resigns-to-contest-march-5-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balen18120260850201000x0-1768751692.jpg&w=300&height=200"
+    },
+    {
+      "title": "Five killed, 12 injured in bus accident in Dharan",
+      "summary": "Bus from Bhedetar to Dharan loses control and crashes at Zero Point.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/18/five-killed-12-injured-in-bus-accident-in-dharan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=600&height=400"
+    },
+    {
+      "title": "कर्णालीलाई विश्वसामु चिनाउन मेरो उम्मेदवारी: ज्ञानेन्द्र शाही",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का नेता तथा ज्ञानेन्द्र शाहीले आफ्नो उम्मेदवारी कुनै दल विशेषका विरुद्ध नभई कर्णालीको आवाज दबाउनेहरूका विरुद्ध भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-is-not-against-the-party-but-against-those-who-circle-kathmandu-gyanendra-shahi-77-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748065759_gyanendra shahi-480x320.jpg"
+    },
+    {
+      "title": "जनकपुरमा बालेन र पूर्वयुवराज पारस एउटै होटलमा",
+      "summary": "ओमानसँगको श्रम सम्झौता नेपाल–ओमान कूटनीतिक सम्बन्ध स्थापना भएको झन्डै पाँच दशकपछि हुन लागेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/agreement-with-israel-and-oman-to-protect-workers-48-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768752685_Labour-480x320.jpg"
+    },
+    {
+      "title": "‘बालेन कार्ड’ ले तरंगित मधेस राजनीति",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन्द्र शाह (बालेन) र पूर्वयुवराज पारस शाह जनकपुरधामस्थित एउटै होटलमा बास बसेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-and-former-crown-prince-paras-stay-at-the-same-hotel-in-janakpur-17-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768751621_111-480x320.jpg"
+    },
+    {
+      "title": "ताप्लेजुङबाट एमालेका क्षितिज थेबे उम्मेदवार",
+      "summary": "काठमाडौंमा सडक व्यापारी, रिक्सा चालक र सुकुमबासीलाई हटाउँदा बालेनको छवि कतिपयको नजरमा ‘गरिबमारा’को बनेको विश्लेषण गर्दै चन्द्रकिशोर झा भन्छन्, ‘काठमाडौंको सडकबाट हटाइएका ती भुइँमान्छेमा मधेसका धेरै थिए, छन् । ती श्रमजीवी बालेनको नयाँ नेपालको नक्सामा कसरी अटाउलान् ?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-card-shakes-up-madhesh-politics-72-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768751696_Balen-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकतर्फ ३,२१३ उम्मेदवारको बन्दसूची सार्वजनिक, भोलिदेखि दाबी विरोध गर्न पाइने",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का नेता तथा ज्ञानेन्द्र शाहीले आफ्नो उम्मेदवारी कुनै दल विशेषका विरुद्ध नभई कर्णालीको आवाज दबाउनेहरूका विरुद्ध भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-is-not-against-the-party-but-against-those-who-circle-kathmandu-gyanendra-shahi-77-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
