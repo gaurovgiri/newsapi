@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-18T02:30:08.018513",
+  "scraped_at": "2026-01-18T04:47:30.487218",
   "date": "2026-01-18",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -270,6 +270,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/152-polling-stations-in-rautahat-on-the-list-of-highly-sensitive-85-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "आम निर्वाचनमा पार्टीले संगठित रूपमा चुनाव लड्नु पर्छ : विष्णु रिमाल",
+      "summary": "भदौ २३ र २४ गतेमा युवाहरूले पुराना सत्ताबाट सिर्जित विकृति, विसंगति, नातावाद कृपावाद, नेतावाद, दलतन्त्रवाद, भ्रष्टाचारलगायतको अन्त्य गरी सुशासनयुक्त एवं भ्रष्टाचाररहित युवा वर्गको शासन सत्ताका लागि जेनजीले आन्दोलन गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/extreme-misuse-of-the-gen-g-movement-br-28-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768710966_zz 90-480x320.jpg"
+    },
+    {
+      "title": "सुशासनका लागि नयाँ र पुराना मिल्नुको विकल्प छैन : शिक्षामन्त्री पुन",
+      "summary": "संयुक्त राष्ट्रसङ्घका प्रमुख एन्टोनियो गुटेरेसले संयुक्त राष्ट्रसङ्घको पहिलो महासभाको ८० औँ वार्षिकोत्सवको अवसरमा शनिबार लन्डनमा सम्बोधन गर्दै ‘विश्वव्यापी सहयोगलाई कमजोर पार्न लामबद्ध ‘शक्तिशाली विश्व समुदाय’ ध्यानाकर्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/un-secretary-general-guterres-warns-against-weakening-global-ties-22-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1698807467_guteress-480x320.jpg"
+    },
+    {
+      "title": "आयोगको निर्णयविरुद्ध आज सर्वोच्च जाँदै देउवा पक्ष",
+      "summary": "भारतको दार्जिलिङबाट पहिलो नेपाली गजल एल्बम 'मतला' बजारमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-first-nepali-ghazal-album-from-india-matala-23-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768709791_cv need 52-480x320.jpg"
+    },
+    {
+      "title": "टिकट नपाएपछि विष्णु रिजालको प्रतिक्रिया : मैदानमै छु, मैदानमै रहनेछु",
+      "summary": "नेकपा (एमाले) का नेता विष्णु रिमालले आसन्न आम निर्वाचनलाई पार्टीका लागि निर्णायक लडाइँको संज्ञा दिँदै टिकटको विषयभन्दा माथि उठेर एकताबद्ध हुन नेता–कार्यकर्तालाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-party-should-contest-the-general-election-in-an-organized-manner-bishnu-rimal-39-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1727443101_Bishnu Rimal -480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : प्रत्यक्षतर्फ एमालेबाट ९ महिलाले पाए टिकट (नामसहित)",
+      "summary": "भदौ २३ र २४ गतेमा युवाहरूले पुराना सत्ताबाट सिर्जित विकृति, विसंगति, नातावाद कृपावाद, नेतावाद, दलतन्त्रवाद, भ्रष्टाचारलगायतको अन्त्य गरी सुशासनयुक्त एवं भ्रष्टाचाररहित युवा वर्गको शासन सत्ताका लागि जेनजीले आन्दोलन गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/extreme-misuse-of-the-gen-g-movement-br-28-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
