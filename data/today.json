@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-18T04:47:30.487218",
+  "scraped_at": "2026-01-18T08:35:25.937265",
   "date": "2026-01-18",
-  "total_articles": 39,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -318,6 +318,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/extreme-misuse-of-the-gen-g-movement-br-28-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Deuba-led Congress moves Supreme Court against Election Commission’s decision",
+      "summary": "The faction challenges the recognition of Gagan Thapa-led central committee, citing alleged violation of party statute and constitution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/18/deuba-led-congress-moves-the-supreme-court-against-election-commission-s-decision",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thapadeubagagansherbahadur17120260512221000x0-1768717450.jpg&w=300&height=200"
+    },
+    {
+      "title": "Thailand beat Nepal by eight wickets in Women’s T20 World Cup Qualifier",
+      "summary": "Chantham and Koncharoenkai guide Thailand to comfortable chase after Nepal set 123-run target.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/18/thailand-beat-nepal-by-eight-wickets-in-women-s-t20-world-cup-qualifier",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/59938626612591218627754221008224527569449625n18120260711581000x0-1768718630.jpg&w=300&height=200"
+    },
+    {
+      "title": "For ex-premier Deuba, Dadeldhura’s electoral landscape is changing",
+      "summary": "Voters in the Congress stronghold considering if it is time to send someone other than five-time PM to parliament.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/18/for-ex-premier-deuba-dadeldhura-s-electoral-landscape-is-changing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Dadel-1768698186.jpg&w=600&height=400"
+    },
+    {
+      "title": "US Embassy launches Creator’s Mela 2026 from Chitwan",
+      "summary": "Nepal needs a strong Congress party, a historically moderate, left-of-centre democratic force.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/17/us-embassy-launches-creator-s-mela-2026-from-chitwan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thapadeubagagansherbahadur17120260512221000x0-1768717450.jpg&w=400&height=267"
+    },
+    {
+      "title": "Engineering a reading community",
+      "summary": "Narayankaji Shrestha, Bamdev Gautam and Bhagwati Neupane step down to contest March elections",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/17/engineering-a-reading-community",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/INDIGO-1768709045.jpg&w=400&height=267"
+    },
+    {
+      "title": "निर्वाचन कार्यतालिका स्थगनको माग गर्दै देउवा पक्ष आयोगमा",
+      "summary": "यस महिनाको सुरुमा भेनेजुएलाका पूर्वराष्ट्रपति निकोलस मदुरोलाई हटाउने कारबाहीपछि उनको अडान अझ कडा बनेको स्थानीय नेताहरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/large-protest-in-greenland-saying-we-are-not-for-sale-after-trump-says-he-will-take-over-56-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768724429_Trump-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभाका तीन सदस्यद्वारा राजीनामा",
+      "summary": "नोबेल साकोस साहित्य संस्थाले गीता अर्यालकाे ‘पर्खालभित्रको जून’ कवितासङ्ग्रह लोकार्पण गरेकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/poet-aryal-s-zoon-within-the-walls-is-released-br-22-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768724134_as 52-480x320.jpg"
+    },
+    {
+      "title": "आधिकारिकता विवाद : देउवा समूहको रिट सर्वोच्चमा दर्ता, माघ ६ गते पेसी",
+      "summary": "नेपाली कांग्रेसको निवर्तमान सभापति शेरबहादुर देउवा पक्ष निर्वाचन आयोग पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-s-faction-approaches-the-commission-demanding-postponement-of-the-election-schedule-75-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768542308_purnabahadur-480x320.jpg"
+    },
+    {
+      "title": "रविको मुद्दा फिर्ता लिने निर्णयविरुद्धको रिट सर्वोच्चमा दर्ता, पेसी पर्सी",
+      "summary": "ताप्लेजुङमा ८ सय ९२ जना निर्वाचन प्रहरीको माग गरिएको थियो। पहिलोपटक माघ १ गतेसम्म आवेदन दिने म्याद भएकोमा आवश्यक माग संख्या भन्दा कम मात्र आवेदन परेपछि दुई दिन म्याद थप गरी आवेदन लिइएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/950-applications-for-election-police-in-taplejung-13-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768722992_Myadi Taplejung-480x320.jpg"
+    },
+    {
+      "title": "कञ्चनपुरमा महिला मतदाता बढी",
+      "summary": "यस महिनाको सुरुमा भेनेजुएलाका पूर्वराष्ट्रपति निकोलस मदुरोलाई हटाउने कारबाहीपछि उनको अडान अझ कडा बनेको स्थानीय नेताहरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/large-protest-in-greenland-saying-we-are-not-for-sale-after-trump-says-he-will-take-over-56-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
