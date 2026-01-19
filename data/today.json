@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-19T02:27:22.002580",
+  "scraped_at": "2026-01-19T04:56:57.984497",
   "date": "2026-01-19",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/vinita-kathayat-is-a-direct-candidate-from-rsvp-jumla-67-33.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "If we fail in the polls, we will let others lead Nepali Congress",
+      "summary": "Through structural reforms, the Gen Z spirit will be fully integrated into the party’s permanent structure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/01/19/if-we-fail-in-the-polls-we-will-let-other-leaders-take-congress-leadership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/interview_guru_ghimire01172026DSC_0687%20(1).jpg&w=300&height=200"
+    },
+    {
+      "title": "Tickets to nowhere",
+      "summary": "Pratap Gurung’s journey from a runaway teenager and trekking porter to a naturalist, bird guide, and wildlife photographer is rooted in a lifelong pull towards the mountains, where he feels most alive.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/01/19/tickets-to-nowhere",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/Untitled1-1768795199.jpg&w=400&height=267"
+    },
+    {
+      "title": "An uncommon test of political readiness",
+      "summary": "KP Oli has rigged UML’s ticket distribution for the March 5 polls—much to the party’s detriment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/19/an-uncommon-test-of-political-readiness",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768796418.jpg&w=400&height=267"
+    },
+    {
+      "title": "खेलकुद मन्त्री गुप्ताले राजीनामा दिँदै, सिरहाबाट चुनाव लड्ने तयारी",
+      "summary": "गत कात्तिक ९ गते खेलकुद मन्त्री भएका गुप्ताले राजीनामा दिने भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sports-minister-gupta-resigns-prepares-to-contest-elections-from-siraha-65-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761478550_bablu_gupta-480x320.jpg"
+    },
+    {
+      "title": "भरतपुरकी मेयर दाहालले भोलि राजीनामा दिने",
+      "summary": "पोस्टमार्टम र अन्य आवश्यक कानुनी प्रक्रिया पुरा गरेर मृतकको शव उनीहरूकै घर पठाउने गरी परिवारको जिम्मा लगाइने जिल्ला प्रहरी कार्यालय उदयपुरले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-identities-of-the-deceased-driver-and-co-driver-in-the-andheri-accident-have-been-revealed-26-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768797178_Accident-480x320.jpg"
+    },
+    {
+      "title": "नेकपा एमाले र परिवार दलबीच चुनावी सहकार्यको सहमति",
+      "summary": "उच्च अदालत पाटनले अखिल नेपाल फुटबल संघ (एन्फा) को ‘अर्ली इलेक्सन’रोक्न अन्तरिम आदेश जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/anfa-orders-to-stop-elections-br-73-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768797640_जज-480x320.jpg"
+    },
+    {
+      "title": "झापा-२ मा फेरि कडा भिडन्त : अधिवक्ता नेपाल राप्रपाबाट उम्मेदवार बन्दै",
+      "summary": "स्थानीय सीपको प्रवर्द्धन गर्दै आर्थिक र पर्यटनसँग जोडेर भेडापालक किसानलाई हौसला प्रदान गर्ने लक्ष्यसहित तालिम सञ्चालन गरिएको गाउँपालिका अध्यक्ष सरोज बस्नेतले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/training-in-weaving-radipakhi-to-preserve-traditional-skills-12-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768795888_UN-480x320.jpg"
+    },
+    {
+      "title": "मधेशीलाई काठमाडौंबाट लछारपछार गर्दै धपाउनेलाई समयमा चिनौँ : सिके राउत",
+      "summary": "गत कात्तिक ९ गते खेलकुद मन्त्री भएका गुप्ताले राजीनामा दिने भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sports-minister-gupta-resigns-prepares-to-contest-elections-from-siraha-65-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
