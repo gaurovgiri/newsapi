@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-19T04:56:57.984497",
+  "scraped_at": "2026-01-19T08:44:00.053446",
   "date": "2026-01-19",
-  "total_articles": 41,
+  "total_articles": 50,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sports-minister-gupta-resigns-prepares-to-contest-elections-from-siraha-65-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "लाई बोल्न समेत छैन फुर्सद, सरस्वती मूर्तिको उच्च माग",
+      "summary": "लाई बोल्न समेत छैन फुर्सद, सरस्वती मूर्तिको उच्च माग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12015",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Murti-banauna-vayainavayai__-1768621786.jpg"
+    },
+    {
+      "title": "Deuba faction closes in on a deal with Gagan camp",
+      "summary": "Leaders from the Thapa, Deuba and Koirala factions holding talks to reach a consensus ahead of candidate nominations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/19/deuba-faction-near-deal-with-gagan-camp",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thapadeubakoirala19120260719111000x0-1768807094.jpg&w=300&height=200"
+    },
+    {
+      "title": "Youth and Sports Minister Bablu Gupta resigns",
+      "summary": "Gupta joins Rastriya Swatantra Party’s election campaign in Janakpur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/19/youth-and-sports-minister-bablu-gupta-resigns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1768799319.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balen Shah resigns as mayor to contest March 5 elections",
+      "summary": "Despite questions on delivery, his corruption-free record stands out, say analysts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/18/mayor-balen-resigns-to-contest-march-5-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/59866758115237958920318566084870017331870793n-1768785383.jpg&w=600&height=400"
+    },
+    {
+      "title": "पर्वले सद्भाव र भाइचाराको सन्देश प्रवाह गर्दै आएका छन् : खड्का",
+      "summary": "डिसेम्बर ५ मा प्रदर्शनमा आएको भारतीय चलचित्र 'धुरन्धर'ले सिनेमाघरहरूमा ४५ दिन पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/dhurandhar-crossed-rs-100-million-in-nepal-how-much-for-rajasaab-10-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768812030_pic-480x320.jpg"
+    },
+    {
+      "title": "झापा पुगे ओली, चुच्चे नक्सासहित स्वागतमा कार्यकर्ता (तस्बिरहरू)",
+      "summary": "कृषि तथा पशुपन्छी विकास मन्त्रालयले यस वर्ष धान उत्पादनमा गत वर्षको तुलनामा दुई लाख ५० हजार ३५० मेट्रिकटन कमी हुने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/rice-production-to-decrease-by-4-percent-this-year-61-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765121860_Dhan11-480x320.jpg"
+    },
+    {
+      "title": "धादिङ १ मा रास्वपाबाट उम्मेदवार बनिन् आशिका तामाङ",
+      "summary": "उनले प्रकृति प्रेमीका रुपमा परिचित तामाङ समुदायले यस पर्वका अवसरमा कुलपुजा तथा प्रकृतिको आराधना गर्दै आपसी सद्भाव, सहिष्णुता र भाइचाराको सन्देश प्रवाह गर्दै आएको उल्लेख गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-festival-has-been-spreading-the-message-of-harmony-and-brotherhood-khadka-32-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768213152_purna-480x320.jpg"
+    },
+    {
+      "title": "पर्वले धर्म र संस्कृति संरक्षण तथा संवर्द्धनमा प्रेरित गर्दै आएका छन् : सभापति थापा",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका लागि ओली झापा-५ बाट उम्मेदवार बन्दै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-arrives-in-jhapa-welcomed-by-activists-with-chukche-map-photos-27-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768810421_kp oli-480x320.jpg"
+    },
+    {
+      "title": "मधेशका पूर्वमुख्यमन्त्री र पूर्वसभामुखले दिए राजीनामा",
+      "summary": "डिसेम्बर ५ मा प्रदर्शनमा आएको भारतीय चलचित्र 'धुरन्धर'ले सिनेमाघरहरूमा ४५ दिन पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/dhurandhar-crossed-rs-100-million-in-nepal-how-much-for-rajasaab-10-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
