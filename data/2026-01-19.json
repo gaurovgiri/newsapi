@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-19T08:44:00.053446",
+  "scraped_at": "2026-01-19T13:06:51.504007",
   "date": "2026-01-19",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/dhurandhar-crossed-rs-100-million-in-nepal-how-much-for-rajasaab-10-58.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Minister Kharel resigns ahead of polls",
+      "summary": "Kharel announced his resignation during a special press conference in the evening.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/19/minister-kharel-resigns-ahead-of-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/6149263267814339583391306219245034695394848n19120260118231000x0-1768826114.jpg&w=300&height=200"
+    },
+    {
+      "title": "At least 39 dead in Spain after two high-speed trains collide",
+      "summary": "The death toll is the highest from a train crash since 2013, when a train derailed in the northwestern city of Santiago de Compostela and burst into flames, killing 80 people and injuring 145.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/19/at-least-39-dead-in-spain-after-two-high-speed-trains-collide",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi_74_M7AZOUYYSZP2XLHKEB7SWT3PLQ.jpg&w=600&height=400"
+    },
+    {
+      "title": "FICTION: Kalawati’s adventure gone wrong",
+      "summary": "Police detained the controversial medical entrepreneur after the election authority sought investigation, saying his statements undermined the credibility of a constitutional body.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/18/kalawati-s-adventure-gone-wrong",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/imgi_74_M7AZOUYYSZP2XLHKEB7SWT3PLQ.jpg&w=400&height=267"
+    },
+    {
+      "title": "सागर ढकाल गुल्मी-१ बाट चुनाव लड्ने",
+      "summary": "गत निर्वाचनमा डडेलधुराबाट शेरबहादुर देउवासँग प्रतिस्पर्धा गरेर चर्चामा आएका युवा इन्जिनियर सागर ढकालले आगामी निर्वाचनमा गुल्मी क्षेत्र नम्बर-१ बाट चुनाव लड्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-to-contest-election-from-gulmi-1-97-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768827057_sagar_dhakal-480x320.jpg"
+    },
+    {
+      "title": "झलनाथ खनाल र वामदेव गौतम फागुन २१ मा चुनाव नलड्ने",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का नेताद्वय झलनाथ खनाल र वामदेव गौतमले आगामी फागुन २१ को प्रतिनिधिसभा निर्वाचन नलड्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jhalanath-khanal-and-bamdev-gautam-will-not-contest-the-election-on-falgun-21-72-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768827214_Bam_JN-480x320.jpg"
+    },
+    {
+      "title": "मनोनयनमा तडकभडक नगर्न आयोगको सुझाव",
+      "summary": "निर्वाचन आयोगका प्रमुख कार्यवाहक निर्वाचन आयुक्त रामप्रसाद भण्डारीले उम्मेदवारी मनोनयन गर्न जाँदा बाजागाजा र तडकभडक नगर्न चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/commission-suggests-not-to-rush-into-nominations-20-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "सहयोद्धा भुल्न नसकेर रुकुमपूर्व आएँ: प्रचण्ड",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले जनयुद्धको आधारभूमि र सहयोद्धाहरूलाई भुल्न नसकेर रुकुमपूर्व आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/unable-to-forget-my-comrades-i-came-to-rukumpur-prachanda-80-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768826190_Prachandas-480x320.jpg"
+    },
+    {
+      "title": "‘निर्वाचन आयोगको कुनै कार्यतालिका संशोधन हुँदैन’",
+      "summary": "गत निर्वाचनमा डडेलधुराबाट शेरबहादुर देउवासँग प्रतिस्पर्धा गरेर चर्चामा आएका युवा इन्जिनियर सागर ढकालले आगामी निर्वाचनमा गुल्मी क्षेत्र नम्बर-१ बाट चुनाव लड्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-to-contest-election-from-gulmi-1-97-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
