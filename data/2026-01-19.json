@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-19T13:06:51.504007",
+  "scraped_at": "2026-01-19T16:39:07.686401",
   "date": "2026-01-19",
-  "total_articles": 58,
+  "total_articles": 65,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -470,6 +470,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-to-contest-election-from-gulmi-1-97-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Provinces must be strengthened to reinforce federalism: Balen Shah",
+      "summary": "RSP has presented Shah as its candidate for the prime minister if the party gets a majority in the March 5 elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/19/provinces-must-be-strengthened-to-reinforce-federalism-balen-shah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balendra19120261137171000x0-1768823280.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dahal moves to Rukum East for a safe seat, but the ground is shifting",
+      "summary": "Despite its legacy as a Maoist stronghold, the district has lately witnessed a change of mood among young voters as they demand accountability.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/19/dahal-moves-to-rukum-east-for-a-safe-seat-but-the-ground-is-shifting",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/prachanda-1768827565.jpg&w=300&height=200"
+    },
+    {
+      "title": "फागुन २१ः शीर्ष नेताहरु को कहाँबाट ?",
+      "summary": "फागुन २१ मा हुन लागेको निर्वाचनका लागि राजनीतिक दलका शीर्ष नेताहरुले आफ्नो निर्वाचन क्षेत्र तय गरिसकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/falgun-21-who-are-the-top-leaders-from-where-br-13-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768840058_4-480x320.jpg"
+    },
+    {
+      "title": "होटेलमा टिकट बिक्री गरिरहेको भन्दै प्रदर्शनमा उत्रेका रास्वपाका कार्यकर्ता पक्राउ",
+      "summary": "होटेलमा बसेर राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछाने टिकट बिक्री गरिरहेको भन्दै कार्यकर्ताहरु मूल ढोकामा विरोध प्रदर्शन गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-cadres-arrested-for-protesting-against-hotel-ticket-sales-33-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768839429_jabi-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा चुनावी सरगर्मी चुलिँदै: ६ दलले छाने उम्मेदवार",
+      "summary": "घोडाघोडी नगरपालिका–१० आमखोइया शिविरकी ५१ वर्षीया राजकुमारी चौधरी लगातार पाँच वर्षदेखि ‘भलमन्सा’को जिम्मेवारी सम्हाल्दै आएकी छन्। थारु समुदायमा हरेक वर्ष माघीका दिन गाउँको नेतृत्व गर्न भलमन्सा चयन गर्ने परम्परा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-struggle-story-of-a-female-good-natured-princess-37-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768839080_Ramkumari-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् उदयपुरका ठूला तीन दलका उम्मेदवार",
+      "summary": "लामो समयको तयारी र प्रशासनिक कसरतपछि अन्तिम चरणमा पुगेको शिक्षा नियमावलीको दशौं संशोधन प्रक्रिया तत्कालका लागि स्थगित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/break-in-education-regulations-72-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768838192_pun-480x320.jpg"
+    },
+    {
+      "title": "सुमनाले भनिन्- नेता होइन, जनता भएर प्रश्न सोध्न चाहन्छु",
+      "summary": "फागुन २१ मा हुन लागेको निर्वाचनका लागि राजनीतिक दलका शीर्ष नेताहरुले आफ्नो निर्वाचन क्षेत्र तय गरिसकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/falgun-21-who-are-the-top-leaders-from-where-br-13-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
