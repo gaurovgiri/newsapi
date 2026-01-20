@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-20T13:07:26.693280",
+  "scraped_at": "2026-01-20T16:44:57.943256",
   "date": "2026-01-20",
-  "total_articles": 58,
+  "total_articles": 64,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -470,6 +470,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-controversy-supreme-court-did-not-issue-an-interim-order-but-gave-priority-91-91.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Top leaders file candidacies nationwide as House elections draw closer",
+      "summary": "From Chitwan to Jhapa, senior leaders and new faces enter the fray, signalling an intense and closely watched electoral battle.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/20/top-leaders-file-candidacies-nationwide-as-house-elections-draw-closer",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/61630664412078480613207793497710025029434295n-1768912971.jpg&w=300&height=200"
+    },
+    {
+      "title": "रोकिए देउवा",
+      "summary": "नागरिक लगानी कोषमा आठ लाखभन्दा बढी नागरिक आवद्ध भएका छन् । २०४८ माघदेखि २०८२ पुस मसान्तसम्ममा लगानी कोष उक्त संख्यामा नागरिकहरू आवद्ध भएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/eight-lakh-citizens-have-joined-the-citizens-investment-fund-14-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768926401_Koshi-480x320.jpg"
+    },
+    {
+      "title": "उत्साहजनक रूपमा मनोनयन दर्ता गर्ने सबैप्रति आभार: प्रधानमन्त्री",
+      "summary": "संसदीय राजनीतिबाट शेरबहादुर देउवा अब अलग भएका छन् । २०४८ सालदेखि अनवरत निर्वाचित देउवाको गृहजिल्ला डडेलधुरामा कांग्रेसले नैनसिंह महरलाई उम्मेदवार बनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-stopped-89-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743054814_deuba-480x320.jpg"
+    },
+    {
+      "title": "महिला उम्मेदवार १२.११ प्रतिशत मात्र !",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले निर्धारित समयतालिकाभित्र उत्साहजनक रूपमा मनोनयन दाखिला गराउने सबै राजनीतिक दल तथा उम्मेदवारहरू प्रति आभार व्यक्त गरेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-thanks-everyone-who-enthusiastically-filed-nominations-45-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767957463_Sushila Karki -480x320.jpg"
+    },
+    {
+      "title": "भारतले दियो ६१ वटा गाडी उपहार, गृहमन्त्रीले दिए धन्यवाद",
+      "summary": "आगामी फागुन २१ गते हुने निर्वाचनलाई राजनीतिक दलले महिला उम्मेद्वार छनौटमा ध्यानै नदिएको पाइएको छ। मनोनयन दर्ताका क्रममा १२ दशमलव ११ प्रतिशतमात्र महिला उम्मेदवारले उम्मेदवारी दर्ता गराएको आयोगले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/only-12-11-percent-of-female-candidates-br-19-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768910107_Election-480x320.jpg"
+    },
+    {
+      "title": "चितवनबाट ६५ जनाको उम्मेदवारी",
+      "summary": "नागरिक लगानी कोषमा आठ लाखभन्दा बढी नागरिक आवद्ध भएका छन् । २०४८ माघदेखि २०८२ पुस मसान्तसम्ममा लगानी कोष उक्त संख्यामा नागरिकहरू आवद्ध भएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/eight-lakh-citizens-have-joined-the-citizens-investment-fund-14-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
