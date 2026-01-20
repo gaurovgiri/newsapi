@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-20T04:52:12.598867",
+  "scraped_at": "2026-01-20T08:43:17.608648",
   "date": "2026-01-20",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/all-major-parties-finalize-candidates-in-kailali-43-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balen Shah files candidacy from Jhapa-5",
+      "summary": "Former Kathmandu mayor to contest against KP Sharma Oli in a high-profile battle.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-1/2026/01/20/balen-shah-files-candidacy-from-jhapa-5",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balendarta20120260756521000x0-1768892995.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deuba opts out of elections, marking unexpected political pause",
+      "summary": "Deuba’s last-minute withdrawal reshapes Congress’ election dynamics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/20/deuba-opts-out-of-elections-marking-unexpected-political-pause",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1768889030.jpg&w=300&height=200"
+    },
+    {
+      "title": "रूपन्देहीमा राप्रपाबाट आइटी उद्यमी थापासहित पाँचको उम्मेदवारी",
+      "summary": "थापालाई क्षेत्र नम्बर २ बाट उम्मेदवार बनाइएको छ। उनी लामो समयदेखि आइटी क्षेत्रमा संलग्न महिला उद्यमी हुन्। उनले अमेरिकाबाट स्नातकोत्तर डिग्रीबाट आफ्नो यात्रा सुरु गरेकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-candidates-including-it-entrepreneur-thapa-from-rpp-in-rupandehi-43-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768898131_Thapa-480x320.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीद्वारा झापा ५ मानोनयन दर्ता (तस्बिरहरू)",
+      "summary": "नेकपा (एमाले)का अध्यक्ष केपी शर्मा ओलीले झापा ५ मा मनोनयन दर्ता गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-registers-nomination-in-jhapa-5-photos-88-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768898036_klpoli-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंका १० वटै निर्वाचन क्षेत्रमा धमाधम मनोनयन दर्ता",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य निर्वाचनका लागि काठमाडौंका १० वटै निर्वाचन क्षेत्रमा अहिले धमाधम उम्मेदवारको मनोनय दर्ता भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nomination-registration-in-full-swing-in-all-10-constituencies-of-kathmandu-28-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768897445_ktm-480x320.jpg"
+    },
+    {
+      "title": "सिराहा-१ मा रास्वपाबाट बब्लु गुप्ताको उम्मेदवारी",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को तर्फबाट बब्लु गुप्ताले उम्मेदवारी दर्ता गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bablu-gupta-s-candidacy-from-rashtriya-swayamsevak-sangh-rss-in-siraha-1-38-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768881012_bablu-480x320.jpg"
+    },
+    {
+      "title": "पूर्वसभामुख र पूर्वउपसभामुखद्वारा एउटै निर्वाचन क्षेत्रमा उम्मेदवारी",
+      "summary": "थापालाई क्षेत्र नम्बर २ बाट उम्मेदवार बनाइएको छ। उनी लामो समयदेखि आइटी क्षेत्रमा संलग्न महिला उद्यमी हुन्। उनले अमेरिकाबाट स्नातकोत्तर डिग्रीबाट आफ्नो यात्रा सुरु गरेकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/five-candidates-including-it-entrepreneur-thapa-from-rpp-in-rupandehi-43-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
