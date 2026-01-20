@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-20T02:22:28.180736",
+  "scraped_at": "2026-01-20T04:52:12.598867",
   "date": "2026-01-20",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/anfa-national-league-laligurans-win-for-the-second-time-in-a-row-37-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nominations being filed nationwide for House elections",
+      "summary": "Election Commission says preparations complete as candidates submit papers for March 5 polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/20/nominations-being-filed-nationwide-for-house-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768882776.jpg&w=300&height=200"
+    },
+    {
+      "title": "Education Minister Mahabir Pun resigns",
+      "summary": "Pun steps down from government post to continue promoting his campaign, says finance minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/20/education-minister-mahabir-pun-resigns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1768883784.jpg&w=300&height=200"
+    },
+    {
+      "title": "Thapa-led Congress picks poll candidates amid factional rift",
+      "summary": "Youth and new faces dominate the list, while select Deuba and Koirala camp leaders also secure tickets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/20/thapa-led-congress-picks-poll-candidates-amid-factional-rift",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1768871094.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘Echoes In The Valley’ returns with its Annual Music Festival",
+      "summary": "KP Oli has rigged UML’s ticket distribution for the March 5 polls—much to the party’s detriment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/20/echoes-in-the-valley-returns-with-its-annual-music-festival",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mental-1768876936.jpg&w=400&height=267"
+    },
+    {
+      "title": "9th Nepal International Film Festival to begin on April 2",
+      "summary": "Pun steps down from government post to continue promoting his campaign, says finance minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/19/9th-nepal-international-film-festival-to-begin-on-april-2",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/postreport1-1768876436.jpg&w=400&height=267"
+    },
+    {
+      "title": "Why he keeps returning to the forests and mountains",
+      "summary": "Election Commission says preparations complete as candidates submit papers for March 5 polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/19/why-he-keeps-returning-to-the-forests-and-mountains",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "कैलालीमा ठुला दल सबैले उम्मेदवार टुङ्ग्याए",
+      "summary": "यसैगरि रास्वपाबाट कैलाली–१ मा कोमल ज्ञवाली, कैलाली–२ मा केपी खनाल,कैलाली–३ मा लक्ष्मण थारु, कैलाली–४ मा हरी रेग्मी र कैलाली–५ आनन्द चन्दले मनोनयन दर्ता गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-major-parties-finalize-candidates-in-kailali-43-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768799463_emale congress nekapa-480x320.jpg"
+    },
+    {
+      "title": "डडेल्धुरामा ३४ वर्षपछि देउवाको विकल्पमा नयाँ जनप्रतिनिधि चुनिने, उम्मेदवार को-को छन्?",
+      "summary": "वि.सं. २०४८ यता भएका सबै निर्वाचनमा डडेल्धुरा जिल्लामा प्रतिनिधिसभा निर्वाचन क्षेत्रको संख्या फेरबदल नभई एउटै छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-34-years-a-new-people-s-representative-will-be-elected-in-dadeldhura-to-replace-deuba-who-are-the-candidates-88-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755006913_deuba-480x320.jpg"
+    },
+    {
+      "title": "मजदुर आन्दोलनका नेता श्रेष्ठ काठमाडौं-१० मा एमालेबाट उम्मेदवार",
+      "summary": "जेनजीका भावनालाई कुल्चन नहुने मत पार्टीभित्र बलियो बन्दै गइरहेको अवस्थामा सभापति देउवा पार्टीमा सक्रिय भएपछि त्यसको प्रतिवादस्वरूप विशेष महाधिवेशनमा होमिएका गगन–विश्वहरूले अन्ततः नीति र नेता बदले। नेपाली कांग्रेसमा गगनकुमार थापा सभापति निर्वाचित भएपछि नेपाली राजनीतिले नयाँ मोड लिएको धेरैको बुझाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/will-congress-become-an-alternative-73-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768883054_Gagan-Biswo-480x320.jpg"
+    },
+    {
+      "title": "नेपाली कांग्रेसबाट मोरङ क्षेत्र नम्बर ६ मा शेखर कोइरालाको उम्मेदवारी",
+      "summary": "मजदुर आन्दोलनका नेता विनोद श्रेष्ठ काठमाडौं जिल्ला निर्वाचन क्षेत्र नम्बर १० मा नेकपा एमालेबाट प्रतिनिधिसभा सदस्य निर्वाचनमा उम्मेदवार बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-movement-leader-shrestha-is-a-candidate-from-uml-in-kathmandu-10-65-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768882930_binod shrestha-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री महावीर पुनले राजीनामा दिए",
+      "summary": "यसैगरि रास्वपाबाट कैलाली–१ मा कोमल ज्ञवाली, कैलाली–२ मा केपी खनाल,कैलाली–३ मा लक्ष्मण थारु, कैलाली–४ मा हरी रेग्मी र कैलाली–५ आनन्द चन्दले मनोनयन दर्ता गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-major-parties-finalize-candidates-in-kailali-43-94.html?click_from=just_in",
       "image_url": ""
     }
   ]
