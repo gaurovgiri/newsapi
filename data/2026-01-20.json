@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-20T08:43:17.608648",
+  "scraped_at": "2026-01-20T13:07:26.693280",
   "date": "2026-01-20",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/five-candidates-including-it-entrepreneur-thapa-from-rpp-in-rupandehi-43-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "UML chair Oli files candidacy from Jhapa-5",
+      "summary": "Former prime minister enters high-stakes race against Balen Shah in a closely watched constituency.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/20/uml-chair-oli-files-candidacy-from-jhapa-5",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KPOLI-1768899478.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस आधिकारिकता विवादः सर्वोच्चले अन्तरिम आदेश दिएन, अग्राधिकार दियो",
+      "summary": "‘जटिल एवं गम्भीर कानुनी तथा संवैधानिक प्रश्न उठाइएको र ती प्रश्नहरू छिटो निरुपण हुन आवश्यक देखिएको भन्दै’ सर्वोच्चले अग्राधिकार प्रदान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-controversy-supreme-court-did-not-issue-an-interim-order-but-gave-priority-91-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766749658_Congress1-480x320.jpg"
+    },
+    {
+      "title": "उदयपुरमा ३१ जनाको उम्मेदवारी दर्ता",
+      "summary": "आगामी फागुन २१ गते हुन गईरहेको प्रतिनिधिसभा निर्वाचनका लागि उदयपुरमा ३१ जनाले उम्मेदवारी मनोनयन दर्ता गराएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/31-candidates-register-candidacy-in-udayapur-93-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768913239_Udaypur-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले दियो १६५ वटै निर्वाचन क्षेत्रमा उम्मेदवारी (सूचीसहित)",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा)ले फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि १६५ वटै निर्वाचन क्षेत्रमा उम्मेदवारी दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-files-candidacies-in-all-165-constituencies-with-list-32-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768913090_Nekapa 1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसका १६२ उम्मेदवार, महिला नेतृको संख्या १० मात्रै !",
+      "summary": "यो उम्मेदवारी संख्यामा १५२ जना पुरुष छन् भने महिलाको संख्या १० मात्र देखिएको छ । लैंगिक समानताका विषय जोडतोडले उठ्ने बेलामा उम्मेदवार चयनमा भने त्यस्तो पाइएको छैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/162-candidates-from-the-congress-only-10-women-leaders-34-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768127902_congress_mahadibesan-480x320.jpg"
+    },
+    {
+      "title": "भीम रावलद्वारा अछाम-१ बाट उम्मेदवारी",
+      "summary": "‘जटिल एवं गम्भीर कानुनी तथा संवैधानिक प्रश्न उठाइएको र ती प्रश्नहरू छिटो निरुपण हुन आवश्यक देखिएको भन्दै’ सर्वोच्चले अग्राधिकार प्रदान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officialdom-controversy-supreme-court-did-not-issue-an-interim-order-but-gave-priority-91-91.html?click_from=just_in",
       "image_url": ""
     }
   ]
