@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-21T13:06:19.287599",
+  "scraped_at": "2026-01-21T17:06:39.343346",
   "date": "2026-01-21",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bus-carrying-students-crashes-six-students-injured-13-95.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "80 more Nepalis deported from the US arrive in Kathmandu",
+      "summary": "The number of Nepalis deported by the US since January 2024 has reached 543.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/21/80-more-nepalis-deported-from-the-us-arrive-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/immigration301120251157221000x0-1769007097.jpg&w=600&height=400"
+    },
+    {
+      "title": "निर्वाचन गराउन आएकाहरू नै चुनाव लड्नु चरम अवसरवाद: अभियान्ता पाण्डे",
+      "summary": "जेन-जी आन्दोलनकी अभियान्ता तनुजा पाण्डेले आन्दोलनको बलमा बनेको नागरिक सरकारमा सहभागी मन्त्रीहरूले अहिले पदबाट राजीनामा दिई दलीय राजनीतिमा लाग्नु चरम अवसरवाद भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-extreme-opportunism-for-those-who-came-to-conduct-elections-to-contest-elections-campaigner-pandey-br-38-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769011680_tanuja-480x320.jpg"
+    },
+    {
+      "title": "मैले सुरु गरेका योजनाहरू अहिलेको सरकारले अलपत्र पार्‍यो, पूरा गर्न फेरि आएँ: गुरुङ",
+      "summary": "आकर्षण इन्टरनेसनल म्यानपावरले ८ सय जना नेपाली श्रमिकलाई रोजगारदाताले नै खर्च व्यहोर्ने व्यवस्था मार्फत मलेसियामा पठाउने भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/malaysia-employment-at-zero-cost-800-nepali-workers-getting-opportunities-70-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769011393_Untitled-2-Recovered-480x320.jpg"
+    },
+    {
+      "title": "‘दलहरूले घोषणापत्रलाई जनता ढाँट्ने औजार बनाए, अब जवाफदेही नबनाई हुँदैन’",
+      "summary": "विश्वव्यापी रूपमा धनी र गरिब तथा मुलुक र नागरिकबिच बढ्दै गएको चरम आर्थिक असमानतालाई न्यूनीकरण गर्ने गरी अबको विश्व आर्थिक नीति तय गरिनुपर्ने मागसहित नेपालको नागरिक समाजले सशक्त खबरदारी अभियान सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/civil-society-stands-up-against-global-economic-inequality-nbsp-br-54-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769009252_abiyan-480x320.jpg"
+    },
+    {
+      "title": "पूर्ण पदाधिकारी नहुँदा आयोगको निर्णय क्षमतामा जोखिम: पोखरेल",
+      "summary": "बर्दियाको बारबर्दिया नगरपालिकामा चितुवाको आक्रमणबाट एक महिलाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-in-leopard-attack-in-bardiya-br-82-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769007682_chituwa-480x320.jpg"
+    },
+    {
+      "title": "नयाँ पुस्ताको उदयले राजनीतिमा तरङ्ग, दलहरू युवा खोज्न बाध्य भए: पूर्व आयुक्त पोखरेल",
+      "summary": "जेन-जी आन्दोलनकी अभियान्ता तनुजा पाण्डेले आन्दोलनको बलमा बनेको नागरिक सरकारमा सहभागी मन्त्रीहरूले अहिले पदबाट राजीनामा दिई दलीय राजनीतिमा लाग्नु चरम अवसरवाद भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-extreme-opportunism-for-those-who-came-to-conduct-elections-to-contest-elections-campaigner-pandey-br-38-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
