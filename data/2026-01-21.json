@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-21T04:51:22.549189",
+  "scraped_at": "2026-01-21T08:41:15.689291",
   "date": "2026-01-21",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-administration-orders-to-surrender-weapons-73-81.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "New rules put Nepali workers’ jobs at risk in Saudi Arabia",
+      "summary": "Strict enforcement of Saudi employment policy limits foreign workers’ opportunities, especially in senior and specialised roles.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/21/new-rules-put-nepali-workers-jobs-at-risk-in-saudi-arabia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/3UNBWNOGONPFLCS5AFCA5HIN4U-1768976885.jpg&w=300&height=200"
+    },
+    {
+      "title": "3,484 individuals, 68 parties contesting March 5 polls",
+      "summary": "Nepali Congress and CPN-UML each field candidates in all 165 constituencies. Only 15 percent of the total contestants are under 35.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/21/3-484-individuals-68-parties-contesting-march-5-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NETA-1768960240.jpg&w=300&height=200"
+    },
+    {
+      "title": "कपिलवस्तुमा ४८ स्वतन्त्रसहित ९८ को उम्मेदवारी",
+      "summary": "त्यसमध्ये दलको तर्फबाट ५० र स्वतन्त्र ४८ जनाले उम्मेदवारी दिएका हुन्। मुख्य निर्वाचन अधिकृतको कार्यालय अनुसार क्षेत्र नम्बर १ मा २० दल र १४ स्वतन्त्र गरी कुल ३४ जनाको उम्मेदवारी परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/98-candidates-including-48-independents-in-kapilvastu-10-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "रुपन्देही : पाँच निर्वाचन क्षेत्रका लागि १५७ उम्मेदवार, महिलालाई उपेक्षा",
+      "summary": "क्षेत्र नं. ४ मा २२ जनाले उम्मेदवारी दर्ता गराएका छन्। जसमा १५ जना पार्टीबाट र ७ जना स्वतन्त्र उम्मेदवार छन्। यो क्षेत्रमा महिला ३ जनाले उम्मेदवारी दिएका छन्। नेपाल मजदुर किसान पार्टी र आम जनता पार्टीले महिलालाई उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rupandehi-157-candidates-for-five-constituencies-women-ignored-49-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768984050_Rupandehi-480x320.jpg"
+    },
+    {
+      "title": "सिरहाका चार सिटमा १३९ जना चुनावी मैदानमा, स्वतन्त्र उम्मेदवार धेरै",
+      "summary": "यो क्षेत्रबाट गत निर्वाचनमा जनता समाजवादी पार्टीबाट विरेन्द्र प्रसाद महतो विजयी भएका थिए। यो क्षेत्रमा ३७ जना उम्मेदवार छन्। जसमा २३ जना स्वतन्त्र छन्। यो क्षेत्रमा १ लाख ६ हजार ६८६ मतदाता रहेका छन्। मतदान स्थल ६० र मतदान केन्द्र १ सय २९ रहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/139-candidates-in-fray-for-four-seats-in-siraha-many-independent-candidates-66-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767333042_Election-480x320.jpg"
+    },
+    {
+      "title": "नवलपरासीमा ५७ जनाको उम्मेदवारी दर्ता",
+      "summary": "आगामी फागुन २१ मा हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि नवलपरासीमा ५७ जनाले उम्मेदवारी दर्ता गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/57-candidates-register-candidacies-in-nawalparasi-br-49-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768983722_feri 82-480x320.jpg"
+    },
+    {
+      "title": "उपमहासचिव भट्टराईको दाबी : ओलीले भदौ २३ मै राजीनामा दिएको भए संसद् बच्थ्यो",
+      "summary": "त्यसमध्ये दलको तर्फबाट ५० र स्वतन्त्र ४८ जनाले उम्मेदवारी दिएका हुन्। मुख्य निर्वाचन अधिकृतको कार्यालय अनुसार क्षेत्र नम्बर १ मा २० दल र १४ स्वतन्त्र गरी कुल ३४ जनाको उम्मेदवारी परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/98-candidates-including-48-independents-in-kapilvastu-10-92.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
