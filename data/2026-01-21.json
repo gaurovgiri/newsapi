@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-21T02:25:22.890674",
+  "scraped_at": "2026-01-21T04:51:22.549189",
   "date": "2026-01-21",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/sarina-honored-by-ghale-society-uk-br-19-72.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सागर ढकालले चलाए ‘घर फोन गर महाअभियान’",
+      "summary": "सुदीप भुपाल सिंह निर्देशित सिनेमा ‘श्री बुकुरो : द होम कलिङ’ को प्रदर्शन मिति घोषणा गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/release-date-of-shri-bukuro-the-home-calling-announced-br-40-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768970598_cv  load 42-480x320.jpg"
+    },
+    {
+      "title": "‘अल्गोरिदम’मार्फत देश कब्जा गर्न आएको शक्तिबाट सजग हुनुपर्छ : सचिव बस्नेत",
+      "summary": "गुल्मी क्षेत्र नम्बर १ बाट रास्वपा उम्मेदवार रहेका ढकालले सामाजिक सञ्जालमार्फत ‘घर फोन गर महाअभियान’ सञ्चालन गरेको जानकारी दिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-dhakal-launches-call-home-campaign-65-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768969367_Sagar-480x320.jpg"
+    },
+    {
+      "title": "बागलुङ : सौहार्दपूर्ण तरिकाले उम्मेदवारी दर्ता, २३ जना चुनावी मैदानमा",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचन शान्तिपूर्ण वातावरणमा सम्पन्न गराउने उद्देश्यले विभिन्न जिल्ला कार्यालयले व्यक्तिका नाममा दर्ता भएका इजाजत प्राप्त हातहतियार प्रहरी–प्रशासनलाई बुझाउन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-administration-orders-to-surrender-weapons-73-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
     }
   ]
 }
