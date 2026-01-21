@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-21T08:41:15.689291",
+  "scraped_at": "2026-01-21T13:06:19.287599",
   "date": "2026-01-21",
-  "total_articles": 44,
+  "total_articles": 50,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -358,6 +358,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/98-candidates-including-48-independents-in-kapilvastu-10-92.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Contempt of court case filed over non-implementation of right to reject",
+      "summary": "Petitioners allege the government and Election Commission have repeatedly failed to enforce Supreme Court rulings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/21/contempt-of-court-case-filed-over-non-implementation-of-right-to-reject",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1768979718.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपालाई खुलेर समर्थन गर्दै स्वस्तिमा र वर्षा",
+      "summary": "नवलपरासी (बर्दघाट–सुस्तापूर्व) को बुलिङटार गाउँपालिका–२ भेलौरीस्थित कालीगण्डकी करिडोरमा बस दुर्घटना हुँदा ६ जना विद्यार्थी घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bus-carrying-students-crashes-six-students-injured-13-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769000335_bus-480x320.jpg"
+    },
+    {
+      "title": "पाँच उम्मेदवारविरुद्ध उजुरी दर्ता",
+      "summary": "चुनावलाई लिएर सबै क्षेत्रका व्यक्तिहरुले सामाजिक सञ्जालमार्फत् आ–आफ्नो धारणा पनि सार्वजनिक गर्दैछन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/swastima-and-varsha-openly-support-the-rashtriya-swayamsevak-sangh-rss-87-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768998535_Naika -480x320.jpg"
+    },
+    {
+      "title": "ओलीको कटाक्ष: बालेनको घर अगाडिको बाटो मैले बनाइदिएको हुँ",
+      "summary": "साफ फुटसल च्याम्पियनसिप अन्तर्गत महिलातर्फ नेपालले पाकिस्तानलाई पराजित गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-futsal-championship-nepal-defeats-pakistan-47-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768998079_Nepal Footsal-480x320.jpg"
+    },
+    {
+      "title": "झापामा बालेन शाह र सुनसरीका उम्मेदवारबीच छलफल",
+      "summary": "बुधबार श्रीलंका क्रिकेट बोर्ड (एसएलसी)ले चरित असलन्काको कप्तानीमम १७ सदस्य टोली घोषणा गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/sri-lankan-squad-announced-for-series-against-england-36-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768997711_Sri Lanka News-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाप्रति लक्षित गर्दै ओली- नयाँहरु भनेर चाख्दा अमिलो र पिरो पर्न सक्छ",
+      "summary": "नवलपरासी (बर्दघाट–सुस्तापूर्व) को बुलिङटार गाउँपालिका–२ भेलौरीस्थित कालीगण्डकी करिडोरमा बस दुर्घटना हुँदा ६ जना विद्यार्थी घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bus-carrying-students-crashes-six-students-injured-13-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
