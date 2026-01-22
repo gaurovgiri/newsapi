@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-22T13:07:23.314565",
+  "scraped_at": "2026-01-22T16:44:35.810066",
   "date": "2026-01-22",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/the-first-year-of-trump-s-second-term-achievements-controversies-and-global-impact-87-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Election police appointments set for January 29, deployment from February 8",
+      "summary": "Around 188,000 personnel from the Nepali Army, Nepal Police, APF and the National Investigation Department will be deployed nationwide for the election security.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/22/election-police-appointments-set-for-january-29-deployment-from-february-8",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nirbahcanparhaarilpic221120260126391000x0-1769092865.jpg&w=300&height=200"
+    },
+    {
+      "title": "बाँके-२ मा एमालेको हार स्वीकार कि राजनीतिक संकट!",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य निर्वाचन नजिकिँदै गर्दा बाँके निर्वाचन क्षेत्र नम्बर २ मा नेकपा एमालेको गतिविधि र निर्णयले गहिरो राजनीतिक बहस जन्माएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/accepting-uml-s-defeat-in-banke-2-or-a-political-crisis-22-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769097800_Bake-2-480x320.jpg"
+    },
+    {
+      "title": "मधेसमा अनुभवी नेतालाई टक्कर दिँदै नयाँ अनुहारका उम्मेदवार",
+      "summary": "तनहुँको आँबुखैरेनी गाउँपालिका–५ दोन्द्राङबेशीस्थित त्रिशुली नदी किनारमा भेटिएको बसको उत्खनन कार्यलाई निरन्तरता दिने निर्णय गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/excavation-of-bus-found-on-trishuli-banks-underway-67-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769097050_Chitawan-480x320.jpg"
+    },
+    {
+      "title": "मतदाता भेटघाटमा व्यस्त ओली",
+      "summary": "राष्ट्रिय जनगणना अनुसार ६१ लाख ४४ हजार ६०० जनसंख्या रहेको मधेस प्रदेशमा ३६ लाख ३६ हजार ४१३ मतदाता छन्। यो प्रदेशबाट प्रतिनिधिसभामा ३२ जना सदस्य निर्वाचित हुन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-faced-candidate-competing-with-experienced-leaders-in-madhesh-76-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769097854_7-480x320.jpg"
+    },
+    {
+      "title": "तनहुँका आठ मतदान केन्द्र अति संवेदनशील",
+      "summary": "सर्लाहीकोधनकौल गाउँपालिकामा सन्चालित अन्नपूर्ण सुगर मिलमा बिहीबार बिहान मेसिनमा परेर एक मजदुरको ज्यान गएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-getting-wrapped-in-a-sugarcane-juice-extraction-machine-32-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769096229_annapurna-480x320.jpg"
+    },
+    {
+      "title": "ललितपुरमा दुई लाख ६९ हजार मतदाता, ७४ उम्मेदवार",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य निर्वाचन नजिकिँदै गर्दा बाँके निर्वाचन क्षेत्र नम्बर २ मा नेकपा एमालेको गतिविधि र निर्णयले गहिरो राजनीतिक बहस जन्माएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/accepting-uml-s-defeat-in-banke-2-or-a-political-crisis-22-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
