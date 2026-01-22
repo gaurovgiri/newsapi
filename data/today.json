@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-22T08:43:16.422449",
+  "scraped_at": "2026-01-22T13:07:23.314565",
   "date": "2026-01-22",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -390,6 +390,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/all-factions-of-the-congress-have-collapsed-general-secretary-ghimire-55-65.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "यी हुन् रेशमको उम्मेदवारी खारेज गर्न निर्वाचन अधिकृतले लिएका मुख्य तर्क",
+      "summary": "पहिलो वर्ष ट्रम्पको नीतिलाई विश्वव्यापी रूपमा सन्तोषजनक मानिएको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/the-first-year-of-trump-s-second-term-achievements-controversies-and-global-impact-87-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769087076_trump2-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस महामन्त्री नै भन्नथालेः वैशाखमा नियमित महाधिवेशन हुन्न",
+      "summary": "नागरिक उन्मुक्ति पार्टी (नाउपा) नेपालका संरक्षक रेशमलाल चौधरीको उम्मेदवारी खारेज भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-main-arguments-used-by-the-election-officer-to-reject-resham-s-candidacy-38-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769085731_chaudari-480x320.jpg"
+    },
+    {
+      "title": "रेशम चाैधरीको उम्मेदवारी खारेज",
+      "summary": "वैशाखको विकल्पमा २०८३ कै पुसको मसान्तमा मात्रै नियमित महाधिवेशन गर्न सकिने घिमिरेले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-congress-general-secretary-himself-said-there-will-be-no-regular-general-convention-in-baisakh-31-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769085015_Guru2-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्डको जेन-जी गफ: १६४ उम्मेदवार छान्दा एकमात्र २७ वर्षका !",
+      "summary": "कैलाली निर्वाचन क्षेत्र नम्बर-१ बाट उम्मेदवारी दिएका उनको उम्मेदवारी खारेज भएको निर्वाचन अधिकृतको कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/resham-chaudhary-s-candidacy-rejected-69-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752987156_resham chaudhary-480x320.jpg"
+    },
+    {
+      "title": "बाँकेमा उम्मेदवारविरुद्ध उजुरी परेन",
+      "summary": "पहिलो वर्ष ट्रम्पको नीतिलाई विश्वव्यापी रूपमा सन्तोषजनक मानिएको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/the-first-year-of-trump-s-second-term-achievements-controversies-and-global-impact-87-59.html?click_from=just_in",
       "image_url": ""
     }
   ]
