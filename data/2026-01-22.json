@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-22T04:53:40.954202",
+  "scraped_at": "2026-01-22T08:43:16.422449",
   "date": "2026-01-22",
-  "total_articles": 38,
+  "total_articles": 47,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -310,6 +310,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-election-hima-sinja-vote-tussle-67-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Netherlands beat Nepal by two runs in thrilling T20 WC qualifier clash",
+      "summary": "Late fight from Nepal falls short as Netherlands hold on for narrow victory.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/22/netherlands-beat-nepal-by-two-runs-in-thrilling-t20-wc-qualifier-clash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepal-1769063659.jpg&w=300&height=200"
+    },
+    {
+      "title": "Parties ramp up social media spending ahead of elections",
+      "summary": "Data from past three months show parties and candidates spending lavishly, raising concerns over transparency and targeted campaigning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/22/parties-ramp-up-social-media-spending-ahead-of-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/createdwithAI-1769059913.jpg&w=300&height=200"
+    },
+    {
+      "title": "Candidates are openly flouting election code",
+      "summary": "Nomination day saw candidates arrive with hundreds of supporters, musical ensembles, and even children.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/22/candidates-are-openly-flouting-election-code",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SKRukumPurbaIMG8398-1769044970.jpg&w=300&height=200"
+    },
+    {
+      "title": "Queer, rural, and all too human stories on screen",
+      "summary": "The fielding of new electoral candidates is the first step to internalising the spirit of the Gen Z movement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2026/01/21/queer-rural-and-all-too-human-stories-on-screen",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/createdwithAI-1769059913.jpg&w=400&height=267"
+    },
+    {
+      "title": "कांग्रेसका सबै गुट भत्किए : महामन्त्री घिमिरे",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गुरुराज घिमिरेले नेपाली कांग्रेसका सबै गुट भत्किएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-factions-of-the-congress-have-collapsed-general-secretary-ghimire-55-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769070823_guru-480x320.jpg"
+    },
+    {
+      "title": "गगनलाई आधिकारिक रूपमा प्रधानमन्त्रीको उम्मेदवार घोषणा गर्दै कांग्रेस",
+      "summary": "अष्ट्रेलियाको न्यु साउथ वेल्सको एउटा सानो शहरमा गोली चल्दा तीन जनाको मृत्यु भएको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/shooting-in-new-south-wales-australia-three-dead-locals-urged-to-stay-indoors-11-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769069636_australia-480x320.jpg"
+    },
+    {
+      "title": "अराजकताको आयु लामो हुँदैन : अध्यक्ष ओली",
+      "summary": "विशेष महाधिवेशनबाट निर्वाचित केन्द्रीय कार्यसमितिले शुक्रबार केन्द्रीय कार्यालय सानेपामा पहिलो पटक बैठक बसेर सभापति थापालाई प्रधानमन्त्रीको उम्मेदवार घोषणा गर्न लागेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-officially-declares-gagan-as-pm-candidate-51-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768296825_gagan-480x320.jpg"
+    },
+    {
+      "title": "आज उम्मेदवारमाथिको उजुरी जाँचिँदै",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले ग्रिनल्यान्डसम्बन्धी आफ्नो कडा अडान नाटकीय रूपमा परिवर्तन गरेपछि युरोपेली देशहरूले बिहीबार राहतको सास फेरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/relief-in-europe-after-trump-s-move-11-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769068607_trump-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाबाट फेरि एमालेमै फर्किए कमल गैरे",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गुरुराज घिमिरेले नेपाली कांग्रेसका सबै गुट भत्किएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-factions-of-the-congress-have-collapsed-general-secretary-ghimire-55-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
