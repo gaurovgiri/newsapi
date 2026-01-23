@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-23T02:22:40.285696",
+  "scraped_at": "2026-01-23T04:50:32.265193",
   "date": "2026-01-23",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/accepting-uml-s-defeat-in-banke-2-or-a-political-crisis-22-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ोमा नदी अधिकार मञ्चको तीन दिने कार्यक्रम",
+      "summary": "ोमा नदी अधिकार मञ्चको तीन दिने कार्यक्रम",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12026",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/rabile-1768802204.jpg"
+    },
+    {
+      "title": "वैदेशिक रोजगारीमा जानेलाई ठग्ने मेनपावरमाथि चाँडै कडा कारबाही गर्छौ : मन्त्री भण्डारी",
+      "summary": "तर बुबा र साथीहरूले शरीरमा रगतका दाग र चोट देखेपछि शंका गरेका थिए। त्यसपछि उनीहरूको उजुरी पर्‍यो अनि प्रहरी अनुसन्धान सुरु भयो। पोस्टमार्टमबाट मृत्यु निसास्सिएर भएको देखियो। रिर्पोटमा छातीमा चोट पनि पुष्टि भयो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/husband-murdered-by-feeding-him-biryani-she-spent-the-night-with-her-lover-watching-pornographic-videos-while-keeping-the-body-nearby-92-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769140765_India-480x320.jpg"
+    },
+    {
+      "title": "एउटै पालिकाबाट ६ जना उम्मेदवार : महिला शून्य",
+      "summary": "सो अवसरमा उनले देशमा बढ्दो वैदेशिक व्यापार घाटामा कमी ल्याउन स्वदेशी उत्पादनलाई प्रोत्साहन गर्नुपर्नेमा जोड दिएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-soon-take-strict-action-against-manpower-who-cheat-those-going-for-foreign-employment-minister-bhandari-73-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769138819_Rajendra-480x320.jpg"
+    },
+    {
+      "title": "नवलपरासी-२ मा दुई जनाको उम्मेदवारी रद्द",
+      "summary": "नेपाली लेखक संघ कास्कीले यस वर्षको गण्डकी प्रदेशस्तरीय ‘लेखक कृति पुरस्कार–२०८१’ साहित्यकार गोविन्दराज विनोदीको काव्य ‘अलंकार इन्द्रेणी’ लाई प्रदान गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/literary-writer-govindaraj-binodi-s-poem-alankar-indreni-has-been-awarded-the-author-s-award-29-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769140298_khu 52-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेलले दिए सरस्वती पूजाको शुभकामना",
+      "summary": "जेन–जी आन्दोलनपछि गठित सुशीला कार्की नेतृत्वको सरकारले रोकेका विकास कार्यक्रम (योजना) हरूमध्ये पाँच सय ३३ वटाको बजेट फुकुवा गर्न सहरी विकास मन्त्रालयले अर्थ मन्त्रालयमा पठाएको प्रस्ताव करिब डेढ महिनादेखि अर्थ मन्त्रालयमै अड्किएको छ। यसबिचमा सहरी विकास मन्त्रालयको नेतृत्वफेरिएको हुँदा सो मन्त्रालयको नयाँ नेतृत्व कुमार इङनामले सम्हालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/urban-development-ministry-s-proposal-stuck-at-finance-ministry-br-55-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769139520_udai 52-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा उम्मेदवार *खरेलसँग स्पष्टीकरण माग",
+      "summary": "तर बुबा र साथीहरूले शरीरमा रगतका दाग र चोट देखेपछि शंका गरेका थिए। त्यसपछि उनीहरूको उजुरी पर्‍यो अनि प्रहरी अनुसन्धान सुरु भयो। पोस्टमार्टमबाट मृत्यु निसास्सिएर भएको देखियो। रिर्पोटमा छातीमा चोट पनि पुष्टि भयो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/husband-murdered-by-feeding-him-biryani-she-spent-the-night-with-her-lover-watching-pornographic-videos-while-keeping-the-body-nearby-92-25.html?click_from=just_in",
       "image_url": ""
     }
   ]
