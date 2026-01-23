@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-23T08:40:34.396514",
+  "scraped_at": "2026-01-23T13:04:18.132193",
   "date": "2026-01-23",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -382,6 +382,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-killed-in-motorcycle-accident-22-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नीका भिक्षु, व्यवसायी र स्थानीय आक्रोशित, कोषविरुद्ध कडा चेतावनी",
+      "summary": "नीका भिक्षु, व्यवसायी र स्थानीय आक्रोशित, कोषविरुद्ध कडा चेतावनी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12068",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sthaniyako-Gunaso-1769140232.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचनः समानुपातिकतर्फको डेढ करोड मतपत्र छपाइ",
+      "summary": "यही माघ २ गतेदेखि जनक शिक्षा सामग्री केन्द्र लिमिटेडको छापाखानामा मतपत्र छपाइ भइरहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-15-million-ballot-papers-printed-for-proportional-representation-82-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1672747002_Janak-Shikshya-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन चर्चाः कपिलवस्तुमा पाँच हजार बढी सुरक्षाकर्मी परिचालन हुने",
+      "summary": "प्रजिअ तथा जिल्ला सुरक्षा समितिका अध्यक्ष जर्नादन गौतमका अनुसार निर्वाचनलाई लक्षित गरी २ हजार ९९३ निर्वाचन प्रहरी र नेपाल प्रहरी तथा एक हजार सशस्त्र प्रहरी परिचालन गरिने बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-discussion-more-than-5-000-security-personnel-to-be-deployed-in-kapilvastu-53-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769171794_Kapilbastu (1)-480x320.jpg"
+    },
+    {
+      "title": "बहत्तर जनाको उम्मेदवारी फिर्ता",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि विभिन्न राजनीतिक दल तथा स्वतन्त्र उम्मेदवारी दिएका ७२ जना उम्मेदवारहरूले आफ्नो उम्मेदवारी फिर्ता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/72-candidates-withdraw-their-candidacies-16-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768289728_nirbachan-480x320.jpg"
+    },
+    {
+      "title": "ओलीको निर्वाचन परिचालन कमाण्डर बने देवेन्द्र दाहाल",
+      "summary": "शिवराज नगरपालिका–७ रुद्रपुरस्थित जय अम्बे प्लाइउड इन्डस्ट्रिज प्रालिको हाता भित्र कृष्णनगर भन्सार र सशस्त्र प्रहरीको छापा हानेर १ सय ८१ बोरा युरिया मल बरामद गरेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/plywood-industry-faces-smuggling-case-for-urea-fertilizer-smuggling-32-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769170866_Ply Udhyog -480x320.jpg"
+    },
+    {
+      "title": "मतदातासँग सम्पर्क बढाउन एमालेका कार्यकर्तालाई ओलीको निर्देशन",
+      "summary": "यही माघ २ गतेदेखि जनक शिक्षा सामग्री केन्द्र लिमिटेडको छापाखानामा मतपत्र छपाइ भइरहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-15-million-ballot-papers-printed-for-proportional-representation-82-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
