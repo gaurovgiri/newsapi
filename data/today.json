@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-23T04:50:32.265193",
+  "scraped_at": "2026-01-23T08:40:34.396514",
   "date": "2026-01-23",
-  "total_articles": 40,
+  "total_articles": 48,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/husband-murdered-by-feeding-him-biryani-she-spent-the-night-with-her-lover-watching-pornographic-videos-while-keeping-the-body-nearby-92-25.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Gold crosses Rs300,000 mark as price surges in domestic market",
+      "summary": "Fine gold jumped by Rs9,200 per tola on Friday to Rs301,400, while silver rose by Rs320, reversing losses from the previous trading day amid higher international prices.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/23/gold-and-silver-prices-jump",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1769146487.jpg&w=300&height=200"
+    },
+    {
+      "title": "Eight injured in clash at Bhaktapur juvenile correction centre",
+      "summary": "Fight among inmates in Sanothimi facility triggers vandalism and arson; police deploy more than 200 personnel amid escape fears.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/bhaktapur/2026/01/23/eight-injured-in-clash-at-bhaktapur-juvenile-correction-centre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/faf723fbac16413aaaeeb19424d9a09223120260412531000x0-1769143113.jpg&w=300&height=200"
+    },
+    {
+      "title": "Air pollution clouds health, tourism, and economy in Nepal",
+      "summary": "From flight disruptions to growing health costs, unchecked air pollution hitting lives, livelihoods and tourism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/23/air-pollution-clouds-health-tourism-and-economy-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/fire-1769129529.jpg&w=600&height=400"
+    },
+    {
+      "title": "पूर्वप्रधानमन्त्री भट्टराईले उम्मेदवारी फिर्ता लिए",
+      "summary": "रौतहटमा मोटरसाइकल दुर्घटनामा दुइको मृत्यु काठमाडौं राैतहटमा मोटरसाइकल दुर्घटनामा दुई जनाको ज्यान गएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-killed-in-motorcycle-accident-22-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769154975_bik099-480x320.jpg"
+    },
+    {
+      "title": "बागीको उम्मेदवारी फिर्ता : नेकपाका शाहीलाई समर्थन",
+      "summary": "पूर्वप्रधानमन्त्री डा बाबुराम भट्टराईले आफ्नो उम्मेदवारी फिर्ता लिएका छन्। आगामी फागुन २१ गतेको निर्वाचनमा गोरखा २ बाट उम्मेदवार दिएका उनले उम्मेदवारी फिर्ता लिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-prime-minister-bhattarai-withdraws-candidacy-71-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769154462_Baburam-480x320.jpg"
+    },
+    {
+      "title": "रुपन्देही-२ मा राप्रपा उम्मेदवारद्वारा उम्मेदवारी फिर्ता",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) कालीकोटमा उम्मेदवार सम्बन्धी विवाद टुंगिएको छ। नेकपाका नेता महेन्द्रबहादुर शाहीविरुद्ध ‘बागी’ उम्मेदवारी दिएका सोही पार्टीका नेता जीवन बुढा पछाडि हटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rebel-s-candidacy-withdrawn-support-for-ncp-s-shahi-br-63-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769152926_Kalikot-480x320.jpg"
+    },
+    {
+      "title": "उदयपुरमा महिलाविहीन निर्वाचन : बागीले उम्मेदवारी फिर्ता नलिने",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका लागि रुपन्देही क्षेत्र नं २ बाट उम्मेदवारी मनोनयन गरेकी राष्ट्रिय प्रजातन्त्र पार्टी (राप्रप्रा) की उम्मेदवार कर्भिका थापाले आज उम्मेदवारी फिर्ता लिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-candidate-withdraws-candidacy-in-rupandehi-2-br-41-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "मनाङका एमाले र राप्रपाका उम्मेदवारले उम्मेदवारी फिर्ता लिन दिए निवेदन",
+      "summary": "रौतहटमा मोटरसाइकल दुर्घटनामा दुइको मृत्यु काठमाडौं राैतहटमा मोटरसाइकल दुर्घटनामा दुई जनाको ज्यान गएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-killed-in-motorcycle-accident-22-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
