@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-23T16:40:19.200114",
+  "scraped_at": "2026-01-23T20:34:52.482682",
   "date": "2026-01-23",
-  "total_articles": 62,
+  "total_articles": 64,
   "sources": [
     "News24",
     "NagarikNews",
@@ -503,6 +503,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bimala-is-preparing-for-her-journey-to-parliament-from-foreign-employment-57-81.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "महावीर पुनको चुनाव चिन्ह त्रिभुज",
+      "summary": "सर्वोच्च अदालतका प्रधानन्यायाधीश प्रकाशमान सिंह राउतले न्यायालयमा कुनै खालका गलत प्रवृत्ति स्वीकार्य नहुने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-courthouse-was-not-burned-down-everyone-knows-this-chief-justice-59-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769177889_Prakasman_sing_Raut-480x320.jpg"
+    },
+    {
+      "title": "बहत्तर जनाको उम्मेदवारी फिर्ता, ८ जनाको रद्द",
+      "summary": "यो उपलब्धि छोटो समयको सफलता वा ट्रायल इन्ट्रीका लागि मात्र गरिएको थिएन। यो त प्रतिस्पर्धात्मक युरोपेली बजारमा टुनल्यान्ड G7 को डिजाइन, प्रदर्शन, सुरक्षा र समग्र विश्वसनीयताले बलियो स्वीकार्यता पाएको स्पष्ट संकेत हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/foton-tunland-g7-s-historic-milestone-in-europe-with-400-units-81-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769176541_Tunland-PR-Cover-480x320.jpg"
     }
   ]
 }
