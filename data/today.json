@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-23T13:04:18.132193",
+  "scraped_at": "2026-01-23T16:40:19.200114",
   "date": "2026-01-23",
-  "total_articles": 54,
+  "total_articles": 63,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -438,6 +438,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-election-15-million-ballot-papers-printed-for-proportional-representation-82-12.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Junk food habits may be driving rising malnutrition in Sudurpaschim",
+      "summary": "Nearly 16 percent of children under five in the province are suffering from acute malnutrition, a recent survey shows.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/23/junk-food-habits-may-be-driving-rising-malnutrition-in-sudurpaschim",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1769172585.jpg&w=300&height=200"
+    },
+    {
+      "title": "Resham Chaudhary moves Supreme Court against candidacy cancellation",
+      "summary": "Seeks interim order to reinstate nomination for Kailali-1 race.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/23/resham-chaudhary-moves-supreme-court-against-candidacy-scrap",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1769167698.jpg&w=300&height=200"
+    },
+    {
+      "title": "Former prime minister Baburam Bhattarai withdraws candidacy from Gorkha-2",
+      "summary": "Says he will play an advisory role beyond party politics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/23/former-prime-minister-baburam-bhattarai-withdraws-candidacy-from-gorkha-2",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1769156389.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress declares Gagan Thapa as prime ministerial candidate",
+      "summary": "Decision taken at first central working committee meeting at Sanepa after special general convention.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/23/congress-declares-gagan-thapa-as-prime-ministerial-candidate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GaganThapa-1769163646.jpg&w=600&height=400"
+    },
+    {
+      "title": "सदाबहार उम्मेदवार",
+      "summary": "स्वदेश फर्किएपछि व्यवसाय र समाजसेवामा सक्रिय उनी अहिले राजनीतिमार्फत समाज परिवर्तन गर्ने अठोटका साथ चुनावी मैदानमा उभिएकी हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bimala-is-preparing-for-her-journey-to-parliament-from-foreign-employment-57-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769185226_Bimala-480x320.jpg"
+    },
+    {
+      "title": "सुरक्षा निकायको धर्म भनेकै शान्ति सुरक्षा कायम गर्नु हो: राष्ट्रपति पौडेल",
+      "summary": "युरोपियन युनियनअन्तर्गतको कोपर्निकसले सार्वजनिक गरेको तथ्यांकअनुसार तापमानको अभिलेख राख्न थालिएयताकै तेस्रो तातो वर्षका रूपमा सन् २०२५ देखिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2025-third-warmest-year-12-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769184295_Hot_day-480x320.jpg"
+    },
+    {
+      "title": "के छ गैरसरकारी संस्था महासंघको १५ बुँदे विशेष प्रस्तावमा ?",
+      "summary": "नेकपाका राजेन्द्र पाण्डे, एमालेका केपी शर्मा ओली, पृथ्वी सुब्बा गुरुङ र विष्णु पौडेल, राप्रपाका कमल थापा, जसपा नेपालबाट उम्मेदवारी दिएका शरत्सिंह भण्डारी, कांग्रेसका नेता विजय गच्छदार, राष्ट्रिय मुक्ति पार्टीका राजेन्द्र महतोलगायत नेता निरन्तर उम्मेदवार रहँदै आएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/evergreen-candidate-21-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769182547_Leader1-480x320.jpg"
+    },
+    {
+      "title": "सुरक्षा निकायको धर्म मुलुक र जनताको सर्वोत्तम हित गर्नु हो: राष्ट्रपति पौडेल",
+      "summary": "खोटाङ सदरमुकाम क्षेत्रमा ठूलो संख्यामा महिलामा पाठेघर खस्ने समस्या देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/khotang-woman-with-prolapsed-uterus-treated-at-banepa-hospital-15-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769182548_Sibir-480x320.jpg"
+    },
+    {
+      "title": "संघीय लोकतान्त्रिक गणतन्त्रलाई माया गर्ने एकताबद्ध हुनुपर्छ: दाहाल",
+      "summary": "स्वदेश फर्किएपछि व्यवसाय र समाजसेवामा सक्रिय उनी अहिले राजनीतिमार्फत समाज परिवर्तन गर्ने अठोटका साथ चुनावी मैदानमा उभिएकी हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bimala-is-preparing-for-her-journey-to-parliament-from-foreign-employment-57-81.html?click_from=just_in",
       "image_url": ""
     }
   ]
