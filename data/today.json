@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-24T08:36:01.992909",
+  "scraped_at": "2026-01-24T12:56:16.854551",
   "date": "2026-01-24",
-  "total_articles": 45,
+  "total_articles": 46,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -367,6 +367,14 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/money/2026/01/24/gold-soars-past-rs300-000-per-tola",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gold-1769218875.jpg&w=300&height=200"
+    },
+    {
+      "title": "Snowfall blankets high hills of Karnali and Sudurpaschim",
+      "summary": "First snowfall of the year hits upper regions from Friday night, bringing cold but raising hopes for winter crops.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/24/snowfall-blankets-high-hills-of-karnali-and-sudurpaschim-farmers-upbeat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/100022485424120260455141000x0-1769236709.jpg&w=300&height=200"
     }
   ]
 }
