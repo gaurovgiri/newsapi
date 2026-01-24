@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-24T04:40:07.760538",
+  "scraped_at": "2026-01-24T08:36:01.992909",
   "date": "2026-01-24",
-  "total_articles": 43,
+  "total_articles": 44,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -351,6 +351,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/5-million-ballot-papers-for-proportional-representation-yet-to-be-printed-18-37.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Gold soars past Rs300,000 per tola",
+      "summary": "Price of the metal hit a historic high in Nepal, driven by geopolitical tensions, currency volatility and strong domestic demand, while silver also rallies as supply tightens.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/24/gold-soars-past-rs300-000-per-tola",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gold-1769218875.jpg&w=300&height=200"
     }
   ]
 }
