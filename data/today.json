@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-24T02:12:14.947045",
+  "scraped_at": "2026-01-24T04:40:07.760538",
   "date": "2026-01-24",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/manang-shocked-by-satdobato-br-74-92.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "प्रमुख सांसद बन्ने दौडमा, एक्लै भयो टीकापुर नगरपालिका",
+      "summary": "प्रमुख सांसद बन्ने दौडमा, एक्लै भयो टीकापुर नगरपालिका",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12078",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pramukha-bihin-tikapur___-1769222990.jpg"
+    },
+    {
+      "title": "र म्यानुफ्याक्चरर्स एशेसिएसन अफ नेपालको निर्वाचन सम्पन्न, सुरज बन्जाडे अध्यक्षमा निर्वाचित",
+      "summary": "र म्यानुफ्याक्चरर्स एशेसिएसन अफ नेपालको निर्वाचन सम्पन्न, सुरज बन्जाडे अध्यक्षमा निर्वाचित",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12071",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/WhatsApp-Image-2026-01-23-at-11.01.22-1769157951.jpeg"
+    },
+    {
+      "title": "Adult inmates to be separated from juvenile homes",
+      "summary": "Move follows violence in Bhaktapur correction centre that left eight juvenile offenders injured.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/24/adult-inmates-to-be-separated-from-juvenile-homes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/124-1769218660.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal signs LEAF Coalition deal that could bring up to $55 million in climate finance",
+      "summary": "Landmark agreement makes Nepal the first Asian country to access LEAF funding, rewarding decades of community-led forest conservation and emissions reductions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/24/nepal-signs-leaf-coalition-deal-that-could-bring-up-to-55-million-in-climate-finance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/leaf-1769219344.jpg&w=300&height=200"
+    },
+    {
+      "title": "Candidate tally drops to 3,406",
+      "summary": "81 either withdrew or were disqualified by poll body.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/23/final-candidate-count-drops-to-3-406-after-withdrawals-cancellations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1769160508.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali Congress names Gagan Thapa its PM candidate",
+      "summary": "Thapa, the new president of the party, pledges reforms, inclusiveness, and united push into March 5 parliamentary elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/24/nepali-congress-names-gagan-thapa-its-pm-candidate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/miscellaneous/11-1769224106.jpg&w=600&height=400"
+    },
+    {
+      "title": "At Taza Treats, Syrian sweets find a Nepali home",
+      "summary": "Parties have failed their constitutional duty to include an adequate number of women in their FPTP lists.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/24/at-taza-treats-syrian-sweets-find-a-nepali-home",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/lifestyle/Foodreviewmain-1769221551.jpg&w=400&height=267"
+    },
+    {
+      "title": "Finding magic in the mundane",
+      "summary": "Organisers said their demands included legal accountability for the ICE agent who shot dead Renee Good, a US citizen, in her car this month as she monitored ICE activities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/24/finding-magic-in-the-mundane",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/book-1769221308.jpg&w=400&height=267"
+    },
+    {
+      "title": "What makes chiuri butter a skincare essential",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/23/what-makes-chiuri-butter-a-skincare-essential",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/spo-1769221087.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुरक्षा निकायको धर्म मुलुक र जनताको सर्वोत्तम हित गर्नु हो: राष्ट्रपति पौडेल",
+      "summary": "समानुपातिकतर्फको मतपत्र छपाइ सम्पन्न भए लगत्तै प्रत्यक्ष निर्वाचन प्रणालीतर्फको मतपत्र छपाइ सुरु हुने आयोगले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/5-million-ballot-papers-for-proportional-representation-yet-to-be-printed-18-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
