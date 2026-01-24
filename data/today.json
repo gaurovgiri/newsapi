@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-24T16:33:57.329336",
+  "scraped_at": "2026-01-24T20:30:01.614830",
   "date": "2026-01-24",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -375,6 +375,54 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/01/24/snowfall-blankets-high-hills-of-karnali-and-sudurpaschim-farmers-upbeat",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/100022485424120260455141000x0-1769236709.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal women register first win over a Test nation defeating Zimbabwe by six wickets in T20 World Cup Qualifier",
+      "summary": "Puja Mahato became the first Nepali woman cricketer to score three half-centuries, while Sita Rana Magar became the third Nepali woman cricketer to reach 1,000 T20I runs in the win over Zimbabwe.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/01/24/nepal-register-first-win-over-test-nation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/61960026213530681001829006096955217471312887n-1769255248.jpg&w=300&height=200"
+    },
+    {
+      "title": "ओली जिताउन धिमाल निर्वाचन परिचालन समिति गठन",
+      "summary": "आर्थिक वर्ष २०८१/८२ मा नेपालमा प्रतिएक लाख जनसङ्ख्यामा नयाँ कुष्ठरोगीको दर ८ दशमलव १६ रहेको छ भने मधेस प्रदेशमा यो दर १३ दशमलव ६७ रहेको छ, जुन राष्ट्रिय औसतभन्दा बढी हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/awareness-needed-to-reduce-the-number-of-leprosy-patients-to-zero-76-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746706289_kusta-480x320.jpg"
+    },
+    {
+      "title": "चुनावी ‘इपिसेन्टर’ झापाः पाँच क्षेत्रमा को-को प्रतिस्पर्धी ?",
+      "summary": "काठमाडौं महानगरपालिकाले नदीको दायाँबायाँ क्षेत्रमा भवन निर्माणसम्बन्धी मापदण्डका विषयमा सर्वोच्च अदालतको आदेश र निर्णयलाई सम्मान गर्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/metropolitan-city-respects-court-order-regarding-construction-of-buildings-on-both-sides-of-river-77-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764850035_sunita-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभामा संयुक्त उम्मेदवार विजयी बनाउन एमाले संसदीय दलको अपिल",
+      "summary": "एमाले अध्यक्ष केपी शर्मा ओली लगायतका उम्मेद्धवारलाई जिताउन निर्वाचन परिचालन समितिको सहसंयोजक खड्ग बहादुर धिमाललाई चयन गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dhimal-election-mobilization-committee-formed-to-win-oli-17-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769268674_Dhimal-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा सदस्य निर्वाचनः १७ पदका लागि भोलि मतदान",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य नर्वाचनका लागि झापाका पाँच वटा निर्वाचन क्षेत्रमा ८९ जनाले उम्मेदवार मैदानमा छन्। ती मध्ये १७ जना स्वतन्त्र उम्मेदवार रहेका छन् भने बाँकी ७२ जना दलका उम्मेदवार छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-epicenter-jhapa-who-is-competing-in-the-five-constituencies-67-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769270576_22-480x320.jpg"
+    },
+    {
+      "title": "पूर्वाग्रह र प्रतिशोधको कुनै स्थान छैन: गोकुल बास्कोटा",
+      "summary": "आर्थिक वर्ष २०८१/८२ मा नेपालमा प्रतिएक लाख जनसङ्ख्यामा नयाँ कुष्ठरोगीको दर ८ दशमलव १६ रहेको छ भने मधेस प्रदेशमा यो दर १३ दशमलव ६७ रहेको छ, जुन राष्ट्रिय औसतभन्दा बढी हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/awareness-needed-to-reduce-the-number-of-leprosy-patients-to-zero-76-41.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
