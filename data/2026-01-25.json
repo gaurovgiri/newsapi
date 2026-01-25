@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-25T12:58:07.669569",
+  "scraped_at": "2026-01-25T16:34:57.748516",
   "date": "2026-01-25",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -391,6 +391,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/easy-to-win-hard-to-survive-br-61-94.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769317645_dd  need 52-480x320.jpg"
+    },
+    {
+      "title": "Supreme Court refuses interim order on Resham Chaudhary’s candidacy",
+      "summary": "Top court seeks written response from Election Commission, bars him from contesting Kailali-1 poll.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/25/supreme-court-refuses-interim-order-on-resham-chaudhary-s-candidacy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/reshamchaudhary-1769342636.gif&w=300&height=200"
+    },
+    {
+      "title": "लामिछानेविरुद्धको मुद्दामा थप प्रमाण झिकाउन आदेश",
+      "summary": "सर्वोच्च अदालतले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको सङ्गठित अपराध र सम्पत्ति शुद्धीकरणसम्बन्धी संशोधनविरुद्धको मुद्दामा थप प्रमाण झिकाउन आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/order-to-collect-additional-evidence-in-the-case-against-lamichhane-83-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767178663_Rabi_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "नेपालीकै चाहना बमोजिम जापानको निरन्तर सहयोग रहन्छ : राजदूत माएदा",
+      "summary": "नेपालका लागि जापानी राजदूत तोरु माएदाले नेपाल र जापानबीचको दीर्घकालीन मैत्रीपूर्ण सम्बन्धलाई उजागर गर्दै जापानले नेपाललाई प्राविधिक, मानव संसाधन विकास, शिक्षा, सञ्चार, सडक तथा कृषि क्षेत्रमा नेपालीकै चाहना बमोजिम निरन्तर सहयोग गर्ने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/japan-s-continued-support-will-be-in-line-with-nepali-people-s-wishes-ambassador-maeda-94-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769351589_pic-480x320.jpg"
+    },
+    {
+      "title": "परिवर्तन खोज्दै रौतहटका मतदाता",
+      "summary": "लोकतन्त्र प्राप्तिपछि प्रतिनिधि सभा निर्वाचनमा एउटै अनुहारलाई पटक पटक उम्मेदवारको रुपमा देखेका मतदाता यस वर्ष भने परिवर्तन चाहेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rautahat-voters-seek-change-84-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769351497_Rautahat-480x320.jpg"
+    },
+    {
+      "title": "बालेनप्रति भण्डारीको कटाक्ष : देशको नेतृत्व गर्न चाहने व्यक्ति प्रश्न-उत्तरबाट उम्किनु हुँदैन",
+      "summary": "नेपाली कांग्रेसका चन्द्र भण्डारीले रास्वपाका वरिष्ठ नेता बालेन्द्र साह (बालेन) प्रति कटाक्ष गरेका छन‍्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bhandari-s-sarcasm-towards-balen-a-person-who-wants-to-lead-the-country-should-not-avoid-questions-and-answers-72-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769350309_chandra balen-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभामा कोशीबाट पोर्तेल र मेचे निर्वाचित",
+      "summary": "सर्वोच्च अदालतले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको सङ्गठित अपराध र सम्पत्ति शुद्धीकरणसम्बन्धी संशोधनविरुद्धको मुद्दामा थप प्रमाण झिकाउन आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/order-to-collect-additional-evidence-in-the-case-against-lamichhane-83-86.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
