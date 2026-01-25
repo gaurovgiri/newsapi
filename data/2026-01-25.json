@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-25T04:56:01.556477",
+  "scraped_at": "2026-01-25T08:36:33.027772",
   "date": "2026-01-25",
-  "total_articles": 39,
+  "total_articles": 47,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -318,6 +318,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/lyricist-lalita-doshi-s-ayo-naya-paluva-released-br-46-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Private sector urges parties to put jobs and economy at the heart of election manifestos",
+      "summary": "With elections approaching, business leaders warn that power politics still dominates party agendas, while urgent issues of livelihoods are ignored.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/24/private-sector-urges-parties-to-put-jobs-and-economy-at-the-heart-of-election-manifestos",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/money-1769302044.jpg&w=300&height=200"
+    },
+    {
+      "title": "Older candidates dominate despite youth-heavy electorate",
+      "summary": "While young voters make up over half of Nepal’s electorate, traditional parties have largely nominated senior politicians, though newer parties show greater youth representation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/25/older-candidates-dominate-despite-youth-heavy-electorate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1769321150.jpg&w=300&height=200"
+    },
+    {
+      "title": "KP Oli ready for public debate as election heats up, but Balen Shah refuses to share stage",
+      "summary": "Balen Shah says appearing on stage with Oli would suggest his complicity in killings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/25/kp-oli-ready-for-public-debate-as-election-heats-up-but-balen-shah-refuses-to-share-stage",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OlivsBalen-1769316825.jpg&w=600&height=400"
+    },
+    {
+      "title": "गण्डकी राष्ट्रिय सभा चुनाव : मतदान जारी, ५६ सांसदसहित २१८ ले मत हाले",
+      "summary": "देशभर आगामी फागुन २० गतेदेखि राष्ट्रियसभामा १७सिट (सदस्य) रिक्त हुँदैछ। रिक्त १८ पदमध्ये कोशी प्रदेशमा खस आर्यतर्फको एउटा पदमा निर्विरोध भएको थियो। बाँकी १७ पदका लागि आज निर्वाचन भइरहेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-national-assembly-election-voting-underway-218-people-including-56-mps-cast-their-votes-13-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769327087_Gandaki CM-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम राष्ट्रिय सभा निर्वाचन : मतदान जारी, १८६ मत खस्यो",
+      "summary": "पूर्वाधार विकास कार्यालयका अनुसार दोबिल्ला-कटुवाचौपारी-मुडिकुवा-फलेवास-ढिक १४ किलोमिटर, हिमालय-विपाङ-नुवार-खनियाँघाट आठ किलोमिटरसहित जिल्लाका ग्रामीण भेगका सडक कालोपत्र भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/204-km-of-roads-blacktopped-in-eight-years-50-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769326320_Kalopatre Sadak-480x320.jpg"
+    },
+    {
+      "title": "मधेश प्रदेश : राष्ट्रिय सभाका चार सदस्यका लागि मतदान जारी",
+      "summary": "नेपाली कांग्रेस र एमालेको गठबन्धनमा महिलातर्फ एमालेकी लिला कुमारी भण्डारी र गरी नेपाली कम्युनिस्ट पार्टीका तर्फबाट रोजी बस्नेत उम्मेदवार छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/far-western-national-assembly-election-186-votes-cast-so-far-32-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769325654_Sudur-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिममा दुई स्वतन्त्रसहित १८ महिला उम्मेदवार (नामसहित)",
+      "summary": "अन्य समूहमा कांग्रेस एमालेको तर्फबाट जसपा नेपालका महन्त ठाकुर र नेकपा लक्ष्मण पौडेल उम्मेदवार रहेका छन्। प्रदेशसभा सदस्य र स्थानीय तहका प्रमुख तथा उपप्रमुखको मतभार फरक भएकाले छुट्टाछुट्टै मतदान केन्द्रको व्यवस्था मिलाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-province-voting-underway-for-four-members-of-the-national-assembly-71-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769323535_Madesh -480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रलक्षित ईःईको व्यंग्य : ‘डिबेट’ नगर्ने भावी प्रधानमन्त्रीको चुनावी रणनीति सही हो",
+      "summary": "देशभर आगामी फागुन २० गतेदेखि राष्ट्रियसभामा १७सिट (सदस्य) रिक्त हुँदैछ। रिक्त १८ पदमध्ये कोशी प्रदेशमा खस आर्यतर्फको एउटा पदमा निर्विरोध भएको थियो। बाँकी १७ पदका लागि आज निर्वाचन भइरहेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-national-assembly-election-voting-underway-218-people-including-56-mps-cast-their-votes-13-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
