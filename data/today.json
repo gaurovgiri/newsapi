@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-25T02:33:54.128579",
+  "scraped_at": "2026-01-25T04:56:01.556477",
   "date": "2026-01-25",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/awareness-needed-to-reduce-the-number-of-leprosy-patients-to-zero-76-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "National Assembly polls begin across provinces",
+      "summary": "Voting is underway to fill 17 upper house seats as terms of 19 members near expiry, with one candidate already elected unopposed and one member to be nominated by the President.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/25/national-assembly-polls-begin-across-provinces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SASURKHETIMG85469-1769313825.jpg&w=600&height=400"
+    },
+    {
+      "title": "उदयपुर १ःकांग्रेस किल्लामा वामपन्थी दलको चुनौती",
+      "summary": "बालबालिकाको मनोविज्ञान, कल्पनाशीलता र सकारात्मक सोचलाई केन्द्रमा राखेर तयार गरिएको यो गीतले नयाँ सुरुवात, आशा र उत्साहको सन्देश बोकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/lyricist-lalita-doshi-s-ayo-naya-paluva-released-br-46-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769316564_head need 52-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा : १७ सिटका लागि देशभर मतदान सुरु",
+      "summary": "विश्वमा महिलालाई मतको अधिकार उन्नाइसौं शताब्दीबाट दिइएको पाइन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/why-and-what-kind-of-election-br-84-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769314944_pi 56-480x320.jpg"
+    },
+    {
+      "title": "भाद्र २३-२४ को ‘कहालीलाग्दो नाटक’ कसले खेल्यो ? कांग्रेस नेताले उठाए १५ बुँदे गम्भीर सवाल",
+      "summary": "ऐतिहासिक सिक्काबारे ‘द इम्पोर्टेन्स अफ दाम इन दी क्वाइनेज अफ नेपाल’ नामक पुस्तक लोकार्पण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/book-on-old-coins-launched-br-20-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769314522_feed  need-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा निर्वाचनः दुई सिटका लागि बागमती र गण्डकीमा छ/छ जना प्रतिस्पर्धामा",
+      "summary": "साबुन उद्योग नजिकै तयारी साबुन र कच्चा पदार्थहरू राख्न निर्माण गरिएको गोदाममा गए राति अचानक विद्युत् सर्ट भई आगलागी हुँदा गोदामभित्र रहेका सम्पूर्ण साबुन, कच्चा पदार्थ, प्याकिङ गर्ने समान जलेर नष्ट भएको उद्योगका व्यवस्थापक प्रकाश बुढाथोकीले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-at-mahashakti-soap-factory-40-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "‘पब्लिक डिबेट’का लागि तयार ओली भन्छन् : देश जलाउने र बनाउने पक्षबिच बहस जरुरी",
+      "summary": "बालबालिकाको मनोविज्ञान, कल्पनाशीलता र सकारात्मक सोचलाई केन्द्रमा राखेर तयार गरिएको यो गीतले नयाँ सुरुवात, आशा र उत्साहको सन्देश बोकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/lyricist-lalita-doshi-s-ayo-naya-paluva-released-br-46-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
