@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-25T08:36:33.027772",
+  "scraped_at": "2026-01-25T12:58:07.669569",
   "date": "2026-01-25",
-  "total_articles": 47,
+  "total_articles": 48,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -383,6 +383,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/gandaki-national-assembly-election-voting-underway-218-people-including-56-mps-cast-their-votes-13-80.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "बाँके निर्वाचन क्षेत्र-१: जित्न सजिलो, टिक्न कठिन",
+      "summary": "बाँके निर्वाचन क्षेत्र नं १ मा चुनाव जितेपछि ढुक्क हुने छुट कसैलाई छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/easy-to-win-hard-to-survive-br-61-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769317645_dd  need 52-480x320.jpg"
     }
   ]
 }
