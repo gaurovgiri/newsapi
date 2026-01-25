@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-25T16:34:57.748516",
+  "scraped_at": "2026-01-25T20:32:26.658346",
   "date": "2026-01-25",
-  "total_articles": 55,
+  "total_articles": 56,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -447,6 +447,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/order-to-collect-additional-evidence-in-the-case-against-lamichhane-83-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "New face of old money: Why Akshay Golyan believes he’s earned his inheritance",
+      "summary": "At 37, the new chairman of Golyan Group is restructuring one of Nepal’s oldest conglomerates while defending the legitimacy of private enterprise itself.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/profiles/2026/01/25/new-face-of-old-money-why-akshay-golyan-believes-he-s-earned-his-inheritance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/golyan-1769340789.jpg&w=300&height=200"
     }
   ]
 }
