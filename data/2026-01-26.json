@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-26T13:05:14.668298",
+  "scraped_at": "2026-01-26T16:44:36.263475",
   "date": "2026-01-26",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/after-reaching-sarlahi-gagan-said-i-came-to-be-a-servant-not-to-take-photos-and-wave-23-18.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "New faces lock horns in Humla parliamentary race",
+      "summary": "Humla has 60 polling stations and 64 polling centres, with a total of 34,502 registered voters.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/26/new-faces-lock-horns-in-humla-parliamentary-race",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/untitleddesign3626120260517191000x0-1769434906.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal women crash out of T20 World Cup qualifier after heavy loss to Scotland",
+      "summary": "Nepal were knocked out after a 72-run loss to Scotland in their final Group B match at Kirtipur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/01/26/nepal-women-crash-out-of-t20-world-cup-qualifier-after-heavy-loss-to-scotland",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/61849350314421133674952491846856392348977639n-1769408484.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal heads to polls amid shifting voter priorities",
+      "summary": "Once driven by ideologies, daily concerns now dominate Nepal’s elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/26/nepal-heads-to-polls-amid-shifting-voter-priorities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb17-1769443863.jpg&w=600&height=400"
+    },
+    {
+      "title": "संसद् भवन तयार गर्न प्रम कार्यालयलाई चिठी",
+      "summary": "महिला पर्यटन व्यवसायीको क्षमता अभिवृद्धिका लागि आजदेखि पोखरामा तीन दिने तालिम आयोजना गरिएको छ । पर्यटन व्यवसायी महिला सङ्घ, नेपाल (टेवान) को आयोजना एवं नेपाल पर्यटन बोर्डको सहयोगमा सो तालिम आयोजना गरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/training-to-enhance-the-capacity-of-women-tourism-entrepreneurs-88-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769345884_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "पूर्वराजा ज्ञानेन्द्र शाहले गरे जानकी मन्दिरमा पूजापाठ",
+      "summary": "मोटरसाइकल चोरी गर्ने एक जना पक्राउ परेका छन् । काठमाडौं महानगरपालिका ८ पिङ्गलास्थानबाट चोरीको मोटरसाइकलसहित एक जनालाई ट्राफिक प्रहरीले नियन्त्रणमा लिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/a-man-was-arrested-for-stealing-a-motorcycle-23-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "झापा-२ मा एमालेले बनायो निर्वाचन परिचालन समिति",
+      "summary": "संसद् सचिवालयले २०८२ फागुन २१ गते हुने प्रतिनिधिसभाको निर्वाचनपछि तत्काल बैठक सञ्चालन गर्न संसद् भवन तथा अन्य आवश्यक व्यवस्था गर्न प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयका मुख्यसचिवलाई पत्राचार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/letter-to-the-prime-minister-s-office-to-prepare-the-parliament-building-69-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769438178_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "‘घाइते चुनाव’ ले देशलाई निकास दिन्छ भन्ने लाग्दैन, त्यसैले उम्मेदवार बनिनँ: झलनाथ खनाल",
+      "summary": "यही माघ १७ गतेसम्म काठमाडौंको भृकुटीमण्डपमा सञ्चालन हुने यस कार्निभलमार्फत ग्राहकले बजाजका नयाँ पुस्ताका मोटरसाइकल आकर्षक अफरसहित खरिद गर्न सक्ने कम्पनीले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/bajaj-next-gen-maha-exchange-carnival-attractive-exchange-offer-11-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769437912_AJ-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगको ‘कल सेन्टर’ मा मतदाता नामावलीसम्बन्धी जिज्ञासा धेरै",
+      "summary": "महिला पर्यटन व्यवसायीको क्षमता अभिवृद्धिका लागि आजदेखि पोखरामा तीन दिने तालिम आयोजना गरिएको छ । पर्यटन व्यवसायी महिला सङ्घ, नेपाल (टेवान) को आयोजना एवं नेपाल पर्यटन बोर्डको सहयोगमा सो तालिम आयोजना गरिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/training-to-enhance-the-capacity-of-women-tourism-entrepreneurs-88-33.html?click_from=just_in",
       "image_url": ""
     }
   ]
