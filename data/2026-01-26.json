@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-26T08:44:18.105541",
+  "scraped_at": "2026-01-26T13:05:14.668298",
   "date": "2026-01-26",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -334,6 +334,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-finally-started-picking-oranges-after-magh-started-70-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सर्लाही पुगेर गगनले भने- म फोटो खिचाउन र हात हल्लाउन होइन, सेवक बन्न आएको हुँ",
+      "summary": "नेपाली कांग्रेसका सभापति एवं सर्लाही क्षेत्र नम्बर–४ का प्रतिनिधि सभा सदस्य उम्मेदवार गगनकुमार थापाले आफू सर्लाहीमा फोटो खिचाउन र हात हल्लाउन मात्र नभई यहाँका जनताको सेवक बन्न आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-reaching-sarlahi-gagan-said-i-came-to-be-a-servant-not-to-take-photos-and-wave-23-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769431156_gagan_thapa_sarlahi-480x320.jpg"
+    },
+    {
+      "title": "चुनावी चर्चाः सिरहा ३ मा संगठित मतलाई स्थिर राख्ने कसरतमा परम्परागत दल",
+      "summary": "चारैतिर ‘बालेन लहर’ चलिरहँदा परम्परागत दललाई संगठित मत जोगाउन सकस परिरहेको छ । तर, यो क्षेत्रमा पुराना दलले आफ्नो संगठित मतमाथि नियन्त्रण कायम राखेको पाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-talk-old-parties-struggle-to-stabilize-organized-vote-in-siraha-3-52-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769422864_Siraha 3-480x320.jpg"
+    },
+    {
+      "title": "स्वास्थ्यमन्त्री गौतमले गरिन् जिपी कोइराला उपचार केन्द्रको निरीक्षण",
+      "summary": "सुन्तलाको प्रवद्र्धनका लागि इच्छाकामना गाउँपालिकाले सुन्तला महोत्सव आयोजना गरे पनि उत्पादनमा कमी देखिएको छ। कृषि अर्थ विज्ञ पौडेलले पुराना बोट, रोग, बगैँचा व्यवस्थापनमा कम चाँसो र जलवायु परिवर्तनका कारण उत्पादन घटेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/orange-production-in-chitwan-drops-by-10-percent-56-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769431076_Orange-480x320.jpg"
+    },
+    {
+      "title": "सिन्धुलीका २५ मतदानस्थल अति संवेदनशील, सुरक्षा निगरानी बढाइयो",
+      "summary": "स्वास्थ्य तथा जनसङ्ख्यामन्त्री डा. सुधा शर्मा गौतमले जिल्लाको शुक्लागण्डकी नगरपालिका–५ बेलचौतारास्थित जिपी कोइराला श्वासप्रश्वास उपचार केन्द्रको आज निरीक्षण गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/health-minister-gautam-inspects-gp-koirala-treatment-center-75-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769430903_sudha-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा निर्वाचनः जनप्रतिनिधिकै मत बदर",
+      "summary": "नेपाली कांग्रेसका सभापति एवं सर्लाही क्षेत्र नम्बर–४ का प्रतिनिधि सभा सदस्य उम्मेदवार गगनकुमार थापाले आफू सर्लाहीमा फोटो खिचाउन र हात हल्लाउन मात्र नभई यहाँका जनताको सेवक बन्न आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-reaching-sarlahi-gagan-said-i-came-to-be-a-servant-not-to-take-photos-and-wave-23-18.html?click_from=just_in",
       "image_url": ""
     }
   ]
