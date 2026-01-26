@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-26T02:32:56.131081",
+  "scraped_at": "2026-01-26T04:59:18.482410",
   "date": "2026-01-26",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/carney-says-no-plans-for-free-trade-with-china-after-trump-s-100-tariff-threat-47-30.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Bear attacks and ageing rural communities",
+      "summary": "What lies ahead is a battle between the decadent past and the burgeoning future.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/25/bear-attacks-and-the-problem-of-aging-rural-communities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/4S53XL26B5LWTBDAX3VECYALOU-1769391710.jpg&w=400&height=267"
+    },
+    {
+      "title": "Budget-friendly neighbourhoods for Nepali students in Beijing",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/01/18/budget-friendly-neighbourhoods-for-nepali-students-in-beijing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1769388141.jpg&w=400&height=267"
     }
   ]
 }
