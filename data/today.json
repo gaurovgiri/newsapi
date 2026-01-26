@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-26T04:59:18.482410",
+  "scraped_at": "2026-01-26T08:44:18.105541",
   "date": "2026-01-26",
-  "total_articles": 36,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -295,6 +295,54 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/nepali-diaspora/2026/01/18/budget-friendly-neighbourhoods-for-nepali-students-in-beijing",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1769388141.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal and Saudi Arabia sign labour agreement to protect migrant workers",
+      "summary": "Deal aims to ensure transparent recruitment and safeguard worker rights.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/01/26/nepal-and-saudi-arabia-sign-labour-agreement-to-protect-migrant-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bb14563d0b234a63beac547748870d7526120260203041000x0-1769398512.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेन्द्रलक्षित एमाले महासचिवको कटाक्ष : देश चलाउँछु भन्नेले प्रश्नसँग भाग्नु हुँदैन",
+      "summary": "म्याग्दीको अन्नपूर्ण गाउँपालिका–७ दोसल्लेका किसानले बढीभन्दा मूल्य लिन माघ लागेपछि सुन्तला टिपेर बजार पठाउन थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-finally-started-picking-oranges-after-magh-started-70-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769416442_sun 56-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन नजिकिँदै जाँदा उत्साहित छन् नयाँ मतदाता",
+      "summary": "अचानक मध्यराततिर बेहुलीलाई अचानक पेटमा गम्भीर दुखाइ भयो, जसले घरमा त्रासमा वातावरण बन्यो। परिवारले तत्काल महिला डाक्टरलाई बोलाएर प्राथमिक उपचार गर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/others/when-the-bride-gave-birth-on-her-honeymoon-br-29-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769415521_India News (1)-480x320.jpg"
+    },
+    {
+      "title": "पार्टी सञ्‍चालनमा खनालको असन्तुष्टि: दाहाल र नेपालले एकलौटी गरे",
+      "summary": "भारतमा दूधको मूल्य बढेपछि यहाँको किसानले बजार पाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepali-farmers-find-market-after-milk-prices-rise-in-india-br-63-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769414677_new mi-480x320.jpg"
+    },
+    {
+      "title": "झापा-५ : श्रीमानका लागि भोट माग्दै बालेन्द्रपत्नी सविना",
+      "summary": "नेकपा एमालेका महासचिव शंकर पोखरेलले रास्वपाका वरिष्ठ नेता बालेन्द्र शाह सार्वजनिक बहसमा जान्न भन्नु लोकतान्त्रिक चरित्र नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-lakshit-uml-general-secretary-s-sarcasm-those-who-claim-to-run-the-country-should-not-run-away-from-questions-78-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769414184_Balen vs Shankar (1)-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्री शर्मासँग एनआरएनए प्रतिनिधिमण्डलको भेट : १२औँ महाधिवेशनबारे चर्चा",
+      "summary": "म्याग्दीको अन्नपूर्ण गाउँपालिका–७ दोसल्लेका किसानले बढीभन्दा मूल्य लिन माघ लागेपछि सुन्तला टिपेर बजार पठाउन थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-finally-started-picking-oranges-after-magh-started-70-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
