@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-26T16:44:36.263475",
+  "scraped_at": "2026-01-26T20:36:19.373417",
   "date": "2026-01-26",
-  "total_articles": 55,
+  "total_articles": 59,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -447,6 +447,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/training-to-enhance-the-capacity-of-women-tourism-entrepreneurs-88-33.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "कांग्रेस हराउने शाही राष्ट्रिय सभामा",
+      "summary": "शाही कांग्रेसलाई पटकपटक धोका दिएको आरोप लाग्ने नेताका रूपमा पनि चिनिन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-loses-laughter-59-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769442949_Jumla111-480x320.jpg"
+    },
+    {
+      "title": "विदेशी दलालको कुरा सुनेर ला'सको राजनीति नगरौं: बस्नेत",
+      "summary": "नेकपा एमालेका सचिव महेश बस्नेतले भदौ २३ गतेको घटनालाई लिएर लासको राजनीति नगर्न चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-not-play-dead-politics-by-listening-to-foreign-brokers-basnet-58-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768211911_mahesh_-480x320.jpg"
+    },
+    {
+      "title": "लोकतन्त्र जोखिममा छ: पूर्वगृहमन्त्री लेखक",
+      "summary": "९ सय ७४ जनाको कोटा तोकिएको जुम्लामा १ हजार ४ सय २७ जना निर्वाचन प्रहरी उत्तीर्ण भएपछि ४ सय ५३ जनालाई वैकल्पिक (रिजर्भ) जनशक्तिका रूपमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-police-in-jumla-exceed-demand-453-alternates-43-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769442030_Myadi-480x320.jpg"
+    },
+    {
+      "title": "‘बालेनको राजीनामासँगै हटाइयो’ भनिएका कुर्सी चिटिक्क परेर फर्किए",
+      "summary": "नेपालमा रहेका भारतीय समुदाय र भारतका मित्रहरुको सहभागितामा आज काठमाडौंस्थित भारतीय राजदूतावासमा भारतको ७७ औं गणतन्त्र दिवस मनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/india-s-77th-republic-day-celebrated-at-the-indian-embassy-52-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769441844_Untitled-1-480x320.jpg"
     }
   ]
 }
