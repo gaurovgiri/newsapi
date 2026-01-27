@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-27T08:43:03.646988",
+  "scraped_at": "2026-01-27T13:07:48.333788",
   "date": "2026-01-27",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/194-polling-stations-in-dhanusha-are-highly-sensitive-95-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "India, EU reach landmark trade deal, tariffs to be slashed on most goods",
+      "summary": "Trade between India and the EU stood at $136.5 billion in the fiscal year through March 2025, compared to $132 billion of trade between India and US, and $128 billion between India and China.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/27/india-eu-reach-landmark-trade-deal-tariffs-to-be-slashed-on-most-goods",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EUU-1769515446.jpg&w=300&height=200"
+    },
+    {
+      "title": "कुलमान भन्छन्- मलाई प्रधानमन्त्री बन्न सहयोग गर्नुस्, देशको कायापलट गर्छु",
+      "summary": "प्रति १० हजारमा १ प्रतिशतभन्दा कम हुनु पर्नेमा कपिलवस्तुमा भने अझै १ दशमलव ६ प्रतिशतले कुष्ठरोगी फेला परेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/leprosy-eradication-becoming-challenging-39-new-patients-in-kapilvastu-in-6-months-26-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769518412_Kusta rogi -480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले फागुन पहिलो साता ‘वाचापत्र’ सार्वजनिक गर्ने, मस्यौदा कार्यदलको नेतृत्व डा. वाग्लेलाई",
+      "summary": "उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले मुलुकको कायापलट गर्नका लागि आफूलाई प्रधानमन्त्री बन्न सहयोग गर्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kulman-says-help-me-become-prime-minister-i-will-transform-the-country-27-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768380907_kulman_ghising-480x320.jpg"
+    },
+    {
+      "title": "कारागारमा मानव अधिकारको प्रत्याभूतिमा सम्झौता नगर्न गृहमन्त्रीको निर्देशन",
+      "summary": "पार्टीका उपसभापति डा. स्वर्णिम वाग्लेको नेतृत्वमा गठित ‘वाचापत्र मस्यौदा कार्यदल’ ले अहिले मस्यौदा लेखनको काम गरिरहेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-to-make-manifesto-public-in-first-week-of-falgun-draft-task-force-headed-by-dr-wagle-28-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763457108_swarnim_wagle-480x320.jpg"
+    },
+    {
+      "title": "सर्लाहीमा गगनको क्रेज(तस्बिरहरू)",
+      "summary": "तनहुँको आँबुखैरेनी गाउँपालिका–५ दोन्द्राङवेसीस्थित त्रिशूली नदीमा किनारमा भेटिएको गणपति डिलक्स बसको उत्खननकार्य आजदेखि स्थगित गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/excavation-of-ganapati-deluxe-bus-postponed-75-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769432821_simtal-480x320.jpg"
+    },
+    {
+      "title": "रविको मुद्दा फिर्ता लिएको विषयमा बोल्दा युवराज सफल पक्राउ",
+      "summary": "प्रति १० हजारमा १ प्रतिशतभन्दा कम हुनु पर्नेमा कपिलवस्तुमा भने अझै १ दशमलव ६ प्रतिशतले कुष्ठरोगी फेला परेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/leprosy-eradication-becoming-challenging-39-new-patients-in-kapilvastu-in-6-months-26-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
