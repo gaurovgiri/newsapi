@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-27T04:52:50.341722",
+  "scraped_at": "2026-01-27T08:43:03.646988",
   "date": "2026-01-27",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/former-prison-officer-sentenced-for-having-sex-with-inmate-while-wearing-prison-uniform-57-57.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Poor waste management turns Pashupati area parking lot into a mess",
+      "summary": "Trash from pilgrims’ cooking and washing piles up as the Pashupati Area Development Trust finds it hard to enforce rules.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/kathmandu/2026/01/27/poor-waste-management-turns-pashupati-area-parking-lot-into-a-mess",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GARBAGE-1769480576.jpg&w=300&height=200"
+    },
+    {
+      "title": "Seven years on, fake rescue racket still flies in Nepal’s Himalayas",
+      "summary": "Police reopened old case files and arrested six top executives of helicopter rescue and trekking companies this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/27/seven-years-on-fake-rescue-racket-still-flies-in-nepal-s-himalayas",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/reshce-1769475146.jpg&w=600&height=400"
+    },
+    {
+      "title": "यस्तो छ बालेनको आजको 'अभिवादन अभियान' कार्यतालिका",
+      "summary": "जिल्ला प्रशासन कार्यालय धनुषाले यहाँका १९४ मतदानस्थल अतिसंवेदशनशील रहेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/194-polling-stations-in-dhanusha-are-highly-sensitive-95-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769502540_dhanusa-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक दललाई रक्षाको आग्रह : घोषणापत्र सार्वजनिक गरेर जनतासामु जवाफदेही बन्नुस्",
+      "summary": "निशाको परिवार तथा आफन्तजन निशाको शव ल्याउ, अस्पतालका मेडिकल सुपरिडेन्टेन्ट डा. रञ्जीत झा, अध्यक्ष रामनारायण मेहतालाई कारवाहीको माग गर्दै दिउँसो १ बजेदेखि राजमार्ग अवरुद्ध छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fact-revealed-that-bodies-were-exchanged-at-the-provincial-hospital-two-people-taken-into-custody-29-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769501788_Siraha News-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगले सोध्यो बालेन, महेश, हर्क र निकोलसलाई स्पष्टीकरण",
+      "summary": "यात्रा थप मर्यादित र भरपर्दो बनाउन चलाइएको अभियानमा दिउसै ७ जना चालकले मादक पदार्थ सेवन गरेको भेटिए पछि उनीहरूलाई नियन्त्रणमा लिई कारबाही गरिएको उनले बताए। पक्राउ परेको सात बिङगर चालक हुन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/action-taken-against-seven-drivers-for-drug-use-25-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769500544_Kapilbastu-480x320.jpg"
+    },
+    {
+      "title": "श्रम संस्कृतिको सरकार आएको दिन दीनदुखी, किसान, मजदुरको दिन फर्कनेछ : हर्क साम्पाङ",
+      "summary": "रास्वपाका वरिष्ठ नेता बालेन्द्र साह (बालेन) आज सुदूरपश्चमिम भ्रमणमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/this-is-balen-s-greeting-campaign-schedule-for-today-92-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769499405_balen pic-480x320.jpg"
+    },
+    {
+      "title": "दूतमार्ग निरीक्षणपछि प्रधानमन्त्रीको निर्देशन : धाार्मिक विश्वास र सम्पदालाई असर नपार्नू",
+      "summary": "जिल्ला प्रशासन कार्यालय धनुषाले यहाँका १९४ मतदानस्थल अतिसंवेदशनशील रहेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/194-polling-stations-in-dhanusha-are-highly-sensitive-95-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
