@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-27T16:39:37.400091",
+  "scraped_at": "2026-01-27T20:31:37.167576",
   "date": "2026-01-27",
-  "total_articles": 61,
+  "total_articles": 66,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -494,6 +494,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-s-commitment-on-27-points-71-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सर्वोच्चले भन्यो- संसद् पुनः स्थापनको मागमा २० गते पेसी तोकिएको होइन, हल्ला फैलाइयो",
+      "summary": "सर्वोच्च अदालतले संसद् पुनः स्थापना माग गर्दै दायर भएका रिट निवेदनमा २० गते पेसी तोकिएको भन्ने हल्ला सही नभएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-says-the-demand-for-the-restoration-of-parliament-was-not-scheduled-for-the-20th-but-rumors-were-spread-80-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760588843_supreme-480x320.jpg"
+    },
+    {
+      "title": "पश्चिम नेपालमा वर्षा र हिमपात सुरु, राति पूर्वतर्फ सर्दै आउने",
+      "summary": "आज साँझ प्रवेश गरेको पश्चिमी न्यून चापीय प्रणालीका कारण हाल पश्चिम नेपालबाट वर्षा र हिमपात सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rain-and-snowfall-begin-in-western-nepal-moving-eastward-at-night-29-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769265280_himpat-480x320.jpg"
+    },
+    {
+      "title": "रविको मुद्दामा सरकारी वकिलको अभियोजन कमजोर पार्ने प्रयास",
+      "summary": "सहकारी ठगीसहित संगठित अपराध र सम्पत्ति शुद्धीकरण मुद्दा लागेका राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको मुद्दा फिर्ता प्रक्रियाले देशभरका अन्य मुद्दा पनि प्रभावित हुने देखिएपछि सर्वोच्च अदालतले मुद्दा फिर्ता लिने निर्णयविरुद्धको रिटमा थप सक्कल प्रमाण कागजात झिकाउन आदेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/attempt-to-weaken-the-prosecution-of-the-government-attorney-in-ravi-s-case-br-23-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757763814_rabi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको प्राथमिकता सुशासन र विकास",
+      "summary": "नेपाली कांग्रेसले सुशासन र आर्थिक विकासलाई प्राथमिकतामा राखेर आगामी घोषणापत्र बनाउने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-priority-is-good-governance-and-development-57-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769091925_gagan-480x320.jpg"
+    },
+    {
+      "title": "अरुण तेस्रो आयोजनामा कार्यरत एक मजदुर मृत फेला",
+      "summary": "सर्वोच्च अदालतले संसद् पुनः स्थापना माग गर्दै दायर भएका रिट निवेदनमा २० गते पेसी तोकिएको भन्ने हल्ला सही नभएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-says-the-demand-for-the-restoration-of-parliament-was-not-scheduled-for-the-20th-but-rumors-were-spread-80-71.html?click_from=just_in",
       "image_url": ""
     }
   ]
