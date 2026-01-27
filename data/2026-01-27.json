@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-27T02:28:42.000801",
+  "scraped_at": "2026-01-27T04:52:50.341722",
   "date": "2026-01-27",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-loses-laughter-59-57.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Stumbling on measles",
+      "summary": "CAN plans to revamp women’s cricket by increasing investment and implementing a long-term plan under the tutelage of incumbent coach Harshal Jayant Pathak.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/01/27/stumbling-on-measles",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GARBAGE-1769480576.jpg&w=400&height=267"
+    },
+    {
+      "title": "Melting Himalaya, melting morality",
+      "summary": "Its resurgence is a setback for Nepal, and a gross neglect of public health.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/27/melting-himalaya-melting-morality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/20260126T224211Z4LYNXMPEM0P16VRTROPTP4USATRUMPTARIFFSSOUTHKOREAcopy-1769478450.jpg&w=400&height=267"
+    },
+    {
+      "title": "The promise of freelance",
+      "summary": "The climate crisis is not a technical problem, but the result of a greed-based development model.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/01/27/the-promise-of-freelance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "एक भोट राष्ट्रलाई, एक भोट हिन्दु शास्त्रलाई : खुश्बु ओली",
+      "summary": "सम्बन्ध नोभेम्बर ६, २०२४ मा फोन नम्बर आदानप्रदानबाट सुरु भई नोभेम्बर १६, २०२४ सम्म यौन सम्बन्धमा पुगेको थियो। विंकलेसले नोभाससँग रोमान्टिक रुचि देखाउँदै महँगो उपहारहरू प्रस्ताव गरेको मेसेजहरूबाट खुलेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-prison-officer-sentenced-for-having-sex-with-inmate-while-wearing-prison-uniform-57-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769487339_Jail UK-480x320.jpg"
+    },
+    {
+      "title": "दलहरू मतदाताको दैलोमा, पूर्वराजा मन्दिर दर्शनमा",
+      "summary": "रसुवा भन्सार कार्यालयले चालु आर्थिक वर्षको छ महिनामा रु एक अर्ब १६ करोड राजस्व सङ्कलन गरेको छ। हाल करिब दुई सयवटा मालवाहक कन्टेनरका सामग्रीको परीक्षण भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/rasuwa-customs-office-collects-rs-1-16-billion-in-revenue-67-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769486316_rasuwa-480x320.jpg"
+    },
+    {
+      "title": "द्वन्द्व फैलाउने होइन, समाधान खोज्ने नै राजनीति हो : चन्द्र भण्डारी",
+      "summary": "निर्वाचन आयो भन्दैमा वातावरणीय दायित्वबाट पन्छिन मिल्दैन। बरु, निर्वाचनलाई अवसरका रूपमा प्रयोग गर्दै दिगो विकास, हरित संस्कार र जिम्मेवार नागरिकको अभ्यास गर्नु आजको समयको माग हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/the-need-for-green-elections-from-voting-to-campaigning-28-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769485673_harit-480x320.jpg"
+    },
+    {
+      "title": "सिरहा-१ र २ मा विरासत जोगाउने कसरतमा पुराना दल",
+      "summary": "घोराही उपमहानरपालिका–१३ बडहराका जानकी चौधरीको मुख्य पेसा बधिया भालेपालन हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-rooster-is-being-castrated-through-surgery-18-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769485123_badhiya-480x320.jpg"
+    },
+    {
+      "title": "गृह सचिवको नेतृत्वमा केन्द्रीय सुरक्षा कमान्ड पोस्ट गठन",
+      "summary": "सम्बन्ध नोभेम्बर ६, २०२४ मा फोन नम्बर आदानप्रदानबाट सुरु भई नोभेम्बर १६, २०२४ सम्म यौन सम्बन्धमा पुगेको थियो। विंकलेसले नोभाससँग रोमान्टिक रुचि देखाउँदै महँगो उपहारहरू प्रस्ताव गरेको मेसेजहरूबाट खुलेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-prison-officer-sentenced-for-having-sex-with-inmate-while-wearing-prison-uniform-57-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
