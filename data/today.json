@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-27T13:07:48.333788",
+  "scraped_at": "2026-01-27T16:39:37.400091",
   "date": "2026-01-27",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/leprosy-eradication-becoming-challenging-39-new-patients-in-kapilvastu-in-6-months-26-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court sends writ against government–Gen Z accord for full hearing",
+      "summary": "The petitioners have sought a writ of certiorari to declare the 10-point agreement unconstitutional and void.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/27/supreme-court-sends-writ-against-government-gen-z-accord-for-full-hearing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SUPREMECOURTFILEPHOTO-1769519931.jpg&w=300&height=200"
+    },
+    {
+      "title": "Madhesh’s 32 seats turn into testing ground for old guard and new politics",
+      "summary": "Home to the country’s largest population, Madhesh has long been considered the stronghold of Madhesh-based parties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/27/madhesh-s-32-seats-turn-into-testing-ground-for-old-guard-and-new-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/madheshneta27120260909241000x0-1769521167.jpg&w=600&height=400"
+    },
+    {
+      "title": "२७ बुँदामा जसपाको प्रतिबद्धता: प्रत्यक्ष निर्वाचित राष्ट्रपतिको एजेण्डा कायमै",
+      "summary": "प्रत्यक्ष्य निर्वाचित कार्यकारी राष्ट्रपति र संविधान संशोधन अथवा पुनलेर्खनको माग राख्दै जनता समाजवादी पार्टी (जसपा) ले २७ वटा बुँदामा प्रतिबद्धता पत्र सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-s-commitment-on-27-points-71-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769525609_jasapa-480x320.jpg"
+    },
+    {
+      "title": "विदेश पठाउने भन्दै २७ लाख ठगी गर्ने तीन पक्राउ",
+      "summary": "वीरगञ्ज नाका हुँदै गत आवको ६ महिनाको तुलनामा चालु आवमा सोही अवधिमा दुई अर्ब ७५ करोड बढी रुपैयाँको पेट्रोलियम पदार्थ आयात भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/petroleum-product-imports-continue-to-rise-63-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/photos/1733974793_1729646075_birgunj_petrok-1200x560-480x320-wm.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन: एक करोड ८९ लाख मतदाता, २३ हजार मतदान केन्द्र",
+      "summary": "काठमाडौं महानगरपालिका–२७ जमलमा मंगलबार भएको सवारी दुर्घटनामा परी पाँच जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-vehicles-collide-in-jamal-5-injured-br-31-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769524830_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "खुट्टामा संक्रमण भएपछि रवि लामिछाने अस्पताल भर्ना",
+      "summary": "अभियोगपत्रमा आचार्यले पदको दुरुपयोग गरी अकुत सम्पत्ति कमाएको दाबी गरेको छ । आचार्यले भरतपुर महानगरपालिकाको विकास निर्माण बजेट दुरुपयोग गरी अकुत सम्पत्ति कमाएको देखिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/corruption-case-worth-rs-6-5-crore-against-former-bharatpur-metropolitan-engineer-acharya-86-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769524432_akhtiyar  (1)-480x320.jpg"
+    },
+    {
+      "title": "प्रदेशसभा बैठक वीरेन्द्र सभागृहमा राख्ने तयारी",
+      "summary": "प्रत्यक्ष्य निर्वाचित कार्यकारी राष्ट्रपति र संविधान संशोधन अथवा पुनलेर्खनको माग राख्दै जनता समाजवादी पार्टी (जसपा) ले २७ वटा बुँदामा प्रतिबद्धता पत्र सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-s-commitment-on-27-points-71-98.html?click_from=just_in",
       "image_url": ""
     }
   ]
