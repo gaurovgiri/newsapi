@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-28T13:07:58.137910",
+  "scraped_at": "2026-01-28T16:49:50.997017",
   "date": "2026-01-28",
-  "total_articles": 45,
+  "total_articles": 53,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-urges-biplav-to-stop-wandering-around-and-join-the-nepali-communist-party-76-92.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Drizzle fails to wash away Kathmandu Valley’s haze",
+      "summary": "The Valley ranked third globally for air pollution on Wednesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/28/drizzle-fails-to-wash-away-kathmandu-valley-s-haze",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/62040519931193309549161772610343721792127838n28120260820291000x0-1769608216.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dadeldhura faces open electoral battle without Deuba in fray",
+      "summary": "Thirteen candidates enter the field after veteran leader opts not to contest, making outcome unpredictable.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/28/dadeldhura-faces-open-electoral-battle-without-deuba-in-fray",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/deuba2023080908465328120260946201000x0-1769602941.jpg&w=300&height=200"
+    },
+    {
+      "title": "Can Nepal’s viral mayor run the country?",
+      "summary": "Balendra Shah has proven he can win elections and capture imagination. His mayoral record suggests governing is harder.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/28/can-nepal-s-viral-mayor-run-the-country",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/politics/balenheroimage-1769608824.jpg&w=300&height=200"
+    },
+    {
+      "title": "डडेलधुरा पुगेर माफी माग्दै सागरले भने: ठुला सपना देख्दा साना गल्ती हुनाइछन्",
+      "summary": "देउवासँग भिडेकै कारण उनले चर्चा कमाएका पनि थिए। स्वतन्त्र उम्मेदवारका रूपमा लडेका सागरले त्यो बेला १३ हजार ४२ मत प्राप्त गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-who-reached-dadeldhura-and-apologized-said-when-you-dream-big-you-make-small-mistakes-92-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769592562_Sagar1-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा: नागरिकको दैनिकीसँग जोडिएका विषयमा काम गर्न सरकारको ध्यानाकर्षण",
+      "summary": "राष्ट्रियसभाको आजको बैठकमा सदस्यहरूले समसामयिक विषयमा सरकारको ध्यानाकर्षण गराएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-assembly-government-s-attention-drawn-to-work-on-issues-related-to-citizens-daily-lives-51-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766453146_1640057564_rastriyashava-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसद्वारा विभिन्न समिति बनाउन पार्टीका सबै तहलाई निर्देशन",
+      "summary": "नेपाली कांग्रेसले आगामी फागुनमा हुने निर्वाचनमा पार्टीलाई विजय गराउने उद्देश्यले सञ्चालन गरिने अभियानका लागि पार्टीका सबै तहमा तत्काल विभिन्न समिति र संरचना गठन गर्न/गराउन निर्देशन जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-directs-all-levels-of-the-party-to-form-various-committees-34-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768387454_biswo-480x320.jpg"
+    },
+    {
+      "title": "पूर्वमाओवादी धार एकतामा आउनपर्छ: दाहाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा)का संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले छरिएर रहेका पूर्वमाओवादी धारका सबैलाई एकता प्रक्रियामा आउन आग्रह गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-maoist-factions-must-unite-dahal-96-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769589234_prachanda-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले पार्टीका सबै तहमा विभिन्न समिति बनाउने",
+      "summary": "देउवासँग भिडेकै कारण उनले चर्चा कमाएका पनि थिए। स्वतन्त्र उम्मेदवारका रूपमा लडेका सागरले त्यो बेला १३ हजार ४२ मत प्राप्त गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-who-reached-dadeldhura-and-apologized-said-when-you-dream-big-you-make-small-mistakes-92-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
