@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-28T16:49:50.997017",
+  "scraped_at": "2026-01-28T20:40:47.263109",
   "date": "2026-01-28",
-  "total_articles": 52,
+  "total_articles": 58,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -422,6 +422,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sagar-who-reached-dadeldhura-and-apologized-said-when-you-dream-big-you-make-small-mistakes-92-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal court holds US-Bangla Airlines liable for unlimited compensation",
+      "summary": "Says flight crew’s gross negligence strips the airline of liability limits in the 2018 Kathmandu crash, orders millions in compensation to victims’ families.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/28/nepal-court-holds-us-bangla-airlines-liable-for-unlimited-compensation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/usbangla-1769610933.jpg&w=300&height=200"
+    },
+    {
+      "title": "धनुषा-३ : प्रतिस्पर्धामा पुराना-नयाँ अनुहार",
+      "summary": "चितवनको भरतपुर महानगरपालिका–१४ राधापुरस्थित विश्वज्योति बोर्डिङ स्कुल नजिक नहरको पुलबाट मोटरसाइकल खस्दा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-motorcycle-accident-that-fell-into-canal-72-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आचारसंहिता पालनाबारे छलफल",
+      "summary": "मङ्गलबार साँझदेखि सक्रिय भएर देशका धेरै ठाउँमा वर्षा गराएको पश्चिमी न्यूनचापीय प्रणाली अहिले साँझदेखि बाहिरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-making-system-out-91-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769616994_Rain4-480x320.jpg"
+    },
+    {
+      "title": "नागरिकमाथि गोली चलाउनेसँग एउटै मञ्चमा बसेर ‘डिबेट’ गर्न नैतिकताले दिँदैन: पुकार बम",
+      "summary": "माथिल्लो मुस्ताङमा यसवर्ष परेको हिउँ तेस्रो पटकको हो । माथिल्लो मुस्ताङको लोमान्थाङ र लोघेकर दामोदरकुण्ड गाउँपालिकामा दुई फिट बढी हिउँ परेको जिल्ला प्रशासन कार्यालय मुस्ताङले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/normal-life-in-upper-mustang-affected-after-snowfall-42-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769616822_hiu panchhyaudai apf-480x320.jpg"
+    },
+    {
+      "title": "खोटाङ कांग्रेसको काठमाडौंमा चुनावलक्षित एकता सभा",
+      "summary": "मुलुकमा २०४६ सालको जनआन्दोलनबाट प्रजातन्त्र पुनर्बहाली भएपछिका सात वटा निर्वाचनमा धनुषा–३ बाट पाँच पटक कांग्रेस, एक पटक राजपापा र एक पटक एमालेका उम्मेदवार निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dhanusha-3-old-and-new-faces-in-the-competition-br-49-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769617237_9-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको अबको लक्ष्य: १५० सिटसहितको ‘एकल बहुमत’ को सरकार",
+      "summary": "चितवनको भरतपुर महानगरपालिका–१४ राधापुरस्थित विश्वज्योति बोर्डिङ स्कुल नजिक नहरको पुलबाट मोटरसाइकल खस्दा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-motorcycle-accident-that-fell-into-canal-72-18.html?click_from=just_in",
       "image_url": ""
     }
   ]
