@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-28T04:50:44.069533",
+  "scraped_at": "2026-01-28T08:43:33.198262",
   "date": "2026-01-28",
-  "total_articles": 37,
+  "total_articles": 44,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/arijit-singh-will-no-longer-sing-in-films-87-91.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769567794_arijit-480x320.jpg"
+    },
+    {
+      "title": "Key leader of India’s Maharashtra among five dead in air charter crash",
+      "summary": "Video images showed smoke billowing from some of the burning wreckage of the plane, scattered across an open field.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/28/deputy-chief-minister-of-india-s-maharashtra-dies-in-plane-crash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/6SUU2ENR7BJJLKMZZF36OGEGL4-1769583435.jpg&w=300&height=200"
+    },
+    {
+      "title": "Heavy snowfall disrupts life in Karnali’s highlands",
+      "summary": "Mugu, Humla and Dolpa highlands face transport and electricity outages.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/28/heavy-snowfall-disrupts-life-in-karnali-s-highlands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/simkothumla428120260704291000x0-1769583027.jpg&w=300&height=200"
+    },
+    {
+      "title": "यताउता भड्किन छाडेर नेपाली कम्युनिष्ट पार्टीमै आउन विप्लवलाई प्रचण्डको आग्रह",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले नेत्रविक्रम चन्द ‘विप्लव’लाई यताउता भड्किन छाडेर नेपाली कम्युनिस्ट पार्टीमै फर्किन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-urges-biplav-to-stop-wandering-around-and-join-the-nepali-communist-party-76-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769589234_prachanda-480x320.jpg"
+    },
+    {
+      "title": "आगामी एक वर्षभित्र ‘ग्रे लिस्ट’ बाट बाहिरिने गरी काम गरौँः अर्थमन्त्री खनाल",
+      "summary": "चौथो वरीयाताका मुसेट्टीले तेस्रो सेटको खेल जारी रहँदा दाहिने खुट्टामा समस्या देखिएपछि बीचमै खेल छाडेकाले चौथो वरीयाताका जोकोभिचले सेमिफाइनलमा स्थान बनाएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/australian-open-djokovic-in-semifinals-as-musetti-retires-swiatek-out-23-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769588884_Tennis-480x320.jpg"
+    },
+    {
+      "title": "एलिजाको नारा : अबकी बार, धमला सरकार",
+      "summary": "अर्थमन्त्री रामेश्वरप्रसाद खनालले सम्पत्ति शुद्धीकरण निवारणसम्बन्धी विषयमा नेपाललाई वित्तीय कारबाही कार्यदल (एफएटिएफ) को ‘ग्रे लिस्ट’ बाट जतिसक्दो चाँडो बाहिर निकाल्न सबै क्षेत्र र निकाय जिम्मेवार भएर लाग्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-work-to-get-out-of-the-grey-list-within-the-next-year-finance-minister-khanal-23-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748529533_Rameshwor-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिसमक्ष राष्ट्रियसभा सदस्य निर्वाचनको प्रतिवेदन पेस",
+      "summary": "बैंकले निरन्तर अधिक तरलता कायमै रहेपछि फेरि निक्षेप संकलन उपकरण बोलकबोलमार्फत निक्षेप तान्न लागेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-rastra-bank-withdrawing-20-billion-rupees-in-deposits-today-15-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742974727_nepal rastra bank-480x320.jpg"
+    },
+    {
+      "title": "प्रचण्डले गरे केन्द्रीय सदस्य कृष्णा केसी 'नमुना'लाई पार्टीबाट निस्कासन",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले नेत्रविक्रम चन्द ‘विप्लव’लाई यताउता भड्किन छाडेर नेपाली कम्युनिस्ट पार्टीमै फर्किन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-urges-biplav-to-stop-wandering-around-and-join-the-nepali-communist-party-76-92.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
