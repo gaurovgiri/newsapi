@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-01-28T02:24:51.670955",
   "date": "2026-01-28",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "Ministry seeks Rs 1 billion to keep health insurance services running",
       "summary": "Services remain halted at TU Teaching Hospital, while Bir Hospital reports severe pressure from soaring patient loads.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/health/2026/01/27/ministry-seeks-rs-1-billion-to-keep-health-insurance-services-running",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/health/health-1769562195.jpg&w=600&height=400"
-    },
-    {
-      "title": "Ministry seeks Rs 1 billion to keep health insurance services running",
-      "summary": "Some candidates are in cities to meet voters who left due to chill while others have yet to reach high-altitude areas.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/health/2026/01/27/ministry-seeks-rs-1-billion-to-keep-health-insurance-services-running",
