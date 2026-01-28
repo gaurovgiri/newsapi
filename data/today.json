@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-28T02:24:51.670955",
+  "scraped_at": "2026-01-28T04:50:44.069533",
   "date": "2026-01-28",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-says-the-demand-for-the-restoration-of-parliament-was-not-scheduled-for-the-20th-but-rumors-were-spread-80-71.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Everyday AI: Pranab Joshi",
+      "summary": "Its resurgence is a setback for Nepal, and a gross neglect of public health.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/28/everyday-ai-pranab-joshi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PlanningBoyzdefeatSatdobatoYouth-1769562749.jpg&w=400&height=267"
+    },
+    {
+      "title": "How much is too much for K-pop concert tickets?",
+      "summary": "The snow snarled road traffic and led to widespread flight cancellations and power outages before subsiding Monday, leaving behind bitter cold that is expected to linger.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/27/how-much-is-too-much-for-k-pop-concert-tickets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kushal-1769562630.jpg&w=400&height=267"
+    },
+    {
+      "title": "बहुमतको सरकार नबने मुलुक फेरि अस्थिरताको दुश्चक्रमा घुमिरहन्छ : रिजाल",
+      "summary": "अज्ञात समूहले घरमै सुतिरहेको अवस्थामा आमाछोराको धारिलो हतियार प्रयोग गरी हत्या गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/mother-and-son-murdered-using-sharp-weapons-by-unknown-group-father-in-critical-condition-25-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769568680_murder-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन ३६ दिन बाँकी : आचारसंहिता अनुगमनका लागि अधिकृत तोकिए",
+      "summary": "बलिउड गायक अरिजित सिंहले पार्श्वगायन (प्लेब्याक सि‌गिङ)बाट सन्यासको घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/arijit-singh-will-no-longer-sing-in-films-87-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769567794_arijit-480x320.jpg"
     }
   ]
 }
