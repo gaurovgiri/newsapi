@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-29T05:09:56.039420",
+  "scraped_at": "2026-01-29T08:52:59.037611",
   "date": "2026-01-29",
-  "total_articles": 41,
+  "total_articles": 49,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/global-bank-offers-account-opening-facility-through-kiosk-machines-br-42-61.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रीको अधिकांश निर्वाचन क्षेत्र अति संवेदनशिल",
+      "summary": "रीको अधिकांश निर्वाचन क्षेत्र अति संवेदनशिल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12116",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Matdan-Sthal-Anugaman-1769657566.jpg"
+    },
+    {
+      "title": "Can Nepal’s viral mayor run the country?",
+      "summary": "Balendra Shah has proven he can win elections and capture imagination. His mayoral record suggests governing is harder.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/28/can-nepal-s-viral-mayor-run-the-country",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/politics/balenheroimage-1769608824.jpg&w=300&height=200"
+    },
+    {
+      "title": "Gold price jumps Rs20,500 in a day to record Rs339,300 per tola",
+      "summary": "Silver also climbs with rise in international market.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/29/gold-price-jumps-rs20-500-in-a-day-to-record-rs339-300-per-tola",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1769665067.jpg&w=300&height=200"
+    },
+    {
+      "title": "'पब्लिक डिबेट'का लागि प्रधानमन्त्रीको उम्मेदवारसहित कांग्रेस तयार छ : उपसभापति शर्मा",
+      "summary": "आज बिहानैदेखि लागेको बाक्लो हुस्सु तथा कुहिरोको कारण काठमाडौंलगायत देशका विभिन्न विमानस्थलमा प्रभावित रहेको आन्तरिक तर्फको उडान अहिले सुचारु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/domestic-flights-resume-74-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749516144_Airport-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको प्रधानमन्त्रीको उम्मेदवार नयाँ युगको प्रतिनिधि हो : उपसभापति शर्मा",
+      "summary": "हिमपातका कारण बुधबारदेखि अवरुद्ध मध्यपहाडी लोकमार्ग अझै सञ्चालन हुन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mid-hill-highway-blocked-from-wednesday-due-to-snowfall-52-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740734698_sadak himpat-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ गते हुने निर्वाचनको तयारीबारे छलफल",
+      "summary": "नेपाली कांग्रेसमा उपसभापति विश्वप्रकाश शर्माले सार्वजनिक बहस (पब्लिक डिबेट) का लागि प्रधानमन्त्रीको उम्मेदवार गगन थापा मात्र नभइ कांग्रेस पार्टी नै तयार रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/party-is-ready-to-include-prime-ministerial-candidate-in-public-debate-deputy-chairman-sharma-29-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755155340_bishow prakash-480x320.jpg"
+    },
+    {
+      "title": "खगेन्द्र सुनारलाई तीन वर्ष कैदको माग",
+      "summary": "कमलविनायक बसपार्क नजिकै टिपरको ठक्करबाट स्कुटर चालकको मृत्यु भएको छ भने मोटरसाइकल चालक घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-one-injured-in-three-vehicle-collision-46-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764911820_1649837678_accident-1200x560-480x320.jpg"
+    },
+    {
+      "title": "संक्रमणकालीन न्याय: द्वन्द्वका हिंसापीडित भन्छन् -घोषणापत्र रित्तो नहोस्",
+      "summary": "आज बिहानैदेखि लागेको बाक्लो हुस्सु तथा कुहिरोको कारण काठमाडौंलगायत देशका विभिन्न विमानस्थलमा प्रभावित रहेको आन्तरिक तर्फको उडान अहिले सुचारु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/domestic-flights-resume-74-92.html?click_from=just_in",
       "image_url": ""
     }
   ]
