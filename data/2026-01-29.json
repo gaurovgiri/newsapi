@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-29T13:15:17.918351",
+  "scraped_at": "2026-01-29T16:53:32.804748",
   "date": "2026-01-29",
-  "total_articles": 53,
+  "total_articles": 58,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -430,6 +430,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/pratibha-super-league-cricket-from-magh-18-48-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "भक्तपुरको फर्निचर उद्योगमा आगलागी, ३५ लाख बराबरको क्षति",
+      "summary": "भक्तपुरको एक फर्निचर आगलागी हुँदा ३५ लाख बराबरको सामान नष्ट भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/fire-at-furniture-factory-in-bhaktapur-goods-worth-rs-3-5-million-destroyed-94-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "चुनावी सभा गर्न फागुन ४ देखि १८ को समय",
+      "summary": "फागुन २१ गते हुने निर्वाचन प्रयोजनका लागि राजनीतिक दलहरूलाई फागुन ४ देखि १८ गतेसम्म १५ दिनको अवधि तोकिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/time-for-election-rallies-from-falgun-4-to-18-br-37-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769701838_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बसन्तपुरमा श्रीगणेश र श्रीभैरवको निवास स्थान बनाइने",
+      "summary": "जीवित देवताका रूपमा पुजिने श्रीगणेश र श्रीभैरवको स्थायी निवास स्थान निर्माण गर्ने विषयमा सम्बन्धित साझेदार निकायबीच सहमति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-abode-of-lord-ganesha-and-lord-bhairav-will-be-built-in-basantapur-24-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764850035_sunita-480x320.jpg"
+    },
+    {
+      "title": "प्रदीप ज्ञवाली भन्छन्: नायक र पपुलिजमले मुलुकलाई निकास दिँदैन",
+      "summary": "एमाले केन्द्रीय सदस्य प्रदीप ज्ञवालीले निर्वाचनबाट नायकको खोजी भइरहे पनि कुनै नायक र पपुलिजमको वेभले मुलुकलाई निकास नदिने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pradeep-gyawali-says-heroes-and-populism-will-not-provide-a-solution-for-the-country-11-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769701300_Pradip_Gyawali-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सुरक्षाका लागि कुकुरसहितको संयुक्त गस्ती",
+      "summary": "भक्तपुरको एक फर्निचर आगलागी हुँदा ३५ लाख बराबरको सामान नष्ट भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/fire-at-furniture-factory-in-bhaktapur-goods-worth-rs-3-5-million-destroyed-94-28.html?click_from=just_in",
       "image_url": ""
     }
   ]
