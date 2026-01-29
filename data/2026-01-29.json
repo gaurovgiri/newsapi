@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-01-29T16:53:32.804748",
+  "scraped_at": "2026-01-29T20:39:34.237761",
   "date": "2026-01-29",
-  "total_articles": 58,
+  "total_articles": 59,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -471,6 +471,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/fire-at-furniture-factory-in-bhaktapur-goods-worth-rs-3-5-million-destroyed-94-28.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सुदनका लागि रास्वापाले माग्यो पीएसओ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) गोरखा जिल्ला समितिले पार्टीका प्रतिनिधि सभा सदस्य उम्मेदवार सुदन गुरुङको सुरक्षाका लागि जिल्ला प्रशासन कार्यालय गोरखासँग व्यक्तिगत सुरक्षा अधिकृत (पीएसओ) उपलब्ध गराउन माग गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-requests-pso-for-sudan-11-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769703906_Sudan_Grg-480x320.jpg"
     }
   ]
 }
