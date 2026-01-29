@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-29T02:42:00.143856",
+  "scraped_at": "2026-01-29T05:09:56.039420",
   "date": "2026-01-29",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-motorcycle-falls-into-canal-br-48-88.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "जिल्लाभरि हिमपात, किसान खुशीले गद्गद्",
+      "summary": "जिल्लाभरि हिमपात, किसान खुशीले गद्गद्",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12113",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Himpat-1769656428.jpg"
+    },
+    {
+      "title": "थापनमा प्रदेश सरकारको चासो नहुँदा स्रोत केन्द्र अलपत्र",
+      "summary": "थापनमा प्रदेश सरकारको चासो नहुँदा स्रोत केन्द्र अलपत्र",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12103",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Chyangra-Srotkendra-1769567025.jpg"
+    },
+    {
+      "title": "प्रचण्डलाई विप्लवको जवाफ : एकताको चर्चा गर्नु जालझेलको बासी र असफल हुइयाँ मात्र",
+      "summary": "ग्लोबल आइएमई बैंक लिमिटेडले ग्राहकलाई सरल, सहज र अत्याधुनिक बैंकिङ प्रदान गर्ने उद्देश्यले ग्राहक स्वयंले बैंकको शाखा कार्यालयमा रहेको किओस्क मेसिनबाट बैंक खाता खोल्न सक्ने सुविधा सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/global-bank-offers-account-opening-facility-through-kiosk-machines-br-42-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769662988_jui jui 52-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-४ गगनले छाड्दा नमज्जा: पुकार",
+      "summary": "पृथ्वीराजमार्गअन्तर्गत म्याग्दे गाउँपालिका–१ गुणादीमा आज बिहान स्कुटर दुर्घटना हुँदा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-scooter-accident-br-63-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "दुर्गानन्द झाको ६३ औँ स्मृति दिवस: जसलेगणतन्त्रका लागि हाँसीहाँसी जीवन त्यागे",
+      "summary": "अनुभवहीन र चञ्चल तन्नेरीभन्दा अनुभवी र पाको प्रौढले सुविचारित निर्णय गर्न सक्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/youth-age-or-thought-br-30-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769660850_fai did-480x320.jpg"
+    },
+    {
+      "title": "देश, लोकतन्त्र र नेपाली कांग्रेस इतिहासकै संकटपूर्ण अवस्थामा : नेता राठोर",
+      "summary": "हुलाकी राजमार्गअन्तर्गत सिरहा र धनुषा सिमानामा पर्ने कमला नदीमा अस्थायी ‘डाइभर्सन’ निर्माण भएसँगै सवारी आवत–जावत सहज भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/temporary-diversion-on-kamala-river-98-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769660365_kamala diversion-480x320.jpg"
+    },
+    {
+      "title": "दाङको समृद्धिका लागि दीर्घकालीन एजेण्डासहित महासचिव पोखरेल चुनावी मैदानमा, यस्ता छन् प्रतिबद्धता",
+      "summary": "ग्लोबल आइएमई बैंक लिमिटेडले ग्राहकलाई सरल, सहज र अत्याधुनिक बैंकिङ प्रदान गर्ने उद्देश्यले ग्राहक स्वयंले बैंकको शाखा कार्यालयमा रहेको किओस्क मेसिनबाट बैंक खाता खोल्न सक्ने सुविधा सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/global-bank-offers-account-opening-facility-through-kiosk-machines-br-42-61.html?click_from=just_in",
       "image_url": ""
     }
   ]
