@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-30T08:51:47.025665",
+  "scraped_at": "2026-01-30T13:13:58.270446",
   "date": "2026-01-30",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/energy-wasted-if-transmission-lines-not-built-1200-mw-at-risk-66-15.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "After breaking left strongholds, RSP eyes Congress core",
+      "summary": "Six of the party’s eight FPTP seats in 2022 election came from constituencies known to be communist bastions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/30/after-breaking-left-strongholds-rsp-eyes-congress-core",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/1-1769736463.jpg&w=300&height=200"
+    },
+    {
+      "title": "From Tarai to the hills, election police recruits grapple with Kalikot terrain",
+      "summary": "Young applicants drawn to Kalikot by lower competition say steep roads and harsh cold define their first experience of the hills.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/30/from-tarai-to-the-hills-election-police-recruits-grapple-with-kalikot-terrain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/police-1769766572.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah completes Sudurpaschim tour",
+      "summary": "Senior RSP leader adopts brief, symbolic visits in all 16 constituencies of the province.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/01/30/balendra-shah-completes-sudurpaschim-tour",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/mangalsenmabalensha30120261137491000x0-1769775726.jpg&w=300&height=200"
+    },
+    {
+      "title": "कालीकोट पुगेर एक शब्द बोलेनन् बालेन्द्र, घण्टीमात्र बजाएर फर्किए",
+      "summary": "अर्घाखाँचीकी ३४ वर्षीया महिला हुन्, जसले दुई वर्षअघि पतिको निरन्तर यौन ज्यादतीका कारण मलद्वारको भल्व (दिसा रोक्ने स्पिङ्क्टर) च्यातिएपछि असह्य शारीरिक र मानसिक यातना सहनुपर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/her-anal-springer-was-torn-due-to-her-husband-s-sexual-abuse-28-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769777778_Birami-480x320.jpg"
+    },
+    {
+      "title": "बाँकेका तीनै क्षेत्रमा ‘विरासत’ को प्रतिस्पर्धा",
+      "summary": "काठमाडौंका विभिन्न क्षेत्रमा भएका सवारी दुर्घटनामा तीन जनाको मृत्यु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-people-died-in-a-road-accident-in-kathmandu-26-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767336714_Accident-480x320.jpg"
+    },
+    {
+      "title": "चुनावी प्रतिस्पर्धामा महिला उम्मेदवार : दलभन्दा स्वतन्त्र उम्मेदवार बढी",
+      "summary": "तनहुँको शुक्लागण्डकी नगरपालिका–५ मा तीन जनाको हत्या गरेको अभियोगमा पक्राउ परेका एक जनालाई प्रहरीले सार्वजनिक गरेको छ । उनीविरुद्ध सात दिनको म्याद थप गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/three-people-arrested-for-murder-18-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767659805_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा देश बदल्ने हुटहुटी छः प्रवक्ता चालिसे",
+      "summary": "विराटनगरमा जारी ‘प्रथम कोशी एलाइट कप’ लिग क्रिकेट प्रतियोगिताको उपाधिका लागि शनिबार मोरङ र झापा खेल्ने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/morang-and-jhapa-clash-for-the-koshi-elite-title-97-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769776352_game1-480x320.jpg"
+    },
+    {
+      "title": "गगनको दाबी: म शेरबहादुर देउवा र अन्य नेतासँग निरन्तर संवादमा छु",
+      "summary": "अर्घाखाँचीकी ३४ वर्षीया महिला हुन्, जसले दुई वर्षअघि पतिको निरन्तर यौन ज्यादतीका कारण मलद्वारको भल्व (दिसा रोक्ने स्पिङ्क्टर) च्यातिएपछि असह्य शारीरिक र मानसिक यातना सहनुपर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/her-anal-springer-was-torn-due-to-her-husband-s-sexual-abuse-28-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
