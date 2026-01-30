@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-30T02:42:17.471691",
+  "scraped_at": "2026-01-30T05:12:24.904260",
   "date": "2026-01-30",
-  "total_articles": 34,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/kathmandu-metropolitan-city-s-preparations-culverts-are-being-built-in-these-areas-to-prevent-flooding-55-28.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ट क्षेत्र नं. २ मा जग्दीश्वोर प्रति जनलहर : सरलता, सादगी र सेवाभावकै कारण जित सुनिश्चित  !",
+      "summary": "ट क्षेत्र नं. २ मा जग्दीश्वोर प्रति जनलहर : सरलता, सादगी र सेवाभावकै कारण जित सुनिश्चित  !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12120",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jagdish-1769664161.jpg"
+    },
+    {
+      "title": "Nepal’s sexual and gender minority stakes its claim in national politics",
+      "summary": "Newer political parties are giving them greater space in upcoming polls amid the reluctance of the old ones to do so.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/30/nepal-s-sexual-and-gender-minority-stakes-its-claim-in-national-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/2-1769738507.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘No footballing environment like before,’ NRT and Sankata FC coaches say after derby",
+      "summary": "The derby didn’t draw crowds of eager fans nor saw a contest befitting its name, highlighting just how far behind Nepali football has fallen.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/01/30/no-footballing-environment-like-before-nrt-and-sankata-fc-coaches-say-after-derby",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sankatanrt-1769740174.jpg&w=300&height=200"
+    },
+    {
+      "title": "India-EU free trade pact could squeeze Nepal’s garment exports as LDC graduation nears",
+      "summary": "Brussels said the agreement would support investment flows, improve access to European markets and deepen supply-chain integration.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/29/india-eu-free-trade-pact-could-squeeze-nepal-s-garment-exports-as-ldc-graduation-nears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/shutterstock1599765901copy-1769736536.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tanahun-1 heads to polls with a history of changing choices",
+      "summary": "Sixteen candidates, including last-elected Swarnim Wagle of the RSP, are contesting the seat as voters weigh performance and local issues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/01/30/tanahun-1-heads-to-polls-with-a-history-of-changing-choices",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled-1769739404.jpg&w=600&height=400"
+    },
+    {
+      "title": "Kathmandu Art Gallery to host printmaking exhibition by KU students",
+      "summary": "When the state fails to prosecute human rights violators, impunity becomes the unofficial law of the land.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/30/kathmandu-art-gallery-to-host-printmaking-exhibition-by-ku-students",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PR-1769740931.jpg&w=400&height=267"
+    },
+    {
+      "title": "सहिद दुर्गानन्द झाको ६२औं स्मृति दिवस:जसले मृत्यु स्विकारे, माफी मागेनन्",
+      "summary": "यसैगरी, हिजो प्रति तोला चाँदी सात हजार ५०५ रुपैयाँ रहेकोमा आज सात हजार ६५ रुपैयाँ झरेको छ। चाँदीको मूल्य ४४० रुपैयाँ घटेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-from-record-levels-down-by-20-500-96-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "हामीले नेपाली राजनीतिमा उत्तरदायी र विकासमुखी नेतृत्व स्थापित गर्‍यौँ : अध्यक्ष यादव",
+      "summary": "सहिद दिवसको दिन आज बिहान प्रधानमन्त्री सुशीला कार्कीले सहिद स्मारक लैनचौरमा श्रद्धाञ्जली अर्पण गरेकी छिन्। इतिहासको विभिन्न कालखण्डमा प्रजातन्त्र, राष्ट्र र स्वतन्त्रतासहित जनताका पक्षमा भएका आन्दोलनमा मृत्युवरण गरेका वीर सपुतहरूको सम्मानमा साताव्यापी कार्यक्रम गरी सहिद दिवस मनाउने परम्परा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/prime-minister-pays-tribute-at-martyrs-memorial-photos-62-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769748092_Shahid-480x320.jpg"
+    },
+    {
+      "title": "स्वर्णिम वाग्ले भन्छन्ः हामी सनातन सभ्यताको रक्षक र उदार लोकतान्त्रिक समाजको कवच हौं",
+      "summary": "दुर्गानन्दलाई त्यो बेला राज्यको कानुनी व्यवस्थाविपरीत फाँसीको सजाय तोकिएको जानकारहरू बताउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/martyr-durganand-jha-s-62nd-memorial-day-those-who-accepted-death-did-not-apologize-br-75-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769747392_mithi 67-480x320.jpg"
+    },
+    {
+      "title": "अब कुनै आमाको काख नरित्तियोस् : प्रधानमन्त्री कार्की",
+      "summary": "जनता समाजवादी पार्टी, नेपालका अध्यक्ष एवं सप्तरी क्षेत्र नं ३ का उम्मेदवार उपेन्द्र यादवले नेपाली राजनीतिमा जसपा नेपालले आफ्नो अग्रणी भूमिका निर्वाह गर्दै उत्तरदायी र विकासमुखी सोचको महत्त्व स्थापित गरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-established-responsible-and-development-oriented-leadership-in-nepali-politics-chairman-yadav-65-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769747075_Upendra-480x320.jpg"
+    },
+    {
+      "title": "सहिद दिवसमा वरिष्ठ नेता शाहले भने : फेरी कसैले सहिद बन्नु नपरोस् !",
+      "summary": "यसैगरी, हिजो प्रति तोला चाँदी सात हजार ५०५ रुपैयाँ रहेकोमा आज सात हजार ६५ रुपैयाँ झरेको छ। चाँदीको मूल्य ४४० रुपैयाँ घटेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-from-record-levels-down-by-20-500-96-60.html?click_from=just_in",
       "image_url": ""
     }
   ]
