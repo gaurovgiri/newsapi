@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-30T05:12:24.904260",
+  "scraped_at": "2026-01-30T08:51:47.025665",
   "date": "2026-01-30",
-  "total_articles": 44,
+  "total_articles": 49,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -358,6 +358,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-falls-from-record-levels-down-by-20-500-96-60.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "अवस्था परिवर्तनका लागि सबै राजनीति शक्ति एकजुट हुनुपर्छः मुख्यमन्त्री बानियाँ",
+      "summary": "विद्युत् उत्पादन क्षमता तीव्र रूपमा बढे पनि त्यसलाई राष्ट्रिय ग्रिडमार्फत बजारसम्म पुर्‍याउने प्रसारण तथा वितरण पूर्वाधार कमजोर रहँदा यसको आर्थिक र सामाजिक मूल्य देशले तिर्नुपरेको ऊर्जा विज्ञहरू बताउँछन्। नीतिगत अन्योल, कर संरचनाको असन्तुलन र स्वदेशी उद्योगप्रतिको उपेक्षाले समस्या अझ जटिल बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/energy-wasted-if-transmission-lines-not-built-1200-mw-at-risk-66-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769761433_Bidut-480x320.jpg"
+    },
+    {
+      "title": "दुईचार हजारमा बिक्ने मान्छे सिधै नर्क जान्छ: महाविर पुन",
+      "summary": "हाम्रा सार्वजनिक संस्थानहरू राष्ट्रका आर्थिक - प्रशासनका अभिन्न अङ्ग हुन्। हवाईसेवा र विद्युत् आपूर्तिदेखि खानेपानी, बैंक, रासायनिक मल वा पेट्रोलियम पदार्थ आपूर्ति बिक्रीवितरण, यी हाम्रो आम जीवनसँग अनिवार्य रूपमा जोडिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-questions-for-public-institution-reform-br-11-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769760020_sanjib 56-480x320.jpg"
+    },
+    {
+      "title": "शहीदहरूको सपना समतामूलक समाज थियो: तनुजा पाण्डे",
+      "summary": "यो सुधार सरकारको सबैभन्दा महत्त्वपूर्ण नीतिगत कदम मानिएको छ। लामो समयदेखि संकटमा परेको तेल उद्योगमा विदेशी लगानी आकर्षित गर्ने लक्ष्यसहित राज्यको कडा नियन्त्रण खुकुलो बनाइएको हो। राजधानी काराकसमा अमेरिकी सेनाको आक्रमणपछि पूर्वराष्ट्रपति निकोलस मदुरोले सत्ता गुमाएको एक महिनाभित्रै यो कानुन लागू गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/venezuela-s-two-decade-socialist-policy-reversed-oil-privatization-opens-the-way-67-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769759455_Oil-480x320.jpg"
+    },
+    {
+      "title": "दलित समुदायबारे नबोलेको कुरा प्रचार गरियो, कानुनी उपचार खोज्छु : अध्यक्ष लिङ्देन",
+      "summary": "मुख्यमन्त्री बानियाँले सहिदको बलिदानबाट प्राप्त भएको समावेशी लोकतान्त्रिक गणतन्त्रमाथि खतरा बढे्काले सबै नेपाली सचेत हुनुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-political-forces-should-unite-to-change-the-situation-chief-minister-baniya-43-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769759284_1753871923_Indra-1200x560-480x320.jpg"
+    },
+    {
+      "title": "वर्तमानमा उपभोग गरेको स्वतन्त्रता कसरी प्राप्त भयो भुल्न हुदैन: केपी शर्मा ओली",
+      "summary": "विद्युत् उत्पादन क्षमता तीव्र रूपमा बढे पनि त्यसलाई राष्ट्रिय ग्रिडमार्फत बजारसम्म पुर्‍याउने प्रसारण तथा वितरण पूर्वाधार कमजोर रहँदा यसको आर्थिक र सामाजिक मूल्य देशले तिर्नुपरेको ऊर्जा विज्ञहरू बताउँछन्। नीतिगत अन्योल, कर संरचनाको असन्तुलन र स्वदेशी उद्योगप्रतिको उपेक्षाले समस्या अझ जटिल बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/energy-wasted-if-transmission-lines-not-built-1200-mw-at-risk-66-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
