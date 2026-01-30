@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-01-30T02:42:17.471691",
   "date": "2026-01-30",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "Upcoming House election explained",
       "summary": "18.9 million voters deciding the fate of 6,619 candidates combined, under the first-past-the-post and the proportional representation systems.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/politics/2026/01/29/upcoming-house-election-explained",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1769648368.jpg&w=600&height=400"
-    },
-    {
-      "title": "Upcoming House election explained",
-      "summary": "Brussels said the agreement would support investment flows, improve access to European markets and deepen supply-chain integration.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/politics/2026/01/29/upcoming-house-election-explained",
