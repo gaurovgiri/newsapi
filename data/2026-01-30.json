@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-30T13:13:58.270446",
+  "scraped_at": "2026-01-30T16:51:18.356729",
   "date": "2026-01-30",
-  "total_articles": 57,
+  "total_articles": 65,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/her-anal-springer-was-torn-due-to-her-husband-s-sexual-abuse-28-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Quake-hit families struggle in flimsy huts as politicians make election promises",
+      "summary": "Families have endured freezing winters, rising debts, reconstruction delays for over two years as authorities and politicians pledge action.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/30/quake-hit-families-struggle-in-flimsy-huts-as-politicians-make-election-promises",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/photobhukampapidit130120260632401000x0-1769778748.jpg&w=300&height=200"
+    },
+    {
+      "title": "Teams seek development at SAFF U19 Women’s Championship",
+      "summary": "The tournament kicks off at Pokhara Stadium between four teams. Bangladesh face Bhutan, while hosts Nepal will meet India in the opening day of the tournament today.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/01/30/teams-seek-development-at-saff-u19-women-s-championship",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalsaffu19-1769789057.jpg&w=300&height=200"
+    },
+    {
+      "title": "Towering bridges rise next to Makawanpur tunnels",
+      "summary": "At Dhedre and Lendanda, 82-metre-high bridges stand next to newly constructed tunnels on the Kathmandu–Tarai expressway, marking key milestones in the project.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/01/30/towering-bridges-rise-over-makawanpur-tunnels",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1769777905.jpg&w=300&height=200"
+    },
+    {
+      "title": "ह्याट्रिकको दाउमा महासेठ, पहिलो जित निकाल्न जुट्दै महेन्द्र",
+      "summary": "धनुषा–४ नेपाली कांग्रेस र नेकपा एमालेका प्रभावशाली नेताहरूको भिडन्त हुन लागेको क्षेत्र हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahaseth-on-the-verge-of-a-hat-trick-mahendra-aiming-for-his-first-win-br-46-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769790151_M_Y-480x320.jpg"
+    },
+    {
+      "title": "सरकार नागरिकमैत्री छः गृहमन्त्री अर्याल",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले वर्तमान सरकार नागरिकमैत्री भएकाले नागरिकका समस्या समाधानका लागि सधैँ सहकार्य र समन्वय गर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-citizen-friendly-home-minister-aryal-36-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768546509_OM Aryal-480x320.jpg"
+    },
+    {
+      "title": "मोरङ-६: कांग्रेस र एमाले कै प्रतिश्पर्धा",
+      "summary": "भौगोलिक विकटता, गरिबी, बेरोजगारी, अशिक्षा जस्ता समस्यासँग जुधिरहेको यस क्षेत्र विकासको पर्खाइमा छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/baglung-2-awaits-leadership-to-spearhead-development-37-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769787982_Bagalung1-480x320.jpg"
+    },
+    {
+      "title": "धमाधम स्पष्टीकरण सोध्दै निर्वाचन आयोग",
+      "summary": "उदयपुरको चौदण्डीगढी नगरपालिका ४ स्थित बसाहामा जारी ‘नारदमुनि स्मृति गोल्डकप फुटबल प्रतियोगिता ०८२’को दोस्रो दिनको खेल सकहलेश युवा क्लब सिराहाले जितेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/sahlesh-defeated-damak-23-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769787037_Naradmunicup-480x320.jpg"
+    },
+    {
+      "title": "पार्टी एकता मजबुत पार्दै जनताको भरोसा जित्छौँ: गगन थापा",
+      "summary": "धनुषा–४ नेपाली कांग्रेस र नेकपा एमालेका प्रभावशाली नेताहरूको भिडन्त हुन लागेको क्षेत्र हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahaseth-on-the-verge-of-a-hat-trick-mahendra-aiming-for-his-first-win-br-46-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
