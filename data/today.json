@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-31T08:39:46.712906",
+  "scraped_at": "2026-01-31T13:04:30.361127",
   "date": "2026-01-31",
-  "total_articles": 52,
+  "total_articles": 61,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -422,6 +422,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-answer-to-the-question-of-whether-he-will-become-prime-minister-again-i-am-not-interested-in-that-39-72.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Law draws red line on PR, green card holders in elections",
+      "summary": "Law mandates disqualification and possible prosecution if foreign permanent residency is concealed by elected candidates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/law-draws-red-line-on-pr-green-card-holders-in-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/image31120260859261000x0-1769861634.jpg&w=300&height=200"
+    },
+    {
+      "title": "Thai royal consort Sineenatha Bilaskalyani offers prayers at Lumbini",
+      "summary": "Visit to Buddha’s birthplace expected to boost Thai pilgrim arrivals, say tourism stakeholders",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/thai-royal-consort-sineenath-bilaskalyani-offers-prayers-at-lumbini",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/royalconsort-1769863837.jpg&w=300&height=200"
+    },
+    {
+      "title": "Domestic air traffic hits record high in 2025 despite airport curbs and pollution",
+      "summary": "But slower growth reflects Kathmandu airport restrictions, stagnant tourist arrivals and worsening haze across the Tarai and tourist hubs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/domestic-air-traffic-hits-record-high-in-2025-despite-airport-curbs-and-pollution",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/MOO-1769824367.jpg&w=300&height=200"
+    },
+    {
+      "title": "Explosion occurs at Iran’s southern port of Bandar Abbas, Iranian media reports",
+      "summary": "The port of Bandar Abbas lies on the Strait of Hormuz, a vital waterway between Iran and Oman which handles about a fifth of the world’s seaborne oil.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/01/31/explosion-occurs-at-iran-s-southern-port-of-bandar-abbas-iranian-media-reports",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/IRANEXPLOSION-1769864392.jpg&w=600&height=400"
+    },
+    {
+      "title": "जुम्लामा नेकपाको निर्वाचन लक्षित प्रशिक्षण कार्यक्रम",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) जुम्लाले निर्वाचन लक्षित बैठक तथा प्रशिक्षण कार्यक्रम सम्पन्न गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-s-election-targeted-training-program-in-jumla-56-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769864307_NCP_Jumla-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक दलका घोषणापत्रमा निजी क्षेत्रलाई प्राथमिकतामा राख्न सुझाव",
+      "summary": "नेपाल उद्योग वाणिज्य महासङ्घले आगामी निर्वाचनका क्रममा राजनीतिक दलहरूले प्रस्तुत गर्ने घोषणापत्रमा निजी क्षेत्रको संरक्षण, प्रवर्द्धन र मनोबल अभिवृद्धिलाई प्राथमिकतामा राख्न आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/federation-of-nepali-congress-urges-political-parties-to-prioritize-private-sector-in-manifestos-br-70-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769863676_election-480x320.jpg"
+    },
+    {
+      "title": "मिथ्या र भ्रमपूर्ण सूचना र घृणास्पद अभिव्यक्ति दिनेको निगरानी सुरु",
+      "summary": "नेपाली राष्ट्रिय क्रिकेट टोलीले दोस्रो अभ्यास खेलमा पनि मुम्बई एमसीए प्रेसिडेन्ट–११ लाई पराजित गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-second-practice-match-mumbai-defeated-by-48-runs-20-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769863152_Team_Nepal-480x320.jpg"
+    },
+    {
+      "title": "सरकार आफूलाई हराउन लाग्ने ओलीको डर, भने-धाँधली भए परिणाम स्वीकार्य हुन्न",
+      "summary": "ताप्लेजुङको मिक्वाखोला गाउँपालिकामा निर्माणाधिन अपर मेवा जलविद्युत परियोजनाको सुरुङ मार्ग खन्ने काम सुरु गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tunnel-excavation-for-upper-mewa-hydropower-project-begins-90-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769862946_army-480x320.jpg"
+    },
+    {
+      "title": "वैदेशिक षडयन्त्रलाई परारस्त गर्न नेकपा निर्माण गर्‍याैं: दाहाल",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) जुम्लाले निर्वाचन लक्षित बैठक तथा प्रशिक्षण कार्यक्रम सम्पन्न गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-s-election-targeted-training-program-in-jumla-56-83.html?click_from=just_in",
       "image_url": ""
     }
   ]
