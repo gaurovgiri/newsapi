@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-31T13:04:30.361127",
+  "scraped_at": "2026-01-31T16:39:26.243132",
   "date": "2026-01-31",
-  "total_articles": 60,
+  "total_articles": 68,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -486,6 +486,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-s-election-targeted-training-program-in-jumla-56-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "NOC hikes diesel and kerosene prices, cuts aviation fuel rates",
+      "summary": "The corporation revised fuel prices effective from Saturday midnight following changes in procurement costs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/31/noc-hikes-diesel-and-kerosene-prices-cuts-aviation-fuel-rates",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb20-1769876701.jpg&w=300&height=200"
+    },
+    {
+      "title": "Political instability after Gen Z protests pushed food prices up eightfold",
+      "summary": "Supply disruptions, middlemen and volatile politics drove sharp price hikes in staples, vegetables and fruits in the first four months of the current fiscal year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/31/political-instability-after-gen-z-protests-pushed-food-prices-up-eightfold",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/foodpricehike-1769871485.jpg&w=300&height=200"
+    },
+    {
+      "title": "Women call for fair representation as systemic barriers persist in Nepali politics",
+      "summary": "Over 300 participants joined the dialogue, highlighting barriers to women’s political participation and demanding equal representation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/women-call-for-fair-representation-as-systemic-barriers-persist-in-nepali-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb21-1769877090.jpg&w=600&height=400"
+    },
+    {
+      "title": "निर्वाचनमा स्थानीय जनप्रतिनिधिसँग समन्वय गर्न स्थानीय प्रशासनलाई गृहमन्त्री अर्यालको निर्देशन",
+      "summary": "पोखरामा जारी साफ यू-१९ महिला फुटबल च्याम्पियनसिपमा आयोजक नेपालले हारबाट प्रतियोगिताको सुरुवात गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-19-nepal-loses-to-india-bangladesh-rains-goals-on-bhutan-75-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769876378_2-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेल आइतबारदेखि जापानको औपचारिक भ्रमणमा जाने",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले प्रतिनिधिसभा सदस्य निर्वाचनपूर्व र निर्वाचनको अवधिमा स्थानीय जनप्रतिनिधिसँग सहकार्य र समन्वय गर्दै अघि बढ्न स्थानीय प्रशासनलाई निर्देशन दिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-aryal-directs-local-administration-to-coordinate-with-local-people-s-representatives-in-elections-34-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769876071_OmPrakas-480x320.jpg"
+    },
+    {
+      "title": "रुपन्देहीमा अब विष्णु पौडेलको प्राथमिकता रोजगारी र मानवीय विकास",
+      "summary": "हिउँले ढाकिएको अन्टार्कटिकाको अनन्त सेतो मरुभूमि। हजारौं साथीहरूको हुल र सुरक्षित समुद्र छोडेर एउटा पेन्गुइन एक्लै अनकन्टार पहाडतिर लम्किरहेको छ। न त्यहाँ खाना छ, न बाँच्ने कुनै सम्भावना। तर, ऊ रोकिँदैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/viral-15-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769874231_penguin-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा स्थानीय जनप्रतिनिधिसँग समन्वय गर्न सिडिओलाई गृहको निर्देशन",
+      "summary": "बुढासुब्बा अन्तरराष्ट्रिय आमन्त्रण गोल्डकप फुटबल प्रतियोगिता सुरु हुन केही दिन मात्र बाँकी रहँदा धरानमा प्रतियोगिताबारे चर्चा चुलिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/budhasubba-gold-cup-dharan-s-identity-a-golden-opportunity-for-young-talent-40-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769874267_Budasubba-480x320.jpg"
+    },
+    {
+      "title": "प्रमुख दलबाट महिला उम्मेदवार न्यून",
+      "summary": "पोखरामा जारी साफ यू-१९ महिला फुटबल च्याम्पियनसिपमा आयोजक नेपालले हारबाट प्रतियोगिताको सुरुवात गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-19-nepal-loses-to-india-bangladesh-rains-goals-on-bhutan-75-15.html?click_from=just_in",
       "image_url": ""
     }
   ]
