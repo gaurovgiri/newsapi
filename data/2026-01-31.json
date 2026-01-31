@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-01-31T02:37:53.052291",
+  "scraped_at": "2026-01-31T05:05:04.940711",
   "date": "2026-01-31",
-  "total_articles": 33,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -271,6 +271,110 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-are-struggling-to-import-and-plant-potatoes-95-67.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "२१ नजिकिदै गर्दा चुनावी घोषणापत्रमा व्यवसायीको कडा प्रश्न",
+      "summary": "२१ नजिकिदै गर्दा चुनावी घोषणापत्रमा व्यवसायीको कडा प्रश्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12132",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Niji-chetra-ko-chaso__-1769831612.jpg"
+    },
+    {
+      "title": "साइलेन्सर बिगार्ने फन्दामा, प्रहरी शुरु ग¥यो कारबाही, स्थानीय दंग",
+      "summary": "साइलेन्सर बिगार्ने फन्दामा, प्रहरी शुरु ग¥यो कारबाही, स्थानीय दंग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12128",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bike-atanka__-1769827859.jpg"
+    },
+    {
+      "title": "िप्रेमीका लागि अनुसन्धान केन्द्र बन्यो पुतली संग्राहलय",
+      "summary": "िप्रेमीका लागि अनुसन्धान केन्द्र बन्यो पुतली संग्राहलय",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12125",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/putali-saghralaya___-1769742701.jpg"
+    },
+    {
+      "title": "Nepal issues Nipah testing guidelines amid India outbreak",
+      "summary": "Ailing patients with fever, breathing difficulties, or coma, and known exposure are suspected Nipah cases.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/01/30/nepal-issues-nipah-testing-guidelines-amid-outbreak-in-india",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1769783567.jpg&w=300&height=200"
+    },
+    {
+      "title": "Belbas-Bethari road gets federal funding to complete stalled section",
+      "summary": "The road’s 3-km Motipur stretch has remained a major bottleneck since work stopped six years ago due to lack of funds.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/belbas-bethari-road-gets-federal-funding-to-complete-stalled-section",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/belbase-1769826357.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pressure mounts to ready parliament building as House election nears",
+      "summary": "The contractor has already missed its fifth deadline in the past three years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/01/31/pressure-mounts-to-ready-parliament-building-as-house-election-nears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/WhatsAppImage20260131at70927AM-1769822896.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepathya to perform in four cities during February music tour",
+      "summary": "When the state fails to prosecute human rights violators, impunity becomes the unofficial law of the land.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/31/nepathya-to-perform-in-four-cities-during-february-music-tour",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/relimainight-1769825649.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVENTS: January 31 to February 6, 2026",
+      "summary": "Here are some of the photos taken by our photojournalists and reporters this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/31/events-january-31-to-february-6-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/belbase-1769826357.jpg&w=400&height=267"
+    },
+    {
+      "title": "In ‘Simanta Samjhana’, memories of Birgunj come alive",
+      "summary": "Backlash against the administration’s immigration policy also threatened to spark a partial US government shutdown as Democrats in Congress opposed funding for the Department of Homeland Security, which oversees ICE.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/01/31/in-simanta-samjhana-memories-of-birgunj-come-alive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "यो चुनावमा अराजकता होइन, स्थायित्व रोजौँ : खुश्बु ओली",
+      "summary": "जनकपुरधामको जानकी मन्दिरको मूल प्रवेशद्वारको दक्षिणतर्फ फर्केर हेर्दा ‘सुनैना मिथिला आर्ट ग्यालरी’ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sunaina-kuchi-on-mithila-canvas-br-55-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769834764_heat new 52-480x320.jpg"
+    },
+    {
+      "title": "बास्कोटाको कटाक्ष : चुनाव जित्ने दाबी गरेको देख्दा लाग्छ एकल सरकार नै बनाइ सके",
+      "summary": "प्रतियोगितालाई दर्शकहरूको सहजताका लागि सामान्य प्यारापिटतर्फ रु २०० र भिआइपीतर्फ रु ५०० को टिकटको व्यवस्था गरिएको एन्फाले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-bangladesh-bhutan-nepal-india-clash-in-opening-match-today-40-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769833918_Football -480x320.jpg"
+    },
+    {
+      "title": "गुगलमा जे देखिए पनि भुगोलमा नेकपा एमालेले जित्ने अवस्था छ : अध्यक्ष देवकोटा",
+      "summary": "विगत वर्षहरूमा १२ टिमसम्म सहभागी गराइएको बुढासुब्बा गोल्डकप विभिन्न कारणले केही समय आठ टिममा सीमित रहँदै आएकामा यस वर्ष भने १० टिमको सहभागिता रहनेछ। तामाङले भने, ‘यस वर्ष दश टिमको सहभागितामा यही माघ २२ गतेदेखि २६औँ संस्करणको प्रतियोगिताको सुरु हुँदैछ, यो हामी सबैका लागि खुसीको कुरा हो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/football-festival-in-dharan-26th-budhasubba-gold-cup-from-magh-22-exciting-clash-of-10-teams-55-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769832565_Goldcup-480x320.jpg"
+    },
+    {
+      "title": "संघीयता खारेज गर्नु रास्वपाको एजेण्डा हो, यसलाई परास्त गर्नुपर्छ : सिके राउत",
+      "summary": "न्यायाधीशले भने, ‘लिभ-इन सम्बन्ध भारतीय समाजको लागि सांस्कृतिक झट्का हो। तर यो व्यापक रूपमा बढिरहेको छ। आधुनिक महिलाहरूले यो रोज्छन्। तर वैवाहिक सुरक्षाको अभाव महसुस हुँदा वास्तविकताले आगो जस्तै जलाउँछ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/live-in-women-should-be-given-the-status-of-wife-madras-high-court-49-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769830948_Live-in Couple-480x320.jpg"
     }
   ]
 }
