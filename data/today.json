@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-31T05:05:04.940711",
+  "scraped_at": "2026-01-31T08:39:46.712906",
   "date": "2026-01-31",
-  "total_articles": 47,
+  "total_articles": 52,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -383,6 +383,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/live-in-women-should-be-given-the-status-of-wife-madras-high-court-49-72.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769830948_Live-in Couple-480x320.jpg"
+    },
+    {
+      "title": "फेरि प्रधानमन्त्री हुने हो ? भन्ने प्रश्नमा प्रचण्डको उत्तर: त्यतातिर मेराे ध्यान छैन",
+      "summary": "‘सबै पार्टी एकै ठाउँमा नआउँदासम्म हाम्रो पार्टी एकता जारी रहन्छ,’ प्रचण्डले भने, ‘विचार मिल्ने जति सबै पार्टीसँग हामी एकता गर्छौँ। राष्ट्रलाई एक बनाएर छोड्छु।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-answer-to-the-question-of-whether-he-will-become-prime-minister-again-i-am-not-interested-in-that-39-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769847140_PC1-480x320.jpg"
+    },
+    {
+      "title": "जनताको सेवा नै मेरो पहिलो कर्तव्य : महेश बस्नेत",
+      "summary": "नेकपा (एमाले)का सचिव महेश बस्नेतले भक्तपुरको अधुरा विकास योजनाहरू पूरा गर्ने दृढ प्रतिबद्धतासहित आफू उम्मेदवारका रूपमा जनतामाझ उपस्थित भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/serving-the-people-is-my-first-duty-mahesh-basnet-12-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769847013_mahesh-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंमा फुटपाथमा काम गरेर खाने मजदूरहरूको गास खोसिँदैन : गगन थापा",
+      "summary": "यो बन्द छोटो समयका लागि हुने अमेरिकी सञ्चारमाध्यमले जानकारी दिएका छन्। यदि हाउसले सोमबार चाँडै सम्झौता अनुमोदन गरेमा प्रभाव न्यूनतम रहनेछ। यसअघि ट्रम्प प्रशासनले गत वर्ष ४३ दिन लामो बन्दको सामना गर्नुपरेको थियो। जानकारी अनुसार डेमोक्र्याट र रिपब्लिकन दुवै पक्षले वार्ता जारी राखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-in-partial-shutdown-after-trump-s-immigration-policy-controversy-83-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769846624_USA Shutdown-480x320.jpg"
+    },
+    {
+      "title": "सभापति थापाको संकल्प : अब देश कांग्रेसले नै बदल्छ",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले कांग्रेसको कार्यकालमा नेपाली युवाहरू विदेश जान नपर्ने गरी वातावरण बनाउने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/laborers-who-work-and-eat-on-the-sidewalks-in-kathmandu-will-not-be-spared-gagan-thapa-57-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769091925_gagan-480x320.jpg"
+    },
+    {
+      "title": "तोसिमालाई जेनजीको प्रश्न : चुनाव सार्न मात्रै आन्दोलनमा रगत प्रयोग हो ?",
+      "summary": "‘सबै पार्टी एकै ठाउँमा नआउँदासम्म हाम्रो पार्टी एकता जारी रहन्छ,’ प्रचण्डले भने, ‘विचार मिल्ने जति सबै पार्टीसँग हामी एकता गर्छौँ। राष्ट्रलाई एक बनाएर छोड्छु।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-answer-to-the-question-of-whether-he-will-become-prime-minister-again-i-am-not-interested-in-that-39-72.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
