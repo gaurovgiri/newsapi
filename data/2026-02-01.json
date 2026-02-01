@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-01T05:24:52.166344",
+  "scraped_at": "2026-02-01T08:41:45.801564",
   "date": "2026-02-01",
-  "total_articles": 38,
+  "total_articles": 45,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -311,6 +311,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nisha-s-five-point-manifesto-from-infrastructure-to-women-s-participation-with-full-text-56-83.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769920770_Nisha-480x320.jpg"
+    },
+    {
+      "title": "१० वडाको गज्जबको काम, स्थानीय उत्पादन प्रवद्र्धन गर्न उद्यम मेला",
+      "summary": "१० वडाको गज्जबको काम, स्थानीय उत्पादन प्रवद्र्धन गर्न उद्यम मेला",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12134",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Udhami-ko-utsab__-1769832446.jpg"
+    },
+    {
+      "title": "Political instability after Gen Z protests pushed food prices up eightfold",
+      "summary": "Supply disruptions, middlemen and volatile politics prompted price hikes in staples, vegetables and fruits in first four months of the current fiscal year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/01/31/political-instability-after-gen-z-protests-pushed-food-prices-up-eightfold",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/1090622BirtamodeKrisiBazarPicture2copy-1769908309.jpg&w=300&height=200"
+    },
+    {
+      "title": "Candidates brave snow and cold to campaign in Jumla highlands",
+      "summary": "Despite harsh winter conditions, party leaders visit villages for door-to-door outreach.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/02/01/candidates-brave-snow-and-cold-to-campaign-in-jumla-highlands",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/chunav01220260452591000x0-1769921905.jpg&w=300&height=200"
+    },
+    {
+      "title": "Pakistan says 92 militants killed after attacks in Balochistan",
+      "summary": "The attacks were carried out a day after Pakistan’s military said it killed 41 militants in separate raids in Balochistan, which borders Iran and Afghanistan and has faced a decades-long separatist insurgency.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/01/pakistan-says-92-militants-killed-after-attacks-in-balochistan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/pakistan-1769927585.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचनका लागि दुई हजार नौ सय बढी कर्मचारी खटिने",
+      "summary": "बलोचिस्तान प्रान्त पाकिस्तानको रणनीतिक दृष्टिले महत्वपूर्ण क्षेत्र हो। यहाँ बन्दरगाह शहर ग्वादर, प्राकृतिक स्रोत र आर्थिक परियोजनाहरू रहेका छन्। विगत केही वर्षदेखि यो क्षेत्रमा विभिन्न आतंकवादी समूह सक्रिय रहेका छन्। पाकिस्तानले नियमित रूपमा सुरक्षा अपरेशन सञ्चालन गर्दै आएको छ, जसले आतंकवादी गतिविधिलाई रोक्न र स्थानीय जनजीवन सुरक्षित बनाउन सहयोग पुर्‍याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/army-operation-in-pakistan-92-terrorists-claimed-to-have-been-killed-43-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769933919_Pakistan Army-480x320.jpg"
+    },
+    {
+      "title": "उम्मेदवारसँग मतदाताले भने : वन्यजन्तु र मानव द्वन्द्व व्यवस्थापन गर्नुस्",
+      "summary": "बालेन्द्र साहको चुनावी अभियानका क्रममा अछाममा अचेत भएका पत्रकार दिनेश सिटौलाको निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/journalist-dinesh-sitaula-passes-away-66-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769933171_dinesh-480x320.jpg"
+    },
+    {
+      "title": "मकवानपुर २ बाट महेशले सानदार जित हासिल गर्ने गोकुलको विश्वास",
+      "summary": "हनुमानघाटस्थित त्रिवेणीधाममा आजदेखि एकमहिने कठिन माधवनारायण मेला एवं व्रत सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/eighth-century-old-month-long-madhav-narayan-mela-concludes-at-triveni-dham-br-38-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769933251_udu 52-480x320.jpg"
     }
   ]
 }
