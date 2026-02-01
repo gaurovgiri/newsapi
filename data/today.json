@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-01T13:06:53.251352",
+  "scraped_at": "2026-02-01T16:39:40.337014",
   "date": "2026-02-01",
-  "total_articles": 51,
+  "total_articles": 59,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-with-snow-expected-on-magh-20-urges-caution-10-87.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "New parties challenge traditional heavyweights in Salyan",
+      "summary": "Fourteen candidates, including contenders from newer parties, enter the March 5 House race amid a shifting political mood.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/01/new-parties-challenge-traditional-heavyweights-in-salyan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/salyan01220260804431000x0-1769937328.jpg&w=300&height=200"
+    },
+    {
+      "title": "Journalist Dinesh Sitaula dies",
+      "summary": "He collapsed during RSP’s election campaign in Achham Friday and was being treated in Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/01/journalist-dinesh-sitaula-dies-after-collapsing-on-election-campaign-in-achham",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/dinesh01220260757121000x0-1769937418.png&w=300&height=200"
+    },
+    {
+      "title": "MoFA urges Nepalis in Iran to leave immediately amid security concerns",
+      "summary": "Ministry advises Nepalis to defer travel and prepare documents for emergency exit.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/01/mofa-urges-nepalis-in-iran-to-leave-immediately-amid-security-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ministryofforeignaffairsnepaluiksthdazi10620241109231000x0-1769961094.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रदेशसभा सञ्चालन गर्न महानगरसँग सम्झौता",
+      "summary": "सिमेन्टमा प्रयोग हुने कच्चा पदार्थ ‘क्लिंकर’ मा ४६ करोड रुपैयाँ भ्रष्टाचार भएको तथ्य भेटिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/udayapur-cement-industry-460-million-rupees-corruption-in-clinker-purchase-br-84-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769963575_f-480x320.jpg"
+    },
+    {
+      "title": "बाँके-२ : ‘नन-पोलिटिकल’ मत निर्णायक",
+      "summary": "गत माघ १५ गतेदेखि उदयपुरमा जारी ‘११औँ नारदमुनि थुलुङ स्मृति गोल्डकप फुटबल प्रतियोगिता–२०८२’ का क्वाटरफाइनल खेल आइतबार सम्पन्न भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/apf-advances-to-semifinals-of-naradmuni-gold-cup-br-52-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769962642_Basaha-480x320.jpg"
+    },
+    {
+      "title": "गगन थापा मुलुकको नेतृत्व गर्न तयारः शर्मा",
+      "summary": "विराटनगर स्थित वीरेन्द्र सभागृहमा प्रदेशसभा बैठक सञ्चालनका लागिविराटनगर महानगरपालिका र कोशी प्रदेशसभा सचिवालयबीच सम्झौता भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/agreement-with-the-metropolis-to-operate-the-provincial-assembly-13-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769962455_Koshi-480x320.jpg"
+    },
+    {
+      "title": "आगामी निर्वाचन देशको स्वाधीनताका लागि महत्त्वपूर्ण छः उपाध्यक्ष थापा",
+      "summary": "राजनीतिक विश्लेषक जनार्दन आचार्यका अनुसार बाँके-२ मा करिब १५ देखि १८ प्रतिशत मतदाता ‘नन–पोलिटिकल’ प्रकृतिका छन्। यस्ता मतदाता कुनै एक दलप्रति स्थायीरूपमा प्रतिबद्ध हुँदैनन् र समयअनुसार यताउता भइरहन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/banke-2-non-political-vote-decisive-br-89-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769962798_bake2-480x320.jpg"
+    },
+    {
+      "title": "पूर्व अर्थमन्त्रीसँग युवा अर्थविद्को रोचक प्रतिस्पर्धा",
+      "summary": "सिमेन्टमा प्रयोग हुने कच्चा पदार्थ ‘क्लिंकर’ मा ४६ करोड रुपैयाँ भ्रष्टाचार भएको तथ्य भेटिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/udayapur-cement-industry-460-million-rupees-corruption-in-clinker-purchase-br-84-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
