@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-01T08:41:45.801564",
+  "scraped_at": "2026-02-01T13:06:53.251352",
   "date": "2026-02-01",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -367,6 +367,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/eighth-century-old-month-long-madhav-narayan-mela-concludes-at-triveni-dham-br-38-61.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769933251_udu 52-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिमका महत्वपूर्ण आयोजनालाई पूर्णता दिन मेरो उम्मेदवारी: भट्ट",
+      "summary": "२० माघमा देशका विभिन्न भागमा फेरि हिउँ र पानी पर्ने सम्भावना रहेको मौसमविद्हरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-with-snow-expected-on-magh-20-urges-caution-10-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768708597_Snow-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगको कल सेन्टरमा एक हजार ६७७ जिज्ञासा",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (एमाले) का उपमहासचिव लेखराज भट्टले सुदूरपश्चिममा सञ्चालित महत्वपूर्ण आयोजनालाई पूर्णता दिन आफ्नो उम्मेदवारी रहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/my-candidacy-to-complete-important-projects-in-the-far-west-bhatta-55-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769949340_Bhatta-480x320.jpg"
+    },
+    {
+      "title": "वाईसीएलले अर्धसैन्य दस्ता फेरि व्युँताउने",
+      "summary": "सन् २०२६ को पहिलो महिना जनवरीमा ९२ हजार ५७३ पर्यटक नेपाल भित्रिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/92-000-tourists-entered-nepal-in-one-month-33-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1745562540_tourist-480x320.jpg"
+    },
+    {
+      "title": "चुरेलाई आरक्षित क्षेत्र बनाउनुपर्छ : अध्यक्ष यादव",
+      "summary": "अमेरिका र इरानबीच तनाव चर्किँदै गएपछि नेपाल सरकारले इरानमा रहेका नेपाली नागरिकलाई जतिसक्दो छिटो स्वदेश फर्किन आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-urges-nepalis-in-iran-to-return-home-66-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769948771_Foren-480x320.jpg"
+    },
+    {
+      "title": "सुर्खेतमा प्रहरी जवानको परीक्षा दिने १२ नक्कली परीक्षार्थी पक्राउ",
+      "summary": "२० माघमा देशका विभिन्न भागमा फेरि हिउँ र पानी पर्ने सम्भावना रहेको मौसमविद्हरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-with-snow-expected-on-magh-20-urges-caution-10-87.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
