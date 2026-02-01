@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-01T03:19:57.624447",
+  "scraped_at": "2026-02-01T05:24:52.166344",
   "date": "2026-02-01",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/road-accidents-in-sarlahi-29-people-killed-190-injured-in-6-months-66-69.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Guterres warning of ‘UN financial collapse’ rings alarm bells in Nepal",
+      "summary": "Along with a drop in the number of Nepali peacekeepers, programmes related to health, education, disaster response, poverty reduction, and governance reforms will be hit.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/01/guterres-warning-of-un-financial-collapse-rings-alarm-bells-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/UNIFILsouthernlebanon-1769907778.jpg&w=300&height=200"
+    },
+    {
+      "title": "नीशाको पाँच बुँदे घोषणापत्र: पूर्वाधारदेखि महिला सहभागितासम्म (पूर्णपाठसहित)",
+      "summary": "नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार आज तोलामा १८ हजार ८०० रुपैयाँले घटेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-fell-by-18-800-83-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766985796_Gold silver price-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : बैतडीमा एक हजार ४४२ कर्मचारी खटाइने",
+      "summary": "क्यानडाका प्रधानमन्त्री मार्क कार्नीले पुरानो विश्व व्यवस्था भंग भएको र अब मध्यम शक्ति–राष्ट्रहरूले साझा हित अगाडि बढाउन एकजुट हुनुपर्छ भनेर डाभोसमा चेतावनी दिनु गलत होइन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/a-world-order-led-by-middle-powers-nations-br-73-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769922267_ntu 52-480x320.jpg"
+    },
+    {
+      "title": "झापा ३ मा ढुक्क एमाले : १२ वर्षपछि खोलो फर्काउने दाउमा हरिबहादुर",
+      "summary": "वीरगञ्ज हुँदै चालु आर्थिक वर्षको छ महिनामा रु सात अर्ब ६४ करोड मूल्य पर्ने सात थरिका दलहनजन्य खाद्यान्न भित्रिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/pulses-worth-7-64-billion-imported-through-birgunj-in-six-months-55-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750845783_Birgunj-480x320.jpg"
+    },
+    {
+      "title": "युवाहरूलाई पार्टी प्रवेश गराउँदै लिङ्देनले भने : हामी निकै उत्साहित छौँ",
+      "summary": "उनले अगाडि भनेकी छिन्, ‘यो घोषणापत्र पूर्ण हुन सक्छ भन्ने दाबी म गर्दिनँ। तर यो इमानदार छ। यो गम्भीर छ। र यो तपाईंहरूसँग संवाद सुरु गर्ने आधार हो।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nisha-s-five-point-manifesto-from-infrastructure-to-women-s-participation-with-full-text-56-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769920770_Nisha-480x320.jpg"
     }
   ]
 }
