@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-02T02:52:39.881624",
+  "scraped_at": "2026-02-02T05:27:02.276672",
   "date": "2026-02-02",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-two-matches-to-be-held-today-64-50.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Millions exposed to lead in toothpaste, sindoor and eyeliners",
+      "summary": "Even popular brands in Nepal found laced with highly toxic metal that can damage the brain, kidneys, nervous system.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/02/millions-exposed-to-lead-in-toothpaste-sindoor-and-eyeliners",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Ai-1769990470.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेन्द्रलाई इंगित गर्दै हर्कले भने : घन्टीमा भोट दिनु भनेको आफ्नै घरमा डोजर चलाइ माग्नु हो",
+      "summary": "खैरहनी नगरपालिका–५ का निश्चल चौधरी र शङ्कर चौधरीले आमाको नामबाट नागरिकता पाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/siblings-from-the-same-family-received-citizenship-in-their-mother-s-name-43-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753675836_Nagarikta-1200x560-480x320.jpg"
+    },
+    {
+      "title": "नेतृत्वदायी अवसरहरू गुमाएपछि पश्चातापको समय मात्र रहन्छ : बास्कोटा",
+      "summary": "त्यस्तै चाँदीको मूल्य भने हिजोकै मूल्यमा कारोबार भइरहेको महासंघले जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-drops-by-rs-13-400-11-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
     }
   ]
 }
