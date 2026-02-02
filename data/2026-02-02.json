@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-02T13:18:10.579779",
+  "scraped_at": "2026-02-02T16:52:38.015747",
   "date": "2026-02-02",
-  "total_articles": 48,
+  "total_articles": 58,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -390,6 +390,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-meeting-central-committee-to-meet-on-magh-22-provincial-responsibilities-to-be-distributed-br-83-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rights defenders urge parties to prioritise transitional justice in poll agendas",
+      "summary": "They said past governments have treated transitional justice as a political tool.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/02/rights-defenders-urge-parties-to-prioritise-transitional-justice-in-poll-agendas",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/TJ-1770039822.jpg&w=300&height=200"
+    },
+    {
+      "title": "Gen Z pressure forced me to pick certain ministers, PM tells upper house",
+      "summary": "The prime minister revealed that the names inducted under pressure included Mahabir Pun, Kulman Ghising, Jagdish Kharel and Bablu Gupta.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/02/gen-z-influence-led-to-compelled-ministerial-picks-prime-minister-karki-tells-house",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sushilakarki02220261129471000x0-1770035029.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal beat Bhutan 2–1 to keep final hopes alive in SAFF U19 Women’s Championship",
+      "summary": "Goals from Srijana Baduwal and substitute Prajita Rai earn Nepal their first win of the tournament in Pokhara.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/02/nepal-beat-bhutan-2-1-to-keep-final-hopes-alive-in-saff-u19-women-s-championship",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NEPALVSBHUTAN-1770038831.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government warns against submitting fake information for visas",
+      "summary": "Warning comes following US concerns over visa documents and character certificates issued by Nepal Police.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/02/government-warns-against-submitting-fake-information-for-visas",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ministryofforeignaffairsnepaluiksthdazi10620241109231000x01-1770046547.jpg&w=600&height=400"
+    },
+    {
+      "title": "Who fears feminism in Bangladesh?",
+      "summary": "Warning comes following US concerns over visa documents and character certificates issued by Nepal Police.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/02/who-fears-feminism-in-bangladesh",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ministryofforeignaffairsnepaluiksthdazi10620241109231000x01-1770046547.jpg&w=400&height=267"
+    },
+    {
+      "title": "नेपाल र जापानबीचको मित्रता ऐतिहासिक: राष्ट्रपति",
+      "summary": "स्वास्थ्य तथा जनसंख्या मन्त्रालयले छिमेकी मुलुक भारतमा निपाह भाइरसको संक्रमण तीव्र देखिएकाले देशभरका स्वास्थ्य संस्था तथा निकायहरूलाई उच्च सतर्कता अपनाउन निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/nipah-virus-risk-in-nepal-ministry-of-health-directs-health-institutions-across-the-country-to-be-vigilant-96-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769088077_virus-480x320.jpg"
+    },
+    {
+      "title": "संसद् पुनः स्थापना हुँदैन, चुनाव हुन्छः उपसभापति शर्मा",
+      "summary": "भक्तपुरको ऐतिहासिक एवं धार्मिक तीर्थस्थल हनुमानघाटमा सञ्चालित एक महिने माधवनारायण व्रत (धलं) सोमबार विधिवत् रूपमा समापन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/one-month-madhav-narayan-fast-formally-concludes-at-hanuman-ghat-56-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770048894_shiva-480x320.jpg"
+    },
+    {
+      "title": "पार्टी फुटाउन केन्द्रीय समिति र संसदीय दल दुवैतर्फ ४० प्रतिशत चाहिने",
+      "summary": "जेन-जी आन्दोलनका क्रममा गत भदौ २४ गते आगलागीबाट क्षति भएको सिंहदरबारको मूल भवन तथा सिंहदबारपरिसरभित्र रहेका अन्य भवनहरूको पुनर्निर्माणको काम सरकारले यही वर्षदेखि सुरु गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-of-singha-durbar-to-begin-this-year-78-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758040835_singa-480x320.jpg"
+    },
+    {
+      "title": "मुख्यमन्त्री कार्कीको निर्देशन- बजेट खर्च बढाउने गरी काम गर्नू",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलले नेपाल र जापानबीचको मित्रता ऐतिहासिक, विश्वासमा आधारित र बहुआयामिक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/friendship-between-nepal-and-japan-is-historic-president-74-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770047891_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बदलिएको कांग्रेसले देश विकासको नेतृत्व गर्छः पौडेल",
+      "summary": "स्वास्थ्य तथा जनसंख्या मन्त्रालयले छिमेकी मुलुक भारतमा निपाह भाइरसको संक्रमण तीव्र देखिएकाले देशभरका स्वास्थ्य संस्था तथा निकायहरूलाई उच्च सतर्कता अपनाउन निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/nipah-virus-risk-in-nepal-ministry-of-health-directs-health-institutions-across-the-country-to-be-vigilant-96-46.html?click_from=just_in",
       "image_url": ""
     }
   ]
