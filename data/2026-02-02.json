@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-02T08:55:38.753172",
+  "scraped_at": "2026-02-02T13:18:10.579779",
   "date": "2026-02-02",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -350,6 +350,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-the-charioteer-of-crisis-in-bhaktapur-mahesh-basnet-39-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नेकपा बैठक: माघ २२ मा केन्द्रीय कमिटी बस्ने, प्रदेशगत जिम्मेवारी बाँडफाँट",
+      "summary": "नेपाल कम्युनिष्ट पार्टीको निर्वाचन परिचालन समितिको सचिवालय बैठक सम्पन्न भएको छ। सोमबार पार्टी केन्द्रीय कार्यालय पेरिसडाँडामा संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ को अध्यक्षतामा दोस्रो बैठक सम्पन्न भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-meeting-central-committee-to-meet-on-magh-22-provincial-responsibilities-to-be-distributed-br-83-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770036781_nekapa-480x320.jpg"
+    },
+    {
+      "title": "गठबन्धन सरकारको फोहोरी खेल अन्त्य गर्न रास्वपालाई एकल बहुमत दिनुस्: सोबिता",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की नेतृ एवं चितवन क्षेत्र नं-३ की उम्मेदवार सोबिता गौतमले मुलुकमा राजनीतिक स्थिरता र विकासका लागि आफ्नो पार्टीलाई एकल बहुमत दिन मतदातासँग आग्रह गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/give-rsvp-a-single-majority-to-end-the-coalition-government-s-dirty-game-sobita-92-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737876921_Sobita jpg-480x320.jpg"
+    },
+    {
+      "title": "राजसंस्था स्थापना नभएसम्म निर्वाचन हुन दिँदैनौं: दुर्गा प्रसाईं",
+      "summary": "छिमेकी देशमा देखिएको निपाह भाइरसका सङ्क्रमणको जोखिम नेपालमा न्यून भए पनि सतर्क रहन स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयले आग्रह गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/health-ministry-urges-caution-despite-low-risk-of-nipah-virus-78-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770036079_Nipaha-480x320.jpg"
+    },
+    {
+      "title": "आचारसंहिता पालना गर्ने प्रतिबद्धता",
+      "summary": "मेडिकल व्यवसायी तथा अभियन्ता दुर्गा प्रसाईंले मुलुकमा राजसंस्था स्थापना नभएसम्म निर्वाचन हुन नदिने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-not-allow-elections-until-the-monarchy-is-established-durga-prasai-13-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ अघि कुनै विवाद र बहसमा नजान कांग्रेस कार्यकर्तालाई विश्वप्रकाशको निर्देशन",
+      "summary": "नेपाल कम्युनिष्ट पार्टीको निर्वाचन परिचालन समितिको सचिवालय बैठक सम्पन्न भएको छ। सोमबार पार्टी केन्द्रीय कार्यालय पेरिसडाँडामा संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ को अध्यक्षतामा दोस्रो बैठक सम्पन्न भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-meeting-central-committee-to-meet-on-magh-22-provincial-responsibilities-to-be-distributed-br-83-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
