@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-02T05:27:02.276672",
+  "scraped_at": "2026-02-02T08:55:38.753172",
   "date": "2026-02-02",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-drops-by-rs-13-400-11-60.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "Three TIA customs staff held with bribe money, 23 mobile phones seized",
+      "summary": "CIAA says the trio demanded bribes from service users sending goods abroad through courier services; cash and phones seized for investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/02/three-tia-customs-staff-held-with-bribe-money-23-mobile-phones-seized",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1770013168.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court bars publication of citizenship numbers in driving licence results",
+      "summary": "Court says disclosing personal details violates right to privacy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/02/supreme-court-bars-publication-of-citizenship-numbers-in-driving-licence-results",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1770011475.jpg&w=300&height=200"
+    },
+    {
+      "title": "म भक्तपुरमा संकटको सारथी हुँ: महेश बस्नेत",
+      "summary": "महेश बस्नेतले आफूलाई ‘सङ्कटका सारथि’का रूपमा प्रस्तुत गर्दै भक्तपुरको विकास यात्रालाई अझ तीव्र बनाउने प्रतिबद्धता जनाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-the-charioteer-of-crisis-in-bhaktapur-mahesh-basnet-39-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770022245_Mahesh_Basnet-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलनपछि पहिलो पटक राष्ट्रिय सभामा सम्बोधन गर्दै प्रधानमन्त्री कार्की",
+      "summary": "भारत र श्रीलंकाले संयुक्त रूपमा आयोजना गर्न लागेको १०औँ संस्करणको आईसीसी टी–२० पुरुष विश्वकपमा कूल २० टोली प्रतिस्पर्धामा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-s-world-cup-journey-from-the-commendable-performance-in-the-debut-world-cup-to-the-pain-of-that-one-run-in-the-second-world-cup-12-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770021670_Team_Nepal-480x320.jpg"
+    },
+    {
+      "title": "चुनावी चर्चा : कैलाली-१ मा पुरानै दलबिच प्रतिस्पर्धा",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका लागि यहाँबाट ६७ निर्वाचन प्रहरी छिमेकी जिल्ला स्याङ्जा पठाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/67-election-policemen-sent-from-tanahun-to-syangja-73-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767951421_Myadi-480x320.jpg"
+    },
+    {
+      "title": "सुनसरी १ : हर्क साम्पाङका रोचक प्रतिस्पर्धी",
+      "summary": "प्रोत्साहन भत्ता लिन आउँदा विवाह दर्ता र बालिकाको जन्मदर्ता ल्याउनुपर्ने भएकाले यसले बालविवाहलाई रोक्ने अपेक्षा गरिएको छ। त्यसअघि पालिकाले सुत्केरी आमालाई पोषण भत्ता स्वरुप ५०० रुपैयाँ दिँदै आएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rs-3-000-incentive-allowance-for-parents-who-give-birth-to-a-daughter-39-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770020040_Money-480x320.jpg"
+    },
+    {
+      "title": "ठुलाठुला आश्वासन बाँडेर मतदाता रिझाउन कसरत",
+      "summary": "महेश बस्नेतले आफूलाई ‘सङ्कटका सारथि’का रूपमा प्रस्तुत गर्दै भक्तपुरको विकास यात्रालाई अझ तीव्र बनाउने प्रतिबद्धता जनाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-the-charioteer-of-crisis-in-bhaktapur-mahesh-basnet-39-29.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
