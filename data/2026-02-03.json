@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-03T08:51:05.360328",
+  "scraped_at": "2026-02-03T13:18:49.089053",
   "date": "2026-02-03",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/pakistan-team-arrives-in-sri-lanka-to-play-world-cup-will-not-play-against-india-in-the-same-group-67-45.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "राष्ट्रपति पौडेलसँग जापानका प्रधानमन्त्रीको शिष्टाचार भेट",
+      "summary": "आइसिसी टी-२० विश्वकप क्रिकेटको आफ्नो पहिलो अभ्यास खेलमा यूएईले नेपाल सामु १४६ रनको लक्ष्य प्रस्तुत गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-cricket-practice-uae-sets-146-run-target-for-nepal-90-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770123676_Cricket nepal-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक सूचीबाट किन हटाइयो ७६ उम्मेदवारको नाम ?",
+      "summary": "राष्ट्रपति पौडेलले द्विपक्षीय व्यापार विस्तारका साथै नेपालको विकास प्राथमिकताका क्षेत्रमा अहिले जापानी लगानी आकर्षित गर्ने प्रचुर सम्भावना रहेको उल्लेख गरे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/japanese-prime-minister-pays-courtesy-call-on-president-poudel-20-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770123024_Poudel Japan-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जाल नियमन विधेयक फिर्ता लिने सरकारको निर्णय",
+      "summary": "निर्वाचन आयोगले फागुन २१ गते सम्पन्न हुने प्रतिनिधि सभा सदस्य निर्वाचनका लागिविभिन्न राजनीतिक दलहरूलेआयोगका बुझाएको समानुपातिक निर्वाचन प्रणालीतर्फको बन्दसूचीबाट ७६ जना उम्मेदवारको नाम हटाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-were-the-names-of-76-candidates-removed-from-the-proportional-list-72-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768289728_nirbachan-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ पछि आउने संसद्‌मा प्रतिपक्षी समेत नयाँ हुनुपर्छ, सर्प त एउटा पनि पाल्न सकिँदैन: रवि",
+      "summary": "माघ १५ गते देखि धादिङको सदरमुकाम धादिङ बेसीमा सुरु भएको दशौ धादिङ महोत्सवमा आयोजना अघि बढाउन दबाब स्वरुप हस्ताक्षर अभियान थालेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/locals-are-increasing-pressure-to-move-forward-with-the-budhigandaki-hydropower-project-50-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770122003_BudiGandaki 1-480x320.jpg"
+    },
+    {
+      "title": "‘सडक र पुलको तस्बिर बेचेर भोट माग्दिनँ, सिंहदरबारको ‘विष’ फाल्न आएको हुँ’",
+      "summary": "आइसिसी टी-२० विश्वकप क्रिकेटको आफ्नो पहिलो अभ्यास खेलमा यूएईले नेपाल सामु १४६ रनको लक्ष्य प्रस्तुत गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-cricket-practice-uae-sets-146-run-target-for-nepal-90-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
