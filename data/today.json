@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-03T13:18:49.089053",
+  "scraped_at": "2026-02-03T17:02:34.750451",
   "date": "2026-02-03",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-cricket-practice-uae-sets-146-run-target-for-nepal-90-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prime Minister Karki hints at possibility of elections in two phases",
+      "summary": "However, rules out speculations of postponement of the March 5 polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/03/prime-minister-karki-hints-at-possibility-of-elections-in-two-phases",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img20260203wa001903220260901091000x0-1770114930.jpg&w=300&height=200"
+    },
+    {
+      "title": "Voters fear possible booth capture and ballot manipulation",
+      "summary": "Security agencies say high-security measures have been planned for the upcoming elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/03/voters-fear-possible-booth-capture-and-ballot-manipulation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/womenvoter2-1770137681.jpg&w=300&height=200"
+    },
+    {
+      "title": "Aarif, Dipendra power Nepal to a seven-wicket win over UAE in World Cup warmup",
+      "summary": "Nepal’s second and last warm-up match before their World Cup group-stage fixture is against Canada on February 5.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/03/aarif-dipendra-power-nepal-to-a-seven-wicket-win-over-uae-in-world-cup-warmup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/Untitled1-1770137127.jpg&w=600&height=400"
+    },
+    {
+      "title": "सीमा सुरक्षाका लागि समन्वय गर्न गृहको निर्देशन",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनलाई स्वच्छ, निष्पक्ष, शान्तिपूर्ण र भयरहित वातावरणमा सम्पन्न गर्न गृह मन्त्रालयले सीमा जोडिएका जिल्लाका प्रमुख जिल्ला अधिकारीहरूलाई समन्वय गर्न निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-ministry-directs-to-coordinate-for-border-security-br-26-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762864968_home-480x320.jpg"
+    },
+    {
+      "title": "जनमतका चार नेताद्वारा सामूहिक राजीनामा",
+      "summary": "सिरहामा पार्टीका केन्द्रीय पदाधिकारीसहित चार जना नेताहरूले सामूहिक रूपमा पार्टी परित्यागको घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/four-leaders-including-executive-member-and-central-member-leave-janmat-party-46-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "सांसदका रूपमा मैले आफ्नो निर्वाचन क्षेत्रको विकासमा सधैँ ध्यान दिएको छुः पौडेल",
+      "summary": "सशस्त्र प्रहरी बलले ललितपुरबाट आज पेस्तोलसहित तीन जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/three-people-arrested-with-pistols-from-lalitpur-50-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770134648_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कसलाई मतदान गर्ने भन्ने प्रश्न सोधे कारबाही गरिने",
+      "summary": "सङ्खुवासभाको सभापोखरी गाउँपालिकामा निमार्णाधीन सभाखोला ‘बी’ जलविद्युत् आयोजनाको सुरुङ छिचोलिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tunnel-of-sabhakhola-b-hydropower-project-broken-through-74-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770134359_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकतर्फ तीन हजार १३५ उम्मेदवार कायम",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनलाई स्वच्छ, निष्पक्ष, शान्तिपूर्ण र भयरहित वातावरणमा सम्पन्न गर्न गृह मन्त्रालयले सीमा जोडिएका जिल्लाका प्रमुख जिल्ला अधिकारीहरूलाई समन्वय गर्न निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-ministry-directs-to-coordinate-for-border-security-br-26-33.html?click_from=just_in",
       "image_url": ""
     }
   ]
