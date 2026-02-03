@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-03T17:02:34.750451",
+  "scraped_at": "2026-02-03T20:48:58.356433",
   "date": "2026-02-03",
-  "total_articles": 55,
+  "total_articles": 56,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -447,6 +447,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/home-ministry-directs-to-coordinate-for-border-security-br-26-33.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "जपानमा रहेका नेपालीलाई राष्ट्रपतिले भने- नेपालको सपना साकार पार्न योगदान दिनुहोस्",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलले नेपालको आर्थिक तथा सामाजिक विकासमा विदेशमा रहेका नेपालीहरूको भूमिका महत्त्वपूर्ण रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/contribute-to-realizing-the-dream-of-a-prosperous-nepal-president-poudel-br-59-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770137263_Untitled-1-480x320.jpg"
     }
   ]
 }
