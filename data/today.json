@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-03T05:17:48.995803",
+  "scraped_at": "2026-02-03T08:51:05.360328",
   "date": "2026-02-03",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/competition-among-candidates-to-restore-legacy-and-establish-themselves-in-rolpa-85-48.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770094615_Rolpa-480x320.jpg"
+    },
+    {
+      "title": "Could Deuba’s displeasure slow the Congress poll march?",
+      "summary": "Thapa allies are concerned that those who opposed the convention could resort to non-cooperation during the polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/03/could-deuba-s-displeasure-slow-the-congress-poll-march",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb7-1770080273.jpg&w=300&height=200"
+    },
+    {
+      "title": "Security agencies say preparations for March polls in final phase",
+      "summary": "Nepali Army, Nepal Police and Armed Police Force finalise nationwide security plans, with nearly 240,000 personnel to be deployed in three security rings across all constituencies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/03/security-agencies-say-preparations-for-march-polls-in-final-phase",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1770101988.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेसमा अनुहार नयाँ आए, भिजन नयाँ आएन : एमाले उपाध्यक्ष गुरुङ",
+      "summary": "आइसिसी टि-२० पुरुष विश्वकप खेल्ने पाकिस्तान टोली श्रीलंकाको राजधानी कोलम्बो पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/pakistan-team-arrives-in-sri-lanka-to-play-world-cup-will-not-play-against-india-in-the-same-group-67-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770107480_game-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री र सांसदको तलबले देश डुबेको हैन : बालेन्द्र साह",
+      "summary": "नेकपा एमालेका उपाध्यक्ष पृथ्वी सुब्बा गुरुङले जनताले नयाँ अनुहार नभइ नयाँ भिजन खोजेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-faces-in-congress-but-no-new-vision-uml-vice-president-gurung-89-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770106924_subba-480x320.jpg"
+    },
+    {
+      "title": "'भूमिहीन सुकुम्बासी र अव्यवस्थित बसोबासी समस्या समाधान गर्ने पार्टी एमाले हो'",
+      "summary": "उनले भनिन्, ‘म घर आएर निर्माण पक्ष दाइलाई भने दाइ बरु जति खर्च लागेको छ म बेहोर्छु, तर त्यो भिडियो हटाइदिनु। भन्दा दाइहरूले त्यस्तो नसोच, त्यसो केही हुँदैन भन्नुभयो। त्यो दिन म टेन्सनमा थिएँ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/souvenir-in-controversy-after-dancing-to-uml-song-apologizes-and-says-i-regret-it-97-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770105853_Smarika-480x320.jpg"
+    },
+    {
+      "title": "‘आश्वासन होइन, विकास चाहिएको छ’",
+      "summary": "क्यानले सार्वजनिक गरेको एक भिडियोमा नेपालले पहिलो पटक विश्वकप खेल्दा रोहितले घरमै बसेर विश्वकप हेरेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/what-do-rohit-lalit-and-nandan-say-about-nepal-s-first-world-cup-of-cricket-11-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770105773_collage (30)-480x320.jpg"
+    },
+    {
+      "title": "शिक्षा र स्वास्थ्य निःशुल्क गर्न बजेट छैन : बालेन्द्र साह",
+      "summary": "आइसिसी टि-२० पुरुष विश्वकप खेल्ने पाकिस्तान टोली श्रीलंकाको राजधानी कोलम्बो पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/pakistan-team-arrives-in-sri-lanka-to-play-world-cup-will-not-play-against-india-in-the-same-group-67-45.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
