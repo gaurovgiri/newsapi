@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-03T02:48:44.939882",
+  "scraped_at": "2026-02-03T05:17:48.995803",
   "date": "2026-02-03",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/new-challenge-to-old-parties-in-surkhet-61-26.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "रोल्पामा विरासत फर्काउन र स्थापित हुन उम्मेदवारबिच प्रतिस्पर्धा",
+      "summary": "महासंघका अनुसार आज चाँदीको मूल्य पनि १३५ रुपैयाँले बढेर प्रतितोला पाँच हजार ३३५ रुपैयाँमा किनबेच भइरहेको छ। सोमबार चाँदी ५२ सय रुपैयाँमा कारोबार भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-rise-after-continuous-decline-94-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770010964_Gold-480x320.jpg"
+    },
+    {
+      "title": "शंकर तिवारी भन्छन्: कांग्रेसले कसैसँग तालमेल गरेको छैन, गर्ने छैन",
+      "summary": "युवा तथा खेलकुद मन्त्रालयका लागि नीतिविज्ञ, लुम्बिनी प्रदेश योजना आयोगको सदस्य, विभिन्न स्वदेशी तथा अन्तर्राष्ट्रिय संस्थानहरूका सल्लाहकार तथा प्रशिक्षकसमेत हुन्। अर्थशास्त्र, नीतिनिर्माण, योजना तथा अनुसन्धानमा गहिरो दक्खल राख्ने डा. वली शिक्षित, नीतिगत र विकासमुखी राजनीतिको प्रतिनिधित्व गर्ने नेताका रूपमा परिचित छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/competition-among-candidates-to-restore-legacy-and-establish-themselves-in-rolpa-85-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770094615_Rolpa-480x320.jpg"
     }
   ]
 }
