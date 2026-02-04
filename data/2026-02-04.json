@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-04T16:59:42.115303",
+  "scraped_at": "2026-02-04T20:44:43.247168",
   "date": "2026-02-04",
-  "total_articles": 61,
+  "total_articles": 62,
   "sources": [
     "NagarikNews",
     "News24",
@@ -495,6 +495,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-smiles-when-asked-if-fake-followers-have-increased-br-97-15.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "आयोगका ९० प्रतिशत सिफारिस कार्यान्वयन नहुनु राज्यका लागि लज्जाको विषय: अध्यक्ष थापामगर",
+      "summary": "आदिवासी जनजाति आयोगका अध्यक्ष रामबहादुर थापामगरले आयोगले गरेका सिफारिसहरू सरकारले कार्यान्वयन नगरेको भन्दै असन्तुष्टि जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/non-implementation-of-90-percent-of-the-commission-s-recommendations-is-a-matter-of-shame-for-the-state-chairman-thapa-magar-75-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770223422_ra-480x320.jpg"
     }
   ]
 }
