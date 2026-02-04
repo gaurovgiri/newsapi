@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-02-04T02:43:27.124675",
   "date": "2026-02-04",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -131,14 +131,6 @@
     {
       "title": "Voters fear possible booth capture and ballot manipulation",
       "summary": "Security agencies say high-security measures have been planned for the upcoming elections.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/national/2026/02/03/voters-fear-possible-booth-capture-and-ballot-manipulation",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/womenvoter2-1770137681.jpg&w=600&height=400"
-    },
-    {
-      "title": "Voters fear possible booth capture and ballot manipulation",
-      "summary": "Compared to the 2022 elections, a higher number of polling stations have been designated ‘highly sensitive’ this time.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/02/03/voters-fear-possible-booth-capture-and-ballot-manipulation",
