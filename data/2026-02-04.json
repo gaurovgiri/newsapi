@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-04T08:54:48.702037",
+  "scraped_at": "2026-02-04T13:18:11.197287",
   "date": "2026-02-04",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -382,6 +382,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rumors-of-alliance-in-jhapa-5-are-misleading-and-imaginary-nepali-congress-26-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रिद प्रकृयामा अनियमितता, सेटिङ भन्दै उफ्रिए व्यवसायी",
+      "summary": "रिद प्रकृयामा अनियमितता, सेटिङ भन्दै उफ्रिए व्यवसायी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12159",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Aushadhi-Kharidma-Aniyamitata-1770174481.jpg"
+    },
+    {
+      "title": "अबको कांग्रेस ‘२.०’ हो, सत्ताका लागि सिद्धान्तसँग सम्झौता हुँदैन: गगन",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले नेपाली कांग्रेस अब परम्परागत शैलीबाट माथि उठेर ‘कांग्रेस २.०’ अर्थात् बदलिएको कांग्रेसमा रूपान्तरण भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-next-congress-is-2-0-there-will-be-no-compromise-on-principles-for-power-gagan-75-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769091925_gagan-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेल स्वदेश फिर्ता",
+      "summary": "उनलाई त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलको अति विशिष्ट कक्षमा उपराष्ट्रपति रामसहायप्रसाद यादव, प्रधानमन्त्री सुशील कार्की, मन्त्रीहरु र सुरक्षा निकायका प्रमुखहरुले स्वागत गरे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/president-poudel-returns-home-33-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770208996_Ramchandra Poudel-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रले माला अस्वीकार गर्दै ठेलेका हुन् ?",
+      "summary": "तामाङमाथिबेलायत पठाइदिन्छु भन्दै दुई जना युवाबाट ७ लाख ९० हजार ठगेर फरार भएको आरोप लागेको प्रहरीले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/woman-arrested-for-allegedly-defrauding-800-000-people-by-promising-to-send-them-to-the-uk-br-30-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "मतदातासँग गगनको आग्रहः कांग्रेस बदलेर नयाँ बनाएका छौँ, एक पटक सोचिदिनुस्",
+      "summary": "एसपी रिजालले शान्तिपूर्ण भयरहित वातावरणमा निर्वाचन सम्पन्न गराउन सबै शक्ति लगाउने प्रतिबद्धता जनाए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/weapons-looted-during-protests-can-be-used-in-elections-sp-rimal-15-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770208482_SP Rimal-480x320.jpg"
+    },
+    {
+      "title": "मुस्ताङ पुगेर दाहालले भने- हाम्रा उम्मेदवार जिताउनुस्, यहाँको विकासको जिम्मा म लिन्छु",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले नेपाली कांग्रेस अब परम्परागत शैलीबाट माथि उठेर ‘कांग्रेस २.०’ अर्थात् बदलिएको कांग्रेसमा रूपान्तरण भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-next-congress-is-2-0-there-will-be-no-compromise-on-principles-for-power-gagan-75-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
