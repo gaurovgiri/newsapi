@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-04T05:12:59.075081",
+  "scraped_at": "2026-02-04T08:54:48.702037",
   "date": "2026-02-04",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
     "NagarikNews",
     "News24",
@@ -335,6 +335,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/lyricist-ramil-adhikari-helps-students-on-son-s-birthday-br-98-56.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770179754_geetkar 67-480x320.jpg"
+    },
+    {
+      "title": "Nepali Army leaving barracks for election security starting today",
+      "summary": "Compared to the 2022 elections, a higher number of polling stations have been designated ‘highly sensitive’ this time.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/04/nepali-army-leaving-barracks-for-election-security-starting-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb9-1770166514.jpg&w=300&height=200"
+    },
+    {
+      "title": "President Paudel meets Japanese prime minister in Tokyo",
+      "summary": "President underlines closer ties, development cooperation as Nepal and Japan mark 70 years of diplomatic relations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/04/president-paudel-meets-japanese-prime-minister-in-tokyo",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/100972866-1770177935.jpg&w=300&height=200"
+    },
+    {
+      "title": "झापा–५ मा गठबन्धनको हल्ला भ्रामक र कपोलकल्पितः नेपाली कांग्रेस",
+      "summary": "विज्ञप्तिमा आगामी २०८२ साल फाल्गुन २१ गते हुने प्रतिनिधि सभा सदस्यको निर्वाचनमा पार्टीका उम्मेदवार मन्धरा चिमोरिया पौड्याललाई अत्यधिक मतले विजयी गराउन सम्पूर्ण कार्यकर्तालाई निर्वाचन केन्द्रित कार्यक्रममा एक जुट हुन आह्वान गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rumors-of-alliance-in-jhapa-5-are-misleading-and-imaginary-nepali-congress-26-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770194394_Nepali Congress 12 (1)-480x320.jpg"
+    },
+    {
+      "title": "सरकार निर्वाचन सार्ने षड्यन्त्रमा लाग्यो : उपाध्यक्ष थापा",
+      "summary": "वार्ता र संवाद नगरी जबरजस्ती ताला फोडे थप चरणबद्ध र सशक्त आन्दोलन गर्ने लिवाङको दाबी रहेको छ। तालाबन्दी पछि कार्यालयको कामकाज ठप्प भएको प्रमुख प्रशासकीय अधिकृत गौतमले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/village-council-office-locked-down-in-protest-against-employee-dismissal-59-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770193439_Tala (1)-480x320.jpg"
+    },
+    {
+      "title": "सुनसान बस्तीमा चहलपहल, म्याग्दीमा बढ्यो चुनावी सरगर्मी",
+      "summary": "बजाज मोटरसाइकलको नेपालका लागि आधिकारिक विक्रेता हंसराज हुलाशचन्द एण्ड कम्पनीले ‘नयाँ जीवनको भरपर्दो सहयात्री’ नामक नयाँ योजना ल्याएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/bajaj-brings-a-reliable-companion-for-a-new-life-offer-82-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770193319_IMG11-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन नहुने आशंका बढ्यो : एमाले सचिव बस्नेत",
+      "summary": "सो अवसरमा नायिका थापाले आफूलाई जेइको जे६ मा भएका विभिन्न फिचर मन परेको र सो ईभी रोजेको बताइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/rekha-thapa-chooses-je-s-j6-offroad-ev-delivery-completed-97-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770192870_Rekha Thapa-480x320.jpg"
+    },
+    {
+      "title": "किन गरे१२ एमाले नेताले पार्टी परित्याग ?",
+      "summary": "विज्ञप्तिमा आगामी २०८२ साल फाल्गुन २१ गते हुने प्रतिनिधि सभा सदस्यको निर्वाचनमा पार्टीका उम्मेदवार मन्धरा चिमोरिया पौड्याललाई अत्यधिक मतले विजयी गराउन सम्पूर्ण कार्यकर्तालाई निर्वाचन केन्द्रित कार्यक्रममा एक जुट हुन आह्वान गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rumors-of-alliance-in-jhapa-5-are-misleading-and-imaginary-nepali-congress-26-29.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
