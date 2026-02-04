@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-04T02:43:27.124675",
+  "scraped_at": "2026-02-04T05:12:59.075081",
   "date": "2026-02-04",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/this-is-the-wholesale-price-of-agricultural-produce-for-today-69-11.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "र टायलले पायो ‘फुल्ली भिट्रिफाईड टायल’को नेपाल गुणस्तर चिन्ह",
+      "summary": "र टायलले पायो ‘फुल्ली भिट्रिफाईड टायल’को नेपाल गुणस्तर चिन्ह",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12141",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/PR-Image.jpg-1769927833.jpeg"
+    },
+    {
+      "title": "What I Watch Online: Shreeya Sharma",
+      "summary": "It’s a shame that the parties promising change never look into women's representation seriously.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/04/what-i-watch-online-shreeya-sharma",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Tricia-1770174346.jpg&w=400&height=267"
+    },
+    {
+      "title": "Why slowing down is now a mental health need",
+      "summary": "President underlines closer ties, development cooperation as Nepal and Japan mark 70 years of diplomatic relations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/03/why-slowing-down-is-now-a-mental-health-need",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WATCH-1770174241.jpg&w=400&height=267"
+    },
+    {
+      "title": "स्वास्थ्य बिमा संकट समाधानमा प्रधानमन्त्रीको चासो",
+      "summary": "यस्तै चाँदी पनि २६५ रुपैयाँ बढेर पाँच हजार ६०० रुपैयाँमा कारोबार भइरहेको महासंघले जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-rose-by-14-400-br-90-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेल स्वदेश प्रस्थान",
+      "summary": "रामकृष्ण ढकाल र सुशीला बस्नेत तिमिल्सिनाको स्वरमा रहेको गीत ‘तिमीसँग’ सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/singer-sushila-sang-timi-sang-br-89-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770181378_dhakal need 52-480x320.jpg"
+    },
+    {
+      "title": "गठबन्धनले जनताको मनबन्धन भत्काउन कठिन हुन्छ : नेता बास्कोटा",
+      "summary": "उनले समाजमा बढ्दो यौन अपराध, बाल पालनपोषण र अपराधप्रति बन्दै गएको सामान्य दृष्टिकोणबारे खुलेर बोलेकी थिइन्। उनले भनिन्, ‘देशमा हरेक दिन करिब ८० बलात्कारका घटना रिपोर्ट भइरहेका छन्। समाजले यसलाई व्यक्तिगत मुद्दाको रूपमा लिनुपर्छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/taapsee-s-anger-rape-is-now-considered-as-normal-as-theft-90-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770180793_Taapsee pannu-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेल आज स्वदेश फर्किंदै",
+      "summary": "गीतकार रमिल अधिकारीले छोराको जन्मदिनमा विद्यार्थीलाई सहयोग हस्तान्तरण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/lyricist-ramil-adhikari-helps-students-on-son-s-birthday-br-98-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770179754_geetkar 67-480x320.jpg"
     }
   ]
 }
