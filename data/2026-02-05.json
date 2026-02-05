@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-05T08:55:34.146948",
+  "scraped_at": "2026-02-05T13:20:21.087873",
   "date": "2026-02-05",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/authority-s-letter-to-rsp-candidate-amarkant-come-and-give-a-statement-60-96.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "NHRC urges compliance with election code of conduct",
+      "summary": "Commission flags hate speech, misuse of social media and violations of voter privacy ahead of March 5 elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/05/nhrc-urges-compliance-with-election-code-of-conduct",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb15-1770288602.jpg&w=300&height=200"
+    },
+    {
+      "title": "चुनाव दुई चरणमा होइन, एकै दिनमा हुन्छ, ढुक्क हुनु: प्रम",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले आसन्न प्रतिनिधि सभा सदस्य निर्वाचन एकै चरणमा सम्पन्न हुने स्पष्ट पारेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-will-be-held-in-one-day-not-in-two-phases-rest-assured-pm-br-92-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770294041_sushila-480x320.jpg"
+    },
+    {
+      "title": "महेश बस्नेतलाई जित्ने राणाको दावी",
+      "summary": "नेपालको निर्माण क्षेत्रको विकासमा केन्द्रित ‘नेपाल बिल्डकन अन्तर्राष्ट्रिय प्रदर्शनी’को एघारौँ संस्करण आज काठमाडौंको भृकुटीमण्डप स्थित प्रदर्शनी स्थलमा औपचारिक रूपमा उद्घाटन गरिएको छ। प्रदर्शनी माघ २५ गतेसम्म सञ्चालन हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-buildcon-international-exhibition-begins-today-75-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770293973_Bhrikuti-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जालमा अमर्यादित टिप्पणी नगर्नू: कांग्रेस",
+      "summary": "पछिल्लो समय भारतीय पर्यटकले आफ्नै सवारीमा घुम्न आउने क्रम बढेसँगै पोखराको पर्यटन क्षेत्रले असन्तोष जनाउन थालेको छ। खासगरि आफ्नै सवारी चढेर भित्रिएका भारतीय पाहुना भित्रिने क्रम बढेसँगै पोखराका केही व्यावसायीले सवारीसाधनको विषयलाई लिएर प्रश्न उब्जाउन थालेका छन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-disaster-caused-by-drive-tourism-81-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1770293437_indian gadi aanugaman (1)-480x320.jpg"
+    },
+    {
+      "title": "६० निर्वाचन क्षेत्रको मतपत्र छपाइ सकियो, २५ जिल्लाको ‘प्याकिङ’",
+      "summary": "कास्कीको मादी गाउँपालिका–११, तोगीका किसान पृतिराज लामिछानेले गाउँमै बसेर पनि राम्रो आम्दानी गर्न सकिने देखाएका छन्। उनले मौरीपालन व्यवसायबाट वार्षिक रुपैयाँ ६० लाखभन्दा बढी आम्दानी गर्दै गाउँमै रोजगारी सिर्जना गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/beekeepers-in-kaski-maintain-self-reliance-by-creating-jobs-in-the-village-68-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770293393_Mahuri-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले कसैसँग चुनावी गठबन्धन नगर्ने",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले आसन्न प्रतिनिधि सभा सदस्य निर्वाचन एकै चरणमा सम्पन्न हुने स्पष्ट पारेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-will-be-held-in-one-day-not-in-two-phases-rest-assured-pm-br-92-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
