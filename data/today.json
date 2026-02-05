@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-05T13:20:21.087873",
+  "scraped_at": "2026-02-05T16:59:59.632747",
   "date": "2026-02-05",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/elections-will-be-held-in-one-day-not-in-two-phases-rest-assured-pm-br-92-41.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government warns food producers, traders against unfair profits as prices surge",
+      "summary": "Commerce department steps up market inspections as prices of edible oil, pulses, meat and vegetables rise despite low inflation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/05/government-warns-food-producers-traders-against-unfair-profits-as-prices-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/priceofgoods-1770300479.jpg&w=300&height=200"
+    },
+    {
+      "title": "PM stresses health insurance scheme cannot stop despite funding crunch",
+      "summary": "She summoned the health minister and officials and said the poor cannot be left without treatment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/05/pm-stresses-health-insurance-scheme-cannot-stop-despite-funding-crunch",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/healthinsurancePostillustration-1770298698.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal beat Canada by six wickets in T20 World Cup warm-up",
+      "summary": "Aasif Sheikh and Sundeep Jora star as Nepal chase down 162 with two overs to spare in Chennai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/05/nepal-beat-canada-by-six-wickets-in-t20-world-cup-warm-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/62819815513635053258058446780413808575177586n-1770289161.jpg&w=300&height=200"
+    },
+    {
+      "title": "काठमाडौंमा बिरासत जोगाउन र भत्काउन प्रतिस्पर्धा",
+      "summary": "धनुषाको धनुषाधाम नगरपालिका-६ मालटोलस्थित पूर्व–पश्चिम राजमार्गमा भएको सवारी दुर्घटनामा एक जना प्रहरी असईको मृत्यु भएको छ भने अर्का एक जना गम्भीर घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-asi-dies-one-seriously-injured-after-being-hit-by-oil-tanker-in-dhanusha-44-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770308237_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुर १ : ‘ह्याट्रिक’ को दाउमा नेमकिपाका सुवाल",
+      "summary": "नेपाली कांग्रेस, रास्वपा र एमाले अघिल्लो निर्वाचनको परिणामलाई जोगाउँदै थप सिटमा जित निकाल्न सक्रिय छन् । राप्रपा, नेकपासहित अन्य दलहरू अघिल्लो नतिजा उल्टाएर आफ्नो पक्षमा पार्न लागिपरेका छन् । यसले चुनावी प्रतिस्पर्धा रोचक बन्दै गएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/competition-to-preserve-and-destroy-heritage-in-kathmandu-60-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770308107_KTM-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयो, अब जनताले छाप लाउन मात्रै बाँकी छः प्रधानमन्त्री",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा सदस्यको निर्वाचन नजिकिँदै गर्दा भक्तपुर–१ मा पनि चहलपहल बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bhaktapur-1-nemkipa-s-suwal-on-the-verge-of-a-hat-trick-70-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770308000_prem-480x320.jpg"
+    },
+    {
+      "title": "संवैधानिक मुद्दामा सर्वोच्चले तत्काल निर्क्यौल गर्नुपर्छः मुख्यमन्त्री कार्की",
+      "summary": "जिल्लाको पुर्चौडी नगरपालिका-७ को भौनीबाट बझाङको सुनकुडातर्फ जाँदै गरेको बस सोही वडाको बढ्गाउँ मोडमा दुर्घटनामा परेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bus-carrying-janti-accident-in-baitadi-6-dead-br-89-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770305558_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "यस्तो छ जुम्ला ‘बदल्ने’ शान्तिलालको ‘ब्लुप्रिन्ट’",
+      "summary": "धनुषाको धनुषाधाम नगरपालिका-६ मालटोलस्थित पूर्व–पश्चिम राजमार्गमा भएको सवारी दुर्घटनामा एक जना प्रहरी असईको मृत्यु भएको छ भने अर्का एक जना गम्भीर घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-asi-dies-one-seriously-injured-after-being-hit-by-oil-tanker-in-dhanusha-44-85.html?click_from=just_in",
       "image_url": ""
     }
   ]
