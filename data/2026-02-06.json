@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-06T02:46:02.659375",
+  "scraped_at": "2026-02-06T05:18:44.665011",
   "date": "2026-02-06",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-in-syringe-attack-in-jhapa-br-12-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "र सरकारसँग गण्डकीको अधिकार युद्ध",
+      "summary": "र सरकारसँग गण्डकीको अधिकार युद्ध",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12181",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Gandaki-pradesh-barsik__-1770348786.jpg"
+    },
+    {
+      "title": "षको बिलम्बपछि पुगेको सडकले स्थानीय हर्षित, के पाउलान सुविधा ?",
+      "summary": "षको बिलम्बपछि पुगेको सडकले स्थानीय हर्षित, के पाउलान सुविधा ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12174",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sadak-f-1770261537.jpg"
+    },
+    {
+      "title": "Death toll hits 13 in Baitadi wedding bus crash",
+      "summary": "Bus returning with wedding party plunges into ravine in Purchaudi; dozens injured.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/06/death-toll-hits-13-in-baitadi-wedding-bus-crash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb21-1770345896.jpg&w=300&height=200"
+    },
+    {
+      "title": "कालीकोटमा मतदान केन्द्र अनुगमन तीव्र",
+      "summary": "अमिरिका चौधरी केही बोल्न खोज्छिन् तर गला भरिएर आउँछ, शब्द निस्कँदैनन्। उनको काखमा छोरी छ, आँखामा टिलपिल आँसु र मोबाइलको उज्यालो पर्दामा मुस्कुराइरहेका विजय चौधरीको तस्बिर।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/diwansi-the-daughter-of-a-martyr-asks-every-day-mommy-where-is-daddy-57-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770354628_pic-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा बैठक आज : सामाजिक सञ्जाल विधेयक फिर्तासम्बन्धी प्रस्ताव पेश हुने",
+      "summary": "अमेरिकामा डोनाल्ड ट्रम्प प्रशासनले लागूपदार्थ तस्करीलाई देशमाथिको सशस्त्र आक्रमणसँग तुलना गर्दै र केही आपराधिक समूहहरूलाई आतंकवादी संगठन घोषणा गरेर यस्ता हमलाको बचाउ गर्दै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-attacks-escalate-in-the-eastern-pacific-two-more-killed-death-toll-reaches-128-43-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770354425_USA Attack-480x320.jpg"
+    },
+    {
+      "title": "दाहालको उम्मेदवारीले रुकुम पूर्वमा तरंग",
+      "summary": "आज चाँदीको मूल्य पनि घटेको छ। महासंघका अनुसार चाँदी आज चार हजार ७१० रुपैयाँमा किनबेच भइरहेको छ। बिहीबार चाँदी चार हजार ९८० कायम भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-have-decreased-74-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
     }
   ]
 }
