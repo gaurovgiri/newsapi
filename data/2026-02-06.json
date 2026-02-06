@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-06T08:55:04.593336",
+  "scraped_at": "2026-02-06T13:17:46.021685",
   "date": "2026-02-06",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/talks-between-the-us-and-iran-continue-in-oman-what-is-the-agenda-20-78.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court upholds detention order against Pradeep Adhikari",
+      "summary": "The suspended CAAN chief to remain in custody as top court rejects bail plea in Nalinchok helipad graft case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/06/supreme-court-upholds-detention-order-against-pradeep-adhikari",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb22-1770381348.jpg&w=300&height=200"
+    },
+    {
+      "title": "333 foreigners arrested in six months on illegal activities charges",
+      "summary": "Immigration Department says many entered on tourist or business visas but were involved in activities barred by law, including running illegal marriage bureaus and proselytisation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/06/333-foreign-nationals-arrested-in-six-months-for-illegal-activities-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/905x525DOIImage-1770373013.png&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचनः प्रत्यक्षतर्फ ८४ लाख ४० हजार मतपत्र छपाइ",
+      "summary": "पोखरा क्षेत्रीय अन्तर्राष्ट्रिय विमानस्थल निर्माणका क्रममा भएको अरबौंको भ्रष्टाचार मुद्दाका अभियुक्त शर्मालाई विशेष अदालतले साधरण तारेखमा छाड्न आदेश दिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/authority-moves-supreme-court-against-special-court-s-order-to-release-hrishikesh-sharma-on-regular-date-49-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770383298_sarbochha_akhtiyar-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं उपत्यकाका सबै कांग्रेस उम्मेदवारको ‘साझा योजना’ आउँदै",
+      "summary": "अन्नपूर्ण गाउँपालिकाले चालु आर्थिक वर्षमा रु ५० लाख बजेट विनियोजन गरेको पोखरेबगर–घार–चित्रे सडक योजनामार्फत प्रतिस्पर्धामा छनोट भएको निर्माण कम्पनीले काम थालेको दुई महिनामै सम्पन्न गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/road-upgrade-work-connecting-tourist-spot-ghodepani-completed-ahead-of-schedule-83-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770382300_Myagdi News-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भ्रष्टाचारको आहालबाट देशलाई बाहिर निकाल्छ: गगन थापा",
+      "summary": "पहिलो चरणमा १० लाख ९८ हजार २०० नमूना मतपत्र छपाइ सम्पन्न गरी विभिन्न जिल्लाहरुमा पठाइ सकिएको आयोगले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-member-election-8-44-million-ballots-printed-in-direct-elections-98-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/photos/1625483776_1610411786_nirwachan ayog-1200x560-480x320-wm.jpg"
+    },
+    {
+      "title": "प्रचण्डको दाबी: झापा–५ र सर्लाही–४ मा नेकपाका उम्मेदवार जित्छन्",
+      "summary": "सदरमुकाम गौर नगरपालिकाको वडा नम्बर ३ स्थित प्रहरीले स्थानीय ४४ वर्षिय राकेश कलवारलाई स्रोत खुल्न नसकेको रकमसहित पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-arrested-with-undisclosed-amount-of-money-91-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "मिश्रमाथि कारागार प्रशासनको 'विशेष निगरानी'",
+      "summary": "पोखरा क्षेत्रीय अन्तर्राष्ट्रिय विमानस्थल निर्माणका क्रममा भएको अरबौंको भ्रष्टाचार मुद्दाका अभियुक्त शर्मालाई विशेष अदालतले साधरण तारेखमा छाड्न आदेश दिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/authority-moves-supreme-court-against-special-court-s-order-to-release-hrishikesh-sharma-on-regular-date-49-81.html?click_from=just_in",
       "image_url": ""
     }
   ]
