@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-06T05:18:44.665011",
+  "scraped_at": "2026-02-06T08:55:04.593336",
   "date": "2026-02-06",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -319,6 +319,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-have-decreased-74-11.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "Police arrest Durga Prasain",
+      "summary": "The medical entrepreneur was detained from Chalnakhel and will be handed over to the Cyber Bureau for further investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/06/police-arrest-durga-prasain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1770364854.jpg&w=300&height=200"
+    },
+    {
+      "title": "Baitadi wedding bus crash: Survivor recounts narrow escape",
+      "summary": "One of the injured passengers describes jumping from the overcrowded bus as death toll hits 13.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sudurpaschim-province/2026/02/06/baitadi-wedding-bus-crash-survivor-recounts-narrow-escape",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/busbaitadicopy06220260640491000x0-1770358257.jpg&w=300&height=200"
+    },
+    {
+      "title": "अध्यक्ष ओलीद्वारा बैतडीमा भएको बस दुर्घटनाप्रति दुःख व्यक्त",
+      "summary": "इरानी पक्षबाट विदेशमन्त्री अब्बास अराघचीले वार्ताको नेतृत्व गरिरहेका छन्। उता, अमेरिकी पक्षबाट राष्ट्रपति डोनाल्ड ट्रम्पका विशेष दूत स्टिभ विटकफ र जारेड कुशनर सहभागी छन्। वार्ताको मुख्य एजेन्डा इरानको आणविक कार्यक्रम र अमेरिकी प्रतिबन्धहरू हटाउने विषयमा केन्द्रित छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/talks-between-the-us-and-iran-continue-in-oman-what-is-the-agenda-20-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770366842_Iran USA Talk-480x320.jpg"
+    },
+    {
+      "title": "घरदैलो अभियानमा जब कांग्रेस उम्मेदवार खरेलसँग रविको भेट भयो...",
+      "summary": "नेकपा (एमाले)का अध्यक्ष केपी शर्मा ओलीले बैतडी जिल्लाको पुर्चौडीमा भएको बस दुर्घटनाप्रति दुःख व्यक्त गेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chairman-oli-expresses-grief-over-bus-accident-in-baitadi-78-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765443474_KP_Oli-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जाल झुटो सूचना फैलाउने माध्यमका रूपमा विकास भइरहेका छन् : उपाध्यक्ष पौडेल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का सभापति रवि लामिछानेले चितवन–२ मा घरदैलो अभियान सुरु गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-ravi-met-congress-candidate-kharel-during-the-door-to-door-campaign-45-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770364903_Rabi Congress (1)-480x320.jpg"
+    },
+    {
+      "title": "हर्कको प्रश्न : रौतहटमा भएको बालिकाको हत्याबारे यो सरकारले के गर्दैछ?",
+      "summary": "यस प्रदर्शनीले स्वदेशी उत्पादनलाई प्रवद्र्धन गर्नुका साथै अन्तर्राष्ट्रिय बजारमा प्रचलित नयाँ प्रविधि र सेवाहरू नेपाली बजारमा भित्राउने काम गर्दै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/nepal-buildcon-international-exhibition-continues-84-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770365160_PR News 12-480x320.jpg"
+    },
+    {
+      "title": "रौतहट घटनाबारे रास्वपालाई जेनजी अभियन्ता तनुजाको प्रश्न : आफ्नालाई जोगाउने, अरूलाई दोष थोप्ने ?",
+      "summary": "इरानी पक्षबाट विदेशमन्त्री अब्बास अराघचीले वार्ताको नेतृत्व गरिरहेका छन्। उता, अमेरिकी पक्षबाट राष्ट्रपति डोनाल्ड ट्रम्पका विशेष दूत स्टिभ विटकफ र जारेड कुशनर सहभागी छन्। वार्ताको मुख्य एजेन्डा इरानको आणविक कार्यक्रम र अमेरिकी प्रतिबन्धहरू हटाउने विषयमा केन्द्रित छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/talks-between-the-us-and-iran-continue-in-oman-what-is-the-agenda-20-78.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
