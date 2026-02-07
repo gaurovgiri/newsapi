@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-07T08:41:52.362274",
+  "scraped_at": "2026-02-07T13:06:24.706852",
   "date": "2026-02-07",
-  "total_articles": 49,
+  "total_articles": 54,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -399,6 +399,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/prime-minister-karki-expresses-condolences-on-the-death-of-actor-thapa-23-92.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770023633_Sushila_Karki-480x320.jpg"
+    },
+    {
+      "title": "क्रिकेट खेल मात्र होइन, हाम्रो प्रगतिको पहिचान र स्वाभिमान हो: ओली",
+      "summary": "सुर्खेतको वीरेन्द्रनगरमा समूह बनाएर हो-हल्ला गरी मोटरसाइकल आतङ्क मच्चाएको आरोपमा प्रहरीले २५ जना युवालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/the-dangerous-school-84-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770468569_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "दुर्गा प्रसाईँलाई बिना सर्त रिहा गर्न लिङदेनको माग",
+      "summary": "प्राचीन कपिलवस्तुको तिलौराकोट नजिकै रहेका राजा सुद्धोधन र रानी मायादेवीको स्मृतिमा निर्मित ऐतिहासिक ‘जोडी स्तुप’ अहिले संरक्षणको पर्खाइमा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/jodi-stupa-is-deteriorating-due-to-lack-of-protection-34-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770468193_prachin-480x320.jpg"
+    },
+    {
+      "title": "हामी जिम्मा लिन्छौँ, फेरि सिंहदरबार जल्दैन: सभापति थापा",
+      "summary": "लुम्बिनी प्रदेशमै पहिलो अनलाइन माध्यमबाट सञ्चालन हुने ट्याक्सी तथा मोटरसाइकल सेवा ‘ई-ड्राइभ नेपाल’ ले आजदेखि नेपालगञ्जमा औपचारिक रूपमा आफ्नो सेवा शुभारम्भ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/electric-taxi-service-e-drive-nepal-launched-in-nepalgunj-40-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770467904_etaxi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस महामन्त्रीको टिप्पणी : जेन–जी आन्दोलनले खबरदारी गरेपछि सच्चिएर आयौँ",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले आइसीसी टी-२० विश्वकप खेल्न भारतको मुम्बई पुगेको नेपाली राष्ट्रिय क्रिकेट टोलीलाई शुभकामना दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cricket-is-not-just-a-game-it-is-the-identity-and-self-respect-of-our-progress-oli-68-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767093511_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "थाहा पाएसम्म भ्रष्टाचार हुन दिन्न, तर सबैको इमान्दारिताको ठेक्का लिन सक्दिनँ: ओली",
+      "summary": "सुर्खेतको वीरेन्द्रनगरमा समूह बनाएर हो-हल्ला गरी मोटरसाइकल आतङ्क मच्चाएको आरोपमा प्रहरीले २५ जना युवालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/the-dangerous-school-84-96.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
