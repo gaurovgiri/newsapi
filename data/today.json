@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-07T02:41:14.685493",
+  "scraped_at": "2026-02-07T05:09:04.644820",
   "date": "2026-02-07",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/the-youthful-life-of-the-91-year-old-plant-master-br-61-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "नमूना मतदानका लागि उल्लेख्य सहभागीता, के छ सुरक्षा अवस्था  ?",
+      "summary": "नमूना मतदानका लागि उल्लेख्य सहभागीता, के छ सुरक्षा अवस्था  ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12183",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Namuna-matadan__-1770349361.jpg"
+    },
+    {
+      "title": "TIA crosses 5 million international passengers for first time as migrant, student travel surges",
+      "summary": "Travel by migrant workers and students lifts Kathmandu airport traffic to a record high in 2025, even as growth in tourist arrivals slows.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/07/tia-crosses-5-million-international-passengers-for-first-time-as-migrant-student-travel-surges",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/11-1770431398.jpg&w=300&height=200"
+    },
+    {
+      "title": "Veteran actor Sunil Thapa passes away",
+      "summary": "Celebrated Nepali film actor dies in Kathmandu aged 68 after suffering a cardiac arrest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/07/veteran-actor-sunil-thapa-passes-away",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260207at103949AM-1770440138.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘Valentine’s Week’ at Ekta Books",
+      "summary": "There are still chances of vote-rigging in remote districts like Bajura and Bajhang.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/07/valentine-s-week-at-ekta-books",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/book1-1770433994.jpg&w=400&height=267"
+    },
+    {
+      "title": "Tracing the history of Panauti’s wall paintings",
+      "summary": "Celebrated Nepali film actor dies in Kathmandu aged 68 after suffering a cardiac arrest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/07/tracing-the-history-of-panauti-s-wall-paintings",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/maanpanuLIVE-1770433314.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVENTS: February 7 to February 14, 2026",
+      "summary": "India’s opposition Congress party, however, said the trade deal was concluded largely on US terms and hurt farmers and traders, calling it a pact that compromised national interests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/07/events-february-7-to-february-14-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "Jaffna, mini Sri Lanka in Nepal",
+      "summary": "Old Souls gives discarded saris a second life, blending traditional textiles with modern silhouettes through slow, sustainable fashion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/06/jaffna-mini-sri-lanka-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/11-1770431398.jpg&w=400&height=267"
+    },
+    {
+      "title": "देशले लुकेर जनतालाई त्रसित पार्ने लुसिफर खोजेको होइन : झाँक्री",
+      "summary": "पाँच किमी दुरीको वाकाथनमा प्रधानसेनापति सिग्देललगायत सैनिक तथा गैरसैनिक व्यक्ति सहभागी भए। सैनिक महाविद्यालयमा अध्ययनरत कक्षा ७ देखि ९ सम्मका छात्रछात्रा सम्मिलित पाँच किमी दूरीको दौड पूरा गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/army-chief-of-staff-open-marathon-concludes-88-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770438974_Army Run-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रको झापा ५ सम्पर्क कार्यालय घटनामा एआई प्रयोग गरी भ्रम फैलाइयो : जिप्रका झापा",
+      "summary": "नेकपा एमाले नेतृ रामकुमारी झाँक्रीले देशले लुकेर जनतालाई त्रसित पार्ने लुसिफर नखोजेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-country-is-not-looking-for-a-lucifer-to-secretly-terrorize-the-people-jhakri-56-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762252995_jhakri-480x320.jpg"
+    },
+    {
+      "title": "ज्ञानेन्द्र शाहीले लगाएको ‘हतियारसहित आक्रमण’ को आरोप स्थानीयद्वारा अस्वीकार",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का उम्मेदवार बालेन्द्र शाह (बालेन) को झापा ५ को सम्पर्क कार्यालय नजिक भएको सानो घटनालाई अतिरञ्जित गरी एआई प्रविधिको दुरूपयोग गर्दै भ्रामक तस्बिर सामाजिक सञ्जालमा फैलाइएको भन्दै जिल्ला प्रशासन कार्यालय झापाले कारबाही प्रक्रिया अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ai-was-used-to-spread-confusion-in-balendra-s-jhapa-5-liaison-office-incident-jhapa-district-police-chief-20-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770437634_balen-480x320.jpg"
     }
   ]
 }
