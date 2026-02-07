@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-07T13:06:24.706852",
+  "scraped_at": "2026-02-07T16:40:48.131842",
   "date": "2026-02-07",
-  "total_articles": 54,
+  "total_articles": 61,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/the-dangerous-school-84-96.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "EV imports fall 14.5 percent in first half as China border disruption hits supply",
+      "summary": "Prolonged closure of northern trade points curbs electric vehicle inflow despite strong domestic demand, while imports of conventional vehicles also decline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/07/ev-imports-fall-14-5-percent-in-first-half-as-china-border-disruption-hits-supply",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EVSHUTTERSTOCK-1770472301.jpg&w=300&height=200"
+    },
+    {
+      "title": "Can Nepal script history at the iconic Wankhede?",
+      "summary": "At India’s ‘cricket capital’, Nepal will face England, West Indies, Scotland and Italy. The Rhinos are aiming to upset heavyweights to make a historic entry to the Super 8 stage.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/07/can-nepal-script-history-in-the-iconic-wankhede",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/wankhade.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sunil Thapa, a towering presence in Nepali cinema, passes away",
+      "summary": "He gained recognition in Bollywood and other Indian film industries, including Tamil and Bhojpuri cinema.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/07/veteran-actor-sunil-thapa-passes-away",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260207at103949AM-1770440138.jpg&w=600&height=400"
+    },
+    {
+      "title": "नेमकिपाको स्थापना दिवसमा फरक रौनक: भाषण होइन, गीतबाट पोखियो असन्तुष्टि",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य निर्वाचनको मिति नजिकिएसँगै जुम्लामा सुरक्षा व्यवस्था कडा पारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-security-in-jumla-52-polling-stations-highly-sensitive-70-percent-monitoring-completed-30-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770481185_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन प्रहरीको भूमिका महत्वपूर्ण छः गृहमन्त्री अर्याल",
+      "summary": "शनिबार भक्तपुरको महालक्ष्मीस्थानमा यो गीत गुञ्जिदा उपस्थित दर्शकदीर्घाबाट तालीको गडगडाहट सुनियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-wash-the-corrupt-away-through-elections-31-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770480657_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "परिवर्तनको मुद्दालाई रास्वपाले अगाडि बढाएको छः स्वर्णीम",
+      "summary": "खोटाङको दक्षिणी भेग र उदयपुरको उत्तर-पूर्वी क्षेत्रलाई जोड्ने सुनकोशी नदीस्थित बंशीलाघाटमा बहुप्रतिक्षित बेलिब्रिज शनिबारदेखि सञ्चालनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/banshilaghat-bellybreeze-and-bhojpur-provide-direct-access-to-the-terai-of-khotang-36-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770479942_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "यसपालिको निर्वाचन जनमत संग्रह पनि हो: महामन्त्री घिमिरे",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा ‘निर्वाचन प्रहरी’ को भूमिका महत्वपूर्ण रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/role-of-election-police-is-important-home-minister-aryal-72-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770479537_Untitled-2-480x320.jpg"
     }
   ]
 }
