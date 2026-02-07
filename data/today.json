@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-07T05:09:04.644820",
+  "scraped_at": "2026-02-07T08:41:52.362274",
   "date": "2026-02-07",
-  "total_articles": 44,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -359,6 +359,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ai-was-used-to-spread-confusion-in-balendra-s-jhapa-5-liaison-office-incident-jhapa-district-police-chief-20-69.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770437634_balen-480x320.jpg"
+    },
+    {
+      "title": "षित बन्दै बर्दिया, वन्यजन्तुको आक्रमण भयावह बन्दै",
+      "summary": "षित बन्दै बर्दिया, वन्यजन्तुको आक्रमण भयावह बन्दै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12193",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/banya-jantu-pidit__-1770432650.jpg"
+    },
+    {
+      "title": "झापा-३ का मतदाता भन्छन् : भोट दिन्छौँ, तर बिर्सन पाइँदैन",
+      "summary": "घरिघरि हराउने, आफन्तीलाई सताउने, हाम्रो माया लत्याउने, परदेशीलाई पत्याउने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/harassing-relatives-br-79-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770453573_dd nai 45-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिको बैठक आइतबार बस्ने",
+      "summary": "खोजी अभियान अझै जारी छ। राष्ट्रिय विपद् प्रतिक्रिया बल, राज्य विपद् प्रतिक्रिया बल र विशेष उद्धार इकाईका टोलीहरू घटनास्थलमा खटिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/death-toll-in-india-coal-mine-explosion-reaches-25-two-owners-arrested-44-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770452261_India-480x320.jpg"
+    },
+    {
+      "title": "युवा पुस्ताको भावनाअनुसार कांग्रेस क्रियाशील छ : महामन्त्री पौडेल",
+      "summary": "सबैलाई सधै एउटै प्यारो लाग्छ भन्ने छैन, वृद्ध भत्ता बुझेका दिन परिवारमा वृद्ध प्यारो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-day-you-receive-your-old-age-allowance-the-elderly-are-dear-to-the-family-br-89-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770452546_gug gug 52-480x320.jpg"
+    },
+    {
+      "title": "दाङ-३ मा कांग्रेस, एमाले, नेकपा र रास्वपाबिच प्रतिस्पर्धा",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले नेपाली सिनेमा क्षेत्रका लोकप्रिय अभिनेता सुनिल थापाको असामयिक निधनको खबरले आफू मर्माहत भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/prime-minister-karki-expresses-condolences-on-the-death-of-actor-thapa-23-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770023633_Sushila_Karki-480x320.jpg"
     }
   ]
 }
