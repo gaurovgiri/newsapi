@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-08T13:07:09.139357",
+  "scraped_at": "2026-02-08T16:40:49.569427",
   "date": "2026-02-08",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/voter-education-is-not-just-about-voting-it-is-about-choosing-competent-representatives-senior-advocate-gyawali-10-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Malnutrition ravages Sudurpaschim as politics ignores a silent crisis",
+      "summary": "A recent report shows 11.4 percent children under five years of age in Darchula, 9.6 percent in Bajura, 8.8 percent in Bajhang, 7.7 percent in Doti, and 6.8 percent in Achham suffer from severe stunting.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/08/malnutrition-ravages-sudurpaschim-as-politics-ignores-a-silent-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/malnutrition-1770561962.jpg&w=300&height=200"
+    },
+    {
+      "title": "England edge Nepal by four runs in T20 World Cup thriller",
+      "summary": "Will Jacks stars with bat and ball as England hold off a spirited Nepal chase at Wankhede Stadium.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/08/england-edge-nepal-by-four-runs-in-t20-world-cup-thriller",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/newsports208220260211171000x0-1770559057.jpg&w=300&height=200"
+    },
+    {
+      "title": "रेशम चौधरीको रिटमा अन्तरिम आदेश दिन अस्वीकार",
+      "summary": "सर्वोच्च अदालतले नागरिक उन्मुक्ति पार्टी, नेपालका संरक्षक रेशमलाल चौधरीलाई कैलाली क्षेत्र नं १ बाट उम्मेदवार बन्न माग गर्दै दायर गरेको रिट निवेदनमा अन्तरिम आदेश दिन अस्वीकार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/refusal-to-issue-interim-order-on-resham-chaudhary-s-writ-petition-23-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752987156_resham chaudhary-480x320.jpg"
+    },
+    {
+      "title": "प्रत्यक्षतर्फ उम्मेदवारको खर्च सीमा २५ देखि ३३ लाखसम्म",
+      "summary": "आयोगले प्रत्यक्षतर्फका १६५ वटा निर्वाचन क्षेत्रलाई विभिन्न आधारमा पाँच वर्गमा विभाजन गरी त्यहाँका प्रत्येक उम्मेदवारले खर्च गर्न पाउने रकमको सीमा तोकेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-expenditure-limit-for-direct-candidates-is-from-25-to-33-lakhs-91-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "नेताहरूमाथिको कारबाहीले नेकपा कार्यकर्तामा निराशा",
+      "summary": "चुनावको मुखमा सिन्धुलीका हरिबोल गजुरेलसहित सात प्रभावशाली नेतालाई कारबाही गरिएको छ भने कर्णालीका पूर्वमुख्यमन्त्रीसमेत रहेका प्रदेशसभा सदस्य राजकुमार शर्मामाथि कारबाही प्रक्रिया अघि बढनइएको छ। पार्टीभित्र गुटबन्दी बढ्दै गएको भन्दै केन्द्रीय सदस्य दीपक जंगम शर्माले पार्टी परित्याग नै गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/action-against-leaders-causes-disappointment-among-ncp-cadres-78-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768276109_nekapa-480x320.jpg"
+    },
+    {
+      "title": "तीन तहका सरकारले समन्वय र सहकार्य आधारमा कार्य गर्नुपर्छः मुख्यमन्त्री कार्की",
+      "summary": "चर्चा र चासोमा रहेका झापा–५, ३ र २, सर्लाही–४ र २, मोरङ–६, सुनसरी–१, धनुषा–३, सप्तरी–२ र ३, रौतहट–१, सिरहा–४, रुकुम पूर्व, चितवन–२ र ३, दाङ–२, रुपन्देही–२, काठमाडौं–३ र ५ लगायता निर्वाचन क्षेत्रको चुनावी परिणामले हारजित मात्र नभई राष्ट्रिय राजनीति र आगामी सत्ता समीकरणमा पनि प्रभाव पार्ने विश्लेषण गर्न थालिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/20-areas-of-discussion-and-interest-52-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770566172_neta-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुरका सवै मतदानस्थल सुरक्षित",
+      "summary": "सर्वोच्च अदालतले नागरिक उन्मुक्ति पार्टी, नेपालका संरक्षक रेशमलाल चौधरीलाई कैलाली क्षेत्र नं १ बाट उम्मेदवार बन्न माग गर्दै दायर गरेको रिट निवेदनमा अन्तरिम आदेश दिन अस्वीकार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/refusal-to-issue-interim-order-on-resham-chaudhary-s-writ-petition-23-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
