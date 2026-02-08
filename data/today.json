@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-08T05:27:03.236537",
+  "scraped_at": "2026-02-08T08:42:26.138902",
   "date": "2026-02-08",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/poet-gauri-tamu-s-poetry-collection-saiprol-presented-br-36-65.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770526602_need 90-480x320.jpg"
+    },
+    {
+      "title": "Nepal face a well-oiled England in World Cup opener at Wankhede",
+      "summary": "Two years after a one-run loss to South Africa in the previous World Cup, the Rhinos face a ruthless England team that is not taking the Associate challenge lightly.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/08/nepal-face-a-well-oiled-england-in-world-cup-opener-at-wankhede",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/NEPLALLLLLL-1770512754.jpg&w=300&height=200"
+    },
+    {
+      "title": "Work underway to repair flood-damaged BP Highway ahead of monsoon",
+      "summary": "Authorities prioritise most damaged sections of the 30.5 km highway, with multiple contracts underway and JICA set to rebuild the final stretch before next year’s monsoon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/08/work-underway-to-repair-flood-damaged-bp-highway-ahead-of-monsoon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/fbimg177027663127408220260221091000x0-1770532052.jpg&w=300&height=200"
+    },
+    {
+      "title": "कार्बन व्यापारमा निजी क्षेत्रको सहभागिता बढाउन आवश्यक : मन्त्री चौलागाईं",
+      "summary": "वन तथा वातावरणमन्त्री माधवप्रसाद चौलागाईंले कार्बन व्यापारमा निजी क्षेत्रको सहभागिता बढाउन आवश्यक पर्ने नीतिनियम निर्माणमा सरकार सहयोग गर्न तयार रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/need-to-increase-private-sector-participation-in-carbon-trading-minister-chaulagain-35-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770539542_madhav-480x320.jpg"
+    },
+    {
+      "title": "जनकपुरधाममा आचारसंहिता उल्लङ्घन गर्ने पन्ध्र सय बढी सामग्री हटाइयो",
+      "summary": "खोप अभियानमा एक हजार ३४२ जनालाई एचपीभी खोप प्रदान गरिने लक्ष्य रहेको खोप अधिकृत रायले जानकारी दिए। अघिल्लो वर्षको अभियानमा कम मात्रै किशोरी खोप लगाउन छुटेका रायले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hpv-vaccination-for-1-342-teenage-girls-in-taplejung-21-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770530775_1769435716_HPV-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको चुनावी नीति :‘फागुन २१ का लागि मेरो २१ दिन’ अभियान सुरु गर्दै",
+      "summary": "बैतडीमा तीन सय ८७ वट भरुवा बन्दुक जिल्ला प्रशासन कार्यालयलाई बुझाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/387-loaded-guns-handed-over-to-administration-in-baitadi-37-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770538890_banduk-480x320.jpg"
+    },
+    {
+      "title": "सुदृढ प्रहरी संगठनका लागि रणनीतिक सम्मेलन महत्त्वपूर्ण : गृहमन्त्री",
+      "summary": "केन्द्रीय बैंकले वित्तीय प्रणालीको अधिक तरलता र ब्याजदर व्यवस्थापनका लागि निक्षेप संकलन उपकरण र स्थायी निक्षेप सुविधामार्फत तरलता तान्दै आएको छ। बोलकबोलमा राष्ट्र बैंकबाट इजाजतप्राप्त ‘क’, ‘ख’ र ‘ग’ वर्गका बैंक तथा वित्तीय संस्थामात्र सहभागी हुन पाउनेछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-rastra-bank-withdrawing-50-billion-rupees-in-deposits-today-48-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770538462_Bank-480x320.jpg"
     }
   ]
 }
