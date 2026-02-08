@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-08T08:42:26.138902",
+  "scraped_at": "2026-02-08T13:07:09.139357",
   "date": "2026-02-08",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -351,6 +351,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-rastra-bank-withdrawing-50-billion-rupees-in-deposits-today-48-64.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770538462_Bank-480x320.jpg"
+    },
+    {
+      "title": "Budget-friendly neighbourhoods for Nepali students in Sheffield",
+      "summary": "From campus hubs to distant suburbs, a map of where students can live well in the English city without overspending.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/08/budget-friendly-neighbourhoods-for-nepali-students-in-sheffield",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/crookes-1770513608.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court declines stay on cancellation of Resham Chaudhary’s candidacy",
+      "summary": "Apex court says issues raised will be addressed in the final verdict.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/08/supreme-court-declines-stay-on-cancellation-of-resham-chaudhary-s-candidacy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1770554297.jpg&w=600&height=400"
+    },
+    {
+      "title": "सांसदको स्वकीय हटाइएकोमा कांग्रेस आक्रोशित",
+      "summary": "वरिष्ठ अधिवक्ता चन्द्रकान्त ज्ञवालीले निर्वाचनमा मतदाता शिक्षाको अत्यन्तै महत्त्वपूर्ण भूमिका रहने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/voter-education-is-not-just-about-voting-it-is-about-choosing-competent-representatives-senior-advocate-gyawali-10-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770555835_adhibakta-480x320.jpg"
+    },
+    {
+      "title": "हिमालमा चुनाव, सहरमा प्रचार",
+      "summary": "संघीय सरकारले प्रदेशसभा सदस्यको स्वकीय सचिव हटाएकोमा नेपाली कांग्रेस आक्रोशित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-outraged-over-removal-of-mp-s-personal-information-66-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770554600_udhav-480x320.jpg"
+    },
+    {
+      "title": "गुल्मी–२ मा पुराना उम्मेदवारलाई नयाँको चुनौती",
+      "summary": "उदयपुर जिल्ला प्रहरी मातहत विभिन्न युनिटबाट माघ २४ र २५ गते २ दिनमा १६ जना फरार अभियुक्त पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/16-absconding-accused-in-various-cases-arrested-83-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770554414_udayapur-480x320.jpg"
+    },
+    {
+      "title": "तारामान गुरुङको संयोजकत्वमा कांग्रेसको केन्द्रीय अनुशासन समिति गठन",
+      "summary": "आईसीसी टी-२० विश्वकपको समूह 'सी' अन्तर्गत जारी खेलमा इंग्ल्यान्डविरुद्ध नेपालका उपकप्तान दिपेन्द्र सिङ ऐरिले अर्धशतक बनाउनबाट चुकेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/vice-captain-dipendra-missed-out-on-a-half-century-against-england-86-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770553614_airee-480x320.jpg"
+    },
+    {
+      "title": "झापालाई मैले मत लिने मात्र ठाउँको रूपमा कहिल्यै सोचिनँ : ओली",
+      "summary": "वरिष्ठ अधिवक्ता चन्द्रकान्त ज्ञवालीले निर्वाचनमा मतदाता शिक्षाको अत्यन्तै महत्त्वपूर्ण भूमिका रहने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/voter-education-is-not-just-about-voting-it-is-about-choosing-competent-representatives-senior-advocate-gyawali-10-42.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
