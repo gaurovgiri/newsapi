@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-08T03:25:16.606961",
+  "scraped_at": "2026-02-08T05:27:03.236537",
   "date": "2026-02-08",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/jhapa-gold-cup-army-and-church-boys-to-clash-today-25-14.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal and Saudi Arabia sign labour agreement to protect migrant workers",
+      "summary": "Thai voters will also be asked whether to replace the 2017 military-backed constitution, which critics say concentrated power in undemocratic institutions, including a powerful indirectly selected senate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/01/26/nepal-and-saudi-arabia-sign-labour-agreement-to-protect-migrant-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1770512913.jpg&w=400&height=267"
+    },
+    {
+      "title": "उपचार गर्न ‘घरखेत बेच्नु’ नपरोस् भनेर ल्याएको बिमा कार्यक्रम सुधार हुन्छ, बन्द हुँदैन : सभापति थापा",
+      "summary": "महासंघका अनुसार आज चाँदीको मूल्यमा पनि वृद्धि देखिएको छ। आज चाँदी पाँच हजार १० रुपैयाँमा कारोबार भइरहेको छ। यसअघि चाँदी चार हजार ३८ रुपैयाँमा कारोबार भइरहेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-rises-again-crosses-three-lakh-rupees-45-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770010964_Gold-480x320.jpg"
+    },
+    {
+      "title": "न्याय नपाए गोरखा जानु भन्थे, अब विकास हेर्न गुण्डु आउनु : सचिव बस्नेत",
+      "summary": "कवि गौरी तमुको ‘सैँप्रोल’ कवितासंग्रह लाेकार्पण भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/poet-gauri-tamu-s-poetry-collection-saiprol-presented-br-36-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770526602_need 90-480x320.jpg"
     }
   ]
 }
