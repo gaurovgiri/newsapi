@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-09T09:03:44.629060",
+  "scraped_at": "2026-02-09T13:26:51.414450",
   "date": "2026-02-09",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/morang-4-modi-prepares-to-score-a-hat-trick-ghimire-claims-to-return-the-legacy-24-91.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "दुर्गमलाई प्राथमिकता दिँदै मतपत्र ढुवानी माघ २८ देखि",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचन २०८२ का लागि आवश्यक पर्ने समानुपातिकतर्फको मतपत्र छपाइ कार्य सम्पन्न भएको जनक शिक्षा सामग्री केन्द्र प्रालिले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ballot-transportation-will-begin-from-magh-12-prioritizing-remote-areas-29-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770643049_matpatra-480x320.jpg"
+    },
+    {
+      "title": "हामीसँग इमानदारिता र क्षमता दुवै छ: उपसभापति अर्याल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उपसभापति डोलप्रसाद (डिपी) अर्यालले आफ्नो पार्टीसँग देश बनाउने इमानदारिता र क्षमता दुवै रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-both-honesty-and-ability-deputy-speaker-aryal-br-26-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1754054390_dol_parsad-480x320.jpg"
+    },
+    {
+      "title": "राप्रपा उम्मेदवार खड्काले भने : सांसद भए तलबभत्ता र सेवासुविधा लिन्नँ",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) बाट भक्तपुर क्षेत्र नं १ का उम्मेदवार भरतबहादुर खड्काले आफू विजयी भए सांसद भएबापत पाइने तलबभत्ता र सेवासुविधा नलिने सार्वजनिक घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-candidate-khadka-said-if-i-become-an-mp-i-will-not-take-salary-allowances-and-service-benefits-84-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770641977_khadka-480x320.jpg"
+    },
+    {
+      "title": "‘अब गुइँठा होइन, पाइपलाइनबाटै घर-घरमा ग्यास बाल्ने हो’",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले अब गुइँठा बाल्ने नभई पाइपलाइन मार्फत घरघरमा ग्यास पुर्‍याउने योजनामा अघि बढ्नुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-more-snarls-we-ll-be-burning-gas-from-pipelines-to-every-home-br-97-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770641438_oli_-480x320.jpg"
+    },
+    {
+      "title": "सोसियल मिडियामा ‘फण्डा’ गर्दैमा नयाँ भइँदैन, एजेन्डाका आधारमा हामी नै नयाँ हौं: दाहाल",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचन २०८२ का लागि आवश्यक पर्ने समानुपातिकतर्फको मतपत्र छपाइ कार्य सम्पन्न भएको जनक शिक्षा सामग्री केन्द्र प्रालिले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ballot-transportation-will-begin-from-magh-12-prioritizing-remote-areas-29-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
