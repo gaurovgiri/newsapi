@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-09T02:53:25.269081",
+  "scraped_at": "2026-02-09T05:40:19.105690",
   "date": "2026-02-09",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
     "News24",
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/accidents-increase-in-jhapa-18-people-die-in-25-days-50-16.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ा नहेर्नेलाई सरकारले यसरी अप्ठ्यारोमा पार्ने",
+      "summary": "ा नहेर्नेलाई सरकारले यसरी अप्ठ्यारोमा पार्ने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12209",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Jestha-Nagarik-1770606946.jpg"
+    },
+    {
+      "title": "्मा वाङ्छु शेर्पालाई सम्मान",
+      "summary": "्मा वाङ्छु शेर्पालाई सम्मान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12198",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/dhoka-1770449143.jpg"
+    },
+    {
+      "title": "Hong Kong media tycoon Jimmy Lai sentenced to 20 years jail in national security trial",
+      "summary": "The Hong Kong court said Lai’s sentence was enhanced by the fact that he was “mastermind” and driving force behind foreign collusion conspiracies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/09/hong-kong-media-tycoon-jimmy-lai-sentenced-to-20-years-jail-in-national-security-trial",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/MIWPE4G3RJJA5HG4TIVREOLZ74-1770607124.jpg&w=300&height=200"
+    },
+    {
+      "title": "Mental health groups conduct scream therapy at Marble Dada",
+      "summary": "Expectation of a morally pure leader fuels saviour politics, shifting duty away from citizens.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/09/mental-health-groups-conduct-scream-therapy-at-marble-dada",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/MIWPE4G3RJJA5HG4TIVREOLZ74-1770607124.jpg&w=400&height=267"
+    },
+    {
+      "title": "Budget-friendly neighbourhoods for Nepali students in Sheffield",
+      "summary": "Says accurate information, dialogue and citizen engagement are key to addressing political instability and public discontent.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/08/budget-friendly-neighbourhoods-for-nepali-students-in-sheffield",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/2026-02-08T142431Z_1_LYNXMPEM1708I_RTROPTP_4_JAPAN-ELECTION-LDP.JPG&w=400&height=267"
+    },
+    {
+      "title": "यी हुन् पूर्वाधार विकासका लागि सभापति थापाले अघि सारेका सात प्रमुख सुधार",
+      "summary": "महासंघका अनुसार आज चाँदीको मूल्य प्रतितोला पाँच हजार २५० रुपैयाँ पुगेको छ। हिजो चाँदी पाँच हजार १० रुपैयाँ थियो। चाँदीको मूल्य २४० रुपैयाँले बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-increased-today-as-well-92-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "यसपालि पनि काभ्रेमा छैनन् दलित उम्मेदवार",
+      "summary": "गगनकुमार थापाको सभापतित्व केवल पद हस्तान्तरण होइन, पार्टी र राष्ट्रमा सुशासन, लोकतन्त्र र जिम्मेवार नेतृत्व स्थापनाको संकेत हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/communication-of-good-governance-destination-of-the-sky-br-58-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770614111_dd 56 56-480x320.jpg"
     }
   ]
 }
