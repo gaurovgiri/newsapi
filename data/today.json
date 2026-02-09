@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-09T05:40:19.105690",
+  "scraped_at": "2026-02-09T09:03:44.629060",
   "date": "2026-02-09",
-  "total_articles": 41,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -335,6 +335,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/communication-of-good-governance-destination-of-the-sky-br-58-96.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770614111_dd 56 56-480x320.jpg"
+    },
+    {
+      "title": "World continues to pour appreciation for Nepal’s valiant performance against England",
+      "summary": "Contrary to expectations of an easy win for the defending champions, the Rhinos stretched the match to the final ball.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/09/world-continues-to-pour-appreciation-for-nepal-s-valiant-performance-against-england",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6293368479392725386717921789377951129277802n-1770623723.jpg&w=300&height=200"
+    },
+    {
+      "title": "Jimmy Lai, Hong Kong tycoon and democracy firebrand standing up to China",
+      "summary": "The sentence is the latest blow for a self-made millionaire who refused to stay quiet after Beijing’s crackdown that followed Hong Kong’s 2019 protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/09/jimmy-lai-hong-kong-tycoon-and-democracy-firebrand-standing-up-to-china",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/S3GRUIWJ4RNTRLUXDKENL73KEQ-1770623126.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nobel laureate Ebadi criticises Iran’s human rights record",
+      "summary": "Speaking at Kantipur Conclave 2026, Ebadi lauds Nepal’s Gen Z protests, calls on youth to vote and engage in democracy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/09/nobel-laureate-ebadi-criticises-iran-s-human-rights-record",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/62407194329233571513428331934537730848785320n-1770616878.jpg&w=300&height=200"
+    },
+    {
+      "title": "फागुन २१ इतिहास बन्नेछ : रवि लामिछाने",
+      "summary": "मोरङ क्षेत्र नं ४ लाई कुनै बेला नेपाली कांग्रेसको किल्लाको रूपमा लिइने गरिन्थ्यो। तर, पछिल्ला दुई निर्वाचनमा कांग्रेसको किल्लाका रूपमा रहेको मोरङ–४ मा तत्कालीन नेकपा (माओवादी केन्द्र)ले जित निकाल्दै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/morang-4-modi-prepares-to-score-a-hat-trick-ghimire-claims-to-return-the-legacy-24-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770627275_binod news-480x320.jpg"
+    },
+    {
+      "title": "चितवन १ : महिला मतदाता बढी, उम्मेदवार कम",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले रुपन्देही क्षेत्र नम्बर १ पुगेर फागुन २१ केवल मिति मात्र नभई इतिहास बन्ने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/falgun-21-will-become-history-ravi-lamichhane-49-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767620113_rabi_-480x320.jpg"
+    },
+    {
+      "title": "कतार चेम्बर अफ कमर्सको प्रतिनिधिमण्डलद्वारा पर्यटन मन्त्रीसँग भेटवार्ता",
+      "summary": "यो हारलाई क्रिकेट जगतले नेपालको ठूलो उपलब्धिका रूपमा हेरेको छ। विश्वभर सामाजिक सञ्जालमा नेपालको निडर प्रदर्शनको प्रशंसा भइरहेको छ। इङ्ल्यान्डको जितभन्दा नेपालको संघर्ष बढी चर्चामा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/after-watching-nepal-s-match-against-england-the-cricket-world-said-this-is-what-a-champion-team-looks-like-23-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770626395_Nepal Game-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचनका लागि निर्वाचन सामग्रीको तयारी पूरा",
+      "summary": "तीन दिनअघि भारतको मेघालयस्थित कोइलाखानीमा विस्फोटनमा परि घाइते भएका खोटाङका अर्का व्यक्तिको पनि निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/meghalaya-blast-incident-another-youth-from-khotang-dies-33-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770623599_koilakhani-480x320.jpg"
+    },
+    {
+      "title": "८८ निर्वाचन क्षेत्रको मतपत्र छपाइ सकियो",
+      "summary": "मोरङ क्षेत्र नं ४ लाई कुनै बेला नेपाली कांग्रेसको किल्लाको रूपमा लिइने गरिन्थ्यो। तर, पछिल्ला दुई निर्वाचनमा कांग्रेसको किल्लाका रूपमा रहेको मोरङ–४ मा तत्कालीन नेकपा (माओवादी केन्द्र)ले जित निकाल्दै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/morang-4-modi-prepares-to-score-a-hat-trick-ghimire-claims-to-return-the-legacy-24-91.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
