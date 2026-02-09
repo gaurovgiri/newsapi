@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-09T13:26:51.414450",
+  "scraped_at": "2026-02-09T17:06:45.787050",
   "date": "2026-02-09",
-  "total_articles": 53,
+  "total_articles": 57,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -431,6 +431,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ballot-transportation-will-begin-from-magh-12-prioritizing-remote-areas-29-27.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "आगामी निर्वाचनबाट प्रदेशलाई सबल र देशलाई सम्मुन्नत बनाउँछौं: थापा",
+      "summary": "नेपाल आयल निगमले खाना पकाउने ग्यासको आयात तथा विक्रीवितरण नियमित भइरहेकाले अनावश्यक भण्डारण नगर्न आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/corporation-urges-people-not-to-store-gas-unnecessarily-43-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770191584_gas-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई कानुन आयोगको जानकारी",
+      "summary": "काठमाडौंस्थित लिन्कन इन्टरनेशनल कलेजका विद्यार्थीहरूले काभ्रेको चौंरीदेउराली गाउँपालिका–४, दोलाघाटस्थित कुमार बलराम स्मृति छात्रावासमा आश्रित अनाथ तथा असहाय बालबालिकालाई करिब डेढ लाख रुपैयाँ बराबरको राहत तथा शैक्षिक सामग्री हस्तान्तरण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/students-warm-love-for-helpless-children-br-84-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770653020_002-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीसमक्ष ओहदाको प्रमाणपत्र पेस",
+      "summary": "भोजमा मासु खानेक्रममा हड्डी अड्कँदा जिल्लाको तारकेश्वर गाउँपालिका-५ गोस्र्याङमा एक महिलाको निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-getting-stuck-in-a-bone-while-eating-meat-88-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "कसैलाई गाली नगरी एकढिक्का भएर निर्वाचनमा लागाैं: विश्वप्रकाश",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले आगामी निर्वाचनबाट संविधान संशोधन गरेर प्रदेशलाई सबल र देशलाई सम्मुन्नत बनाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-make-the-province-strong-and-the-country-prosperous-through-the-upcoming-elections-thapa-83-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770651112_Untitled-1-480x320.jpg"
     }
   ]
 }
