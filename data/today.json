@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-10T03:18:27.184548",
+  "scraped_at": "2026-02-10T05:41:17.344226",
   "date": "2026-02-10",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/how-much-can-candidates-in-which-constituencies-spend-58-70.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Over 60 percent of Nepal’s households use sewage-contaminated water",
+      "summary": "Nepal Multiple Indicator Survey shows everyone uses ‘improved’ sources, yet microbes were seen in most samples.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/09/over-60-percent-of-nepal-s-households-use-sewage-contaminated-water-report",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/waterpollution-1770647404.jpg&w=300&height=200"
+    },
+    {
+      "title": "This man teaches in a classroom with animals and Nepali ancestral tools",
+      "summary": "Quickly and publicly accepting its recent mistakes and taking corrective measures will be a sign of strength.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/09/this-man-teaches-in-a-classroom-with-animals-and-nepali-ancestral-tools",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/M3AT7FHX7VK7RLSS3MEZV2LD4A-1770689564.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुमनाको प्रश्न : कार्की आयोगले कसैलाई ‘साइजमा ल्याउन’ फाइल खोल्ने–बन्द गर्ने गरेको हो ?",
+      "summary": "सोमबार राति काजकिस्तानको टुरान भलिबल क्लबसँग ३– ० को सोझो सेटमा पराजित हुँदै पुलिस लिगबाट बाहिरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-police-club-eliminated-from-kabha-women-s-volleyball-league-69-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770701305_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आचारसंहिताबाहिर नजानु भन्दै रविका नाममा नवलपरासी प्रशासनको पत्र",
+      "summary": "पूर्व शिक्षामन्त्री सुमना श्रेष्ठले छानबिन आयोगको समयावधिपटक–पटक सारिएको भन्दै असन्तुष्टि व्यक्त गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/is-the-karki-commission-opening-and-closing-files-to-bring-someone-down-to-size-sumana-shrestha-24-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764755530_sumana--480x320.jpg"
+    },
+    {
+      "title": "‘प्रभावशाली’ काे सामना गर्दै महिला",
+      "summary": "आजचाँदीको मूल्य भने घटेको छ। चाँदी आज १० रुपैयाँ घटेर पाँच हजार २४० रुपैयाँमा कारोबार भइरहेको महासंघले जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-increased-today-silver-prices-decreased-53-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
     }
   ]
 }
