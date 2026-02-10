@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-10T09:05:08.114274",
+  "scraped_at": "2026-02-10T13:42:32.079264",
   "date": "2026-02-10",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-namibia-defeated-by-netherlands-81-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Experts stress ethics, responsibility, and algorithm awareness",
+      "summary": "Kantipur Conclave panel highlights journalism’s shift to click-driven content, ethical campaigning, and algorithmic challenges.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/10/experts-stress-ethics-responsibility-and-algorithm-awareness",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/62835097913636218088501703173219998582675970n-1770702421.jpg&w=300&height=200"
+    },
+    {
+      "title": "Leaders serve the people, they do not rule them: Raksha Bam",
+      "summary": "Gen Z voices at the Kantipur Conclave call for leadership reform, accountability and democratic conduct over generational labels.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/10/leaders-serve-the-people-they-do-not-rule-them-raksha-bam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/62525740912060569617366204393921222095592792n-1770720983.jpg&w=300&height=200"
+    },
+    {
+      "title": "Perth crash kills Nepali woman on family visit",
+      "summary": "Only the mutual fund and trading sub-indices posted gains, while most stocks ended in the red on Tuesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/08/perth-crash-kills-nepali-woman",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/62835097913636218088501703173219998582675970n-1770702421.jpg&w=400&height=267"
+    },
+    {
+      "title": "संविधानलाई कुनै पनि हालतमा तलमाथि हुन दिन्नौं: गगन",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले वर्तमान संविधानलाई कुनै पनि हालतमा तलमाथि हुन नदिने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-not-allow-the-constitution-to-be-subverted-under-any-circumstances-gagan-br-46-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770730046_gagan_thapa-480x320.jpg"
+    },
+    {
+      "title": "भावनात्मक बहकाउभन्दा तथ्य र कामको आधारमा मत माग्न कार्यकर्तालाई ओलीको निर्देशन",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले निर्वाचनमा भावनात्मक बहकाउभन्दा तथ्य र कामको आधारमा मत माग्न कार्यकर्तालाई निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-instructs-cadres-to-seek-votes-based-on-facts-and-actions-rather-than-emotional-deception-50-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770730706_oli-480x320.jpg"
+    },
+    {
+      "title": "संविधान पुनरावलोकन र परिमार्जन गर्न प्रतिबद्ध छौं: दाहाल",
+      "summary": "झापा-११ झापा २६ औं अन्तर्राष्ट्रिय आमन्त्रण बुढासुब्बा गोल्डकप फुटबल प्रतियोगिताको सेमिफाइनलमा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/budhasubba-gold-cup-jhapa-11-advances-to-semifinals-52-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770730082_goldcup-480x320.jpg"
+    },
+    {
+      "title": "‘आगामी निर्वाचन गणतन्त्रको भविष्य सुनिश्चित गर्ने निर्णायक अवसर’",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले नवयुवा पुस्ताको मर्म र भावना अनुसार राजनीतिक स्थिरताका लागि संविधान संशोधन गर्न आफ्नो पार्टी प्रतिबद्ध रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-committed-to-reviewing-and-amending-the-constitution-coordinator-dahal-39-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770729664_RS_KTMIMG_20260210_173610-480x320.jpg"
+    },
+    {
+      "title": "पाँच वर्षमा १० हजार मेगावाट विद्युत उत्पादन गर्ने नेकपाको लक्ष्य",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले वर्तमान संविधानलाई कुनै पनि हालतमा तलमाथि हुन नदिने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-not-allow-the-constitution-to-be-subverted-under-any-circumstances-gagan-br-46-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
