@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-10T13:42:32.079264",
+  "scraped_at": "2026-02-10T17:12:32.761501",
   "date": "2026-02-10",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-not-allow-the-constitution-to-be-subverted-under-any-circumstances-gagan-br-46-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Leaders discuss good governance, party politics and Gen Z movement at Kantipur Conclave",
+      "summary": "Speakers call for political reform, innovation, decentralisation and accountability, linking the Gen Z movement to failures in governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/10/leaders-discuss-good-governance-party-politics-and-gen-z-movement-at-kantipur-conclave",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/yogeshpradipsumana-1770733224.jpg&w=300&height=200"
+    },
+    {
+      "title": "Chief ministers debate future of federalism on the second day of Kantipur Conclave 2026",
+      "summary": "Provincial leaders stress legal reform, coordination and accountability, rejecting claims that federalism is merely a costly structure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/10/chief-ministers-debate-future-of-federalism-on-the-second-day-of-kantipur-conclave-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/angaddhakal-1770728395.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचनलाई सुरक्षित बनाउन प्रधानमन्त्रीको निर्देशन, भनिन्- ‘सुरक्षामा कुनै चुक नहोस्’",
+      "summary": "प्रधानमन्त्री एवं रक्षामन्त्री सुशीला कार्कीले आगामी प्रतिनिधि सभा सदस्य निर्वाचनलाई शान्तिपूर्ण, निष्पक्ष र भयरहित वातावरणमा सम्पन्न गर्न नेपाली सेनालाई निर्देशन दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-karki-directs-to-make-the-election-fair-and-secure-there-should-be-no-lapse-in-security-26-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770741213_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "नागरिकमा आशा, भरोसा जगाउनुपर्नेछ, त्यो तागत कांग्रेससँग छ: विश्वप्रकाश",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले द्वन्द्व र विमतिलाई बिर्सिएर एक ढिक्का भई निर्वाचनमा जुटन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/manage-your-own-toll-and-surroundings-in-the-elections-deputy-speaker-sharma-86-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770386303_biswo-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीको स्वास्थ्य सेवा विस्तारका लागि बजेट अभाव हुँदैन : स्वास्थ्यमन्त्री",
+      "summary": "नेपाल सरकारका स्वास्थ्य तथा जनसङ्ख्यामन्त्री डा. सुधा गौतमले कर्णालीको स्वास्थ्य सेवा विस्तारका लागि आवश्यक बजेटको व्यवस्थापन गरिने बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-budget-shortage-for-expanding-health-services-in-karnali-health-minister-34-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761476395_sudha-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्र मन्त्री र अर्थमन्त्रीसँग कतारी प्रतिनिधि मण्डलको भेटवार्ता",
+      "summary": "जातीय विभेद गर्ने उम्मेदवारलाई आगामी निर्वाचनमा मत नदिने गरी दलितमैत्री निर्वाचन राष्ट्रिय अभियानले घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dalits-boycott-caste-based-candidates-74-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770738617_dalit-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस बद्लिएको कुरा जनतालाई अनुभूति गराऔँ : उपसभापति शर्मा",
+      "summary": "प्रधानमन्त्री एवं रक्षामन्त्री सुशीला कार्कीले आगामी प्रतिनिधि सभा सदस्य निर्वाचनलाई शान्तिपूर्ण, निष्पक्ष र भयरहित वातावरणमा सम्पन्न गर्न नेपाली सेनालाई निर्देशन दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-karki-directs-to-make-the-election-fair-and-secure-there-should-be-no-lapse-in-security-26-45.html?click_from=just_in",
       "image_url": ""
     }
   ]
