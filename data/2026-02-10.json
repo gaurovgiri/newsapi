@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-10T05:41:17.344226",
+  "scraped_at": "2026-02-10T09:05:08.114274",
   "date": "2026-02-10",
-  "total_articles": 38,
+  "total_articles": 47,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -311,6 +311,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-increased-today-silver-prices-decreased-53-34.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "साइलेन्सर बिगार्ने फन्दामा, प्रहरी शुरु ग¥यो कारबाही, स्थानीय दंग",
+      "summary": "साइलेन्सर बिगार्ने फन्दामा, प्रहरी शुरु ग¥यो कारबाही, स्थानीय दंग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12128",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/bike-atanka__-1769827859.jpg"
+    },
+    {
+      "title": "‘Nepal’s geopolitical space growing complex amid global power competition’",
+      "summary": "Experts say Kathmandu still has room to balance interests through economic cooperation and connectivity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/10/nepal-s-geopolitical-space-growing-complex-amid-global-power-competition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/3rddipen10220260819331000x0-1770709912.jpg&w=300&height=200"
+    },
+    {
+      "title": "At least five dead as bus plunges into Tamakoshi river in Ramechhap",
+      "summary": "Rescue teams and locals search for survivors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-3/2026/02/10/at-least-five-dead-as-bus-plunges-into-tamakoshi-river-in-ramechhap",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/RamechhapBus-1770704555.jpg&w=300&height=200"
+    },
+    {
+      "title": "China’s panda diplomacy is becoming a liability for Beijing",
+      "summary": "Nepal Multiple Indicator Survey shows everyone uses ‘improved’ sources, yet microbes were seen in most samples.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/10/china-s-panda-diplomacy-is-becoming-a-liability-for-beijing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/3rddipen10220260819331000x0-1770709912.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेन्द्रको 'रोड सो' : जनता हेरेको हेर्‍यै",
+      "summary": "आईसीसी टी-२० पुरुष विश्वकप अन्तर्गत समूह 'ए' को हालै सम्पन्न खेलमा नामिबिया नेदरल्यान्डससँग ७ विकेटले पराजित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-namibia-defeated-by-netherlands-81-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770713621_namibiya-480x320.jpg"
+    },
+    {
+      "title": "बागमती प्रदेश सभाबाट ९० विधेयक पारित",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का वरिष्ठ नेता बालेन्द्र शाहले मधेसको दूरदेहातका मतदातामा लहर ल्याउन हुलाकी राजमार्ग केन्द्रित 'रोड सो' गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-s-road-show-the-public-is-watching-11-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770712827_balen-480x320.jpg"
+    },
+    {
+      "title": "चुनावी सुरक्षाका लागि सतर्क रहन प्रधानमन्त्रीको निर्देशन",
+      "summary": "जिल्ला प्रहरी कार्यालयअन्तर्गत महाकाली नगरपालिका–४ बाङ्गाबगडमा सामुदायिक प्रहरी बिटमा कार्यरत ३८ वर्षीय प्रहरी हवल्दार योगेन्द्र घर्ती सोमबार राति मृत फेला परेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-constable-found-dead-two-arrested-br-13-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "‘अल्गोरिदम’बाट आएका व्यक्तिको पछि लाग्न बन्द गर्नुस् : रामकुमारी झाक्रि",
+      "summary": "आना शर्मा र सुशान्त केसीको ब्रेकअप भएको चर्चाबीच सिनेमा रमिताको पिरती को सुशान्तको स्वरमा रहेको गीत सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sushant-on-the-fourth-day-of-its-release-br-41-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770711869_need 57-480x320.jpg"
+    },
+    {
+      "title": "एक करोड ३७ लाख ९१ हजार मतपत्र छापिए",
+      "summary": "आईसीसी टी-२० पुरुष विश्वकप अन्तर्गत समूह 'ए' को हालै सम्पन्न खेलमा नामिबिया नेदरल्यान्डससँग ७ विकेटले पराजित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-namibia-defeated-by-netherlands-81-67.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
