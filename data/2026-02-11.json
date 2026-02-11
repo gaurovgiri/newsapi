@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-11T13:39:43.192665",
+  "scraped_at": "2026-02-11T17:12:09.800645",
   "date": "2026-02-11",
-  "total_articles": 48,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/6-cases-against-those-who-made-death-threats-remand-extended-by-three-days-84-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal recalls children’s antibiotic over quality issues",
+      "summary": "Department of Drug Administration says Supramox CV BID batch FSBD 12016, made by Arya Pharmalab Pvt Ltd found substandard.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/11/nepal-recalls-children-s-antibiotic-over-quality-issues",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ANTIBIOTIC-1770814456.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s elusive pest controller of the forests under grave threat",
+      "summary": "Conservationists say pangolins could disappear in 20-50 years unless urgent efforts are made to curb poaching.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/11/nepal-s-elusive-pest-controller-of-the-forests-under-grave-threat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/salaksammelan09220260658451000x0-1770820983.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेन लक्षित केदार- बालबालिकालाई श्रद्धाञ्जलीसमेत दिन नजाने कायरहरू अंश लिन निर्वाचनमा आए",
+      "summary": "नेपाली कांग्रेसका सांसद एवं कोशी प्रदेशका पूर्व मुख्यमन्त्री केदार कार्कीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) र यसका वरिष्ठ नेता बालेन शाहको नेतृत्व शैलीप्रति प्रहार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cowards-who-used-to-raise-children-in-the-movement-are-now-coming-to-the-elections-to-seek-a-share-93-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770826698_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "‘मतदाता शिक्षाले नै चुनावी परिणामलाई वास्तविक आकार दिन्छ’",
+      "summary": "वरिष्ठ अधिवक्ता चन्द्रकान्त ज्ञवालीले निर्वाचनमा मतदाता शिक्षाको महत्वपूर्ण भूमिका रहने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/voter-education-is-what-truly-shapes-election-results-83-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770826310_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रौतहटमा एक कुर्सी दुई हाकिम, कर्मचारी अन्योलमा",
+      "summary": "निर्वाचनको रापतापबाट राजधानी काठमाडौं पनि अछुतो छैन। प्रतिनिधिसभामा काठमाडौंका १० निर्वाचन क्षेत्रबाट प्रतिनिधित्व हुन्छ। यी क्षेत्रमा चुनावी रौनक बढ्दो छ। दल र स्वतन्त्र उम्मेदवार घरदैलोमा पुगेर आ-आफ्नो पक्षमा मत माग्न व्यस्त देखिन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-excitement-growing-in-kathmandu-candidates-door-to-door-voters-silent-br-17-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766417781_kathmandu-480x320.jpg"
+    },
+    {
+      "title": "पोखराको फोहोर ७२ घण्टाभित्र उठाइने:राजनीति नगर्ने दलहरूको प्रतिबद्धता",
+      "summary": "मधेश प्रदेश सरकार अन्तर्गतको पर्यटन कार्यालय रौतहटमा दुईजना कार्यालय प्रमुख (हाकिम) खटिएपछि त्यहाँ कार्यरत कर्मचारी र सेवाग्राही अन्योलमा परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/employees-and-service-recipients-confused-after-two-heads-in-one-office-25-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770823641_f-480x320.jpg"
+    },
+    {
+      "title": "वातावरण संरक्षणसँगै पूर्वाधार विकास आवश्यक: वनमन्त्री",
+      "summary": "नेपाली कांग्रेसका सांसद एवं कोशी प्रदेशका पूर्व मुख्यमन्त्री केदार कार्कीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) र यसका वरिष्ठ नेता बालेन शाहको नेतृत्व शैलीप्रति प्रहार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cowards-who-used-to-raise-children-in-the-movement-are-now-coming-to-the-elections-to-seek-a-share-93-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
