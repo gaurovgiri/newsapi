@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-11T05:40:13.224841",
+  "scraped_at": "2026-02-11T08:59:55.093252",
   "date": "2026-02-11",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/skoda-kayak-launched-in-nepal-br-76-45.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770787641_gjgj gj 42-480x320.jpg"
+    },
+    {
+      "title": "Ten dead after shooter opens fire at high school in Canada",
+      "summary": "The outburst brought to Canada the type of mass shooting more common in the neighbouring United States, and was carried out by a shooter described as female, police said.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/11/ten-dead-after-woman-opens-fire-at-high-school-in-canada",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/WO4TJ4YGZNOA3FWKH46AEPAUWY-1770791459.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s share market faces unprecedented lockdown as regulators battle industry over trading rules",
+      "summary": "Proposed restrictions in shares raise the question: Is Nepal building a more robust securities system or creating lasting restrictions on capital flow unlike anywhere else?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/10/nepal-s-share-market-faces-unprecedented-lockdown-as-regulators-battle-industry-over-trading-rules",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/thumb1-1770771109.jpg&w=300&height=200"
+    },
+    {
+      "title": "जुम्लामा उम्मेदवारसँग खुला बहस, समृद्धि–सुशासन एजेन्डा",
+      "summary": "राजपाल यादव बलिउडका सबैभन्दा प्रतिभाशाली र हास्य कलाकारहरू मध्ये एक हुन्। उनले चलचित्रहरूमा सहायक र क्यारेक्टर भूमिकामा पनि आफ्नो अलग पहिचान बनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/leaders-and-artists-support-rajpal-who-is-imprisoned-in-tihar-jail-45-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770797349_Rajpal-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय मुक्ति पार्टीको प्रतिबद्धता : दश वर्षमै पाँच सय अर्ब डलरको जिडिपी लक्ष्य",
+      "summary": "कर्णाली प्रदेश संयोजक सु–प्रिय राजलक्ष्मी शाहीले फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका उम्मेदवारहरूसँग खुला अन्तरसंवाद गर्न कार्यक्रम आयोजना गरिएको जानकारी दिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/open-debate-with-candidates-in-jumla-prosperity-good-governance-agenda-78-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770796354_Jumla News-480x320.jpg"
+    },
+    {
+      "title": "भ्रष्टाचार नियन्त्रण गर्ने जिम्मेवारी सरकारको हो : प्रधानमन्त्री कार्की",
+      "summary": "साहित्यकार जितेन्द्र रसिकको अठाराैं कृति‘साइबोर्ग’बालउपन्याससार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/literary-writer-jitendra-rasik-s-eighteenth-work-cyborg-a-children-s-novel-has-been-adapted-into-a-book-76-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770796555_good news 56-480x320.jpg"
+    },
+    {
+      "title": "गगनको क्षेत्रमा बालेन्द्रको ‘रोड सो’",
+      "summary": "पार्टी अध्यक्ष राजेन्द्र महतो सहितका केन्द्रीय सदस्यहरूको उपस्थितिमा सार्वजनिक गरिएको घोषणापत्रमा आगामी १० वर्षभित्र नेपालको हालको करिब ४२ अर्ब डलरको जिडिपीलाई ५०० अरब डलर पुर्‍याउनेलक्ष्य राखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rastriya-mukti-party-nepal-s-manifesto-target-of-500-billion-in-10-years-63-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770795603_raj-480x320.jpg"
     }
   ]
 }
