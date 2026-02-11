@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-11T03:16:20.786658",
+  "scraped_at": "2026-02-11T05:40:13.224841",
   "date": "2026-02-11",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/citizens-bank-is-the-first-bank-to-issue-nepal-pay-card-84-37.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "‘Brandsutra 2.0’ looks at marketing beyond theory",
+      "summary": "China’s practice of sending pandas to foreign nations has been heavily criticised by conservationists and animal advocates, who argue the bears are used as pawns in a game of geopolitical chess.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/11/brandsutra-2-0-looks-at-marketing-beyond-theory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/House-1770776319.jpg&w=400&height=267"
+    },
+    {
+      "title": "फागुन ३ भित्रघोषणापत्र सार्वजनिक गर्न आयोगको निर्देशन",
+      "summary": "अरस्तुले २३ सय वर्षअघि नै ठम्याएका थिए– भूगोल, अर्थतन्त्र र सैन्य सामथ्र्यको त्रिवेणीले प्रजातन्त्रको आयु र राष्ट्रियताको आयतन तय गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/the-drought-of-conscience-and-mass-hysteria-br-59-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770788075_ds ds load 52-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन: आचारसंहिता कार्यान्वयनमा कडाइ गर्न सरोकारवालाको जोड",
+      "summary": "कनककुमारी पोखरेल स्मृति प्रतिष्ठानले रावाबेँसी गाउँपालिकाका छ जना उत्कृष्ट महिला स्वास्थ्य स्वयंसेविका र चार जना उत्कृष्ट छात्रालाई नगदसहित पुरस्कृत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/outstanding-women-s-health-volunteer-and-student-awarded-80-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770787802_puraskar-480x320.jpg"
+    },
+    {
+      "title": "विकास भएको छैन भन्नुहुन्छ भने म पत्याउँदिन : नेता कोइराला",
+      "summary": "स्कोडा नेपालले ‘स्कोडा कायलाक’ सार्वजनिक गरेको छ। यसले एसयुभी सेग्मेन्टमा ब्रान्डका लागि महत्त्वपूर्ण उपलब्धि थपेको कम्पनीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/skoda-kayak-launched-in-nepal-br-76-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770787641_gjgj gj 42-480x320.jpg"
     }
   ]
 }
