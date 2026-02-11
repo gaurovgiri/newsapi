@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-11T08:59:55.093252",
+  "scraped_at": "2026-02-11T13:39:43.192665",
   "date": "2026-02-11",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -351,6 +351,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rastriya-mukti-party-nepal-s-manifesto-target-of-500-billion-in-10-years-63-21.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770795603_raj-480x320.jpg"
+    },
+    {
+      "title": "घण्टौं कुरेका समर्थक नै बेखबर: बालेन कतिखेर आए, कतिखेर गए पत्तै भएन",
+      "summary": "अख्तियार दुरूपयोग अनुसन्धान आयोगका प्रमुख आयुक्तसहित विशिष्ट व्यक्तिहरूलाई इमेलमार्फत ज्यान मार्ने धम्की दिने एक व्यक्तिलाई प्रहरीले फिलिपिन्सबाट पक्राउ गरी नेपाल ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/6-cases-against-those-who-made-death-threats-remand-extended-by-three-days-84-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "जब रविले समर्थकलाई मोबाइलको ‘फ्ल्यास’ बाल्न लगाए..",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता एवं प्रधानमन्त्रीका उम्मेदवार बालेन्द्र शाहको भाषण सुन्न र एक झलक हेर्न बाराको कलैयामा बिहानैदेखि ठूलो जमात प्रतिक्षारत थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-rang-the-bell-from-his-car-in-kalaiya-and-walked-away-60-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770815637_Untitled-1-Recovered-480x320.jpg"
+    },
+    {
+      "title": "३४ वर्षे लुटतन्त्रको अन्त्य गर्न फागुन २१ मा इतिहास लेख्नुस्: रवि",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले बुधबार साँझ पोखरमा आयोजित चुनावी सभालाई सम्बोधन गर्ने क्रममा त्यहाँ उपस्थित समर्थकलाई मोबाइलको ‘फ्ल्यास लाइट’ बाल्न अनुरोध गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-ravi-asked-his-supporters-to-turn-on-their-mobile-phones-flashes-br-80-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770814595_lamichhane-480x320.jpg"
+    },
+    {
+      "title": "‘सबै काम एकैपटक हुँदैन’ भन्दै मतदाता फकाउँदै ओली",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले मुलुकमा विगत ३४ वर्षदेखि चल्दै आएको लुटतन्त्र र कुशासनको अन्त्य गर्ने समय आएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/write-history-on-falgun-21-to-end-34-years-of-looting-ravi-52-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770813555_rabii-480x320.jpg"
+    },
+    {
+      "title": "गोरखाका कांग्रेस उम्मेदवारलाई सभापति थापाले काठमाडौंमा भेट्ने",
+      "summary": "अख्तियार दुरूपयोग अनुसन्धान आयोगका प्रमुख आयुक्तसहित विशिष्ट व्यक्तिहरूलाई इमेलमार्फत ज्यान मार्ने धम्की दिने एक व्यक्तिलाई प्रहरीले फिलिपिन्सबाट पक्राउ गरी नेपाल ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/6-cases-against-those-who-made-death-threats-remand-extended-by-three-days-84-53.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
