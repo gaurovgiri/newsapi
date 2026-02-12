@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-12T13:26:40.940786",
+  "scraped_at": "2026-02-12T17:07:05.929543",
   "date": "2026-02-12",
-  "total_articles": 58,
+  "total_articles": 65,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -470,6 +470,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-falling-from-bus-door-in-baitadi-67-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Let down time and again, Palpa squatters have little enthusiasm to vote",
+      "summary": "Landless families say repeated promises of ownership certificates remain unfulfilled as elections approach.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/12/let-down-time-and-again-palpa-squatters-have-little-enthusiasm-to-vote",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Sukumbasipalpa2-1770908982.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal suffer 10-wicket defeat against Italy",
+      "summary": "Mosca brothers’ unbeaten 124-run stand hands Italy a dominant win at Wankhede Stadium.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/12/nepal-suffer-10-wicket-defeat-against-italy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/13fbb25de1d941aba9a5292cb36bb769-1770903536.jpg&w=300&height=200"
+    },
+    {
+      "title": "झापामा अध्यक्ष ओलीका सात दिन : ८० टोलमा मतदातासँग साक्षात्कार",
+      "summary": "बागलुङ नगरपालिका–३ रातमाटामा भएको स्कुल बस दुर्घटनामा घाइते भएका २६ मध्ये एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/school-bus-accident-update-one-dead-6-sent-to-pokhara-89-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770902939_van-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनबाट बहुमत ल्याएर नेपाली कांग्रेस पहिलो दलको रूपमा फेरि स्थापित हुन्छ : उपसभापति शर्मा",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओली एक सातासम्म मतदाता भेटघाट गरेर काठमाडौं फर्किएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chairman-oli-s-seven-days-in-jhapa-interviews-with-voters-in-80-villages-77-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770911881_oli-480x320.jpg"
+    },
+    {
+      "title": "जेन-जी विद्रोहलाई सम्बोधन गर्ने गरी कांग्रेसको संकल्प प्रस्ताव आउँछ: प्रताप",
+      "summary": "जेन-जी आन्दोलनपछि मुलुकको राजनीतिमा नयाँ तरंग पैदा भएको छ। लामो समयदेखिको निराशा चिर्ने हुटहुटी र सुशासनको अपेक्षाबीच आगामी फागुन २१ गते प्रतिनिधिसभाको निर्वाचन हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/sf-51-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770913555_Untitled-2-Recovered-480x320.jpg"
+    },
+    {
+      "title": "निजी क्षेत्र असुरक्षित हुँदा लगानी आउँदैन: ढकाल",
+      "summary": "कपिलवस्तुको बुद्धभुमी नगरपालिका वडा नम्बर १० का पाँच जना युवाले एकै पटक सशस्त्र प्रहरी जवानमा नाम निकालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-people-from-the-same-ward-nominated-for-the-armed-police-force-32-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770911126_bal-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीद्वारा सोलुखुम्बुलगायत क्षेत्रमा निर्वाचन तयारीबारे जानकारी",
+      "summary": "बागलुङ नगरपालिका–३ रातमाटामा भएको स्कुल बस दुर्घटनामा घाइते भएका २६ मध्ये एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/school-bus-accident-update-one-dead-6-sent-to-pokhara-89-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
