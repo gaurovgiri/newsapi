@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-12T05:37:25.080364",
+  "scraped_at": "2026-02-12T08:57:33.349849",
   "date": "2026-02-12",
-  "total_articles": 41,
+  "total_articles": 50,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -335,6 +335,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/infrastructure-is-a-laboratory-of-national-consciousness-33-23.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770874028_pd mai pd mai 52-480x320.jpg"
+    },
+    {
+      "title": "ा फोहोरको डंगुर, समाधानको खोजी व्यर्थ बन्दै, मेयरले जनाए प्रतिबद्धता",
+      "summary": "ा फोहोरको डंगुर, समाधानको खोजी व्यर्थ बन्दै, मेयरले जनाए प्रतिबद्धता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12238",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Samasya-Samadhanko--Upaya-1770868487.jpg"
+    },
+    {
+      "title": "Italy plan to revive cricket in the country through good performance at the T20 World Cup",
+      "summary": "Italy started playing cricket long before Nepal. They expect to pose a big challenge to the Rhinos in Wednesday’s encounter.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/12/italy-plan-to-revive-cricket-in-the-country-through-good-performance-at-the-t20-world-cup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IMG0521-1770858714.jpg&w=300&height=200"
+    },
+    {
+      "title": "Mountain districts to vote on March 5 as scheduled, says PM Karki",
+      "summary": "Prime minister visits Solukhumbu to review preparations, rules out poll delay over winter concerns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-1/2026/02/12/mountain-districts-to-vote-on-march-5-as-scheduled-says-pm-karki",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/susilakarkipmsolu12220260728531000x01-1770880043.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court dismisses former DIG Ranjan Koirala’s plea for release",
+      "summary": "Koirala must serve a full sentence for wife’s murder, the apex court rules.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/12/supreme-court-dismisses-former-dig-ranjan-koirala-s-plea-for-release",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1770876533.jpg&w=600&height=400"
+    },
+    {
+      "title": "साँढेको जुधाइँ, बाच्छाको मिचाइँ नहोस्: दाहाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहालले विश्व शक्ति राष्ट्रहरूको प्रतिस्पर्धामा नेपालजस्तो सानो मुलुक पिल्सिन सक्ने खतरा औंल्याएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bulls-should-not-fight-calves-should-not-be-slaughtered-dahal-br-22-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770639948_dahal-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनको विकल्प छैन : प्रधानमन्त्री कार्की",
+      "summary": "प्रधानमन्त्री सुशीला कार्कीले हिमाली तथा पहाडी जिल्लाहरूमा आगामी फागुन २१ गते नै निर्वाचन गराउन सम्भव रहेको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-alternative-to-elections-prime-minister-karki-86-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770885473_sushila-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा बाल अधिकार हनन भए उजुरी गर्न परिषद्को आग्रह",
+      "summary": "राष्ट्रिय बाल अधिकार परिषद्ले फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका क्रममा बाल अधिकार हनन भएको पाइएमा उजुरी दिन आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-council-for-child-rights-urges-file-a-complaint-if-child-rights-are-violated-in-elections-br-18-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770884680_1_bal griha p-480x320.jpg"
+    },
+    {
+      "title": "मधेस प्रदेश: ६७ कानुन निर्माण",
+      "summary": "बीबीसी, डोइचे वेले, रेडियो फ्री युरोप जस्ता अन्तर्राष्ट्रिय मिडिया तथा टोर ब्राउजर पनि ब्लक गरिएका छन्। रुसले विदेशी सामाजिक सञ्जाल र समाचार स्रोतहरूलाई पूर्ण रूपमा नियन्त्रणमा ल्याउने अभियान चलाएको देखिन्छ। यसले लाखौं रुसीहरूलाई विश्वव्यापी सेवाबाट टाढा राखेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/major-social-media-platforms-banned-in-russia-16-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770884417_Putin-480x320.jpg"
+    },
+    {
+      "title": "अनुसन्धान प्रतिष्ठान संशोधन समितिमा पेश गर्ने कोशी सरकारको निर्णय",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहालले विश्व शक्ति राष्ट्रहरूको प्रतिस्पर्धामा नेपालजस्तो सानो मुलुक पिल्सिन सक्ने खतरा औंल्याएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bulls-should-not-fight-calves-should-not-be-slaughtered-dahal-br-22-31.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
