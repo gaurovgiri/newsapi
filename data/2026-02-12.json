@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-12T02:55:21.051853",
+  "scraped_at": "2026-02-12T05:37:25.080364",
   "date": "2026-02-12",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-people-were-brought-from-abroad-in-coordination-with-interpol-25-96.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "को संस्कारकैबीच भोट माग्दै उम्मेदवार",
+      "summary": "को संस्कारकैबीच भोट माग्दै उम्मेदवार",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12236",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Matrishokka--Ummedwar--Ghardailoma-1770867114.jpg"
+    },
+    {
+      "title": "अभाव टार्न निगमको सक्रियता",
+      "summary": "अभाव टार्न निगमको सक्रियता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12234",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Gas-abhab-1770866170.jpg"
+    },
+    {
+      "title": "ारित भयो चलचित्र विधेयक, सांसदहरुले देखाए चासो",
+      "summary": "ारित भयो चलचित्र विधेयक, सांसदहरुले देखाए चासो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12232",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Chalachitra-Bidheyak-1770865452.jpg"
+    },
+    {
+      "title": "ग हति’यार, सशस्त्र प्रहरीमाथि आक्रामण, संकेत के ?",
+      "summary": "ग हति’यार, सशस्त्र प्रहरीमाथि आक्रामण, संकेत के ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12227",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/aaaa-1770778073.jpg"
+    },
+    {
+      "title": "80.7 billion cubic metres of natural gas confirmed in Dailekh",
+      "summary": "Commercial production hinges on well testing, say officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/12/80-7-billion-cubic-metres-of-natural-gas-confirmed-in-dailekh",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1770872716.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bangladesh votes in landmark election after Gen Z revolution",
+      "summary": "The contest pits two coalitions led by former allies, the Bangladesh Nationalist Party (BNP) and the Islamist Jamaat e Islami, with opinion polls giving an edge to the BNP.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/12/bangladesh-votes-in-landmark-election-after-gen-z-revolution",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/WQGGNEX4ERNFPNSOLYINUYFPUI-1770869560.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ministries differ over extending Indian HICDP aid beyond local governments",
+      "summary": "Finance and federal affairs ministries want broader access, but foreign ministry warns of sovereignty risks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/12/ministries-differ-over-extending-indian-hicdp-aid-beyond-local-governments",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb11-1770857623.jpg&w=600&height=400"
+    },
+    {
+      "title": "एउटा व्यक्तिले देश बनाउने भए पहिले नै राजा महाराजाले बनाइसक्ने थिए : सभापति थापा",
+      "summary": "राष्ट्रबोध कुनै भावनात्मक उत्तेजना वा प्रतीकात्मक राष्ट्रप्रेममा सीमित अवधारणा होइन। यो नागरिक र राज्यमा विकसित हुने देशको शक्ति, कमजोरी, अवसर र जोखिमलाई बुझ्ने सामर्थ्य हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/infrastructure-is-a-laboratory-of-national-consciousness-33-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770874028_pd mai pd mai 52-480x320.jpg"
     }
   ]
 }
