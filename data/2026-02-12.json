@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-12T08:57:33.349849",
+  "scraped_at": "2026-02-12T13:26:40.940786",
   "date": "2026-02-12",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/bulls-should-not-fight-calves-should-not-be-slaughtered-dahal-br-22-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Epstein’s creepy world",
+      "summary": "Koirala must serve a full sentence for wife’s murder, the apex court rules.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/12/epstein-s-creepy-world",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/bangladeshelection-1770898008.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Prima Facie’ at Kausi Theatre",
+      "summary": "Leaders and the public should unite on non-partisan policies that protect the interests of all generations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/12/primea-facie-at-kausi-theatre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/susilakarkipmsolu12220260728531000x01-1770880043.jpg&w=400&height=267"
+    },
+    {
+      "title": "रक्षा मन्त्रालय मातहतका विकास आयोजना तथा कार्यक्रमको प्रगति समीक्षा",
+      "summary": "बस र बस चालक दशरथ महरालाई नियन्त्रणमा लिएको जिल्ला प्रहरी कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-falling-from-bus-door-in-baitadi-67-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "झापा-५ का मतदाताको माया र विश्वास धेरै पाएँ : अध्यक्ष ओली",
+      "summary": "टी-२० विश्वकपको १८ औं खेल आयोजक भारत र नामिबियाबीच दिल्लीको अरुण जेटली रंगशालामा भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-namibia-wins-toss-india-chooses-to-bat-first-37-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770902077_namiba-480x320.jpg"
+    },
+    {
+      "title": "एमाले जनताका प्रश्नबाट भाग्दैन : नेता दाहाल",
+      "summary": "आहारविद् तथा योग प्रशिक्षक डा राजु अधिकारीले जिब्रोको स्वादभन्दा शरीरलाई स्वस्थ बनाउने खानामा ध्यान दिन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/urge-to-focus-on-food-that-makes-the-body-healthy-rather-than-the-taste-of-the-tongue-94-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770901536_rss-480x320.jpg"
+    },
+    {
+      "title": "झापामा बुबाको जलेको घर हेरेर फर्किए ओली (तस्बिरहरू)",
+      "summary": "दैलेखमा चक्कु प्रहारबाट एक १६ वर्षीय किशोरको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/16-year-old-boy-dies-after-being-stabbed-in-dailekh-49-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "जनातालाई रोजगारी र उद्यमसँग जोडेर लैजाने सापकोटाको योजना",
+      "summary": "बस र बस चालक दशरथ महरालाई नियन्त्रणमा लिएको जिल्ला प्रहरी कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-after-falling-from-bus-door-in-baitadi-67-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
