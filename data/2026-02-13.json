@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-13T13:19:04.339321",
+  "scraped_at": "2026-02-13T16:58:03.969197",
   "date": "2026-02-13",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/planning-boys-one-sided-four-goals-at-friends-club-s-post-57-21.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "New Chinese envoy takes charge in Kathmandu, vows to deepen strategic partnership",
+      "summary": "Zhang Maoming says 2026—the opening year of China’s 15th Five-Year Plan—will bring new opportunities for global cooperation, including with Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/13/new-chinese-envoy-takes-change-in-kathmandu-vows-to-deepen-strategic-partnership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HBBVu5bsAIIMsH-1770973643.jpg&w=300&height=200"
+    },
+    {
+      "title": "Valley’s public hospitals overwhelmed as air pollution fuels respiratory illnesses",
+      "summary": "Bir doctor says even very young patients are falling seriously ill with bronchitis, asthma, and pneumonia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/13/valley-s-public-hospitals-overwhelmed-as-air-pollution-fuels-respiratory-illnesses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PollutionKathmandu-1770988884.jpg&w=600&height=400"
+    },
+    {
+      "title": "काठमाडौं पुगे चीनका नयाँ राजदूत झाङ माओमिङ",
+      "summary": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगले सार्वजनिक गरेको कार्यसम्पादन मूल्यांकनमा जुम्लाको हिमा गाउँपालिका जिल्लामै पहिलो बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hima-rural-municipality-takes-first-place-in-work-performance-60-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770999302_hima-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीसँग एनसिसीका प्रतिनिधिमण्डलको भिष्टाचार भेटवार्ता",
+      "summary": "सरकारले बर्सेनि गर्दै आएको कार्य सम्पादन मूल्यांकनमा उदयपुरगढी जिल्लाकै उत्कृष्ट स्थानीयतह सावित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/udayapurgadhi-excels-in-work-performance-evaluation-48-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770999177_udayapur-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-७ का एमाले उम्मेदवार श्रेष्ठ भन्छन् : जनअपेक्षा अनुसार काम गर्ने प्रतिबद्धता गर्छु",
+      "summary": "चीनका राष्ट्रपति सी चिनफिङको विश्वास र सन्देश बोकेर उनी शुक्रबार काठमाडौं आइपुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/china-s-new-ambassador-zhang-maoming-arrives-in-kathmandu-87-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770998406_chinese-480x320.jpg"
+    },
+    {
+      "title": "देशैभरका कार्यालय प्रमुखलाई बोलाएर आइजिपी कार्कीले भने : फसाउन सक्छन्, प्रमाण सुरक्षित गरी काम गर्नू",
+      "summary": "विभागले किसानलाई उचित मूल्य सुनिश्चित गर्न विभिन्न १० जिल्लामा स्थलगत अध्ययन थालेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/process-to-set-wheat-support-price-begins-15-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752649523_gahu-1200x560-480x320.jpg"
+    },
+    {
+      "title": "झापा-५ : एकै पटक हजारौँ एमाले कार्यकर्ता जनताका घरघरमा",
+      "summary": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगले सार्वजनिक गरेको कार्यसम्पादन मूल्यांकनमा जुम्लाको हिमा गाउँपालिका जिल्लामै पहिलो बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/hima-rural-municipality-takes-first-place-in-work-performance-60-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
