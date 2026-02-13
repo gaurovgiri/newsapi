@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-13T02:55:36.246506",
+  "scraped_at": "2026-02-13T05:24:27.050952",
   "date": "2026-02-13",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "News24",
     "NagarikNews",
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-presenting-the-muslim-commission-report-in-the-national-assembly-19-77.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "डकमा जकीको नयाँ एक्सक्लुसिभ शोरूमको भव्य उद्घाटन",
+      "summary": "डकमा जकीको नयाँ एक्सक्लुसिभ शोरूमको भव्य उद्घाटन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12239",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/jokey-1770875014.jpeg"
+    },
+    {
+      "title": "Kathmandu begins to look back at its ‘hitis’",
+      "summary": "The entire Epstein episode exposes the hypocrisy of those in the West who espouse the high moral ground yet maintain connections with a depraved sex criminal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/13/kathmandu-begins-to-look-back-at-its-hitis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/lifestyle/main-1770948268.jpg&w=400&height=267"
+    },
+    {
+      "title": "Books reveal what news often miss",
+      "summary": "Formula One is starting a new engine era along with significant changes to the aerodynamics and chassis this season, with the electrical component increased.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/12/books-reveal-what-news-often-miss",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/11-1770947727.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्रीद्वारा पाथीभरामा पूजाअर्चना",
+      "summary": "दुई दशकभन्दा बढी अघिदेखि अमेरिकाले भारतलाई ‘स्वाभाविक साझेदार’का रूपमा हेर्दै आएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/difficulties-in-restoring-us-india-relations-br-30-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770960138_rty rty rty 52-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा ‘समृद्ध संवाद’ : जनताको प्रश्नबाट भागे ज्ञानेन्द्र शाही",
+      "summary": "भारतका प्रधानमन्त्री नरेन्द्र मोदी ले पार्टी अध्यक्ष तारिक रहमान लाई बधाई दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bnp-s-victory-in-bangladesh-modi-congratulates-tariq-rahman-41-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770959413_modi-480x320.jpg"
+    },
+    {
+      "title": "उम्मेदवारले बुझाए निर्वाचनमा हुने खर्चको विवरण",
+      "summary": "यसैगरी चाँदीको मूल्य आज प्रतितोला ५ हजार रुपैयाँ कायम भएको छ। बिहीबार चाँदी ५ हजार ३४० रुपैयाँ मा कारोबार भएको थियो। यसअनुसार चाँदीको मूल्य ३४० रुपैयाँ ले सस्तिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-have-fallen-44-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770010964_Gold-480x320.jpg"
     }
   ]
 }
