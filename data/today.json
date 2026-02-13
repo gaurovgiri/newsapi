@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-13T08:55:02.311663",
+  "scraped_at": "2026-02-13T13:19:04.339321",
   "date": "2026-02-13",
-  "total_articles": 47,
+  "total_articles": 56,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -382,6 +382,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-will-carry-out-development-work-based-on-the-suggestions-of-experts-chairman-thapa-13-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal passport climbs to 95th in global mobility ranking",
+      "summary": "Singapore retains the top spot as the world’s most powerful passport, followed by Japan, South Korea, France, Germany, Italy, Spain, and Finland.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/13/nepal-passport-climbs-to-95th-in-global-mobility-ranking",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1770984391.jpg&w=300&height=200"
+    },
+    {
+      "title": "Remote mountain villages in Jumla and upper Dolpa see no election campaign",
+      "summary": "Voters say candidates focus on accessible areas, leaving hundreds in geographically isolated villages without direct contact or clarity on agendas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/13/remote-settlements-in-jumla-and-upper-dolpa-left-out-of-election-campaign",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dhotarap13220260801471000x0-1770979181.jpg&w=300&height=200"
+    },
+    {
+      "title": "New Chinese ambassador arrives in Kathmandu",
+      "summary": "Zhang Maoming was a deputy director at the Department of Asian Affairs at the Chinese foreign ministry before being appointed the ambassador to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/13/new-chinese-ambassador-arrives-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HBBVu5bsAIIMsH-1770973643.jpg&w=300&height=200"
+    },
+    {
+      "title": "International rights groups call Karki government to unveil inquiry reports",
+      "summary": "They also ask political parties to commit to ending impunity for rights abuses and corruption by upholding the rule of law.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/13/international-rights-groups-call-karki-government-to-unveil-inquiry-reports",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/viberimage202509080950266051757305369-1770971796.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘निर्वाचनलाई स्वच्छ,भयरहित र विश्वसनीय बनाउन चुनौती’",
+      "summary": "प्लानिङ ब्वाइज युनाइटेड पोखरामा जारी आहा! रारा पोखरा गोल्डकपको क्वाटरफाइनलमा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/planning-boys-one-sided-four-goals-at-friends-club-s-post-57-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770988709_goal-480x320.jpg"
+    },
+    {
+      "title": "जनहितमा काम गर्ने योजनासहित निर्वाचनमा होमिएको हुँ : स्वर्णिम वाग्ले",
+      "summary": "निर्वाचनलाई स्वच्छ, भयरहित र विश्वसनीय बनाउन मतदान स्थलमा बायोमेट्रिक प्रणाली र प्रविधिमैत्री मतपत्रसँगै मतदाताको सुरक्षा, मतदान स्थलसम्म मतदाताको सहज पहुँच, मतदाता शिक्षाबारे सचेतना जगाउनुपर्ने उनीहरूको सुझाव छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-challenge-is-to-make-elections-clean-fearless-and-credible-97-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770988398_sambad-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा शान्ति सुरक्षाको प्रवन्ध प्रभावकारी बनाउन राष्ट्रपतिको निर्देशन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका उपसभापति डा स्वर्णिम वाग्लेले जनताको नजिक रहेर जनता केन्द्रित काम गर्ने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-entered-the-election-with-a-plan-to-work-in-the-public-interest-swarnim-wagle-18-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769744261_1680239150_1680174413_swarnim_wagle-1200x560-1200x560-480x320.jpg"
+    },
+    {
+      "title": "एक सय ३३ निर्वाचन क्षेत्रको मतपत्र छपाइ सम्पन्न",
+      "summary": "राष्ट्रपति पौडेलले त्यसका लागि आवश्यक स्रोत, साधन र जनशक्ति प्रबन्धमा सरकारले विशेष ध्यान दिने विश्वास पनि व्यक्त गरे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/president-directs-to-ensure-effective-peace-and-security-management-during-elections-53-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770988105_Rastrapati Surakchya-480x320.jpg"
+    },
+    {
+      "title": "लमजुङलाई सूचना प्रविधिको हब बनाउँछु : पृथ्वीसुब्बा गुरुङ",
+      "summary": "प्लानिङ ब्वाइज युनाइटेड पोखरामा जारी आहा! रारा पोखरा गोल्डकपको क्वाटरफाइनलमा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/planning-boys-one-sided-four-goals-at-friends-club-s-post-57-21.html?click_from=just_in",
       "image_url": ""
     }
   ]
