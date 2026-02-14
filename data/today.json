@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-14T02:43:18.414028",
+  "scraped_at": "2026-02-14T05:12:40.984093",
   "date": "2026-02-14",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/car-falls-into-fewa-lake-24-year-old-driver-dies-22-71.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ो उल्टो काम भन्दै जंगिए व्यवसायी, रौतहट ठप्प पार्ने चेतावनी",
+      "summary": "ो उल्टो काम भन्दै जंगिए व्यवसायी, रौतहट ठप्प पार्ने चेतावनी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12256",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/birodha-pradasan__-1771037868.jpg"
+    },
+    {
+      "title": "ित इन्टरनेट दिवस २०८२ : एनसेल फाउन्डेसनद्वारा ‘सेफर इन्टरनेट टुगेदर’ कार्यक्रम सुरु",
+      "summary": "ित इन्टरनेट दिवस २०८२ : एनसेल फाउन्डेसनद्वारा ‘सेफर इन्टरनेट टुगेदर’ कार्यक्रम सुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12250",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/SIT-1-1770963893.JPG"
+    },
+    {
+      "title": "Ekam Bhajan Sanjh happening today",
+      "summary": "Valentine’s may bring a two-day spike. But the real story for chocolatiers is what happens the other 363 days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/14/ekam-bhajan-sanjh-happening-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitleddesign-1771035558.jpg&w=400&height=267"
+    },
+    {
+      "title": "The difficulty of having a mother",
+      "summary": "The Post brings you a lowdown on some major events this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/14/the-difficulty-of-having-a-mother",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mainphoto-1771033329.jpg&w=400&height=267"
+    },
+    {
+      "title": "Three days of Kathak at Mandala Theatre",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/13/three-days-of-kathak-at-mandala-theatre",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MONEY-1771032623.jpg&w=400&height=267"
+    },
+    {
+      "title": "स्वतन्त्र उम्मेदवारले गरे रास्वपालाई समर्थन",
+      "summary": "आज उनी ‘मन्दाकिनी’मा छिन्। यतिखेर उनको लेखकीय कलम गहिरो चिन्तनमा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/strong-advocacy-for-social-transformation-and-women-s-empowerment-br-65-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771043361_mem shobha 52-480x320.jpg"
     }
   ]
 }
