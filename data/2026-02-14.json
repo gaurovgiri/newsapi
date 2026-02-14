@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-14T08:42:01.824679",
+  "scraped_at": "2026-02-14T13:06:17.350922",
   "date": "2026-02-14",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -351,6 +351,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-president-lamichhane-reaches-kapilvastu-calls-for-creating-history-34-96.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771054270_Rabi-480x320.jpg"
+    },
+    {
+      "title": "Boycott averted, India and Pakistan set for World Cup blockbuster",
+      "summary": "India’s strained relations with another neighbour, Bangladesh, have further tangled the geopolitics around the World Cup.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/14/boycott-averted-india-and-pakistan-set-for-world-cup-blockbuster",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/3T3OJOHQ7VL2FK256SGAIBQV7Y1-1771063108.jpg&w=300&height=200"
+    },
+    {
+      "title": "आगो लगाउनेहरू हार्नेछन्, गणतन्त्र ल्याउनेहरू जित्नेछन्: प्रचण्ड",
+      "summary": "नेपाली कम्युनिस्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले आगामी निर्वाचनमा मुलुकमा अस्थिरता निम्त्याउने, भ्रष्टाचार र कुशासनलाई प्रश्रय दिने शक्तिहरू पराजित हुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-proclamation-from-chunbang-those-who-set-fires-and-misrule-will-lose-those-who-bring-about-a-republic-will-win-29-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771073604_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "नेपाली राजनीतिमा वामपन्थी विचार हाबी, कांग्रेस पनि त्यसकै संवाहक: कमल थापा",
+      "summary": "विश्वभर आज फेब्रुअरी १४ तारिख अर्थात् प्रणय दिवस (भ्यालेन्टाइन डे) उत्साहका साथ मनाइँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/artists-excitement-on-valentine-s-day-who-expressed-their-love-and-how-br-22-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771072675_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बरु नष्ट हुन्छौं, भ्रष्ट हुँदैनौं : राजेन्द्र लिङ्देन",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का नेता कमल थापाले नेपाली राजनीतिमा लामो समयदेखि वामपन्थी विचार र शक्तिहरूको वर्चस्व रहँदै आएको टिप्पणी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/leftist-ideas-dominate-nepali-politics-congress-is-also-its-carrier-kamal-thapa-10-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771070690_kamal_thapa-480x320.jpg"
+    },
+    {
+      "title": "पुराना दलहरू ‘टेस्टेड’ भइसके, अब मुलुकको नेतृत्व हामी गर्छाैं: कुलमान",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का अध्यक्ष राजेन्द्र लिङ्देनले मुलुकमा व्याप्त भ्रष्टाचार र कुशासन अन्त्यका लागि आफ्नो पार्टीले नैतिकताको राजनीति गर्ने उद्घोष गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/shaniba-44-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771070515_rajendra_-480x320.jpg"
+    },
+    {
+      "title": "शान्तिपूर्ण निर्वाचन गराउन प्रधानसेनापतिको विशेष निर्देशन",
+      "summary": "नेपाली कम्युनिस्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले आगामी निर्वाचनमा मुलुकमा अस्थिरता निम्त्याउने, भ्रष्टाचार र कुशासनलाई प्रश्रय दिने शक्तिहरू पराजित हुने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-proclamation-from-chunbang-those-who-set-fires-and-misrule-will-lose-those-who-bring-about-a-republic-will-win-29-13.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
