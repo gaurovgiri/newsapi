@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-14T13:06:17.350922",
+  "scraped_at": "2026-02-14T16:39:46.722886",
   "date": "2026-02-14",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prachanda-s-proclamation-from-chunbang-those-who-set-fires-and-misrule-will-lose-those-who-bring-about-a-republic-will-win-29-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Sadhus throng Pashupatinath for Maha Shivaratri",
+      "summary": "Authorities expect 800,000 devotees and 4,000 sadhus, with special arrangements for security, queues and accommodation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/02/14/sadhus-throng-pashupatinath-for-maha-shivaratri",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sadhupashupatinath20260212005313220260534391000x0-1771069258.jpg&w=300&height=200"
+    },
+    {
+      "title": "पार्टीको सम्पूर्ण शक्ति चुनाव जित्नका लागि खर्च गरौँ : इन्द्र भण्डारी",
+      "summary": "नेकपा एमालेका केन्द्रीय सदस्य इन्द्र भण्डारीले चुनावको संघारमा पार्टीका आन्तरिक विवादलाई थाती राखेर एकजुट हुनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-spend-all-the-party-s-energy-to-win-the-election-indra-bhandari-50-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771085078_indra-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीले लिए पशुपति क्षेत्रको सुरक्षा अवस्थाबारे जानकारी",
+      "summary": "एल्गोरिदम भनिन्छ नि, त्यो देखिन्छ अहिले। जस्तो कि मोबाइलमा जे चिज हेर्यो त्यही र त्यस्तै चिज आइरहने । आर्टिफिसियल इन्टेलिजेन्सले दिमाग पढ्ने र त्यो दिमागमा त्यही र त्यस्तै चिज घुसाइदि रहने। त्यो खालको कामहरू भइरहेको छ। त्यसलाई हामीले चिर्नुपर्ने छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/uml-is-in-comfortable-zone-in-jhapa-5-election-commander-dahal-54-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771085970_dahal-480x320.jpg"
+    },
+    {
+      "title": "जसपा र लोसपाका शीर्ष नेताहरू कांग्रेस प्रवेश",
+      "summary": "ललितपुर महानगरपालिका-१३ मा एकीकृत श्वासप्रश्वास सेवा प्रदान गर्ने उद्देश्यले ‘नेशनल चेष्ट सेन्टर’ सञ्चालनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/national-chest-center-launched-for-respiratory-patients-79-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771084953_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कोराबाटै एमाले उम्मेदवार ढकाल भन्छन् : म यता भए पनि मन तपाईँहरू सँगै छ",
+      "summary": "म्याग्दीको मङ्गला गाउँपालिका–२ सल्यानमा आज माटोको ढिस्कोले पुरिएर एक जना मजदुरको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-worker-died-after-being-buried-under-a-mound-of-earth-37-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेससँग देश बदल्ने सोच, सङ्कल्प र योजना छः सभापति थापा",
+      "summary": "नेकपा एमालेका केन्द्रीय सदस्य इन्द्र भण्डारीले चुनावको संघारमा पार्टीका आन्तरिक विवादलाई थाती राखेर एकजुट हुनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-spend-all-the-party-s-energy-to-win-the-election-indra-bhandari-50-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
