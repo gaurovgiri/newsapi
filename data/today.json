@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-14T05:12:40.984093",
+  "scraped_at": "2026-02-14T08:42:01.824679",
   "date": "2026-02-14",
-  "total_articles": 40,
+  "total_articles": 44,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -327,6 +327,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/strong-advocacy-for-social-transformation-and-women-s-empowerment-br-65-77.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771043361_mem shobha 52-480x320.jpg"
+    },
+    {
+      "title": "मतदाताका प्राथमिकतामा सडक स्तरोन्नति र वन्यजन्तु नियन्त्रण",
+      "summary": "सालझण्डी–ढोरपाटन सडक लामो समयदेखि स्तरोन्नति नभएको भन्दै स्थानीयले सास्ती बेहोर्दै आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/road-upgrading-and-wildlife-control-among-voters-priorities-br-92-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771056665_200-480x320.jpg"
+    },
+    {
+      "title": "कपिलवस्तु पुगे रास्वपा सभापति लामिछाने, इतिहास रच्न आह्वान",
+      "summary": "संघर्षमा यो रत जिन्दगीको, गर्ने गरौँ इज्जत जिन्दगीको। जस्तो छ आफू बनिदिन्छ च्यापु, सपार्नुहोस् आदत जिन्दगीको।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/it-will-definitely-happen-hail-to-life-br-80-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771056632_need 52-480x320.jpg"
+    },
+    {
+      "title": "चुनावी एजेण्डामै सीमित खड्कबार-घुइँयाबारी सडक",
+      "summary": "लमजुङका राजकुमार द्रव्य शाह वि.सं. १६१६, भाद्रवदी, अष्टमी तिथि, रोहिणी नक्षत्र, बुधबार लिगलिगकोटको राजा भए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/establishment-of-a-glorious-security-institution-br-78-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771054864_gtu baniya 52-480x320.jpg"
+    },
+    {
+      "title": "कास्कीमा ५६ अति संवेदनशील र ५४ संवेदनशील मतदानस्थल",
+      "summary": "अर्घाखाँची हुँदै कपिलवस्तु पुगेका लामिछानेले ‘भोट हाल्न होइन इतिहास लेख्न तयार हो कि होइन, तयार हुनुहुन्छ कि होइन’ भन्दै आह्वान गरे। पार्टीको घण्टी अभिवादन कार्यक्रमको शुभारम्भ गर्दै उनले इतिहास रच्ने बेला आएकाले सबै चनाखो भएर आफूहरूलाई जिताउन आग्रह गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-president-lamichhane-reaches-kapilvastu-calls-for-creating-history-34-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771054270_Rabi-480x320.jpg"
     }
   ]
 }
