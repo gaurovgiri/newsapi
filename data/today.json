@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-15T05:22:19.541091",
+  "scraped_at": "2026-02-15T08:42:38.198631",
   "date": "2026-02-15",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -319,6 +319,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/mourning-holiday-in-rural-municipality-after-death-of-ward-member-74-40.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771132701_Ward Sadasya-480x320.jpg"
+    },
+    {
+      "title": "World’s top lenders join hands to build 670MW Dudhkoshi",
+      "summary": "ADB, World Bank, AIIB, EIB, OFID, SFD and NEA will develop the $2.32 billion reservoir-based hydropower project.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/15/world-s-top-lenders-join-hands-to-build-670mw-dudhkoshi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb-1771117087.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hundreds of Nepalis in Portugal face legal crisis over fake authentication stamps",
+      "summary": "Temporary residence permits halted; deportation warnings issued after forged embassy stamps found on police clearance certificates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/15/hundreds-of-nepalis-in-portugal-face-legal-crisis-over-fake-authentication-stamps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/portugal15220260149161000x0-1771128037.jpg&w=300&height=200"
+    },
+    {
+      "title": "बंगलादेशको निर्वाचनमा जे भयो नेपालमा पनि त्यही हुन्छ : ओली",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले बंगलादेशको निर्वाचनमा निर्वाचितलाई बधाई दिँदै नेपालमा पनि त्यस्तै परिणाम आउने प्रतिक्रिया दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-happened-in-bangladesh-elections-will-happen-in-nepal-too-oli-86-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771144758_oli-480x320.jpg"
+    },
+    {
+      "title": "पशुपतिनाथले लोभ, क्रोध, मोह र अहंकारबाट मुक्त गराउँछन् : केपी ओली",
+      "summary": "पहिलो खेलमा इंल्यान्डसँग ४ रन र दोस्रोखेलमा इटलीसँग १० विकेटले पराजित भएको नेपाल आफ्नो तेस्रो खेलमा आइतबार वेस्ट इन्डिजसँग ९ विकेटले हारेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-cricket-nepal-s-third-consecutive-loss-west-indies-enter-super-8-36-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771144194_Nepal Cricket 1-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा बालबालिकाको प्रयोग नगर्ने पाँचबुँदे सहमति",
+      "summary": "मुम्बईको वाङखेडे स्टेडियममा नेपालले दिएको १३४ रनको मध्यम लक्ष्य पछ्याएको वेस्ट इन्डिजले गतिलो जवाफ फर्काएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-cricket-west-indies-quick-response-against-nepal-17-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771143241_nandan-480x320.jpg"
+    },
+    {
+      "title": "पर्वले आपसी सद्भाव र एकताको सन्देश प्रवाह गर्छ : सभापति थापा",
+      "summary": "पशुपतिनाथले ऊर्जाको तेजमय प्रवाहलाई संयममा राख्दैपीडा सहेर शान्त रहने धैर्य र बाहिरी कोलाहलभन्दा भित्री विवेकमा सत्य निहित हुने ओलीले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pashupatinath-frees-one-from-greed-anger-attachment-and-ego-kp-oli-41-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1747018932_E KP OLI 45-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री सुशिला कार्कीद्वारा शिवरात्रिको शुभकामना",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले बंगलादेशको निर्वाचनमा निर्वाचितलाई बधाई दिँदै नेपालमा पनि त्यस्तै परिणाम आउने प्रतिक्रिया दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-happened-in-bangladesh-elections-will-happen-in-nepal-too-oli-86-74.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
