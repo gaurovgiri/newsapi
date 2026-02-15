@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-15T13:08:06.795812",
+  "scraped_at": "2026-02-15T16:40:37.975554",
   "date": "2026-02-15",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/only-those-who-can-change-themselves-can-change-the-country-sharma-br-49-88.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal eliminated after third straight defeat in T20 World Cup",
+      "summary": "Nine-wicket loss to West Indies confirms exit before final group match against Scotland.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/15/nepal-eliminated-after-third-straight-defeat-in-t20-world-cup",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/6304154299235870834608624026967509679969210n-1771144988.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेकपा उम्मेदवार बिष्टले सार्वजनिक गरे प्रतिबद्धता",
+      "summary": "गत बिहीबार बागलुङ नगरपालिका–३ रात्माटामा भएको स्कुल भ्यान दुर्घटनाका २४ घाइतेमध्ये १८ जना विद्यार्थी उपचारपछि घर फर्केका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/school-van-accident-update-six-people-are-being-treated-16-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770902939_van-480x320.jpg"
+    },
+    {
+      "title": "मतदाताले शान्ति, स्थायित्व र विकास चाहेका छन् : ओली",
+      "summary": "म‌गलबार रामेछापमा भएको बस दुर्घटनामा परी बेपत्ता भएकाहरूको तीव्र रूपमा खोजी भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ramechhap-bus-accident-search-for-missing-persons-intensified-76-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771171299_ramechhao bus accident-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक दल वा निर्वाचन प्रतिनिधिले सवारीसाधनको प्रयोग गर्न निर्वाचन अधिकृतको अनुमति लिनुपर्ने",
+      "summary": "महाशिवरात्रिका अवसरमा आइतबार लाममा बसेको छोटो समयमै पशुपतिनाथको दर्शन गर्न पाउँदा काठमाडौं चक्रपथकी शान्ति अधिकारी निकै खुसी देखिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/devotees-feel-that-visiting-pashupatinath-on-shivaratri-is-easy-92-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771170694_shivratri-480x320.jpg"
+    },
+    {
+      "title": "आयोगले भन्यो- भोलीदेखि फागुन १८ गतेसम्म निर्वाचन प्रचारप्रसार गर्नू",
+      "summary": "२०५२ देखि २०६३ सम्म चलेको सशस्त्र युद्ध केवल बन्दुक र मोर्चाको कथा थिएन। त्यो समय विचार, त्याग र जोखिमले भरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-clash-between-fellow-travelers-in-jumla-96-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771170224_jumla-480x320.jpg"
+    },
+    {
+      "title": "जुम्लाका १ सय ८ मतदान केन्द्रमा ७ महिला मतदान अधिकृतसहित कर्मचारी परिचालन",
+      "summary": "गत बिहीबार बागलुङ नगरपालिका–३ रात्माटामा भएको स्कुल भ्यान दुर्घटनाका २४ घाइतेमध्ये १८ जना विद्यार्थी उपचारपछि घर फर्केका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/school-van-accident-update-six-people-are-being-treated-16-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
