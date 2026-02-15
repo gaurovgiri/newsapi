@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-15T08:42:38.198631",
+  "scraped_at": "2026-02-15T13:08:06.795812",
   "date": "2026-02-15",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/what-happened-in-bangladesh-elections-will-happen-in-nepal-too-oli-86-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "जो आफूलाई बदल्न सक्छ, उसैले मात्र देश बदल्न सक्छ: शर्मा",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले कांग्रेस अब देशको सबैभन्दा ठुलो दल मात्र नभई एकल बहुमतको दिशामा अघि बढिरहेको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/only-those-who-can-change-themselves-can-change-the-country-sharma-br-49-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770386303_biswo-480x320.jpg"
+    },
+    {
+      "title": "अब ढिला गर्नुहुँदैन, विकास विरोधीहरू चिन्नुहोस्: ओली",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले एमाले नेतृत्वको सरकारले सुरु गरेका गौरवका योजनाहरू रोक्ने र बजेट काट्नेहरूलाई निर्वाचनमार्फत् चिन्न र दण्डित गर्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/don-t-delay-any-longer-identify-those-who-oppose-development-oli-87-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767093511_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "धिमाल जातिको बजेट काट्नेहरूलाई यसपटक मतदाताले दण्डित गर्नुपर्छ: ओली",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले वर्तमान सरकारले झापाको आदिवासी धिमाल समुदायको विकासका लागि छुट्याइएको बजेट पूर्वाग्रही ढंगले काटेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/voters-should-punish-those-who-cut-the-budget-of-the-dhimal-caste-this-time-chairman-oli-24-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771157638_kp_sharma-480x320.jpg"
+    },
+    {
+      "title": "अधिकांश दलले सार्वजनिक गरे निर्वाचन घोषणापत्र",
+      "summary": "महाशिवरात्रि २०८२ का अवसरमा राष्ट्रपति पौडेलले प्रथम महिला सबिता पौडेलसहित आइतबार अपरान्ह पशुपतिनाथको दर्शनसहित पूजाआराधना गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/president-worships-pashupatinath-87-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771158728_Ramchandra Poudel -480x320.jpg"
+    },
+    {
+      "title": "जोससँगै होस र उत्साहसँगै अनुभवका साथ काम गर्नुपर्नेछ: गगन",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले कांग्रेस अब देशको सबैभन्दा ठुलो दल मात्र नभई एकल बहुमतको दिशामा अघि बढिरहेको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/only-those-who-can-change-themselves-can-change-the-country-sharma-br-49-88.html?click_from=just_in",
       "image_url": ""
     }
   ]
