@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-16T13:21:18.778736",
+  "scraped_at": "2026-02-16T16:55:45.742792",
   "date": "2026-02-16",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/england-advances-to-super-8-after-defeating-italy-13-88.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Thousands of Nepali children are completely unvaccinated",
+      "summary": "A new Nepal Multiple Indicator Survey report shows 1.7 percent of children receive no vaccines, and 11 percent miss some basic doses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/16/thousands-of-nepali-children-are-completely-unvaccinated",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb27-1771247420.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bihar government proposes road corridor connecting Pashupatinath and Baidhyanath Dham",
+      "summary": "The greenfield expressway is planned to be around 250 km long.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/16/bihar-government-proposes-road-corridor-connecting-pashupatinath-and-baidhyanath-dham",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalindiarelations-1771240480.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kaski court halts withdrawal of organised crime and money laundering case against Lamichhane",
+      "summary": "Attorney general’s decision to withdraw the money laundering and organised crime charges against Lamichhane had sparked legal and political controversy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/16/kaski-court-halts-withdrawal-of-organised-crime-and-money-laundering-case-against-lamichhane",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rabilamichhane261220220702001000x0181220251201361000x0-1771251383.jpg&w=300&height=200"
+    },
+    {
+      "title": "अध्याँरोमा पनि दाहालको घरदैलो (तस्बिरसहित)",
+      "summary": "गाउँपालिका-३ टुनीपोखरीमा स्थानीयले वन्यजन्तुलाई थापेको पासोमा परी घाइते भएको चितुवालाई उद्धार गरी वन कार्यालय अर्घाखाँचीमा लगिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/injured-leopard-dies-32-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749002301_Chituwa-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा पुग्यो मतपत्र",
+      "summary": "गत भदौ २४ गतेको जेन-जी आन्दोलनका क्रममा कारागारबाट भागेका सात जनालाई पक्राउ गरी प्रहरीले आज सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/seven-people-arrested-for-escaping-from-prison-during-the-gen-g-movement-49-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829024_pakrau-480x320.jpg"
+    },
+    {
+      "title": "देश बनाउनेलाई मतदान गर्नुस्ः लिङ्देन",
+      "summary": "मेडिकल व्यवसायी दुर्गा प्रसाईं फेरि पक्राउ परेका छन्। सोमबार साँझ प्रहरीले उनलाई नियन्त्रणमा लिएकाे हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/durga-prasai-arrested-again-85-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "'अब राति पनि काम गर्नेछ नेपाल'",
+      "summary": "नानीकोट स्वास्थ्यचौकीमा विगतदेखि गुणस्तरीय फ्रिजको अभाव र नियमित विद्युत् आपूर्तिको कमीका कारण औषधि सुरक्षित भण्डारण तथा स्वास्थ्य सेवा सञ्चालनमा समस्या हुँदै आएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/worldlink-transfers-solar-system-to-kalikot-health-post-provides-online-english-classes-to-students-31-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771256363_World Link 2-480x320.jpg"
+    },
+    {
+      "title": "जसपा नेपालका अध्यक्ष यादवले थाले घरदैलो कार्यक्रम",
+      "summary": "गाउँपालिका-३ टुनीपोखरीमा स्थानीयले वन्यजन्तुलाई थापेको पासोमा परी घाइते भएको चितुवालाई उद्धार गरी वन कार्यालय अर्घाखाँचीमा लगिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/injured-leopard-dies-32-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
