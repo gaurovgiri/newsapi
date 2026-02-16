@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-16T02:52:10.988412",
+  "scraped_at": "2026-02-16T05:39:47.447897",
   "date": "2026-02-16",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/muglin-malekhu-road-being-blacktopped-65-54.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "कारोबार गर्दा सचेत नभए ठगी हुनसक्छ",
+      "summary": "कारोबार गर्दा सचेत नभए ठगी हुनसक्छ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12262",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/K-ho-digital-banking__-1771127267.jpg"
+    },
+    {
+      "title": "मतपत्र छपाइ अन्तिम चरणमा : जनक शिक्षा सामग्री केन्द्र",
+      "summary": "नयाँ नेपाली कथानक चलचित्र ‘माया भनेकै यस्तो होला’ निर्माण घोषणा गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/what-is-rekha-doing-with-three-former-miss-nepals-at-the-same-time-61-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771219164_need 52 need 52-480x320.jpg"
+    },
+    {
+      "title": "ललितपुर : ७१ मध्ये २३ उम्मेदवारले लिए बैंक खाता खोल्न सिफारिस",
+      "summary": "जनक शिक्षा सामग्री केन्द्र लिमिटेडले प्रतिनिधिसभा निर्वाचनका लागि मतपत्र छपाइ अन्तिम चरणमा पुगेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ballot-printing-in-final-stages-janak-education-materials-center-41-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771217414_Nirbachan-480x320.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओली मतदाता भेटघाटमा व्यस्त",
+      "summary": "दललाई दिइने चन्दा लोकतन्त्रको सञ्चालनका लागि आवश्यक इन्धन हो, तर यसले पारदर्शिता र वैधानिक निगरानीको अभावमा अपारदर्शी लेनदेन र नीतिगत भ्रष्टाचारको खतरा बढाउँछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/donations-to-parties-legal-or-illegal-business-br-63-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771217412_dal ko kura 52-480x320.jpg"
+    },
+    {
+      "title": "गगनले फेरि दोहोर्‍याए : किर्तिपुरको डाँडामा ल्यापटप चलाएर ३-४ लाख कमाउने कुरा हावादारी थिएन",
+      "summary": "शिखा बुक्सले साहित्यकार किरण आचार्यकाे पौराणिक उपन्यास ‘शैलसुते’लोकार्पण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/novelist-kiran-acharya-launches-shailasute-br-83-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771217917_tq sir 52-480x320.jpg"
     }
   ]
 }
