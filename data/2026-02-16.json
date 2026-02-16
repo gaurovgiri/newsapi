@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-16T05:39:47.447897",
+  "scraped_at": "2026-02-16T08:59:22.430036",
   "date": "2026-02-16",
-  "total_articles": 38,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -311,6 +311,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/novelist-kiran-acharya-launches-shailasute-br-83-35.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771217917_tq sir 52-480x320.jpg"
+    },
+    {
+      "title": "Balen’s presence may not be enough for RSP to do well in Madhesh",
+      "summary": "Province, notable for steep competition among political parties, is significant for its high number of House seats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/16/balen-s-presence-may-not-enough-for-rsp-to-do-well-in-madhesh",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1771202889.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal should make judicious investment in higher education",
+      "summary": "The countries that develop good universities have a clear vision, they invest consistently in education and research, and commit to long-term development.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/02/15/nepal-should-make-judicious-investment-in-higher-education",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/INTERVIEWCourtesyofMBUST-1771170708.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bhajan Sanjh gives tradition a youthful beat",
+      "summary": "Through events like the annual Ekam Shivaratri, Bhajan Sanjh reflects a new way Kathmandu’s youth are experiencing spirituality.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/16/bhajan-sanjh-gives-tradition-a-youthful-beat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mainwhydoit-1771205294.jpg&w=600&height=400"
+    },
+    {
+      "title": "ओलीको गुनासो- म गम्भीर कुरा भन्छु, मान्छेहरू उखान टुक्का भनेर उडाउँछन्",
+      "summary": "नेकपा (एमाले) का अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले आफूले देशको विकास र समृद्धिका लागि गरेका गम्भीर कुराहरूलाई राजनीतिक विरोधीहरूले उखान टुक्का भनेर हल्का रूपमा लिने गरेको भन्दै असन्तुष्टि व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-complaint-i-say-serious-things-people-dismiss-them-as-nonsense-br-42-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767093511_kp_oli-480x320.jpg"
+    },
+    {
+      "title": "मतले जिताउने, तर सत्ता नपाउने जुम्लाका दलित",
+      "summary": "अफगानिस्तानका कप्तान रसिद खान टी– २० क्रिकेटमा ७ सय विकेट पूरा गर्ने पहिलो खेलाडी बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/rashid-becomes-first-player-to-take-700-wickets-in-t20-cricket-90-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771229631_Untitled-3-480x320.jpg"
+    },
+    {
+      "title": "जसपाले उम्मेदवार बनाएका व्यक्ति नै एमाले प्रवेश गरेपछि...",
+      "summary": "सोमबार टस हारेर ब्याटिङको निम्तो पाएको यूएईले निर्धारित २० ओभरमा ९ विकेट गुमाउँदै १६० रन बनायो। यूएईका लागि शहेब खानले सर्वाधिक ६८ रन बनाए। ४८ बलको सामना गरेका उनले ४ छक्का र ६ चौका प्रहार गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-uae-sets-afghanistan-a-target-of-161-runs-83-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771228461_Game (1)-480x320.jpg"
+    },
+    {
+      "title": "जनताको मनमा छु, फराकिलो मतान्तरले विजयी हुन्छु : रेनु दाहाल",
+      "summary": "जिल्ला प्रहरी कार्यालय सर्लाहीका प्रवक्ता एवं प्रहरी नायब उपरीक्षक (डिएसपी) सरोज राईका अनुसार गोली प्रहार गर्ने पत्ता लगाउन सिसी क्यामेरामा कैद तस्बिरलगायतको पड्ताल भइरहेको छ। उनले छिट्टै संलग्नलाई कानुनी दायरामा ल्याउने पनि स्पष्ट पारेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sub-engineer-murder-case-court-staff-protest-police-clueless-45-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771227937_Aandolan-480x320.jpg"
     }
   ]
 }
