@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-16T08:59:22.430036",
+  "scraped_at": "2026-02-16T13:21:18.778736",
   "date": "2026-02-16",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -375,6 +375,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/sub-engineer-murder-case-court-staff-protest-police-clueless-45-85.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771227937_Aandolan-480x320.jpg"
+    },
+    {
+      "title": "एमाले प्रवेश गरेका रास्वपा नेता भन्छन्- केपी बा जस्तो राष्ट्रवादी नेतालाई सपोर्ट गर्न आयौं",
+      "summary": "आइसिसी टी-२० विश्वकप २०२६ अन्तर्गत समूह ‘सी’ को खेलमा इटालीलाई २४ रनले पराजित गर्दै इंग्ल्यान्ड सुपर-८ मा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/england-advances-to-super-8-after-defeating-italy-13-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771246502_england-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आचारसंहिता उल्लङ्घन गर्ने ६६ दल : ३२ को मात्रै जवाफ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) झापा निर्वाचन क्षेत्र नम्बर-५ का क्षेत्रीय परिषद् सदस्य भरत खनाल नेकपा (एमाले) मा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-leader-who-joined-uml-says-we-came-to-support-a-nationalist-leader-like-kp-57-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771245301_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "उखुबारीमा ऋषि धमलालाई मतदाताको प्रश्न- कुर्सीमा बस्न, गोजी भर्नलाई किन मत दिने ?",
+      "summary": "निर्वाचन आयोगले निर्वाचन आचारसंहिता उल्लङ्घन गरेको आरोपमा ६६ राजनीतिक दल र उम्मेदवारसँग स्पष्टीकरण मागेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/66-parties-violating-election-code-of-conduct-only-32-respond-98-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771245217_nirbachan-480x320.jpg"
+    },
+    {
+      "title": "छोराले नै गरे बुवालाई पार्टीबाट निकाल्न सिफारिस, तर किन ?",
+      "summary": "निर्वाचनका लागि ५१ प्रकारका निर्वाचन सामग्री आवश्यक पर्नेमा ३७ प्रकारका सामग्री प्रदेश निर्वाचन कार्यालयबाट र बाँकी १४ प्रकारका निर्वाचन सामग्री केन्द्रबाट आपूर्ति गर्ने व्यवस्था गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-materials-including-ballot-papers-in-the-constituency-br-94-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771244427_ndhupalchok--480x320.jpg"
+    },
+    {
+      "title": "राज्यले नागरिकलाई भूमिहीन बनाएर राख्न मिल्दैन: रवि लामिछाने",
+      "summary": "आइसिसी टी-२० विश्वकप २०२६ अन्तर्गत समूह ‘सी’ को खेलमा इटालीलाई २४ रनले पराजित गर्दै इंग्ल्यान्ड सुपर-८ मा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/england-advances-to-super-8-after-defeating-italy-13-88.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
