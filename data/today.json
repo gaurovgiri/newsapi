@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-17T02:48:38.957740",
+  "scraped_at": "2026-02-17T05:24:28.913809",
   "date": "2026-02-17",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
     "News24",
     "NagarikNews",
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/paved-road-being-constructed-in-pulachaur-br-39-97.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Many parties start campaigning without manifestos, breaching election code of conduct",
+      "summary": "A total of 37 of 68 parties, including Nepali Congress and CPN-UML, did not comply with the Election Commission’s directive to unveil the documents before campaigning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/16/parties-start-campaigning-without-manifestos-breaching-election-code-of-conduct",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MANIFESTO-1771257308.jpg&w=300&height=200"
+    },
+    {
+      "title": "Cooking gas supply to ease within a week",
+      "summary": "After weeks of disruption in the Valley, authorities claim distribution has improved and urge consumers to avoid panic buying.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/17/cooking-gas-supply-to-ease-within-a-week",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Untitleddesign-1771295689.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal seek positives in Scotland clash after Super 8 exit",
+      "summary": "‘We’re not learning fast enough,’ says consultant coach Nic Pothas, urging better execution and quicker adaptation after three defeats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/17/nepal-seek-positives-in-scotland-clash-after-super-8-exit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SP-1771296089.jpg&w=600&height=400"
+    },
+    {
+      "title": "A reflection on the power of human connection",
+      "summary": "The coming to power of a moderate force like the BNP is in the interest of the country and the region.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/17/a-reflection-on-the-power-of-human-connection",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "Bhajan Sanjh gives tradition a youthful beat",
+      "summary": "Mitchell Marsh’s team must now rely on 12th-ranked Ireland to save them by beating Zimbabwe later on Tuesday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/16/bhajan-sanjh-gives-tradition-a-youthful-beat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771297137.jpg&w=400&height=267"
     }
   ]
 }
