@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-17T08:57:06.802121",
+  "scraped_at": "2026-02-17T13:21:58.636770",
   "date": "2026-02-17",
-  "total_articles": 47,
+  "total_articles": 55,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-takes-a-motorboat-ride-on-indreni-lake-88-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Water crisis dogs Palpa village as election promises ring hollow",
+      "summary": "Years after the ‘one house, one tap’ pledge, over 300 families in Tinau-4 still queue before dawn as incomplete projects and limited budgets stall supply.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2026/02/17/water-crisis-dogs-palpa-village-as-election-promises-ring-hollow",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/water-1771321907.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tarique Rahman sworn in as Bangladesh’s PM after landslide election victory",
+      "summary": "Rahman, 60, son of former PM Khaleda Zia, takes office amid political turmoil, investor uncertainty, and a struggling garment sector after the 2024 uprising.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/17/tarique-rahman-sworn-in-as-bangladesh-s-pm-after-landslide-election-victory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/HBWD4QFUVRKD5GCQQXLLV6OJKQ-1771324614.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deployment of election police begins ahead of polls",
+      "summary": "Around 150,000 personnel to be mobilised nationwide; 188,000 security personnel to ensure overall poll security.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/02/17/deployment-of-election-police-begins-ahead-of-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1771313605.jpg&w=600&height=400"
+    },
+    {
+      "title": "रुकुमपूर्वलाई ‘क्रान्तिको आधारभूमि’ भन्दै समाजवादको नयाँ यात्रा सुरु गर्ने दाहालको उद्घोष",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत जारी समूह ‘सी’ को ३३औं खेलमा नेपाल र स्कटल्याण्ड आमनेसामने हुँदैछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-scotland-elects-to-field-first-br-71-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771174597_nepal-480x320.jpg"
+    },
+    {
+      "title": "हेटौंडामा टिपरको ठक्करबाट मोटरसाइकल चालकको मृत्यु",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल नायगाड–देउखोलाबाट करिब एक घण्टाको पैदल यात्रापछि सिस्ने गाउँपालिका–२ नायगाड हुँदै सदरमुकाम रुकुमकोट पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dahal-announces-to-start-a-new-journey-of-socialism-calling-rukumpur-the-base-of-revolution-53-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762950015_dahal-480x320.jpg"
+    },
+    {
+      "title": "द्रुतमार्गको खोकना विवाद थाती राखेर विकल्प खोज्न प्रधानमन्त्रीको निर्देशन",
+      "summary": "निर्वाचनको संवेदनशिल अवस्थालाई ध्यानमा राखेर सम्बन्धित निकायको सुझाव तथा परिस्थितिको मूल्यांकन पश्चात यो निर्णय लिइएको जारी विज्ञप्तिमा उल्लेख छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/performance-of-bigul-postponed-citing-election-reasons-46-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771333809_Bigul-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं–९ लाई नमुना क्षेत्र बनाउने डिपी अर्यालको संकल्प, भ्रष्टाचारमा ‘जिरो टोलरेन्स’",
+      "summary": "नेपालको एक मात्र सिकार आरक्ष ढोरपाटन जोड्ने सडक निर्माणले गति लिएको छ। लामो समयदेखि रोकिएको उक्त सडक निर्माणको काम गत मङ्सिरदेखि धमाधम भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/burtibang-dhorpatan-road-construction-in-full-swing-41-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771333919_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "आगामी निर्वाचन काम गर्ने र भाषण गर्नेबिचको प्रतिस्पर्धा होः अध्यक्ष घिसिङ",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत जारी समूह ‘सी’ को ३३औं खेलमा नेपाल र स्कटल्याण्ड आमनेसामने हुँदैछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-scotland-elects-to-field-first-br-71-63.html?click_from=just_in",
       "image_url": ""
     }
   ]
