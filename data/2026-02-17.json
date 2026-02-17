@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-17T05:24:28.913809",
+  "scraped_at": "2026-02-17T08:57:06.802121",
   "date": "2026-02-17",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -311,6 +311,70 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2026/02/16/bhajan-sanjh-gives-tradition-a-youthful-beat",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771297137.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nagdhunga–Sisnekhola tunnel road operations delayed as service provider selection lingers",
+      "summary": "Construction is almost finished, but officials say it will remain closed until a service provider is selected to run and maintain it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/17/nagdhunga-sisnekhola-tunnel-road-operations-delayed-as-service-provider-selection-lingers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb11-1771300231.jpg&w=300&height=200"
+    },
+    {
+      "title": "58 percent of Madhesh polling stations rated ‘highly sensitive’",
+      "summary": "Security officials are on high alert as past violence, bitter political rivalries, and open border raise stakes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/17/58-percent-of-madhesh-polling-stations-rated-highly-sensitive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/madhesh-1771308538.jpg&w=300&height=200"
+    },
+    {
+      "title": "Post-cuts",
+      "summary": "If enough voters insist on substance over slogans, they can force politics to change.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/16/post-cuts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771308040.jpg&w=400&height=267"
+    },
+    {
+      "title": "ओलीले गरे इन्द्रेणी तालमा मोटरबोट सयर",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले मंगलबार दमक-१० को इन्द्रेणी तालमा पुगेर मोटरबोट सयर गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-takes-a-motorboat-ride-on-indreni-lake-88-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771318382_oli boat-480x320.jpg"
+    },
+    {
+      "title": "नेकपा केन्द्रीय सदस्य शेर्पाले त्यागे पार्टी, राश्वपामा आबद्ध हुने संकेत",
+      "summary": "आईसीसी टी-२० पुरुष विश्वकप अन्तर्गत समूह 'डी' को सम्पन्न खेलमा क्यानाडालाई ८ विकेटले पराजित गर्दै न्यूजिल्यान्ड सुपर ८ मा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/new-zealand-advances-to-super-8-after-defeating-canada-69-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771317767_newzeland-480x320.jpg"
+    },
+    {
+      "title": "शान्ति, स्थायित्व र राष्ट्रिय एकताका लागी निर्वाचन सफल बनाउन राष्ट्रपतिको आग्रह",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका केन्द्रीय सदस्य मिङ्मा डण्डु शेर्पाले पार्टी परित्याग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-central-member-sherpa-leaves-party-hints-at-joining-rashtrapati-bhavan-16-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771317502_nekapanews-480x320.jpg"
+    },
+    {
+      "title": "मतदाता शिक्षाका लागि कपिलवस्तुमा खटिए ९६ महिला स्वयंसेविका",
+      "summary": "भौतिक पूर्वाधार विकास मन्त्रालय, मधेश प्रदेशअन्तर्गत कार्यरत कर्मचारीले सब–इन्जिनियर प्रमोदकुमार यादवको हत्या घटनाको विरोधमा आज ‘पेनडाउन’ गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sub-engineer-murder-incident-demand-for-prompt-investigation-38-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सकियो मतपत्र छपाइ",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले मंगलबार दमक-१० को इन्द्रेणी तालमा पुगेर मोटरबोट सयर गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-takes-a-motorboat-ride-on-indreni-lake-88-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
