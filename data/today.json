@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-17T13:21:58.636770",
+  "scraped_at": "2026-02-17T17:04:50.086800",
   "date": "2026-02-17",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-scotland-elects-to-field-first-br-71-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Buffalo meat exports to China delayed as factory awaits EIA clearance",
+      "summary": "Rs21 billion Chinese-backed project in Sindhuli pushes target to September; producers warn Nepal’s buffalo population and milk market pose major hurdles.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/17/buffalo-meat-exports-to-china-delayed-as-factory-awaits-eia-clearance-1771336329",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb13-1771336159.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal need 171 against Scotland for a consolation win",
+      "summary": "Dropped catches hurt Nepal as Munsey and Jones power Scotland to strong total in Mumbai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/17/nepal-need-172-against-scotland-for-a-consolation-win",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/63232108012378999744656513551829335448078946n-1771341459.jpg&w=300&height=200"
+    },
+    {
+      "title": "लन्डनस्थित दूतावासमा २६३ औँ नेपाली सेना दिवस : बेलायती चिफअफ स्टाफको प्रशंसा",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत वानखेडे स्टेडियममा जारी खेलमा नेपालले दोस्रो महत्त्वपूर्ण विकेट गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-suffers-second-setback-asif-out-for-33-runs-br-67-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771343175_aasif-480x320.jpg"
+    },
+    {
+      "title": "नेपाल र भारतबीच फौजदारी कानुनी सहायतासम्बन्धी सम्झौतापत्रमा हस्ताक्षर",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत मुम्बईको वानखेडे स्टेडियममा जारी खेलमा १७१ रनको लक्ष्य पछ्याइरहेको नेपालले १० ओभरको समाप्तिमा १ विकेट गुमाउँदै ७९ रन जोडेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/scotland-vs-nepal-10-overs-79-1-76-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771343175_aasif-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र ‘साह’ कि ‘शाह’",
+      "summary": "ब्रिटिश सेनाका चिफअफ स्टाफ, फिल्ड आर्मी मेजर जनरल कार्ल बोसवेल सिबिइले नेपाली सेना विश्व प्रतिष्ठित संस्था भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/263rd-nepali-army-day-at-the-embassy-in-london-praise-from-the-british-chief-of-staff-44-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771344260_london-480x320.jpg"
+    },
+    {
+      "title": "नेकपा बहुमतका महासचिव धर्मेन्द्र बास्तोला पक्राउ",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत मुम्बईको वानखेडे स्टेडियममा जारी खेलमा नेपालले पहिलो विकेट गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/74-run-partnership-broken-bhurtel-misses-half-century-br-81-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771344460_bhurtel-480x320.jpg"
+    },
+    {
+      "title": "बागी उम्मेदवार शर्मा र पूर्वमन्त्री उपाध्यायलाई निष्काशन गर्ने कपिलवस्तु कांग्रेसको निर्णय",
+      "summary": "आइसीसी पुरुष टी-२० विश्वकप २०२६ अन्तर्गत वानखेडे स्टेडियममा जारी खेलमा नेपालले दोस्रो महत्त्वपूर्ण विकेट गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-suffers-second-setback-asif-out-for-33-runs-br-67-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
