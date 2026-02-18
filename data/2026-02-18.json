@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-18T05:25:53.757306",
+  "scraped_at": "2026-02-18T08:56:57.661940",
   "date": "2026-02-18",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-13-concrete-bridges-in-bhojpur-19-61.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771389854_pul-480x320.jpg"
+    },
+    {
+      "title": "Nepal and India sign mutual legal assistance deal after years of talks",
+      "summary": "Agreement will help the two countries tackle transnational crimes, including trafficking, cybercrime, and financial fraud.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/18/nepal-and-india-sign-mutual-legal-assistance-deal-after-years-of-talks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/7fe46d411cef439fbe06d06bac9b40cf-1771376097.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुदूरपश्चिमलाई खाडी पठाउने होइन, समृद्ध बनाउने संकल्प चाहिन्छ: केपी खनाल",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का तर्फबाट कैलाली क्षेत्र नम्बर-२ का उम्मेदवार एवं अभियन्ता केपी खनालले सुदूरपश्चिम प्रदेशको विकासका लागि अब नीतिकै परिवर्तन आवश्यक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-need-a-resolve-to-make-the-far-west-prosperous-not-to-send-it-to-the-gulf-kp-khanal-br-91-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771404504_kp_khanal-480x320.jpg"
+    },
+    {
+      "title": "यही जन्मिएको र हुर्किएकोले काठमाडौं-१ सँग मेरो भावनात्मक सम्बन्ध छ : प्रबल थापा",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका लागि नेपाली कांग्रेसबाट काठमाडौं क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका प्रबल थापाले आफू यस क्षेत्रसँग भावनात्मक रूपमा जोडिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-have-an-emotional-connection-with-kathmandu-1-as-i-was-born-and-raised-here-prabal-thapa-70-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771403958_prabal thapa-480x320.jpg"
+    },
+    {
+      "title": "धनगढीमा रास्वपाको परिवर्तन उद्घोष सभा सुरु, बालेन-रविले सम्बोधन गर्ने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले सुदूरपश्चिम प्रदेशको धनगढीमा परिवर्तन उद्घोष सभा आयोजना गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-s-change-declaration-rally-begins-in-dhangadhi-balen-ravi-to-address-br-52-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771404350_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "दमक नगरपालिकाभित्र कालोपत्र नभएको सडक खोज्नुपर्ने अवस्था छ : अध्यक्ष ओली",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले पहिलो यो क्षेत्रमा कालोपत्र हेर्न राजमार्ग आउनु पर्थ्यो, अहिले कालोपत्र नभएको सडक खोज्नुपर्ने अवस्था पुगेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-a-need-to-find-unpaved-roads-within-damak-municipality-chairman-oli-21-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771402858_oli-480x320.jpg"
+    },
+    {
+      "title": "समावेशी र पहुँचयोग्य निर्वाचनका लागि महिला मन्त्रालयले थाल्यो अभियान",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का तर्फबाट कैलाली क्षेत्र नम्बर-२ का उम्मेदवार एवं अभियन्ता केपी खनालले सुदूरपश्चिम प्रदेशको विकासका लागि अब नीतिकै परिवर्तन आवश्यक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-need-a-resolve-to-make-the-far-west-prosperous-not-to-send-it-to-the-gulf-kp-khanal-br-91-62.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
