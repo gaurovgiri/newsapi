@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-18T08:56:57.661940",
+  "scraped_at": "2026-02-18T13:23:48.484970",
   "date": "2026-02-18",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-need-a-resolve-to-make-the-far-west-prosperous-not-to-send-it-to-the-gulf-kp-khanal-br-91-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Congress unveils 10-point election pledge",
+      "summary": "Party promises dignified living, employment, education, health, and accountable governance; full manifesto to be released Thursday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/18/congress-unveils-10-point-election-pledge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/congresspratigyapatra18220261159041000x0-1771416051.jpg&w=300&height=200"
+    },
+    {
+      "title": "KMC to begin free screening for non-communicable diseases in mid-March",
+      "summary": "The programme, originally scheduled to begin in mid-February, was postponed due to the March 5 elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/18/kmc-to-begin-free-screening-for-non-communicable-diseases-in-mid-march",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771414843.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dipendra Singh Airee rises to fourth in ICC T20I all-rounder rankings",
+      "summary": "Achieves career-best 244 rating points after strong T20 World Cup performance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/02/18/dipendra-singh-airee-rises-to-fourth-in-icc-t20i-all-rounder-rankings",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Airee-1771405639.jpg&w=300&height=200"
+    },
+    {
+      "title": "मतदान केन्द्रमा कर्मचारी खटाउँने निर्वाचन अधिकृत कार्यालयको तयारी",
+      "summary": "नेपालले यो विश्वकपमा स्कटल्यान्डलाई हराउँदै जितको खडेरी तोड्यो । नेपालले विश्वकपमा १२ वर्षपछि पहिलो जित निकाल्यो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-super-8-equation-complete-which-teams-have-made-it-to-the-finals-64-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771421008_super 8-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुर-२: नेकपा संयुक्तका उम्मेदवार दाहालको समर्थन महेश बस्‍नेतलाई",
+      "summary": "पछिल्लो समय मतदान केन्द्रमा कर्मचारी खटनपटनको लागि अन्तिम तयारी भईरहेको मूख्य निर्वाचन अधिकृतको कार्यालयले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-officer-s-office-prepares-to-deploy-staff-to-polling-stations-27-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769303446_Election-480x320.jpg"
+    },
+    {
+      "title": "प्रतिज्ञा-पत्रबारे सभापति थापासँग बिहीबार खुल्ला प्रश्नोत्तर हुने",
+      "summary": "४ खेलबाट पाकिस्तानको ६ अंक भएको छ। सो समूहबाट यसअघि नै ६ अंकसहित भारत सुपर ८ मा प्रवेश गरिसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-pakistan-also-in-super-8-43-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771419654_PAK-480x320.jpg"
+    },
+    {
+      "title": "मधेसबाट देश बदल्ने कांग्रेसको अठोट, कुसाशन हराएर ज्ञानको केन्द्र बनाउने प्रतिज्ञा",
+      "summary": "उम्मेदवारी परित्याग गरी उनले नेकपा (एमाले)का उम्मेदवार महेश बस्नेतलाई सघाउने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dahal-supports-mahesh-basnet-as-cpn-united-candidate-for-bhaktapur-2-11-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771418683_Mahesh Basnet-480x320.jpg"
+    },
+    {
+      "title": "मधेश जाग्दा सिंगो देश जाग्छ, अब उत्तेजना होइन सुशासनको संकल्प गरौं: विश्वप्रकाश",
+      "summary": "नेपालले यो विश्वकपमा स्कटल्यान्डलाई हराउँदै जितको खडेरी तोड्यो । नेपालले विश्वकपमा १२ वर्षपछि पहिलो जित निकाल्यो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-super-8-equation-complete-which-teams-have-made-it-to-the-finals-64-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
