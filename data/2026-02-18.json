@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-18T13:23:48.484970",
+  "scraped_at": "2026-02-18T17:13:21.124396",
   "date": "2026-02-18",
-  "total_articles": 52,
+  "total_articles": 56,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -423,6 +423,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-super-8-equation-complete-which-teams-have-made-it-to-the-finals-64-48.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "रास्वपाले जनभावनालाई ब्ल्याकमेल गर्‍यो, अब कांग्रेस २.० को अभियानमा छु: ममता शर्मा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मधेश प्रदेशकी संस्थापक सभापति ममता शर्मा नेपाली कांग्रेसमा प्रवेश गरिन्। बुधबार जनकपुरधामको तिरुहुतियागाछीमा आयोजित कांग्रेसको प्रतिज्ञा सभाका क्रममा उनी औपचारिक रूपमा कांग्रेसमा समाहित भएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-blackmailed-public-sentiment-now-i-am-campaigning-for-congress-2-0-mamata-sharma-89-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771429704_1771412919_Mamata Sharma 1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक र विकासको शैली बदल्ने कांग्रेसको प्रतिज्ञा",
+      "summary": "नेपाली कांग्रेसका महामन्त्री गगनकुमार थापाले देशको राजनीतिक र विकासको शैली बदल्ने प्रतिज्ञा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-promises-to-change-political-and-development-style-br-56-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771428919_gagan-480x320.jpg"
+    },
+    {
+      "title": "एमाले सधैं देश निर्माण गर्ने शक्ति हो: ईश्वर पोखरेल",
+      "summary": "हामीले लोकतन्त्र प्राप्तिका लागि विभिन्न कालखण्डमा भएका जनआन्दोलनहरूमा जीवन दिएका ज्ञात-अज्ञात सहिदहरूको योगदानलाई सधैं उच्च सम्मानका साथ स्मरण गर्नुपर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/youth-are-the-foundation-of-democracy-br-72-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771428201_bidhya__-480x320.jpg"
+    },
+    {
+      "title": "‘हुरी चल्दा सिक्दै गरेकाले होइन, डुङ्गा चलाउन जान्नेले नै देश सम्हाल्नुपर्छ’",
+      "summary": "भोजपुर नगरपालिका–३ स्थित सेतीबगर नजिकै निर्वाचनमा खटिएको सेना लिएर जाँदै गरेको ना ४ ख ७३१७ नम्बरको बस दुर्घटनामा परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bus-carrying-army-personnel-deployed-for-election-crashes-24-injured-47-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771426290_sena_bus_acc-480x320.jpg"
     }
   ]
 }
