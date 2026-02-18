@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-18T02:51:29.434619",
+  "scraped_at": "2026-02-18T05:25:53.757306",
   "date": "2026-02-18",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bhujel-gets-citizenship-at-the-age-of-72-11-69.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ा शिवरात्रीको छुट्टै रौनक, उखु पड्काएर उधुमै",
+      "summary": "ा शिवरात्रीको छुट्टै रौनक, उखु पड्काएर उधुमै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12274",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ukhu-padkaune-chalan__-1771213344.jpg"
+    },
+    {
+      "title": "एमाले देश बनाउने काम गर्छ, बिगार्ने काम गर्दैन : ईश्वर पोखरेल",
+      "summary": "आज स्थानीय बजारमा सुनचाँदीको मूल्यमा सामान्य गिरावट आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-fell-85-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766985796_Gold silver price-480x320.jpg"
+    },
+    {
+      "title": "आर्थिक अनियमितताको आरोप लगाउँदै रास्वपा प्रदेश सभापतिले पार्टी छोडिन्",
+      "summary": "काठमाडौं क्षेत्र नम्बर ५ मा नेकपा (एमाले)का उम्मेदवार ईश्वर पोखरेलले चुनावी घरदैलो तथा मतदाता भेटघाट कार्यक्रमलाई तीव्र पारेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-works-to-build-the-country-not-to-destroy-it-ishwar-pokharel-94-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771391215_ishwor-480x320.jpg"
+    },
+    {
+      "title": "धनगढीमा आज रास्वपाको सभा, रवि र बालेन्द्रले सम्बाेधन गर्ने",
+      "summary": "काभ्रेको बनेपा बजारमा टिप्परले स्कुटरलाई ठक्कर दिँदा स्कुटर चालकको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/scooter-driver-dies-after-being-hit-by-tipper-banepa-tense-55-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771390775_banepa-480x320.jpg"
+    },
+    {
+      "title": "गलत व्यक्तिलाई मतदान गर्दा देशले दीर्घकालीन दुःख भोग्नुपर्छ : अध्यक्ष लिङ्देन",
+      "summary": "सङ्घीयता कार्यान्वयनपछि जिल्लाका विभिन्न भागमा प्रदेश सरकारले १३ वटा पक्की र १७ वटा झोलुङ्गे पुल निर्माण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/construction-of-13-concrete-bridges-in-bhojpur-19-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771389854_pul-480x320.jpg"
     }
   ]
 }
