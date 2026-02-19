@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-19T08:56:00.844112",
+  "scraped_at": "2026-02-19T13:24:55.060359",
   "date": "2026-02-19",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/corruption-investigation-against-leaders-of-any-party-since-2047-gagan-thapa-20-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rs750 million released to continue health insurance programme",
+      "summary": "Some hospitals that have ceased services under the scheme are expected to resume soon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/19/rs750-million-released-to-continue-health-insurance-programme",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1771505727.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP pledges conditional release for jailed cooperative operators",
+      "summary": "Party promises to recover small savers’ funds within 100 days of government formation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/19/rsp-pledges-conditional-release-for-jailed-cooperative-operators",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/RSP-1771498731.jpg&w=300&height=200"
+    },
+    {
+      "title": "UK police arrest King Charles’ brother Andrew over Epstein links",
+      "summary": "The former prince, the second son of the late Queen Elizabeth, has always denied any wrongdoing in relation to Epstein.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/19/uk-police-arrest-king-charles-brother-andrew-over-epstein-links",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/XHTCEZNQXVPGHFIFIBTYIU75JU-1771500016.jpg&w=600&height=400"
+    },
+    {
+      "title": "गरिब र देशको आवश्यकता हुन् बालेन, उनी प्रम नभए आत्म'दाह गर्छु: अमरेश",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट सर्लाही निर्वाचन क्षेत्र नम्बर-४ का उम्मेदवार अमरेशकुमार सिंहले मुलुकको विद्यमान समस्या समाधानका लागि पार्टीका वरिष्ठ नेता बालेन्द्र शाहको नेतृत्व अनिवार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/amaresh-br-92-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771507340_amresh_balen-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस गण्डकी सभापति शर्माको आग्रहः संवैधानिक राजसंस्थाको विरासत फर्काऔं",
+      "summary": "बुधबार आयोजित सांगीतिक कार्यक्रममा अभिनेता पल शाह र बेनिशा हमालले गरेको धमाकेदार नृत्यले सामाजिक सञ्जाल तताएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/after-attending-niti-s-wedding-paul-reveals-the-reason-why-he-didn-t-attend-pooja-s-wedding-90-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771506388_Niti Shaha-480x320.jpg"
+    },
+    {
+      "title": "यो पटक भक्तपुर क्षेत्र नं २ मा जित्ने पालो हाम्रोः रमेश बैद्य",
+      "summary": "बेलायतको आधुनिक इतिहासमा राजपरिवारका सदस्य पक्राउ गरिएको यो पहिलो घटना हो। प्रहरीले अनुसन्धानका क्रममा पूर्वी इङ्ग्ल्यान्ड र लन्डनको पश्चिम क्षेत्रमा रहेका दुई सम्पत्तिमा खोजतलास गरिरहेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-british-prince-andrew-arrested-52-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771505310_bbc-480x320.jpg"
+    },
+    {
+      "title": "एमाले नेता रामवीर मानन्धर कांग्रेसमा प्रवेश",
+      "summary": "संवैधानिक राजतन्त्रको सट्टा गणतन्त्र भनेकै कारणले देश असफल अवस्थामा पुगेको दाबी गर्दै उनले भने,‘यहि कारण देश अन्तर्राष्ट्रिय जगतको क्रिडास्थलमा परिणत भइरहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-gandaki-president-sharma-urges-let-s-return-the-legacy-of-constitutional-monarchy-65-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771504567_Shukraj Sharma Press Meet PIC-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंबाट सुकुम्बासी खेद्नेले झापा पुगेर पक्षमा छु भन्ने राजनीति घातक छः वर्षमान पुन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट सर्लाही निर्वाचन क्षेत्र नम्बर-४ का उम्मेदवार अमरेशकुमार सिंहले मुलुकको विद्यमान समस्या समाधानका लागि पार्टीका वरिष्ठ नेता बालेन्द्र शाहको नेतृत्व अनिवार्य रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/amaresh-br-92-39.html?click_from=just_in",
       "image_url": ""
     }
   ]
