@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-19T13:24:55.060359",
+  "scraped_at": "2026-02-19T17:03:25.164667",
   "date": "2026-02-19",
-  "total_articles": 54,
+  "total_articles": 59,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -438,6 +438,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/amaresh-br-92-39.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रास्वपाका पूर्वउम्मेदवार डा. राणा र नेकपाका केन्द्रीय सदस्य केसी कांग्रेस प्रवेश",
+      "summary": "काठमाडौं निर्वाचन क्षेत्र नम्बर-५ मा प्रभावशाली उपस्थिति रहेका दुई नेता नेपाली कांग्रेसमा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/in-the-previous-election-rana-a-candidate-from-the-rashtriya-swayamsevak-sangh-rss-and-kc-a-central-member-of-the-ncp-joined-the-congress-32-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771518804_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रसुवाबाट एमालेका पूर्वअध्यक्ष ढकालसहित झण्डै सय नेता–कार्यकर्ता कांग्रेसमा प्रवेश",
+      "summary": "नेकपा एमालेले विगतदेखि नै आकर्षक चुनावी अजेन्डा बनाउँदै आएको छ। यस पटक पनि उसले आकर्षक र महत्वाकांक्षी अजेन्डाहरु समेटेर चुनावी घोषणापत्र सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/uml-manifesto-attractive-but-ambitious-br-93-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771517994_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सुरक्षाको प्रबन्ध मिलाइयो, निर्धक्क भएर मतदान गर्नुस् : गृहमन्त्री",
+      "summary": "कांग्रेसका नेताहरूले रसुवाबाट भएको यो सामूहिक प्रवेशलाई संगठन सुदृढीकरण र स्थानीय तहसम्म पार्टीको पहुँच विस्तार गर्ने महत्वपूर्ण कदमका रूपमा मूल्यांकन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nearly-a-hundred-leaders-and-activists-including-former-uml-president-dhakal-join-nepali-congress-from-rasuwa-73-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771515696_NC News-480x320.jpg"
+    },
+    {
+      "title": "फोहोर व्यवस्थापनलाई मेयर्स फोरमले अध्ययन गर्ने, सीमाविहीन समस्या समाधानमा सहकार्य गर्ने",
+      "summary": "दाङ-२ मा चुनावी नतिजा निकाल्ने होडमा छन् एमाले महासचिव शंकर पोखरेल। मतदातासँगको सामीप्य कस्न उनी दौडधुप गरिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/shankar-deepak-and-revathiraman-plead-with-voters-for-the-last-time-56-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771515519_dang_-480x320.jpg"
+    },
+    {
+      "title": "पृथ्वीसुब्बाको प्रमुख उपलब्धि: सामाजिक सञ्जाल नियमन",
+      "summary": "काठमाडौं निर्वाचन क्षेत्र नम्बर-५ मा प्रभावशाली उपस्थिति रहेका दुई नेता नेपाली कांग्रेसमा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/in-the-previous-election-rana-a-candidate-from-the-rashtriya-swayamsevak-sangh-rss-and-kc-a-central-member-of-the-ncp-joined-the-congress-32-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
