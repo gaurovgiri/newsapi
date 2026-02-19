@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-19T02:50:48.447966",
+  "scraped_at": "2026-02-19T05:24:36.142449",
   "date": "2026-02-19",
-  "total_articles": 32,
+  "total_articles": 36,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -263,6 +263,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/fuel-service-starts-at-bharatpur-airport-47-72.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "राष्ट्र निर्माणका निम्ति एकजुट बन्न प्रधानमन्त्रीको आग्रह",
+      "summary": "अधिकारीहरूका अनुसार यस दुर्घटनामा ८ जनाको मृत्यु भएको छ भने १ जना अझै बेपत्ता छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/8-people-killed-in-avalanche-in-america-51-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771477952_us-480x320.jpg"
+    },
+    {
+      "title": "एमालेले आज घोषणापत्र सार्वजनिक गर्दै",
+      "summary": "नेपाली कांग्रेसले लोकतान्त्रिक नेपालमा हरेक नेपालीको स्वतन्त्रता, पहिचान र स्वाभिमान सुरक्षित गर्ने प्रतिज्ञा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/protecting-self-respect-and-identity-br-65-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771478013_dd post 52-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपतिद्वारा प्रजातन्त्र दिवसको शुभकामना",
+      "summary": "खोटाङको साकेला गाउँपालिकास्थित सामुदायिक भवनमा बुधबार आगलागी हुँदा करोडौँ बराबरको धनमाल क्षति भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-in-rural-municipality-community-building-damage-worth-crores-51-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771477709_ago-480x320.jpg"
+    },
+    {
+      "title": "नेपाल-पोर्चुगल द्विपक्षीय परामर्श संयन्त्रको बैठक शुक्रबार",
+      "summary": "हरिधन भुइँमान्छे हो। श्रम नगरी जीविकोपार्जन हुँदैन। ऊ राजनीति जान्दैन तर ऊमाथि राजनीति गरिन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/internal-conflict-br-31-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771477312_heat  nai 52-480x320.jpg"
     }
   ]
 }
