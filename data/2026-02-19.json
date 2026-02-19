@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-19T05:24:36.142449",
+  "scraped_at": "2026-02-19T08:56:00.844112",
   "date": "2026-02-19",
-  "total_articles": 36,
+  "total_articles": 44,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -295,6 +295,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/internal-conflict-br-31-24.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771477312_heat  nai 52-480x320.jpg"
+    },
+    {
+      "title": "Karnali’s maternal health crisis deepens amid staff shortages and crumbling access",
+      "summary": "172 women die in nine years due to delayed maternal care; staff shortages leave most specialist posts vacant and ICU equipment unused.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/19/karnali-s-maternal-health-crisis-deepens-amid-staff-shortages-and-crumbling-access",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/MUGU-1771488284.jpg&w=300&height=200"
+    },
+    {
+      "title": "Budget shortfall threatens Araniko Highway widening",
+      "summary": "Construction continues on major sections of the highway, but delays may occur as budget shortfalls limit road and bridge work.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/19/budget-shortfall-threatens-araniko-highway-expansion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1771474148.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister Karki warns youth discontent could spark new rebellion",
+      "summary": "Speaking on Democracy Day, the prime minister links inequality, corruption and exclusion to protests, urging accountable governance and social justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/19/prime-minister-karki-warns-youth-discontent-could-spark-new-rebellion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KRBKTMSUSHILAKARKIU3A0772-1771479950.jpg&w=300&height=200"
+    },
+    {
+      "title": "२०४७ सालयताका जुनसुकै पार्टीका नेतामाथि भ्रष्टाचार छानबिन हुन्छ : गगन थापा",
+      "summary": "सभापति थापाले २०४७ साल यताका जुनसुकै पार्टीका नेताहरूमाथि भ्रष्टाचार छानबिन गर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/corruption-investigation-against-leaders-of-any-party-since-2047-gagan-thapa-20-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771490789_Gagan Thapa-480x320.jpg"
+    },
+    {
+      "title": "विराटनगरलाई डुबानमुक्त बनाउने डा.शेखर कोइरालाको प्रतिबद्धता",
+      "summary": "राष्ट्रिय प्रजातन्त्र दिवस तथा १० औं निर्वाचन दिवसको अवसरमा बिहीबार ताप्लेजुङ सदरमुकाम फुङलिङ प्रवेशद्वार हेलिप्याड भण्डोत्तोलन तथा शुभकामना आदान–प्रदान कार्यक्रम गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/democracy-day-and-election-day-celebrated-in-taplejung-84-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771489957_tapj-480x320.jpg"
+    },
+    {
+      "title": "आहिले भत्काउने र बनाउने दुई सोच बिचको द्वन्द्व जारी छ : अध्यक्ष ओली",
+      "summary": "वर्षायाममा केसलिया खोलाका कारण स्थानीयवासीले भोग्दै आएको समस्याप्रति संकेत गर्दै उनले तटबन्धन निर्माणलाई प्राथमिकतामा राख्ने आश्वासन दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-shekhar-koirala-s-commitment-to-make-biratnagar-flood-free-93-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771489895_Shekhar Koirala-480x320.jpg"
+    },
+    {
+      "title": "एमालेको चुनावी घोषणापत्र सार्वजनिक",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आहिले भत्काउने र बनाउने दुई सोच बिचको द्वन्द्व जारी रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-conflict-between-the-two-mindsets-of-destruction-and-construction-continues-president-oli-36-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771488620_kpoli-480x320.jpg"
+    },
+    {
+      "title": "फागुन ७ ले जनतालाई रैतीबाट नागरिक बनायो: प्रधानमन्त्रीकार्की",
+      "summary": "सभापति थापाले २०४७ साल यताका जुनसुकै पार्टीका नेताहरूमाथि भ्रष्टाचार छानबिन गर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/corruption-investigation-against-leaders-of-any-party-since-2047-gagan-thapa-20-53.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
