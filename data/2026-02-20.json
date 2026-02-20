@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-02-20T02:45:22.710126",
   "date": "2026-02-20",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "NagarikNews",
@@ -131,14 +131,6 @@
     {
       "title": "Rs750 million released to continue health insurance programme",
       "summary": "Some hospitals that have ceased services under the scheme are expected to resume soon.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/health/2026/02/19/rs750-million-released-to-continue-health-insurance-programme",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1771505727.jpg&w=600&height=400"
-    },
-    {
-      "title": "Rs750 million released to continue health insurance programme",
-      "summary": "The party puts political transformation at the forefront of its agenda.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/health/2026/02/19/rs750-million-released-to-continue-health-insurance-programme",
