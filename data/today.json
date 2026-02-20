@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-20T13:16:11.748673",
+  "scraped_at": "2026-02-20T16:51:52.128025",
   "date": "2026-02-20",
-  "total_articles": 52,
+  "total_articles": 59,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -422,6 +422,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/sarlahi-3-shrestha-an-activist-for-meter-rate-interest-victims-is-confronted-by-a-casino-operator-92-36.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nine vultures die after feeding on poisoned dog carcass",
+      "summary": "Conservationists warn the deaths threaten scavenger birds that play a vital role in keeping the environment clean.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2026/02/20/nine-vultures-die-after-feeding-on-poisoned-dog-carcass",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/BisaktaKhanale9GhiddhaMarePhoto1-1771595106.jpg&w=300&height=200"
+    },
+    {
+      "title": "US Supreme Court rejects Trump’s global tariffs",
+      "summary": "The justices, in a 6-3 ruling authored by conservative Chief Justice John Roberts, upheld a lower court’s decision that the Republican president’s use of this 1977 law exceeded his authority.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/20/us-supreme-court-rejects-trump-s-global-tariffs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/BPCBXGGT2ZNQBKDWWPP5P6KREI-1771600717.jpg&w=300&height=200"
+    },
+    {
+      "title": "कर्णाली प्रदेशका हिमाली जिल्लामा छिट्टै मतपत्र पठाइने",
+      "summary": "खुलामञ्च प्रयोग व्यवस्थापनको अधिकार काठमाडौं महानगरपालिकाको वडा नं. २७ लाई दिन प्रमुखसमक्ष सिफारिस गर्ने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ward-no-27-will-manage-the-open-platform-operation-70-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763046037_khulla-480x320.jpg"
+    },
+    {
+      "title": "‘असली कम्युनिस्टको रूप हराएको रुकुम’",
+      "summary": "निर्वाचन आयोगका सचिव कृष्णबहादुर राउतले कर्णाली प्रदेशका हिमाली जिल्लामा छिट्टै मतपत्र पठाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ballots-to-be-sent-to-mountainous-districts-of-karnali-province-soon-20-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1771603182_karnali-480x320.jpg"
+    },
+    {
+      "title": "भौतिक र मानवीय विकासलाई समानान्तर रूपमा अघि बढाउने विष्णु पौडेलको प्रतिबद्धता",
+      "summary": "यही कथा आज हजारौँ नेपाली कामदारको साझा नियति बनेको छ। जहाँ स्वास्थ्य परीक्षण एउटा सेवा होइन, सङ्गठित लुटपाटको माध्यम बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-loot-of-the-medical-mafia-the-dark-side-of-foreign-employment-42-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1693701231_baideshik rojgar-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीद्वारा प्रदेशको निर्वाचन सुरक्षा व्यवस्था सम्बन्धमा जानकारी",
+      "summary": "रुकुम पश्चिमबाट चुनावी मैदानमा उत्रिएका गोपाल शर्मा, जनार्दन शर्मा, मानबहादुर शाही र चन्द्र बुढा पूर्वमाओवादी हुन्। गोपाल नेकपाबाट, जनार्दन प्रलोपाबाट, शाही रास्वपाबाट र बुढा नेकपा माओवादीबाट प्रतिस्पर्धामा उत्रिएका हुन्। त्यस्तै नेपाली कांग्रेसबाट राजु केसी मैदानमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rukum-has-lost-the-true-communist-image-45-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1771602670_rukum paschim-480x320.jpg"
+    },
+    {
+      "title": "चार हजार ३०० पर्यवेक्षकले निर्वाचन पर्यवेक्षण गर्ने",
+      "summary": "खुलामञ्च प्रयोग व्यवस्थापनको अधिकार काठमाडौं महानगरपालिकाको वडा नं. २७ लाई दिन प्रमुखसमक्ष सिफारिस गर्ने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ward-no-27-will-manage-the-open-platform-operation-70-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
