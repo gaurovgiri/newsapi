@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-20T02:45:22.710126",
+  "scraped_at": "2026-02-20T05:19:08.073757",
   "date": "2026-02-20",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
     "News24",
     "NagarikNews",
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-today-45-85.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "परिक्रममा हजारौँ सहभागि, साधुसन्त र गृहस्थको लावालस्कर",
+      "summary": "परिक्रममा हजारौँ सहभागि, साधुसन्त र गृहस्थको लावालस्कर",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12308",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/mithila-ronak-1771557809.JPG"
+    },
+    {
+      "title": "विमानस्थलबारेको छलफलमा मेयर आक्रोशित, अरु के भयो ?",
+      "summary": "विमानस्थलबारेको छलफलमा मेयर आक्रोशित, अरु के भयो ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12286",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bimanstallai-setohattiko-sangya-1771386850.jpg"
+    },
+    {
+      "title": "Hundreds of Nepalis in Portugal face legal crisis over fake authentication stamps",
+      "summary": "Mountbatten-Windsor, the second son of the late Queen Elizabeth, has always denied any wrongdoing in relation to Epstein, and said he regrets their friendship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/15/hundreds-of-nepalis-in-portugal-face-legal-crisis-over-fake-authentication-stamps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1771549944.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेन्द्र शाह भन्छन्ः कर्णालीको गहिराइ बुझ्ने पार्टी रास्वपा",
+      "summary": "महासंघका अनुसार आज १० रुपैयाँ घटेर पाँच हजार ५० रुपैयाँमा कारोबार भइरहेको छ। बिहीबार चाँदी पाँच हजार ६० रुपैयाँमा किनबेच भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-stable-silver-down-99-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764479330_Gold -480x320.jpg"
     }
   ]
 }
