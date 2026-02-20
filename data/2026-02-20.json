@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-20T05:19:08.073757",
+  "scraped_at": "2026-02-20T08:52:35.164210",
   "date": "2026-02-20",
-  "total_articles": 37,
+  "total_articles": 44,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-stable-silver-down-99-94.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764479330_Gold -480x320.jpg"
+    },
+    {
+      "title": "Kailali-5 candidates’ promises focus on infrastructure, ignore climate crisis",
+      "summary": "Funding, timelines, and key details are missing for Fapla Cricket Stadium and Dhangadhi’s upgrade to metropolitan city.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/20/kailali-5-candidates-promises-focus-on-infrastructure-ignore-climate-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NETA-1771551998.jpg&w=300&height=200"
+    },
+    {
+      "title": "Wedding content creation, necessity or a bad investment?",
+      "summary": "A growing number of couples are hiring creators to produce shareable wedding reels within hours of the ceremony, but not everyone is convinced the trend is worth the cost.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/20/wedding-content-creation-necessity-or-a-bad-investment",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/content-1771550482.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्की पोखरा विश्वविद्यालयमा",
+      "summary": "प्राविधिकहरुको पूर्ण परीक्षणपछि उड्ने तयारीमा रहेको जहाजबाट एयर फ्युल चुहिएको समेत यात्रुले देखेर जानकारी गराएपछि ठुलो दुर्घटनाको सम्भावनाबाट जोगिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/buddha-air-s-extreme-negligence-in-maintenance-even-oil-leakage-from-the-plane-about-to-take-off-was-not-detected-37-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1771576888_Buddha Air-480x320-wm.jpg"
+    },
+    {
+      "title": "रास्वपाले भैरहवा र पोखराको जनसभा स्थगित गर्‍यो",
+      "summary": "पर्यटकीय नगरी इलाममा सिनेमा प्रेमीहरूका लागि खुसीको खबर थपिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/paul-shah-inaugurates-friends-cinemas-new-hall-41-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771576253_de sign 52-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीले गरिन् मुक्तिनाथको दर्शन, निर्वाचन सफल पार्न निर्देशन",
+      "summary": "विगतका वर्षमा यतिबेला सौराहाका होटल ८० प्रतिशत हाराहारी भरिने गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tourist-numbers-in-sauraha-decrease-during-peak-season-39-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771575554_1695544233_banner1-1200x560-wm (1)-1200x560-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन : सशस्त्र प्रहरी हेडक्वार्टरबाट खटिए १६ सय बढी जनशक्ति",
+      "summary": "सियोल केन्द्रीय जिल्ला अदालतले बिहीबार उनलाई संसद्लाई लामो समय निष्क्रिय बनाउने उद्देश्यले विद्रोहको नेतृत्व गरेको ठहर गर्दै दोषी ठहर्‍याएको थियो। अदालतका अनुसार उनले शासनमा अवरोध आएको भन्दै सेना परिचालन गरी निर्वाचित संस्थालाई निष्क्रिय बनाउने प्रयास गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/yun-apologizes-to-the-public-after-life-imprisonment-47-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771554245_Korea-480x320.jpg"
+    },
+    {
+      "title": "तिरूहुतिया गाछीमा दोस्रो पटक भेटिएको कांग्रेस",
+      "summary": "प्राविधिकहरुको पूर्ण परीक्षणपछि उड्ने तयारीमा रहेको जहाजबाट एयर फ्युल चुहिएको समेत यात्रुले देखेर जानकारी गराएपछि ठुलो दुर्घटनाको सम्भावनाबाट जोगिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/buddha-air-s-extreme-negligence-in-maintenance-even-oil-leakage-from-the-plane-about-to-take-off-was-not-detected-37-27.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
