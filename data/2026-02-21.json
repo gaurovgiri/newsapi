@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-21T13:05:16.439858",
+  "scraped_at": "2026-02-21T16:38:52.270080",
   "date": "2026-02-21",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/central-security-committee-meets-at-home-ministry-discusses-rautahat-tension-80-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Two decades after construction began, Dhangadhi–Urai Bhanjyang road still remains incomplete",
+      "summary": "Budget shortages and incomplete DPR stall progress on the strategic road linking the Tarai to the Nepal–China border via Bajhang.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/21/two-decades-on-construction-of-dhangadhi-urai-bhanjyang-awaits-completion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/fasttrackDhangadhi-1771683905.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister Karki urges vigilance to prevent election clashes and boycott attempts",
+      "summary": "Although some parties have spoken of boycotting the elections, they are extremely weak and have raised the issue out of fear of defeat, the prime minister said.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/21/prime-minister-karki-urges-vigilance-to-prevent-election-clashes-and-boycott-attempts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/BharatKCLumbiniRSS09PMkarkimeeting12-1771670166.jpg&w=300&height=200"
+    },
+    {
+      "title": "उपसभापति शर्माद्वारा कांग्रेसलाई पहिलो दल बनाउन आग्रह",
+      "summary": "असान्न प्रतिनिधिसभा सदस्य निर्वाचनको आचारसंहिता पूर्ण रूपमा पालना सुनिश्चित गर्न जिल्ला प्रशासन कार्यालय कञ्चनपुरले मौन अवधिमा पर्ने होली पर्वलाई मर्यादित र अनुशासित ढङ्गले मनाउन आग्रह छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/disturbance-prohibited-on-holi-administration-tightens-election-security-94-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741950683_holi 4-480x320.jpg"
+    },
+    {
+      "title": "भगवती चौधरीलाई जिताउन तीन सय बढी जेनजी एमालेमा प्रवेश",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले फागुन २१ गतेको प्रतिनिधिसभा चुनावबाट कांग्रेसलाई मुलुकको ‘पहिलो दल’ बनाउन मतदातालाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deputy-chairman-sharma-urges-congress-to-become-the-first-party-43-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770732880_bishwo pra-480x320.jpg"
+    },
+    {
+      "title": "झन्डा जलाउने काम नगराैं, स्वस्थ प्रतिस्पर्धा गरौं: हर्क",
+      "summary": "अहिले सिंगो देश नै चुनावमा होमिएको छ। दलहरू घोषणापत्र जारी गरेर मतदाता फकाउन व्यस्त छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/i-will-not-sell-principles-for-power-i-will-not-become-a-silent-mp-in-parliament-nisha-adhikari-61-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771691383_३-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीका सबै जिल्लामा पुग्यो निर्वाचन सामग्री",
+      "summary": "सुनसरीका तीन सयभन्दा बढी जेनजी युवाहरू नेकपा (एमाले) मा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/more-than-300-genjis-join-uml-to-help-bhagwati-chaudhary-win-32-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771688037_bhagwati-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले दमन र तोडफोडका प्रवृत्तिविरुद्ध लड्दै मुलुकलाई समृद्धितर्फ लैजान्छ : संयोजक दाहाल",
+      "summary": "असान्न प्रतिनिधिसभा सदस्य निर्वाचनको आचारसंहिता पूर्ण रूपमा पालना सुनिश्चित गर्न जिल्ला प्रशासन कार्यालय कञ्चनपुरले मौन अवधिमा पर्ने होली पर्वलाई मर्यादित र अनुशासित ढङ्गले मनाउन आग्रह छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/disturbance-prohibited-on-holi-administration-tightens-election-security-94-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
