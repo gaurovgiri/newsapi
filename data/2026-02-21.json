@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-21T16:38:52.270080",
+  "scraped_at": "2026-02-21T20:34:23.144265",
   "date": "2026-02-21",
-  "total_articles": 56,
+  "total_articles": 57,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -455,6 +455,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/disturbance-prohibited-on-holi-administration-tightens-election-security-94-55.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "देउवा पर्खिरहेको डडेल्धुरा",
+      "summary": "उनको भनाइबाट पनि थाहा हुन्छ, यतिबेला डडेलधुराले २०४८साल देखि २०७९ सम्म निरन्तर चुनाव जित्दै आएका शेरबहादुर देउवाको तीव्र प्रतीक्षा गरिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dadeludhara-waiting-for-deuba-94-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771692512_5-480x320.jpg"
     }
   ]
 }
