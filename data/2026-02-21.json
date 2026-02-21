@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-21T05:09:05.423711",
+  "scraped_at": "2026-02-21T08:40:41.132910",
   "date": "2026-02-21",
-  "total_articles": 37,
+  "total_articles": 42,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/60-cameras-used-in-tiger-census-go-missing-br-72-68.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768527908_Tiger-480x320.jpg"
+    },
+    {
+      "title": "भव्य स्मार्टसिटी बन्दै, तातोपानी के होला ?",
+      "summary": "भव्य स्मार्टसिटी बन्दै, तातोपानी के होला ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12324",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/tatopaniu-nakama-chunabi-mapdanda-1771642745.jpg"
+    },
+    {
+      "title": "निष्पक्ष र शान्तिपूर्ण रूपमा निर्वाचन सम्पन्न गराउन प्रधानमन्त्री कार्कीको निर्देशन",
+      "summary": "जिल्ला प्रशासन कार्यालयले जिल्ला सदरमुकाम गौरमा आज अपराह्न १ः०० बजेदेखि अनिश्चितकालीन कर्फ्यु आदेश जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indefinite-curfew-in-gaur-63-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771655733_Rautahat-480x320.jpg"
+    },
+    {
+      "title": "मधेस बुझ्न सर्लाही आएको हुँ, अब सांसद खोज्दै आउनुपर्दैन : गगन थापा",
+      "summary": "सर्लाहीका एक युवक घरबाट बेपता भएको करिब दुई सातापछि शव फेला परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-young-man-found-two-weeks-after-going-missing-71-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीको लुम्बिनी भ्रमण सम्पन्न",
+      "summary": "जिल्लागत रूपमा अतिसंवेदनशील, संवेदनशील र सामान्य निर्वाचन मतदान केन्द्र पहिचान गरेर आवश्यक तयारी गरिएको जानकारी गराए। जिल्लास्थित सरकारी निकायले त्यस्ता चुनौती पहिचान गरेर समाधानका लागि आवश्यक संवाद र छलफल गरेर काम गर्ने विषयमा जानकारी गराइएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-karki-directs-to-conduct-elections-in-a-fair-and-peaceful-manner-78-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771662194_PM Karki-480x320.jpg"
+    },
+    {
+      "title": "एमालेको झण्डा जलाएको आरोपमा थप दुई जना पक्राउ",
+      "summary": "उनले उखु किसानको समस्या आफ्नै जिम्मा भएको बताउँदै उनले सर्लाहीमा इन्जिनियरिङ कलेज र मिर्गौला उपचार केन्द्र स्थापना गर्ने निर्णय भइसकेको जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-came-to-sarlahi-to-understand-madhesh-now-i-don-t-have-to-come-looking-for-mps-gagan-thapa-83-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771661493_Gagan (1)-480x320.jpg"
     }
   ]
 }
