@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-02-21T02:39:14.925149",
   "date": "2026-02-21",
-  "total_articles": 34,
+  "total_articles": 32,
   "sources": [
     "NagarikNews",
     "News24",
@@ -137,14 +137,6 @@
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IMG20251224101833-1771636988.jpg&w=600&height=400"
     },
     {
-      "title": "Inside the effort to digitise and translate centuries-old Newa manuscripts",
-      "summary": "Experts dismiss manifestos as unrealistic, lacking research and data, and warn delivery is doubtful.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/02/21/inside-the-effort-to-digitise-and-translate-centuries-old-newa-manuscripts",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IMG20251224101833-1771636988.jpg&w=600&height=400"
-    },
-    {
       "title": "Beyond the boundary",
       "summary": "As manuscripts face threats from disaster and neglect, youth volunteers and heritage experts are working together to revive Nepal’s historical scripts.",
       "source": "KathmanduPost",
@@ -199,14 +191,6 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2026/02/21/who-holds-the-truth-in-silence",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/femalecops-1771637386.jpg&w=400&height=267"
-    },
-    {
-      "title": "Inside the effort to digitise and translate centuries-old Newa manuscripts",
-      "summary": "The Post brings you a lowdown on some major events this week.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/02/21/inside-the-effort-to-digitise-and-translate-centuries-old-newa-manuscripts",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/IMG20251224101833-1771636988.jpg&w=400&height=267"
     },
     {
       "title": "Hundreds of Nepalis in Portugal face legal crisis over fake authentication stamps",
