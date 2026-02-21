@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-21T08:40:41.132910",
+  "scraped_at": "2026-02-21T13:05:16.439858",
   "date": "2026-02-21",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -359,6 +359,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-came-to-sarlahi-to-understand-madhesh-now-i-don-t-have-to-come-looking-for-mps-gagan-thapa-83-58.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771661493_Gagan (1)-480x320.jpg"
+    },
+    {
+      "title": "Local administration imposes curfew in Gaur after clashes between two groups",
+      "summary": "Tensions flared after a vehicle was set on fire during the clashes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/21/local-administration-imposes-curfew-in-gaur-after-clashes-between-two-groups",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/100053555521220260825341000x0-1771664078.jpg&w=300&height=200"
+    },
+    {
+      "title": "Parties’ lofty pledges on economy collide with hard realities",
+      "summary": "Experts dismiss manifestos as unrealistic, lacking research and data, and warn delivery is doubtful.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/21/parties-lofty-pledges-on-economy-collide-with-hard-realities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/sangam-1771636748.jpg&w=300&height=200"
+    },
+    {
+      "title": "गृहमा केन्द्रीय सुरक्षा समितिको बैठक, रौतहट तनावबारे छलफल",
+      "summary": "मुलुकको पछिल्लो सुरक्षा अवस्था, शान्ति सुरक्षाका चुनौती र आसन्न निर्वाचनको सुरक्षा तयारीका सम्बन्धमा छलफल गर्न गृह मन्त्रालयमा केन्द्रीय सुरक्षा समितिको बैठक बसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/central-security-committee-meets-at-home-ministry-discusses-rautahat-tension-80-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771677089_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बालेन लक्षित गगन- रुखमा बाँधेर विकास हुँदैन, पद्धति चाहिन्छ",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले विकासको गति कसैलाई रुखमा झुन्ड्याएर वा भौतिक कारबाहीको धम्की दिएर नबढ्ने टिप्पणी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/development-cannot-be-tied-to-trees-a-system-is-needed-general-secretary-gagan-thapa-br-34-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771676499_gagan_balen-480x320.jpg"
+    },
+    {
+      "title": "रवि फेरि जेल जान्छन्, चितवनका जनताको भोट खेर जान्छ: ममता शर्मा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का मधेस प्रदेश संस्थापक सभापति ममता शर्माले पार्टी सभापति रवि लामिछाने फेरि जेल जाने निश्चित रहेको र उनलाई दिइने मत खेर जाने दाबी गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-rsp-president-lamichhane-goes-to-jail-again-the-votes-of-the-people-of-chitwan-will-be-wasted-mamta-sharma-br-52-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771675228_mamata-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले चुनाव नजित्ने निष्कर्ष निकाल्यो, चुनाव भाँड्न खोज्यो: ओली",
+      "summary": "गोरखामा यात्रुबाहक बसको ठक्करबाट ९५ वर्षीया वृद्धाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-woman-dies-after-being-hit-by-bus-in-gorkha-95-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ पछि पहिलो पार्टी बन्ने एमालेको दाबी",
+      "summary": "मुलुकको पछिल्लो सुरक्षा अवस्था, शान्ति सुरक्षाका चुनौती र आसन्न निर्वाचनको सुरक्षा तयारीका सम्बन्धमा छलफल गर्न गृह मन्त्रालयमा केन्द्रीय सुरक्षा समितिको बैठक बसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/central-security-committee-meets-at-home-ministry-discusses-rautahat-tension-80-42.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
