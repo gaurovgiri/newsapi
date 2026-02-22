@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-22T13:06:40.942692",
+  "scraped_at": "2026-02-22T16:40:41.300735",
   "date": "2026-02-22",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/bangladeshi-tourist-visas-for-indians-resumed-90-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "108 Women in Race for 33 Seats in Bagmati",
+      "summary": "Across 10 constituencies in Kathmandu, 250 candidates are in the fray, including 46 women.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/22/108-women-in-race-for-33-seats-in-bagmati",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/FEMALECANDIDATES-1771770768.jpg&w=600&height=400"
+    },
+    {
+      "title": "जसले यस पटक मत प्रभावित पार्ने छन्",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचन संघारमा आइपुगेको छ। २०७९ मंसिरमा पाँच वर्षका लागि जिताएर पठाएका दल र नेता तीन वर्षमै फेरि मत माग्न घरदैलोमा पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/who-will-influence-the-vote-this-time-54-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767260999_chunab-480x320.jpg"
+    },
+    {
+      "title": "हामी एमालेसहितको कम्युनिष्ट एकतामा पुग्न सक्छाैं: दाहाल",
+      "summary": "नेपाली कम्युनिस्ट पार्टी (नेकपा) का सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपाल आफ्नो निर्वाचन क्षेत्र रौतहटमा मतदातासँगको भेटघाटमा व्यस्त छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/former-prime-minister-nepal-busy-with-door-to-door-visits-br-16-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771777181_madhav-480x320.jpg"
+    },
+    {
+      "title": "जुम्लामा उम्मेदवारबिच फोनमै मत माग्ने मित्रता",
+      "summary": "करणीपछि ३ घण्टा खत्रीकै कोठामा थुनिएकी बालिका छुटकारा पाएलगत्तै रुँदै घर पुगेपछि मात्र घटनाबारे अभिभावकले थाहा पाएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/13-year-old-girl-raped-by-teacher-under-the-pretext-of-teaching-her-homework-30-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "मधेश बलियो भए मात्रै मुलुकमा सङ्घीयता सुरक्षित रहन्छः उपेन्द्र",
+      "summary": "मकवानपुरको भिमफेदी गाउँपालिका-१ रातोमाटेस्थित त्रिभुवन राजपथ सडकखण्डमा आइतबार साँझ ट्रक दुर्घटना हुँदा एक जना गम्भीर घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-truck-fell-into-a-ravine-in-makawanpur-one-seriously-injured-88-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755964454_accident-480x320.jpg"
+    },
+    {
+      "title": "ठग्ने, लुट्ने सबैको छानबिन र हिसाब हुन्छ: रवि",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचन संघारमा आइपुगेको छ। २०७९ मंसिरमा पाँच वर्षका लागि जिताएर पठाएका दल र नेता तीन वर्षमै फेरि मत माग्न घरदैलोमा पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/who-will-influence-the-vote-this-time-54-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
