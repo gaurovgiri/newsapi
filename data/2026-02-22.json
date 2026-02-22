@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-22T02:52:04.002139",
+  "scraped_at": "2026-02-22T05:18:23.390983",
   "date": "2026-02-22",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/20-000-election-materials-removed-for-spoiling-the-city-s-beauty-65-78.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "जाँच, डुंगा चालकहरुमा मच्चियो खैलाबैला",
+      "summary": "जाँच, डुंगा चालकहरुमा मच्चियो खैलाबैला",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12327",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Pokharama-1771729655.jpg"
+    },
+    {
+      "title": "रपालिकाका विभिन्न क्षेत्रमा अनिश्चितकालीन कर्फ्यु",
+      "summary": "रपालिकाका विभिन्न क्षेत्रमा अनिश्चितकालीन कर्फ्यु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12326",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gaur-1771662498.jpg"
+    },
+    {
+      "title": "From battlefield to ballot: Former Maoist fighter vies for Kapilvastu-1 seat as independent",
+      "summary": "Ravina Khan, once a frontline combatant, now campaigns door-to-door on a shoestring budget, seeking to represent the poor and marginalised after being sidelined by her party.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2026/02/22/from-battlefield-to-ballot-former-maoist-fighter-vies-for-kapilvastu-1-seat-as-independent",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/maolist-1771734914.jpg&w=300&height=200"
+    },
+    {
+      "title": "Curfew continues in Gaur after Saturday clashes",
+      "summary": "Municipality remains tense as authorities maintain restrictions following stone-pelting and vehicle burning.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-2/2026/02/22/curfew-continues-in-gaur-after-saturday-clashes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1771736444.jpg&w=300&height=200"
+    },
+    {
+      "title": "How social media use is changing election outreach",
+      "summary": "Growing influence of social media on voter decision is a global phenomenon, and Nepal isn’t untouched: Experts",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/22/how-social-media-use-is-changing-election-outreach",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/unnamed2-1771721877.jpg&w=600&height=400"
     }
   ]
 }
