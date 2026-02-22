@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-22T08:42:06.057432",
+  "scraped_at": "2026-02-22T13:06:40.942692",
   "date": "2026-02-22",
-  "total_articles": 42,
+  "total_articles": 47,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -343,6 +343,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-manifestos-of-parties-false-promises-unfulfilled-dreams-32-26.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771748331_Party -480x320.jpg"
+    },
+    {
+      "title": "नयाँ दलले चुनाव हार्ने डरले झण्डा जलाउने र कार्यकर्ता कुट्ने काम गरे: ओली",
+      "summary": "बङ्गलादेशले भारतमा अवस्थित आफ्ना कूटनीतिक नियोगहरूबाट भारतीय नागरिकका लागि पर्यटक भिसा सेवा सोमबारदेखि पूर्ण रूपमा पुनः सञ्चालनमा ल्याउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bangladeshi-tourist-visas-for-indians-resumed-90-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771762282_visa-480x320.jpg"
+    },
+    {
+      "title": "ओलीले जनअपेक्षा अनुसार काम नगरेको भन्दै कीर्तिपुरका पूर्व मेयरले छाडे एमाले, नेकपा प्रवेश",
+      "summary": "नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीले चुनाव हार्ने निश्चित भएपछि केही समूहले एमालेको झण्डा जलाउने र कार्यकर्तामाथि आक्रमण गर्ने जस्ता अराजक गतिविधि सुरु गरेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/fearing-losing-the-election-the-new-party-burned-flags-and-beat-up-activists-kp-oli-16-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771319913_olijhapa-480x320.jpg"
+    },
+    {
+      "title": "म बालेनको मान्छे मात्र होइन, क्षमतावान् छु: राजु पाण्डे",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (एमाले) परित्याग गरी कीर्तिपुर नगरपालिकाका पूर्व मेयर रमेश महर्जन र वडा नं-६ का पूर्व वडाअध्यक्ष नुच्छे महर्जन नेपाली कम्युनिष्ट पार्टीमा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-kirtipur-mayor-quits-uml-joins-ncp-saying-oli-has-not-lived-up-to-people-s-expectations-br-66-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771761093_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीलाई आश्वासन होइन, परिणाम चाहियो : जुम्लाबाट उठेको संरचनागत बहस",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट काठमाडौं क्षेत्र नं-३ का उम्मेदवार राजु पाण्डेले आफू बालेन शाहको निकटताका कारण मात्र टिकट पाएको भन्ने आरोपको खण्डन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-not-just-a-balen-person-i-am-capable-raju-pandey-66-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771760391_raju_panday-480x320.jpg"
+    },
+    {
+      "title": "कुलमान जीले मेरोबारे के भन्नुभयो, त्यसमा मेरो सरोकार छैन, जनलहर रास्वपाकै पक्षमा छ: राजु",
+      "summary": "बङ्गलादेशले भारतमा अवस्थित आफ्ना कूटनीतिक नियोगहरूबाट भारतीय नागरिकका लागि पर्यटक भिसा सेवा सोमबारदेखि पूर्ण रूपमा पुनः सञ्चालनमा ल्याउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bangladeshi-tourist-visas-for-indians-resumed-90-34.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
