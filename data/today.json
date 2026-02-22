@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-22T05:18:23.390983",
+  "scraped_at": "2026-02-22T08:42:06.057432",
   "date": "2026-02-22",
-  "total_articles": 39,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -319,6 +319,38 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/politics/2026/02/22/how-social-media-use-is-changing-election-outreach",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/unnamed2-1771721877.jpg&w=600&height=400"
+    },
+    {
+      "title": "ई स्वरोजगार बन्ने बाटोमा हिडाउँदै धनगढी उपमहानगरपालिका",
+      "summary": "ई स्वरोजगार बन्ने बाटोमा हिडाउँदै धनगढी उपमहानगरपालिका",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12331",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Rojgar-mela-aa-1771730737.jpg"
+    },
+    {
+      "title": "उपयुक्त समय आएपछि संविधान संशोधन हुन्छ : एमाले अध्यक्ष ओली",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले उपयुक्त समय आएपछि संविधान संशोधन गरिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/constitution-will-be-amended-when-the-time-is-right-uml-chairman-oli-38-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771749386_oli-480x320.jpg"
+    },
+    {
+      "title": "तनहुँमा मतपत्र आइपुग्यो",
+      "summary": "सार्वजनिक भएको पोस्टरमा शाहलाई मात्र देखाइएको छ। उनी पोस्टरमा कैयौँ चोटपटक लागेका र मिश्रित भावमा देखिएका छन्। ‘आउँछु भन्ने एउटा झुटो आशामा आमाले बर्सेनि जमरा छरिरहन्छिन्।’ संवाद पोस्टरमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/production-of-aa-baat-aama-2-announced-on-paul-s-birthday-60-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771748994_Paul Shah-480x320.jpg"
+    },
+    {
+      "title": "ओलीको प्रश्न : पालिका चलाउन नसक्नेलाई प्रधानमन्त्री बनाउने कुरा मजाक हो?",
+      "summary": "सात महिनाको विकास खर्च केवल १५ प्रतिशतमा खुम्चिएको छ। राजस्व घटेसँगै संघ सरकारबाट प्रदेश र स्थानीय तहमा जाने वित्तीय समानीकरण अनुदान कटौती गरेर कुल स्वीकृत वार्षिक बजेटमध्ये तेस्रो किस्तासम्मको ७० दशमलव ४३ प्रतिशतमात्रै पठाउने भनिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-manifestos-of-parties-false-promises-unfulfilled-dreams-32-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771748331_Party -480x320.jpg"
     }
   ]
 }
