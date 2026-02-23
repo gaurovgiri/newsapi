@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-23T08:59:47.120000",
+  "scraped_at": "2026-02-23T13:23:12.919757",
   "date": "2026-02-23",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-killed-in-road-accident-in-ilam-44-59.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government forms five-member panel to probe Dhading bus crash",
+      "summary": "The task force has been mandated to carry out a detailed probe into the incident and submit a report.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/23/government-forms-five-member-panel-to-probe-dhading-bus-crash",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/homeministry-1771845152.png&w=600&height=400"
+    },
+    {
+      "title": "प्राध्यापक, शिक्षक तथा कर्मचारीलाई निर्वाचन प्रचारप्रसारमा संलग्न नहुन आह्वान",
+      "summary": "आसन्न निर्वाचनलाई लक्षित गरेर भारतसँग सीमा जोडिएको कैलाली जिल्लाका सीमा नाकामा यही फागुन १८ गतेदेखि मतदान सम्पन्न नहुञ्जेलसम्म सवारीसाधन सञ्चालनमा निषेध गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibition-on-the-operation-of-vehicles-at-the-border-checkpoint-75-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771852760_1715319538_simabandakailali-1200x560-480x320.jpg"
+    },
+    {
+      "title": "युवाहरूलाई पैसामा नलोभिन हर्क साम्पाङको आग्रह",
+      "summary": "निर्वाचन आयोगले प्राध्यापक, शिक्षक तथा कर्मचारीलाई आसन्न प्रतिनिधिसभा सदस्य निर्वाचनमा राजनीतिक दल तथा उम्मेदवारको पक्षमा प्रचारप्रसारमा संलग्न नहुन आह्वान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/professors-teachers-and-employees-urged-not-to-engage-in-election-campaigning-75-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768178261_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "देश गफले होइन, कामले बन्छ : हर्क साम्पाङ",
+      "summary": "श्रम संस्कृति श्रम गर्ने र गरिखानेहरूको पार्टी भएकाले विश्वास गर्न उनले सबैलाई आग्रहसमेत गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-urges-youth-not-to-fall-in-love-with-money-63-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765116867_Harka-480x320.jpg"
+    },
+    {
+      "title": "मेडिकल व्यवसायी प्रसाईँको मुद्दाको फाइल झिकाउन आदेश",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङले श्रम नगरी देशको विकास हुन नसक्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-country-is-built-through-action-not-talk-chairman-sampang-69-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771851919_harka-480x320.jpg"
+    },
+    {
+      "title": "अब देश एमालेले सम्हाल्छ : अध्यक्ष ओली",
+      "summary": "आसन्न निर्वाचनलाई लक्षित गरेर भारतसँग सीमा जोडिएको कैलाली जिल्लाका सीमा नाकामा यही फागुन १८ गतेदेखि मतदान सम्पन्न नहुञ्जेलसम्म सवारीसाधन सञ्चालनमा निषेध गरिने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibition-on-the-operation-of-vehicles-at-the-border-checkpoint-75-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
