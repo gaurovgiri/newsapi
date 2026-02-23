@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-23T17:08:36.459406",
+  "scraped_at": "2026-02-23T20:54:12.273866",
   "date": "2026-02-23",
-  "total_articles": 66,
+  "total_articles": 67,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -535,6 +535,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/cooperation-is-essential-to-make-revenue-leakage-control-effective-finance-minister-khanal-62-94.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Declining quality and poor results make education pledges hollow",
+      "summary": "Teacher shortages, mass dropouts and migration undermine learning despite rising investment in the province.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/23/declining-quality-and-poor-results-make-election-pledges-on-education-hollow",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/PhotoEducation2-1771866353.jpg&w=300&height=200"
     }
   ]
 }
