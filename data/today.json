@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-23T02:52:01.790206",
+  "scraped_at": "2026-02-23T05:38:46.162232",
   "date": "2026-02-23",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
     "News24",
     "NagarikNews",
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/home-ministry-warns-of-bringing-those-involved-in-anti-election-activities-to-justice-56-66.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Beyond stigma, towards independence",
+      "summary": "Pakistan cannot look forward to becoming a citizen-friendly state without eliminating preventable deaths.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/23/beyond-stigma-towards-independence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/VSVFTPVS4BMOXEXFWDMXYJJK4A-1771812818.jpg&w=400&height=267"
+    },
+    {
+      "title": "Narayan Dhakal unveils sixth novel",
+      "summary": "Local leaders, residents march through Sabgadh to show unity.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/23/narayan-dhakal-unveils-sixth-novel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "FICTION: Pun Dai goes to the barber",
+      "summary": "Since Trump’s second term began, US immigration crackdowns have led to the deportation of 585 Nepalis, with January 2026 recording the highest monthly total.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/22/fiction-pun-dai-goes-to-the-barber",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/secondstorymainn-1771809681.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal opens embassy chancery in Lisbon",
+      "summary": "South Africa crush India by 76 runs in Super Eight clash, with David Miller’s 63 powering a strong recovery after early top-order collapse.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/20/nepal-opens-embassy-chancery-in-lisbon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/psotreprot-1771809271.jpg&w=400&height=267"
+    },
+    {
+      "title": "सडक यात्रा सुरक्षित बनाउनु राज्यको प्रमुख दायित्व : रवि लामिछाने",
+      "summary": "दूरदर्शिताबिना क्षणिक आवेगबाट गरिने मतदानले मुलुकको काँचुली फेर्न सक्दैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/whose-government-this-time-33-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771824179_vasha 52-480x320.jpg"
+    },
+    {
+      "title": "रास्वपालाई ठुलो झड्का : जिल्ला सभापति नै कांग्रेसमा फर्किए",
+      "summary": "नागरिक समाजका अध्यक्ष जगरनाथ केसरीको नेतृत्वमा सबगढाको मुख्य सडकबाट सुरु भएको र्‍यालीले गाउँ परिक्रमा गर्दै शान्ति, एकता र सहअस्तित्वको सन्देश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-party-harmony-rally-to-maintain-peace-and-harmony-in-gaur-14-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771823610_Gaur-480x320.jpg"
     }
   ]
 }
