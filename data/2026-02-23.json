@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-23T13:23:12.919757",
+  "scraped_at": "2026-02-23T17:08:36.459406",
   "date": "2026-02-23",
-  "total_articles": 59,
+  "total_articles": 65,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -478,6 +478,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prohibition-on-the-operation-of-vehicles-at-the-border-checkpoint-75-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prohibitory order replaces curfew in Birgunj",
+      "summary": "During the prohibitory period, all forms of gatherings, assemblies, rallies, and demonstrations are banned within the designated area.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/23/prohibitory-order-replaces-curfew-in-birgunj",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/birgunj-1771850141.jpg&w=300&height=200"
+    },
+    {
+      "title": "राजस्व चुहावट नियन्त्रणलाईअझै प्रभावकारी बनाउन जरूरी: अर्थमन्त्री",
+      "summary": "अर्थमन्त्री रामेश्वरप्रसाद खनालले राजस्व चुहावट नियन्त्रणलाई थप प्रभावकारी बनाउन सरोकार भएका निकायहरूले आपसी समन्वय र सहकार्य गर्दै एकीकृत रूपमा कार्य गर्नुपर्नेमा जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cooperation-is-essential-to-make-revenue-leakage-control-effective-finance-minister-khanal-62-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771863074_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "पर्वतमा नदीले बगाउँदा एक वृद्धाको मृत्यु",
+      "summary": "पर्वतको कुश्मा नगरपालिका–५ स्थित मोदीवेणीघाटमा कालीगण्डकी स्नान गर्ने क्रममा नदीले बगाएर एक वृद्धाको ज्यान गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/elderly-woman-dies-after-being-swept-away-by-a-river-in-the-mountains-87-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सुशासन र परिणाममुखी काम अबको आवश्यकता: अध्यक्ष घिसिङ",
+      "summary": "उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले देशमा सुशासन कायम गर्दै परिणाममुखी कार्यशैली अपनाउन सके स्थायी विकास र समृद्धि हासिल गर्न सकिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/good-governance-and-result-oriented-work-are-the-need-of-the-hour-chairman-ghising-98-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768380907_kulman_ghising-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस कपिलवस्तु-१ का उम्मेदवार कमालले सार्वजनिक गरे भिजन ७ संकल्प",
+      "summary": "प्रतिनिधिसभा निर्वाचनका लागि नेपाली कांग्रेस कपिलवस्तु क्षेत्र नम्बर १ का उम्मेदवार अतहर कमालले सङ्कल्पपत्र (भिजन सेवन) सार्वजनिक गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-candidate-for-kapilvastu-1-kamal-makes-vision-7-resolution-public-70-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771861242_vision7-480x320.jpg"
+    },
+    {
+      "title": "भ्रष्टाचारविरुद्ध शून्य सहनशीलताको नीति कार्यान्वयन गरिन्छ: उपसभापति अर्याल",
+      "summary": "अर्थमन्त्री रामेश्वरप्रसाद खनालले राजस्व चुहावट नियन्त्रणलाई थप प्रभावकारी बनाउन सरोकार भएका निकायहरूले आपसी समन्वय र सहकार्य गर्दै एकीकृत रूपमा कार्य गर्नुपर्नेमा जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cooperation-is-essential-to-make-revenue-leakage-control-effective-finance-minister-khanal-62-94.html?click_from=just_in",
       "image_url": ""
     }
   ]
