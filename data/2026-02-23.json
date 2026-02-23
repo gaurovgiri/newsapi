@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-23T05:38:46.162232",
+  "scraped_at": "2026-02-23T08:59:47.120000",
   "date": "2026-02-23",
-  "total_articles": 39,
+  "total_articles": 53,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -319,6 +319,118 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-party-harmony-rally-to-maintain-peace-and-harmony-in-gaur-14-93.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771823610_Gaur-480x320.jpg"
+    },
+    {
+      "title": "इभद्वारा सम्भावित वायु गुणस्तर सुधारका लागि “काठमाडौँ क्लिन एयर डायलोग” आयोजना",
+      "summary": "इभद्वारा सम्भावित वायु गुणस्तर सुधारका लागि “काठमाडौँ क्लिन एयर डायलोग” आयोजना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12344",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Picture-1771828919.JPG"
+    },
+    {
+      "title": "ा लाइफस्टाइलद्वारा 'होलीको उमंग अल्टिमा'सँग अभियान घोषणा , के – के छन् अफर ?",
+      "summary": "ा लाइफस्टाइलद्वारा 'होलीको उमंग अल्टिमा'सँग अभियान घोषणा , के – के छन् अफर ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12343",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/holy-foto-ff-1771828396.jpg"
+    },
+    {
+      "title": "आगो लागिहाले तत्काल निभाउने ‘अटोमेकिट एक्सटिनगुजर’ नेपालमा",
+      "summary": "आगो लागिहाले तत्काल निभाउने ‘अटोमेकिट एक्सटिनगुजर’ नेपालमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12342",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gadima-1771827497.jpg"
+    },
+    {
+      "title": "र्यालीपछि कर्फ्यु हटाईयो, गौरको जनजीवन सामान्य बन्दै",
+      "summary": "र्यालीपछि कर्फ्यु हटाईयो, गौरको जनजीवन सामान्य बन्दै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12341",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/rautahat-1771826504.jpeg"
+    },
+    {
+      "title": "निवारणमा सि जिनपिङको सोचबारे नेपालमा चर्चा",
+      "summary": "निवारणमा सि जिनपिङको सोचबारे नेपालमा चर्चा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12333",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ping-1771739072.JPG"
+    },
+    {
+      "title": "Nepal clears way for E10 petrol blend, eyes Rs6 bn yearly savings",
+      "summary": "A decade after India began ethanol mixing, Nepali officials have moved forward amid concerns over food security and engine performance from the biofuel’s component.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/23/nepal-clears-way-for-e10-petrol-blend-eyes-rs6-bn-yearly-savings",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/1030222Yardvarivaraucopy-1771807778.jpg&w=300&height=200"
+    },
+    {
+      "title": "US deports record number of Nepalis under strict immigration crackdown",
+      "summary": "Since Trump’s second term began, US immigration crackdowns have led to the deportation of 585 Nepalis, with January 2026 recording the highest monthly total.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/23/us-deports-record-number-of-nepalis-under-strict-immigration-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb8-1771820851.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nine out of 19 killed in Dhading bus accident identified",
+      "summary": "24 injured passengers receiving treatment in Kathmandu hospitals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/23/nine-out-of-19-killed-in-dhading-bus-accident-identified",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/63442067215014708953123103039195450576979285n-1771831780.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kamal Rana’s life of service and many firsts",
+      "summary": "From grassroots activism to global diplomacy, Rana opened doors for women in governance and reform.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/23/kamal-rana-s-life-of-service-and-many-firsts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/secondstorymainn-1771809681.jpg&w=600&height=400"
+    },
+    {
+      "title": "ताप्लेजुङका मतदान अधिकृतको तालिम फागुन १४ र १५ मा हुने",
+      "summary": "मेची राजमार्गअन्तर्गत इलामको सूर्याेदय नगरपालिका–७, कन्याममा भएको सवारी दुर्घटनामा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-killed-in-road-accident-in-ilam-44-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771124570_1764911820_1649837678_accident-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "स्याङ्जामा नौ उम्मेदवारले खोले बैङ्क खाता",
+      "summary": "निर्वाचन खर्च प्रयोजनका लागि बाँकेमा ३३ जना उम्मेदवारले मात्रै बैंक खाता खोलेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/33-candidates-open-bank-accounts-in-banke-59-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "धादिङ बस दुर्घटनाप्रति अध्यक्ष ओलीद्वारा दु:ख व्यक्त",
+      "summary": "पोखराबाट काठमाडौंतर्फ जाँदै गरेको ग२ख १४२१ नम्बरको बस धादिङको बेनीघाट रोराङ गाउँपालिका–५ भैँसीगौडामा दुर्घटना हुँदा १९ जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dhading-bus-accident-update-three-of-the-dead-are-from-tanahun-44-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771826885_Accident -480x320.jpg"
+    },
+    {
+      "title": "धादिङ दुर्घटनाप्रति सभापति थापाद्वारा दुःख व्यक्त",
+      "summary": "दाङमा बस दुर्घटना हुँदा ७ जना घाइते भएका छन्। लमहीदेखि घोराहीतर्फ आउँदै गरेको लु २ ख ३२७७ नम्बरको बस आज दुर्घटना हुँदा चार पुरुष र तीन महिला घाइते भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/7-injured-in-bus-accident-70-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770873227_1681104705_accident-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "ओलीको दृढ नेतृत्व आजको आवश्यकता : महेश बस्नेत",
+      "summary": "मेची राजमार्गअन्तर्गत इलामको सूर्याेदय नगरपालिका–७, कन्याममा भएको सवारी दुर्घटनामा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-killed-in-road-accident-in-ilam-44-59.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
