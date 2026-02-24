@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-24T13:24:55.127543",
+  "scraped_at": "2026-02-24T17:12:49.965395",
   "date": "2026-02-24",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-commission-said-do-not-obstruct-the-election-campaign-of-other-parties-or-candidates-36-91.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Citing required funds received, Samba requests to halt further support",
+      "summary": "More than Rs10 million has been deposited into Samba’s Nepali bank account, and around Rs4.5 million (NZ$52,000) has been raised through international platforms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/02/24/citing-required-funds-received-samba-requests-to-halt-further-support",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/samba24220260421011000x0-1771940377.jpg&w=300&height=200"
+    },
+    {
+      "title": "जलविद्युत् नै समृद्धिको आधार: कुलमान",
+      "summary": "उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले जलविद्युत् नै मुलुक समृद्धिको आधार बन्नसक्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hydropower-can-be-the-basis-for-the-country-s-prosperity-chairman-ghising-52-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771326425_kulman-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको संकल्प पत्रमा भ्रष्टाचार नियन्त्रणका लागि शून्य सहनशीलताको नीति",
+      "summary": "सर्लाही–१ मा चुरेको विकट बस्तीदेखि जिल्लाकै प्रमुख व्यापारिक केन्द्र लालबन्दी र बयलबास पर्ने भए पनि यहाँका समस्याप्रति नेताहरू उदासीन रहेको पाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/the-problems-and-agenda-of-sarlahi-1-remain-the-same-55-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769303446_Election-480x320.jpg"
+    },
+    {
+      "title": "रविलाई उदयपुरमा भ्याइनभ्याइ",
+      "summary": "नेपाली कांग्रेसले बाँकेको प्रतिनिधिसभा क्षेत्र नम्बर २ का उम्मेदवार शुधान्सु कोइरालाको संकल्प पत्र मंगलबार सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-resolution-includes-a-zero-tolerance-policy-to-control-corruption-23-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771948083_sankalpa-480x320.jpg"
+    },
+    {
+      "title": "भुसालको महत्त्वाकांक्षी योजना- देशलाई हरित स्वर्ग बनाउने, नेपालीलाई करोडपति",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेलाई मंगलबार उदयपुरमा भ्याइनभ्याइ भयो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-is-busy-in-udayapur-94-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770119974_rabi-480x320.jpg"
+    },
+    {
+      "title": "विषम परिस्थितिमा हुन लागेको निर्वाचनमा आफ्नो विवेक प्रयोग गर्नुस् : उपेन्द्र यादव",
+      "summary": "उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले जलविद्युत् नै मुलुक समृद्धिको आधार बन्नसक्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hydropower-can-be-the-basis-for-the-country-s-prosperity-chairman-ghising-52-90.html?click_from=just_in",
       "image_url": ""
     }
   ]
