@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-24T05:24:20.558459",
+  "scraped_at": "2026-02-24T08:59:14.481307",
   "date": "2026-02-24",
-  "total_articles": 35,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -287,6 +287,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/true-love-is-immortal-false-love-cannot-last-16-44.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771909010_dd veed 52-480x320.jpg"
+    },
+    {
+      "title": "Wellington Phoenix backs Samba’s $80,000 surgery plea as insurance falls short",
+      "summary": "Responding to the Post, Wellington Phoenix confirms the insurance payout will not cover the estimated $80,000 cost of surgery and rehab at Aspetar, but the club is backing her fundraising appeal and wants to see her back in yellow and black.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/02/24/wellington-phoenix-backs-samba-s-80-000-surgery-plea-as-insurance-falls-short",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771916892.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balen Shah drops BRI-tied industrial park from poll pledge",
+      "summary": "The park, part of Belt and Road Initiative, is watched closely for Indian sensitivities due to proximity to Siliguri Corridor.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/24/balen-shah-drops-bri-tied-industrial-park-from-poll-pledge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1771894378.jpg&w=300&height=200"
+    },
+    {
+      "title": "Two Nepali women killed in Virginia; suspect shot dead by police",
+      "summary": "Man allegedly murders wife and daughter in Fairfax County attack; son-in-law critically injured.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/24/two-nepali-women-killed-in-virginia-suspect-shot-dead-by-police",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/newsphoto24220260700111000x0-1771918390.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘Prima Facie’: Uncomfortable, yet necessary",
+      "summary": "At Kausi Theatre, actor Pashupati Rai anchors a demanding two-hour solo performance that exposes the emotional cost of navigating law after trauma.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/24/prima-facie-uncomfortable-yet-necessary",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/maincutoutcopy-1771896501.jpg&w=600&height=400"
+    },
+    {
+      "title": "US deports record number of Nepalis under strict immigration crackdown",
+      "summary": "Colourful festival of colours kicks off in Kathmandu.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/23/us-deports-record-number-of-nepalis-under-strict-immigration-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/maincutoutcopy-1771896501.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्रीमा उज्ज्वलको रोजाइ गगन, भन्छन् : गल्ती सुधार्नेलाई मौका दिनुपर्छ",
+      "summary": "उनले गगनलाई ‘खारिएको व्यक्ति’ भन्दै अगाडि लेखेका छन्, ‘खारिएको व्यक्ति को परिभाषा नै जीवन का उतारचढाव अनुभूत गरेका मान्छे भनेर बुझ्छु। पुनः कुनै गल्ती नगर्न सदा सचेत गराउने नागरिक जिम्मेवारी म सधैँ राख्ने प्रतिबद्धता सहित गगन भाइ लाई समर्थन गरे।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-ujjwal-s-choice-for-prime-minister-says-those-who-correct-their-mistakes-should-be-given-a-chance-11-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771922529_Gagan-480x320.jpg"
+    },
+    {
+      "title": "रवीले घृणा फैलाउने प्रयास गरे : देवराज घिमिरे",
+      "summary": "आसन्न प्रतिनिधिसभा सदस्य निर्वाचनको ९ दिन बाँकी रहँदा क्षेत्र नम्बर १ की उम्मेदवार रन्जु दर्शना आमा बनेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ranju-became-a-mother-15-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771923302_ranju-480x320.jpg"
+    },
+    {
+      "title": "मानव अधिकार संरक्षणमा नेपाल प्रतिबद्ध छ : प्रधानमन्त्री कार्की",
+      "summary": "गत बिहीबार राष्ट्रिय स्वतन्त्र पार्टी (नागरिक) का सभापति रवि लामिछाने र वरिष्ठ नेता बालेन साह सुर्खेत हुँदै दाङ आउन लागेको खबरले मतदाता उत्साहित देखिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/house-of-representatives-election-are-the-new-voters-excited-or-restless-86-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767929632_Election-480x320.jpg"
+    },
+    {
+      "title": "भोट होइन, न्याय माग्न आएको हुँ : रवी लामिछाने",
+      "summary": "मंगलबार बिर्तामोडमा जारी गरिएको प्रेस नोटमा उनले लामिछानेले ‘जनताको आवाज उठाउँदा माइक काट्ने सभामुख’ भनेर आरोप लगाएको बताउँदै लोकतान्त्रिक अभ्यासमा यस्ता व्यक्तिगत आरोप र विभाजनकारी अभिव्यक्तिहरू दीर्घकालीन रूपमा टिक्न नसक्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-tried-to-spread-hatred-devraj-ghimire-65-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771920458_Rabi Debraj-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस महामन्त्री घिमिरेका ३९ बुँदे प्रतिबद्धता सार्वजनिक",
+      "summary": "उनले गगनलाई ‘खारिएको व्यक्ति’ भन्दै अगाडि लेखेका छन्, ‘खारिएको व्यक्ति को परिभाषा नै जीवन का उतारचढाव अनुभूत गरेका मान्छे भनेर बुझ्छु। पुनः कुनै गल्ती नगर्न सदा सचेत गराउने नागरिक जिम्मेवारी म सधैँ राख्ने प्रतिबद्धता सहित गगन भाइ लाई समर्थन गरे।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-ujjwal-s-choice-for-prime-minister-says-those-who-correct-their-mistakes-should-be-given-a-chance-11-43.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
