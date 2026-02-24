@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-24T02:49:23.609131",
+  "scraped_at": "2026-02-24T05:24:20.558459",
   "date": "2026-02-24",
-  "total_articles": 34,
+  "total_articles": 35,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/deuba-s-silence-raises-fears-of-vote-division-within-congress-br-62-13.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "शेखर कोइरालाको '८ अठोट' जारी : सुशासनदेखि बाढीको स्थायी समाधानसम्म",
+      "summary": "नमस्ते नेपाल डिजिटल स्टुडियोबाट सार्वजनिक भएको गीतले प्रेम भनेको भगवान् राधाकृष्णको जस्तो हुनुपर्छ, अन्धाधुन्ध र स्वार्थका लागि गाँसिएको साइनो जस्तो हुनु हुँदैन भन्ने सन्देश छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/true-love-is-immortal-false-love-cannot-last-16-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771909010_dd veed 52-480x320.jpg"
     }
   ]
 }
