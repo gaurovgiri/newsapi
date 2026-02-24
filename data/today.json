@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-24T08:59:14.481307",
+  "scraped_at": "2026-02-24T13:24:55.127543",
   "date": "2026-02-24",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-ujjwal-s-choice-for-prime-minister-says-those-who-correct-their-mistakes-should-be-given-a-chance-11-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "आयोगले भन्यो : अन्य दल वा उम्मेदवारको निर्वाचन प्रचारप्रसारमा अवरोध नगर्नू",
+      "summary": "निर्वाचन आयोगले कुनै राजनीतिक दल वा उम्मेदवारको निर्वाचन प्रचारप्रसारको कार्यलाई अन्य कुनै राजनीतिक दल वा उम्मेदवार वा दलका कार्यकर्ता वा आम नागरिकले अवरोध सिर्जना गर्न नहुने प्रष्ट पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-commission-said-do-not-obstruct-the-election-campaign-of-other-parties-or-candidates-36-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "हामी शक्तिशाली दलित विकास प्राधिकरण गठन गर्छौँ: दाहाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ले सिङ्गो दलित समुदायको उत्थानका लागि शक्तिशाली दलित विकास प्राधिरकण गठन गरिने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-form-a-powerful-dalit-development-authority-dahal-21-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769589234_prachanda-480x320.jpg"
+    },
+    {
+      "title": "कूटनीतिक नियोगका अधिकारी र विदेशी पाहुनाको स्वागत गर्ने सम्पर्क अधिकृतहरूको अभिमुखीकरण",
+      "summary": "यही फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचन पर्यवेक्षणमा कूटनीतिक नियोगका अधिकारी र विदेशी पाहुनाको स्वागत गर्ने जिम्मेवारी तोकिएका सम्पर्क अधिकृतहरूको अभिमुखीकरण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/orientation-for-diplomatic-mission-officials-and-liaison-officers-welcoming-foreign-guests-16-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771938542_elec-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रलक्षित हर्क साम्पाङको कटाक्ष : बजेट खर्च गर्न नसक्नेले धरानको समस्या देखाए",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साम्पाङले रास्वपाका वरिष्ठ नेता बालेन्द्र शाहप्रति कटाक्ष गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-lakshit-harak-sampang-s-sarcasm-those-who-cannot-spend-the-budget-have-shown-dharan-s-problems-44-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758028984_harka_balen-480x320.jpg"
+    },
+    {
+      "title": "नेकपाले शक्तिशाली दलित विकास प्राधिकरण गठन गर्नेछ : संयोजक दाहाल",
+      "summary": "निर्वाचन आयोगले कुनै राजनीतिक दल वा उम्मेदवारको निर्वाचन प्रचारप्रसारको कार्यलाई अन्य कुनै राजनीतिक दल वा उम्मेदवार वा दलका कार्यकर्ता वा आम नागरिकले अवरोध सिर्जना गर्न नहुने प्रष्ट पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-commission-said-do-not-obstruct-the-election-campaign-of-other-parties-or-candidates-36-91.html?click_from=just_in",
       "image_url": ""
     }
   ]
