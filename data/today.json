@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-25T13:24:14.349869",
+  "scraped_at": "2026-02-25T17:14:45.919250",
   "date": "2026-02-25",
-  "total_articles": 54,
+  "total_articles": 59,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -438,6 +438,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/khadka-s-election-promises-from-road-infrastructure-to-establishing-an-entrepreneurship-fund-93-46.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "काठमाडौं-३ : बालेनका ‘सिपाही’ कि उज्यालोका ‘नायक’ ?",
+      "summary": "गेट्स र मेलिन्डाले १९९४ देखि २०२१ सम्म विवाह सम्बन्धमा रहेका थिए। मेलिन्डाले पहिले नै गेट्सको विवाहेत्तर सम्बन्ध र एपस्टाइनसँगको सम्पर्कलाई सम्बन्धविच्छेदको कारण बताएकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bill-gates-admits-to-having-affairs-with-two-russian-women-while-married-to-melinda-what-did-he-say-in-his-apology-13-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772036164_Bil-480x320.jpg"
+    },
+    {
+      "title": "मतदान हुन ८ दिनमात्र बाँकी, सुरक्षा निगरानी बढाइयो",
+      "summary": "बालेन राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा प्रवेश गरेसँगै पाण्डेपनि सोही पार्टीबाट प्रतिनिधिसभा सदस्यका उम्मेदवार बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kathmandu-3-in-a-three-way-clash-br-28-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772037185_raju_kulman-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन: ७ दिनअघिदेखि मदिरा निषेध, ७२ घण्टाअघि सीमा नाका बन्द",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा निर्वाचनका लागि अब मात्र ८ दिन बाँकी रहँदा चुनावी मैदान तात्दै गएको छ। यसका लागि निर्वाचन आयोगले अन्तिम तयारीको चरण पूरा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/only-8-days-left-for-voting-security-surveillance-increased-br-11-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772035893_nirwachan-480x320.jpg"
+    },
+    {
+      "title": "जेनजी युवाहरूलाई जुस पिलाएर गृहमन्त्रीले अनशन तोडाए",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधि सभा सदस्य निर्वाचनलाई स्वच्छ, स्वतन्त्र, निष्पक्ष र भयरहित वातावरणमा सम्पन्न गर्न निर्वाचन आयोगले सुरक्षा नीति अख्तियार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-alcohol-banned-7-days-ago-border-crossings-closed-72-hours-ago-94-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772035585_niw-480x320.jpg"
+    },
+    {
+      "title": "दाहालको दाबी: प्रत्यक्षमै ७० सिट जितेर नेकपा पहिलो पार्टी बन्छ",
+      "summary": "गेट्स र मेलिन्डाले १९९४ देखि २०२१ सम्म विवाह सम्बन्धमा रहेका थिए। मेलिन्डाले पहिले नै गेट्सको विवाहेत्तर सम्बन्ध र एपस्टाइनसँगको सम्पर्कलाई सम्बन्धविच्छेदको कारण बताएकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/bill-gates-admits-to-having-affairs-with-two-russian-women-while-married-to-melinda-what-did-he-say-in-his-apology-13-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
