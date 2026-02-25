@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-25T05:25:45.808589",
+  "scraped_at": "2026-02-25T08:59:13.258721",
   "date": "2026-02-25",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -326,6 +326,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-brook-becomes-first-captain-to-score-a-century-england-reach-semi-finals-for-fifth-consecutive-time-92-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Security agencies say country is ready for March 5 polls",
+      "summary": "Prime Minister Sushila Karki, the Election Commission, and security agencies review preparedness and risks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/25/security-agencies-say-country-is-ready-for-march-5-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nepalpolicememberdeployforelectionphotos20260224BT5A8757copy-1771981294.jpg&w=300&height=200"
+    },
+    {
+      "title": "How much will Ninja A-League insurance cover for Samba’s treatment?",
+      "summary": "Responding to an email query from the Post, Wellington Phoenix said the league insurance would cover surgical and rehabilitation costs up to 20,000 Australian dollars.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/02/25/how-much-will-ninja-a-league-insurance-cover-for-samba-s-treatment",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1771991471.jpg&w=300&height=200"
+    },
+    {
+      "title": "Govt clears tax waiver for Ring Road second section expansion",
+      "summary": "Cabinet approval clears tax hurdles, paving way for Chinese contractor mobilisation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/02/25/govt-clears-tax-waiver-for-ring-road-second-section-expansion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1771993827.jpg&w=300&height=200"
+    },
+    {
+      "title": "Postponement rumours swirl ahead of March 5 polls",
+      "summary": "Opposition over the election seems to stem from former king and his allies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/25/postponement-rumours-swirl-ahead-of-march-5-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1771991177.jpg&w=600&height=400"
+    },
+    {
+      "title": "निर्वाचन सामग्री र मतपत्र ७५ जिल्लामा पुर्‍याइयो",
+      "summary": "मिर्गौला रोगबाट पीडित लोकगायक कमल विके निर्मोहीको मंगलबार साँझ निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/folk-singer-kamal-vk-nirmohi-passes-away-44-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772008888_nirmohi-480x320.jpg"
+    },
+    {
+      "title": "ओलीलाई मतदाताले भने : हामी भोट दिन्छौँ, तपाईं हामीलाई विकास दिनुस्",
+      "summary": "राजधानीको पुरानो बस्ती, ऐतिहासिक नेवार समुदायको बाक्लो उपस्थिति, मध्यम वर्गीय मतदाता, नयाँ सहरी मतदाताको बढ्दो प्रभाव र वैकल्पिक राजनीतिक धारको खोजीले यो क्षेत्रलाई सधैँजसो प्रतिस्पर्धात्मक बनाउँदै आएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/competition-between-development-and-good-governance-in-kathmandu-9-18-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771925233_KTM-9-480x320.jpg"
+    },
+    {
+      "title": "कास्की-२ मा त्रिपक्षीय भिडन्त हुँदै",
+      "summary": "जनवरीमा बलिउडका लोकप्रिय गायक अरिजीत सिंहले पाश्व गायनबाट सन्यासको घोषणा गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/arijit-releases-new-song-after-announcing-retirement-from-background-singing-55-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769567794_arijit-480x320.jpg"
+    },
+    {
+      "title": "मैले जितेमा चितवन-२ मा ठग प्रवृत्तिको राजनीति अन्त्य हुन्छ : मिना खरेल",
+      "summary": "नेपाली राष्ट्रिय पुरुष फुटबल टोलीले हङकङसँग मैत्रीपूर्ण फुटबल खेल्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-and-hong-kong-to-play-friendly-match-33-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772006611_football-480x320.jpg"
+    },
+    {
+      "title": "रास्वपासहित विभिन्न पार्टीबाट तीन सय ५० बढी एमाले प्रवेश, ओलीले गरे स्वागत",
+      "summary": "मिर्गौला रोगबाट पीडित लोकगायक कमल विके निर्मोहीको मंगलबार साँझ निधन भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/folk-singer-kamal-vk-nirmohi-passes-away-44-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
