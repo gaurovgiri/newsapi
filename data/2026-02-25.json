@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-02-25T02:50:29.198715",
   "date": "2026-02-25",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "Nepal through Dr Govinda KC’s lens",
       "summary": "Travelling to the country’s most remote districts to provide healthcare, KC quietly documents the lives he encountered in ‘Doctorle Dekheko Nepal’.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/art-culture/2026/02/25/nepal-through-dr-govinda-kc-s-lens",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GovindaKCforOnline-1771983214.jpg&w=600&height=400"
-    },
-    {
-      "title": "Nepal through Dr Govinda KC’s lens",
-      "summary": "Prime Minister Sushila Karki, the Election Commission, and security agencies review preparedness and risks.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/art-culture/2026/02/25/nepal-through-dr-govinda-kc-s-lens",
