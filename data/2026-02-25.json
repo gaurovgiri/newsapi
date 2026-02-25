@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-25T02:50:29.198715",
+  "scraped_at": "2026-02-25T05:25:45.808589",
   "date": "2026-02-25",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/girl-dies-two-injured-after-being-struck-by-lightning-in-gorkha-39-20.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supporting our Sambas",
+      "summary": "Travelling to the country’s most remote districts to provide healthcare, KC quietly documents the lives he encountered in ‘Doctorle Dekheko Nepal’.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/02/24/support-samba",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/NLMPJHH7B5NQVMHPSU2ZBSUMOI-1771995597.jpg&w=400&height=267"
+    },
+    {
+      "title": "सात प्रदेशको संरचना गलत हो, स्वायत्त अधिकारसहितको प्रदेश स्थापना गर्नुपर्छ : उपेन्द्र यादव",
+      "summary": "इङ्ल्यान्डले लगातार पाँचौं पटक सेमिफाइनलमा पुगेर टी-२० विश्वकपमा इतिहास रचेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-brook-becomes-first-captain-to-score-a-century-england-reach-semi-finals-for-fifth-consecutive-time-92-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771994570_harry brooke-480x320.jpg"
+    },
+    {
+      "title": "समस्या राजनीति होइन, पात्रको नियत र चरित्र हो : चन्द्र भण्डारी",
+      "summary": "कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषिउपजको थोक मूल्य निर्धारण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-34-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736825650_Kalimati Tarkari-480x320.jpg"
+    },
+    {
+      "title": "शंकर पोखरेल दाङमा चुनावी दौडधुपमा : विकासको एजेन्डासहित भोट माग्न व्यस्त",
+      "summary": "समय परिवर्तनशील भएर होला सायद अचेल, हरेक पार्टी कार्यालयहरू राजदरबार बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/every-party-office-has-become-a-royal-palace-35-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771993207_ku aanpe 52-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङको आरोप : धरानमा पानीको कृत्रिम अभाव सिर्जना गर्ने खेल भइरहेको छ",
+      "summary": "चरेसको थाल, बटुका तथा काँटा–चम्चाको प्रयोग गरी नेपालीपन झल्काइएको आयोजकले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/consul-general-niraula-inaugurates-nepali-restaurant-run-by-chinese-nationals-in-lhasa-92-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771993767_chinia-480x320.jpg"
+    },
+    {
+      "title": "ओलीले आज दमक र गौरीगञ्जका १३ वटा टोलका मतदाता भेट्दै",
+      "summary": "इङ्ल्यान्डले लगातार पाँचौं पटक सेमिफाइनलमा पुगेर टी-२० विश्वकपमा इतिहास रचेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/t20-world-cup-brook-becomes-first-captain-to-score-a-century-england-reach-semi-finals-for-fifth-consecutive-time-92-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
