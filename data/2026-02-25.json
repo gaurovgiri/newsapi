@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-25T08:59:13.258721",
+  "scraped_at": "2026-02-25T13:24:14.349869",
   "date": "2026-02-25",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
     "NagarikNews",
     "News24",
@@ -390,6 +390,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/folk-singer-kamal-vk-nirmohi-passes-away-44-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "काठमाडौंबाट आएर मधेसको बेटा हुँ भन्नेलाई ठाउँकाे ठाउँ रोक्नुस्: रवि",
+      "summary": "नेपाली कांग्रेसबाट सुर्खेत क्षेत्र नम्वर–१ का उम्मेदवार बिष्णुबहादुर खड्काले चुनावी बाचापत्र सार्वजनिक गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/khadka-s-election-promises-from-road-infrastructure-to-establishing-an-entrepreneurship-fund-93-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772025051_Khadka-480x320.jpg"
+    },
+    {
+      "title": "आयोगमा आचारसंहिता उल्लंघनका २५४ उजुरी",
+      "summary": "मतदातालाई कुनै पनि तरिकाले प्रभावित नगर्न आग्रह गर्दै त्यसो गरेको भेटिए ५० हजार रुपैयाँ वा एक वर्षसम्म कैद वा दुवै हुने आयोगले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/anyone-found-to-have-made-transactions-to-influence-the-election-will-be-imprisoned-for-up-to-one-year-36-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768022718_Nirwachan-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आचारसंहिता प्रभावकारी बनाउन भूमिका खेल्ने",
+      "summary": "नेपाली राष्ट्रिय महिला फुटबल टोलीकी अग्रपङ्क्तिकी खेलाडी सावित्रा ‘साम्बा’ भण्डारी गम्भीर घुँडाको चोटपछि उपचार तथा स्वास्थ्य सुधारको लागि तयारी गरिरहनु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/dove-donates-rs-1-5-million-for-samba-s-treatment-42-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772024199_samba12-480x320.jpg"
+    },
+    {
+      "title": "अब म थोरै बोल्छु, काम गर्ने दिन आइसक्यो: रवि",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले काठमाडौं छाडेर मधेसमा चुनाव लड्न आउने पर्यटक उम्मेदवारलाई ठाउँको ठाउँ रोक्न मतदाता समक्ष अपिल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/stop-those-who-come-from-kathmandu-and-claim-to-be-sons-of-madhesh-ravi-59-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772023148_rabi--480x320.jpg"
+    },
+    {
+      "title": "एक लाख ८६ हजार अस्थायी मतदाता कायम",
+      "summary": "नेपाली कांग्रेसबाट सुर्खेत क्षेत्र नम्वर–१ का उम्मेदवार बिष्णुबहादुर खड्काले चुनावी बाचापत्र सार्वजनिक गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/khadka-s-election-promises-from-road-infrastructure-to-establishing-an-entrepreneurship-fund-93-46.html?click_from=just_in",
       "image_url": ""
     }
   ]
