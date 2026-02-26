@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-26T05:22:26.925492",
+  "scraped_at": "2026-02-26T08:58:34.329235",
   "date": "2026-02-26",
-  "total_articles": 40,
+  "total_articles": 45,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -326,6 +326,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cctv-cameras-installed-at-polling-stations-in-rasuwa-17-93.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "निर्वाचन अघि नै सम्पत्ति सार्वजनिक गर्दै रश्मि भन्छन्: मेरो नाममा सम्पत्ति छैन",
+      "summary": "आफुले लेखेको लेखबाट प्राप्त रकम र श्रीमतीको जागिर नै आफ्नो कमाई भएको आचार्यले स्पष्ट पारे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashmi-reveals-assets-before-the-election-i-have-no-assets-in-my-name-25-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772096175_Rashmi-480x320.jpg"
+    },
+    {
+      "title": "एमाले उम्मेदवारले प्रयोग गरेका चुनावी अभियानका गाडीमा तरुण दलको तोडफोड",
+      "summary": "कार्यक्रममा नेपालस्थित कूटनीतिक नियोगका अधिकारीहरूको उपस्थिति थियो। आयोगका सचिव कृष्णबहादुर राउतले निष्पक्ष निर्वाचन गराउन जिल्ला-जिल्लामा निर्वाचन आचारसंहिता अनुगमन समिति गठन गरिएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/commission-active-in-conducting-fair-elections-commissioner-bhandari-45-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772096004_Bhandari-480x320.jpg"
+    },
+    {
+      "title": "फागुन २१ को निर्वाचनमा अन्तर्राष्ट्रिय पर्यवेक्षण मिशन परिचालन",
+      "summary": "श्रीलंकाका कप्तान दासुन शनाकाले आफ्ना खेलाडीहरूमाथि निरन्तर आलोचना भएपछि उनीहरूको मानसिक स्वास्थ्यमा असरपुर्‍याएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/sri-lanka-captain-shanaka-says-constant-criticism-has-affected-players-mental-health-31-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772095418_Sanaka final-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका जिल्ला सभापतिले छाडे पार्टी",
+      "summary": "नेकपा एमाले कास्की क्षेत्र नम्बर १ का उम्मेदवार वैनबहादुर अधिकारी क्षेत्रीको चुनावी अभियानमा प्रयोग भएको दुई वटा गाडीमा ढुंगा प्रहार भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tarun-dal-vandalizes-election-campaign-vehicles-used-by-uml-candidates-12-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772095402_Gadi-480x320.jpg"
+    },
+    {
+      "title": "सहकारी ठगीविरुद्ध कांग्रेसको ‘शून्य सहनशीलता’ नीति",
+      "summary": "आफुले लेखेको लेखबाट प्राप्त रकम र श्रीमतीको जागिर नै आफ्नो कमाई भएको आचार्यले स्पष्ट पारे ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashmi-reveals-assets-before-the-election-i-have-no-assets-in-my-name-25-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
