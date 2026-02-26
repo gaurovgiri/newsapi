@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-26T13:25:01.335071",
+  "scraped_at": "2026-02-26T17:07:23.343802",
   "date": "2026-02-26",
-  "total_articles": 54,
+  "total_articles": 59,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -438,6 +438,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-releases-kathmandu-valley-development-commitment-letter-56-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नागरिकको पूर्ण साथ छ, एमाले एक्लै चुनावी मैदानमा रहन्छ: ओली",
+      "summary": "प्रतिनिधिसभाको निर्वाचन आउन एक साता बाँकी रहँदा कर्णालीका १० जिल्लाका १२ निर्वाचन क्षेत्रको परिणाम आ-आफ्नो पक्षमा पार्न राजनीतिक दलहरू सक्रिय छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/old-rivalry-in-karnali-br-38-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772124243_rt-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन देश बनाउने सङ्कल्पको जनमत होः नेता पोखरेल",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (एमाले) का अध्यक्ष केपी शर्मा ओलीले आसन्न प्रतिनिधिसभा निर्वाचनमा एमाले एक्लै चुनावी मैदानमा रहने उद्घोष गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/citizens-have-full-support-uml-will-remain-alone-in-the-election-fray-oli-86-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771840156_kp_oli2-480x320.jpg"
+    },
+    {
+      "title": "उत्साह र उर्जासहित पाँच वर्षमा देश बनाउँछौँ: गगन थापा",
+      "summary": "काठमाडौं निर्वाचन–५ का उम्मेदवार रहेका एवं नेपाल कम्युनिष्ट पार्टी (एमाले) का नेता ईश्वर पोखरेलले आगामी निर्वाचनलाई आफूहरुले देश बनाउने सङ्कल्पको जनमतका रुपमा लिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-is-a-referendum-on-the-resolve-to-build-the-country-leader-pokharel-80-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749287519_iswor-480x320.jpg"
+    },
+    {
+      "title": "रवि सत्य होलान् भनेर गृहमन्त्री बनाएको थिएँ, तर अपराधी निस्किए: ओली",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन शाह कमलपोखरीस्थित असिम शाह र आसिफ शाहको निवासमा पुगेका छन्। उनी बिहीबार साँझ रमजानको इफ्तार गर्नका लागि शाह निवास पुगेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/balen-at-asim-shah-s-residence-for-ramadan-iftar-70-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772120611_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कालीकोटमा उम्मेदवारसँग खुला बहस हुने",
+      "summary": "प्रतिनिधिसभाको निर्वाचन आउन एक साता बाँकी रहँदा कर्णालीका १० जिल्लाका १२ निर्वाचन क्षेत्रको परिणाम आ-आफ्नो पक्षमा पार्न राजनीतिक दलहरू सक्रिय छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/old-rivalry-in-karnali-br-38-46.html?click_from=just_in",
       "image_url": ""
     }
   ]
