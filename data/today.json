@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-26T08:58:34.329235",
+  "scraped_at": "2026-02-26T13:25:01.335071",
   "date": "2026-02-26",
-  "total_articles": 45,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rashmi-reveals-assets-before-the-election-i-have-no-assets-in-my-name-25-11.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Tiny tummies, unhealthy habits",
+      "summary": "More than half of Kathmandu Valley’s infants and toddlers consume sugary drinks and junk foods, study shows.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/26/tiny-tummies-unhealthy-habits",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1772109097.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal requests Portugal to grant reprieve to Nepalis caught in fake stamp scandal",
+      "summary": "Portugal’s immigration authority has sent emails to dozens of Nepalis, instructing them to leave the country within a specified deadline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/26/nepal-requests-portugal-to-grant-reprieve-to-nepalis-caught-in-fake-stamp-scandal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/portugal15220260149161000x0-1772106317.jpg&w=300&height=200"
+    },
+    {
+      "title": "Public and private vehicles banned from midnight March 4 until polling concludes",
+      "summary": "Essential service vehicles and flights to operate as usual on voting day.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/26/public-and-private-vehicles-banned-from-midnight-march-4-until-polling-concludes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/publicbus-1772092954.jpg&w=300&height=200"
+    },
+    {
+      "title": "Deuba flies to Singapore amid intense poll campaigning",
+      "summary": "The former Congress President and prime minister, along with some of his close associates, has yet to appear publicly in the ongoing election campaign.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/26/deuba-flies-to-singapore-amid-intense-poll-campaigning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/deubaa07920251042301000x0-1772089461.jpg&w=600&height=400"
+    },
+    {
+      "title": "Two Nepali women killed in Virginia; suspect shot dead by police",
+      "summary": "Top court orders immediate release after arrest over poll boycott.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/24/two-nepali-women-killed-in-virginia-suspect-shot-dead-by-police",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/publicbus-1772092954.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रदीपसहित १५ उम्मेदवारको संयुक्त संकल्प: ‘काठमाडौंलाई विश्वकै बस्नयोग्य सहर बनाउँछौं’",
+      "summary": "नेपाली कांग्रेसको तर्फबाट काठमाडौँ उपत्यकाभित्रका १५ निर्वाचन क्षेत्रका उम्मेदवारले ‘काठमाडौँ उपत्यका विकास प्रतिबद्धतापत्र’ सार्वजनिकगरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-releases-kathmandu-valley-development-commitment-letter-56-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772111729_congreees-480x320.jpg"
+    },
+    {
+      "title": "संविधान कार्यान्वयनको समीक्षा गर्दै परिमार्जन गर्ने नेकपाको उद्घोष",
+      "summary": "आयोगले मानव अधिकारको विश्वव्यापी घोषणापत्र १९४८, नागरिक तथा राजनीतिक अधिकारसम्बन्धी महासन्धि १९६६ लगायत नेपाल पक्ष रहेका अन्तर्राष्ट्रिय दस्तावेजहरूले स्वतन्त्र र निष्पक्ष निर्वाचनमार्फत जनतालाई आफ्ना प्रतिनिधि छान्न, उम्मेदवार बन्न र निर्वाचित हुन पाउने अधिकार सुनिश्चित गरेको स्मरण गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/commission-urges-to-make-house-of-representatives-elections-human-rights-friendly-84-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772110787_manav aadhikar-480x320.jpg"
+    },
+    {
+      "title": "पार्टी छाडेकाहरुलाई भोलि नै फर्काउन सक्छौंः राप्रपा उम्मेदवार थापा",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीले आगामी निर्वाचनमा आफू पराजित हुने भन्ने चर्चा विरोधीहरुको सपना र कल्पना भएकाे बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/talk-of-balen-losing-is-a-daydream-i-will-win-by-a-margin-of-over-25-000-votes-oli-92-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772110052_oli_-480x320.jpg"
+    },
+    {
+      "title": "‘अहिले कसैसँग समीकरण हुँदैन, २३ गतेको घटनामा ओली-देउवाले जिम्मेवारी लिनुपर्छ’",
+      "summary": "नेकपा बहुमतका महासचिव धर्मेन्द्रराज बास्तोलालाई अदालतले थुनामुक्त गर्न आदेश दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-orders-release-of-ncp-majority-general-secretary-bastola-from-detention-57-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1772109642_dharmendra bastola-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस नेतृत्वमा सरकार बन्छ, योजना र उपलब्धि सार्वजनिक गर्छौंः सभापति थापा",
+      "summary": "नेपाली कांग्रेसको तर्फबाट काठमाडौँ उपत्यकाभित्रका १५ निर्वाचन क्षेत्रका उम्मेदवारले ‘काठमाडौँ उपत्यका विकास प्रतिबद्धतापत्र’ सार्वजनिकगरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-releases-kathmandu-valley-development-commitment-letter-56-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
