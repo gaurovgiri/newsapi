@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-26T02:46:12.582741",
+  "scraped_at": "2026-02-26T05:22:26.925492",
   "date": "2026-02-26",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inspection-of-polling-stations-in-border-areas-br-48-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "As Jhapa-5 race tightens, Oli, Balen step up campaigning",
+      "summary": "UML chief’s supporters admit he must work harder as voter enthusiasm favours the RSP senior leader.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/26/as-jhapa-5-race-tightens-oli-balen-step-up-campaigning",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1772066808.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘जसले बाँदर नियन्त्रण गर्ने स्पष्ट खाका ल्याउँछ उसैलाई भोट दिने हो’",
+      "summary": "आसन्न निर्वाचनलाई थप पारदर्शी र विश्वसनीय बनाउन जिल्ला निर्वाचन कार्यालयले मतदान केन्द्रमा सिसी क्यामरा जडान प्रक्रिया तीव्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cctv-cameras-installed-at-polling-stations-in-rasuwa-17-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1704169562_cctv camera-1200x560-wm-480x320.jpg"
+    },
+    {
+      "title": "झापामा तीन मतदान केन्द्रको नेतृत्व महिलालाई",
+      "summary": "माइनस डिग्री तापक्रमका बाबजुद मुस्ताङमा निर्वाचन सरगर्मी बढिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-campaign-heats-up-in-minus-degree-mustang-cold-93-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772082494_news mustang 56-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं–४ का एमाले उम्मेदवार डा. भट्टराईको सन्देश : पुस्तान्तरण भनेको सहकार्य हो",
+      "summary": "बागलुङको जैमिनी क्षेत्रमा भोट माग्न जाने उम्मेदवारलाई मतदाताले चुनाव जितेर बाँदर नियन्त्रण गर्ने नीति ल्याउन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-will-vote-for-the-one-who-brings-a-clear-plan-to-control-monkeys-88-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772081813_lung 56-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाले झापा-५ मा एमालेलाई सघाउँदैछ भन्ने हल्ला निराधार :भिम पौडेल",
+      "summary": "कञ्चनपुरको वेदकोट नगरपालिकामा कच्ची घर छेउमै रहेको रुख घरमाथि ढल्दा च्यापिएर एक महिलाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-house-itself-took-his-life-30-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनका बेला सिंगापुर उडे देउवा",
+      "summary": "आसन्न निर्वाचनलाई थप पारदर्शी र विश्वसनीय बनाउन जिल्ला निर्वाचन कार्यालयले मतदान केन्द्रमा सिसी क्यामरा जडान प्रक्रिया तीव्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cctv-cameras-installed-at-polling-stations-in-rasuwa-17-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
