@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-27T08:52:39.793219",
+  "scraped_at": "2026-02-27T13:16:09.816030",
   "date": "2026-02-27",
-  "total_articles": 43,
+  "total_articles": 51,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -350,6 +350,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/janardan-s-commitment-to-make-rukum-a-model-for-the-country-94-10.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "500 infected in suspected flu outbreak in Mugu village",
+      "summary": "Doctors say they cannot test due to lack of labs, but symptoms suggest influenza.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/02/27/500-infected-in-suspected-flu-outbreak-in-mugu-village",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1772194689.jpg&w=300&height=200"
+    },
+    {
+      "title": "Raute community stays aloof from March 5 elections",
+      "summary": "The nomadic group in Karnali shows no interest in voting as candidates skip their settlement; the community continues its traditional lifestyle, relying on woodcraft and forest produce for livelihood.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/27/raute-community-stays-aloof-from-march-5-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Rautee-1772194465.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prior public remarks do not automatically disqualify probe officials, top court says",
+      "summary": "Orders to ensure impartial appointments in future inquiry commissions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/27/prior-public-remarks-do-not-automatically-disqualify-probe-officials-top-court-says",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1772180817.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्रीका उम्मेदवारहरूलाई विश्वप्रकाशको चुनौती: होली पनि सँगै खेलौं, बहस पनि गरौं",
+      "summary": "नेपाली कांग्रेसका नेता विश्वप्रकाश शर्माले आगामी फागु पूर्णिमा (होली) का दिन काठमाडौंको खुलामञ्चमा प्रधानमन्त्रीका सबै उम्मेदवारलाई सार्वजनिक बहसमा आउन चुनौती दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bishwaprakash-s-challenge-to-the-prime-ministerial-candidates-let-s-play-holi-and-debate-too-74-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772197717_biswo prakash-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङ्‍को प्रश्नः सय दिनमा सहकारीको रकम फिर्ता गर्न विदेशबाट बोराको बोरा पैसा आएको हो?",
+      "summary": "शुक्रबार धरानमा आयोजित पार्टीको चुनावी सभालाई सम्बोधन गर्दै राईले भने, ‘बालेन प्रधानमन्त्री बन्छु भनेर मख्ख, पार्टी अध्यक्ष चाँही प्रधानमन्त्री बन्ने हो। रवि लामिछाने कम्ति चलाख छन् ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-s-question-did-sacks-of-money-come-from-abroad-to-repay-the-cooperative-s-money-in-100-days-28-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1772196876_Harka -480x320-wm.jpg"
+    },
+    {
+      "title": "कांग्रेसले देउवाको सम्पत्तिबाट छानबिन सुरु गर्छ: गगन",
+      "summary": "घातक लडाइँपछि तालिबान शासनले द्वन्द्व समाधानका लागि वार्ताको इच्छा देखाएको छ। मुजाहिदले पत्रकार सम्मेलनमा भनेका छन्, ‘हामीले बारम्बार शान्तिपूर्ण समाधानमा जोड दिएका छौँ, र अझै पनि समस्या वार्ताबाट समाधान होस् भन्ने चाहन्छौँ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/more-than-300-killed-in-pak-afghan-war-claims-report-60-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772196786_ISPR-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सम्बन्धी ५४ प्रतिशत हानिकारक सूचना",
+      "summary": "चुनावमा मतदाता तान्नका लागि राजनीतिक दलले आकर्षक नारा घन्काएका छनउम्मेदवारपिच्छे घोषणापत्र बनाएर मतदातालाई लोभ्याउने काम पनि यतिबेला उम्मेद्वारहरुले गरिरहेका छन। पर्यटकीय सहर पोखरालाई सफा, सुन्दर, हराभरा बनाउनमा लागिपर्ने सबैजसको दलका उम्मेदवारले मतदाता सामु वाचा पनि बाँधिरहेका छन।निर्वाचनमा होमिएका उम्मेदवारले पोखरालाई सुन्दर र सफा सहर बनाउने बाचा गरिरहँदा पोखरा सहरभित्रका मुख्य चोक र गल्ली तथा घरघरमा थुप्रिएको फोहोरको थुप्रोले सबैलाई गिज्याइँरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-garbage-of-pokhara-that-election-slogans-don-t-see-57-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1772196653_Pokhara Fohor -480x320.jpg"
+    },
+    {
+      "title": "आजपाका उम्मेदवार पौडेलले एमालेका पोखरेललाई सघाउने",
+      "summary": "नेपाली कांग्रेसका नेता विश्वप्रकाश शर्माले आगामी फागु पूर्णिमा (होली) का दिन काठमाडौंको खुलामञ्चमा प्रधानमन्त्रीका सबै उम्मेदवारलाई सार्वजनिक बहसमा आउन चुनौती दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bishwaprakash-s-challenge-to-the-prime-ministerial-candidates-let-s-play-holi-and-debate-too-74-36.html?click_from=just_in",
       "image_url": ""
     }
   ]
