@@ -1,9 +1,10 @@
 {
-  "scraped_at": "2026-02-27T02:43:48.093535",
+  "scraped_at": "2026-02-27T05:17:33.917838",
   "date": "2026-02-27",
-  "total_articles": 17,
+  "total_articles": 37,
   "sources": [
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -142,6 +143,166 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/daily-travel-time-for-gurja-residents-reduced-to-two-and-a-half-hours-98-29.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal tightens trans fat checks after recall of popular snack brand",
+      "summary": "Quality watchdog says industrial trans fat levels now within 2 percent limit, but monitoring yet to reach small eateries where reused oil poses health risks",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/02/27/nepal-tightens-trans-fat-checks-after-recall-of-popular-snack-brand",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/httpsarchiveimagesprodglobala201836reutersmedianet20150812LYNXNPEB7B0LU-1772154642.jpg&w=300&height=200"
+    },
+    {
+      "title": "Dahal snubs electoral alliances as CPN-UML seeks strategic partnership",
+      "summary": "Top UML and NCP leaders are facing stiff contests in key constituencies from Congress and RSP. UML is reportedly in discussion with NCP over Jhapa-5, Dang-2, and others.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/27/dahal-snubs-electoral-alliances-as-cpn-uml-seeks-strategic-partnership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb10-1772154282.jpg&w=300&height=200"
+    },
+    {
+      "title": "Security forces step up operations to recover looted arms, track escaped inmates ahead of elections",
+      "summary": "Special mechanisms deployed in all 77 districts to ensure safe polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/02/27/security-forces-step-up-operations-to-recover-looted-arms-track-escaped-inmates-ahead-of-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KDNDangDSC5660-1772165875.jpg&w=300&height=200"
+    },
+    {
+      "title": "Court asks Centre not to encroach on provinces’ rights during lawmaking",
+      "summary": "Says Kathmandu must recognise that Nepal’s federalism hinges on cooperation, coexistence, and coordination.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/27/court-asks-centre-not-to-encroach-on-provinces-rights-during-lawmaking",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb8-1772153443.jpg&w=600&height=400"
+    },
+    {
+      "title": "Ballots must not bleed",
+      "summary": "Says Kathmandu must recognise that Nepal’s federalism hinges on cooperation, coexistence, and coordination.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/02/26/ballots-must-not-bleed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KDNDangDSC5660-1772165875.jpg&w=400&height=267"
+    },
+    {
+      "title": "Is the peg to INR still a safe harbour?",
+      "summary": "The elections should be defined by the clarity of collective voice, not the chaos in hospitals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/26/is-the-peg-to-inr-still-a-safe-harbour",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/6UOZEDNJ3VJ2FBS6MKTB6WR4UA-1772159301.jpg&w=400&height=267"
+    },
+    {
+      "title": "Some dangers of democracy",
+      "summary": "It would be unwise to change it and contribute to inflation and capital outflow.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/02/26/can-democracy-be-dangerous",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/HFHIBJENIVLF5EKMWCVAFLM6QA-1772159022.jpg&w=400&height=267"
+    },
+    {
+      "title": "Ready to vote",
+      "summary": "Are we choosing a navigator for the storm, or just following the herd toward the cliff’s edge?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/02/25/ready-to-vote",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "Mandala Theatre stages street drama to tackle health and gender gaps in Sudurpaschim",
+      "summary": "People’s abiding faith in the power of the ballot box bodes well for the future of Nepali democracy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/27/mandala-theatre-stages-street-drama-to-tackle-health-and-gender-gaps-in-sudurpaschim",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Image1-1772156273.jpg&w=400&height=267"
+    },
+    {
+      "title": "Understanding continents, through books",
+      "summary": "Special mechanisms deployed in all 77 districts to ensure safe polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/26/understanding-continents-through-books",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Mainstorymainphotooo-1772155355.jpg&w=400&height=267"
+    },
+    {
+      "title": "Why less might be more for your skin",
+      "summary": "India posted 256-4, the highest total of this year’s tournament, before restricting Zimbabwe to 184-6 in Chennai, setting up a virtual quarter-final against West Indies in Kolkata.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/26/why-less-might-be-more-for-your-skin",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/postreportt-1772155111.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal through Dr Govinda KC’s lens",
+      "summary": "After a seven-hour appearance before the panel, Clinton said she was repeatedly asked the same questions and offered suggestions on the investigation, but did not elaborate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/02/25/nepal-through-dr-govinda-kc-s-lens",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/threestarclubcopy-1772154999.jpg&w=400&height=267"
+    },
+    {
+      "title": "Two Nepali women killed in Virginia; suspect shot dead by police",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/24/two-nepali-women-killed-in-virginia-suspect-shot-dead-by-police",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/httpsarchiveimagesprodglobala201836reutersmedianet20150812LYNXNPEB7B0LU-1772154642.jpg&w=400&height=267"
+    },
+    {
+      "title": "US deports record number of Nepalis under strict immigration crackdown",
+      "summary": "People’s Pulse 2026, conducted by Sharecast Initiative, in collaboration with The Kathmandu Post, shows citizens’ views on corruption are closely tied to their day-to-day experiences with public services, not just political narratives",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/23/us-deports-record-number-of-nepalis-under-strict-immigration-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb11-1772154514.jpg&w=400&height=267"
+    },
+    {
+      "title": "Nepal opens embassy chancery in Lisbon",
+      "summary": "As major parties unveil their manifestos, art and culture remain sidelined, even as youth leaders and artists enter mainstream politics.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/20/nepal-opens-embassy-chancery-in-lisbon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb10-1772154282.jpg&w=400&height=267"
+    },
+    {
+      "title": "Hundreds of Nepalis in Portugal face legal crisis over fake authentication stamps",
+      "summary": "Locals and artists performed across multiple sites, followed by public discussions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/15/hundreds-of-nepalis-in-portugal-face-legal-crisis-over-fake-authentication-stamps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/unificationcpnumlandmaoist16051832522220260137261000x0-1772154063.jpg&w=400&height=267"
+    },
+    {
+      "title": "आज विद्यार्थीसँग छलफल गर्दै ओली",
+      "summary": "भेटेरिनरी अस्पताल तथा पशु सेवा कार्यालयले किसानको गोठमै पुगेर गाईभैँसीमा लाग्ने रोग थुनेलो परीक्षण गर्न थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/yellow-fever-in-cattle-and-buffaloes-82-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772168715_rog-480x320.jpg"
+    },
+    {
+      "title": "पोखरामा आज कांग्रेसको आमसभा",
+      "summary": "नेपालकै पुरानो मेला मध्येको एक चैतेदसैँको तयारी थालिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/preparations-for-chaite-dasai-mela-at-kalika-temple-br-51-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772168904_neeju 52-480x320.jpg"
+    },
+    {
+      "title": "रविकै अगाडि जब आशिकाले भनिन् : धादिङमा सुशासन स्थापना गरी भ्रष्टाचार गर्न आएकी हुँ!",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आज झापाको दमकमा विद्यार्थीसँग छलफल गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-discussing-with-students-today-57-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771492214_oli_-480x320.jpg"
+    },
+    {
+      "title": "विश्वसनीय भनिएको बृत्तचित्रले घटनाको गहिराइ देखाउन चाहेन, भावनात्मक प्रचार गर्‍यो : रिजाल",
+      "summary": "आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनलाई लक्षित गर्दै आज पोखरामा नेपाली कांग्रेसले आमसभाको आयोजना गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-general-meeting-in-pokhara-today-96-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767774667_congress-480x320.jpg"
     }
   ]
 }
