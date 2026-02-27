@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-02-27T05:17:33.917838",
+  "scraped_at": "2026-02-27T08:52:39.793219",
   "date": "2026-02-27",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-general-meeting-in-pokhara-today-96-93.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767774667_congress-480x320.jpg"
+    },
+    {
+      "title": "Pakistan bombs targets in Afghan cities, minister calls it ‘open war’",
+      "summary": "Security sources in Pakistan said the strikes involved air and ground strikes against Taliban posts, headquarters and ammunition depots in multiple sectors along the border.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/27/pakistan-bombs-targets-in-afghan-cities-minister-calls-it-open-war",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/bomb-1772170022.jpg&w=300&height=200"
+    },
+    {
+      "title": "रुकुमलाई देशकै नमुना बनाउने जनार्दनको प्रतिबद्धता",
+      "summary": "आगामी प्रतिनिधि सभा निर्वाचनका लागि रुकुम पश्चिमबाट उम्मेदवारी दिएका प्रगतिशील लोकतान्त्रिक पार्टीका नेता जनार्दन शर्माले रुकुमलाई विकास र समृद्धिको मोडेल बनाउने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/janardan-s-commitment-to-make-rukum-a-model-for-the-country-94-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772181885_janardan-shamra-480x320.jpg"
+    },
+    {
+      "title": "उत्तेजनाको राजनीतिमा नलाग्नुस : सभापति थापा",
+      "summary": "सन् २०२५ मा दिल्लीको मुख्यमन्त्री रहेका केजरीवाल मार्च २०२४ मा मदिरा इजाजतपत्र बाँडफाँटमा घुस लिएको आरोपमा पक्राउ परेको थियो र केही महिना जेलमा बिताएको थियो। अदालतले उसलाई, उसको पूर्व सहायक मनिष सिसोदिया र अन्य २१ जनालाई सबै आरोपबाट मुक्त गरेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/after-the-court-acquitted-him-kejriwal-said-i-am-a-hardcore-honest-person-27-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772181594_Kejariwal-480x320.jpg"
+    },
+    {
+      "title": "४३ दलले मात्र बुझाए घोषणापत्र",
+      "summary": "फागुन २१ मा हुने प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी दर्ता गराएका तीन हजार ४०६ प्रत्यक्ष उम्मेदवारमध्ये एक हजार ६७० जना उम्मेदवारले मात्र बैंक खाता खोलेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/eleven-parties-and-1-670-candidates-open-bank-accounts-for-the-election-64-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1765328158_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "जनार्दन शर्मालाई उज्यालो नेपाल पार्टीको समर्थन",
+      "summary": "निर्वाचनका समयमा देखिन सक्ने सुरक्षा चुनौतीहरू जस्तै शंकास्पद वस्तु फेला पर्नु, आगलागी, प्राकृतिक वा मानवजन्य विपद्लाई समयमै पहिचान गरी क्षति न्यूनीकरण गर्ने उद्देश्यले कार्यक्रम डिजाइन गरिएको सेनाले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-army-conducts-risk-education-for-election-security-in-jumla-14-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772180517_sena -480x320.jpg"
+    },
+    {
+      "title": "अझै निष्पक्ष निर्वाचनको वातावरण बनेको छैन : एमाले अध्यक्ष ओली",
+      "summary": "आगामी प्रतिनिधि सभा निर्वाचनका लागि रुकुम पश्चिमबाट उम्मेदवारी दिएका प्रगतिशील लोकतान्त्रिक पार्टीका नेता जनार्दन शर्माले रुकुमलाई विकास र समृद्धिको मोडेल बनाउने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/janardan-s-commitment-to-make-rukum-a-model-for-the-country-94-10.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
