@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-28T02:32:37.637459",
+  "scraped_at": "2026-02-28T04:58:57.099900",
   "date": "2026-02-28",
-  "total_articles": 32,
+  "total_articles": 35,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -263,6 +263,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-89-89.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "भारतीय प्रधानमन्त्री मोदीलाई सम्बोधन गरेर लेखिएको भनिएको पत्र नक्कली हो : रास्वपा",
+      "summary": "निर्वाचन आयुक्त सगुन शम्शेर राणाले निर्वाचनको मौन अवधिमा हुनसक्ने चलखेललाई रोक्न विशेष निगरानीको व्यवस्था गरिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/special-surveillance-arrangements-have-been-made-this-time-during-the-silence-period-commissioner-rana-63-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772253919_sagun ayukta-480x320.jpg"
+    },
+    {
+      "title": "कार्कीमाथि नैतिकताको प्रश्न",
+      "summary": "नेपालको पहिलो प्रतिस्पर्धात्मक राष्ट्रियस्तरको लोकदोहोरी गायन रियालिटी शो ‘लोकदोहोरी स्टार सिजन १’ ले अन्तिम चरणका लागि उत्कृष्ट ८ प्रतिष्पर्धी छानिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/8-best-contestants-selected-for-folk-singing-reality-show-br-74-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772253566_dfg dfg 52-480x320.jpg"
+    },
+    {
+      "title": "बिबिसीको डकुमेन्ट्रीमा सुरक्षाकर्मीको कलसाइनबाट आएको आदेश भन्दै भ्रम फैलाउने तत्वको पहिचान गर्दै प्रहरी",
+      "summary": "काठमाडौं महानगरपालिकाले ३६ हजार २८० जना विद्यार्थी, शिक्षक र कर्मचारी एकीकृत डिजिटल हाजिरी प्रणालीमा आबद्ध गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/community-schools-in-kathmandu-metropolitan-city-are-becoming-technology-friendly-38-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764901322_1742606681_Kathmandu-1200x560-480x320.jpg"
     }
   ]
 }
