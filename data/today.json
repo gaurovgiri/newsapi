@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-28T13:01:25.219798",
+  "scraped_at": "2026-02-28T16:35:56.289768",
   "date": "2026-02-28",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-atmosphere-affects-tourism-season-50-66.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Israel and US launch strikes on Iran",
+      "summary": "An Israeli defence official said the operation had been planned for months in coordination with Washington, and that the launch date was decided weeks ago.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/02/28/israel-and-us-launch-strikes-on-iran",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/ISRAELINiran-1772265506.jpg&w=300&height=200"
+    },
+    {
+      "title": "मध्यपूर्वमा रहेका नेपालीको सुरक्षा र सम्भावित उद्धारको पूर्वतयारी गर्न सरकारलाई रविको आग्रह",
+      "summary": "लमजुङको बेसीशहर नगरपालिकामा जिपको ठक्करबाट एक जना पैदलयात्री गम्भीर घाइते भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pedestrian-seriously-injured-after-being-hit-by-jeep-in-lamjung-92-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772293691_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "मध्यपूर्वमा रहेका नेपालीलाई उच्च सतर्कता अपनाउन बालेनको आग्रह",
+      "summary": "धरानमा आमसभा र शक्ति प्रदर्शनसँगै सुनसरी–१ को चुनावी प्रतिस्पर्धा थप रोचक बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/uml-shows-strength-in-dharan-after-sangpang-s-general-meeting-claims-to-repeat-history-15-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772293560_Uml-480x320.jpg"
+    },
+    {
+      "title": "सरकारमा जाने कि जनतासँग यी दुई विचारका पार्टीमात्र छन्: सुवाल",
+      "summary": "चितवनमा ३४ मतदान केन्द्र थप गरिएको छ। स्थानीय तह र जिल्ला स्तरबाट प्राप्त सिफारिसका आधारमा केन्द्र थप गरिएको जिल्ला निर्वाचन कार्यालय चितवनले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/34-more-polling-stations-in-chitwan-25-locations-on-highly-sensitive-list-br-56-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772187752_Election (12)-480x320.jpg"
+    },
+    {
+      "title": "यो निर्वाचनबाट नेकपा पहिलो पार्टी बन्छः प्रचण्ड",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) कार्यकर्ताले बिबिसीले बनाइएको जेनजी आन्दोलनको भिडियो डकुमेन्ट्री जनकपुरमा प्रशारण गरिरहेको अवस्थामा एकजना कार्यकर्ता पक्राउ परेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rashtriya-swayamsevak-sangh-rss-worker-arrested-for-broadcasting-a-video-documentary-made-by-the-bbc-43-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772292857_Dhanusha_Police-480x320.jpg"
+    },
+    {
+      "title": "यो पटक मतदातालाई गल्ती दोहोर्‍याउने छुट छैन: हर्क",
+      "summary": "लमजुङको बेसीशहर नगरपालिकामा जिपको ठक्करबाट एक जना पैदलयात्री गम्भीर घाइते भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pedestrian-seriously-injured-after-being-hit-by-jeep-in-lamjung-92-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
