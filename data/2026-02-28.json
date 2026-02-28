@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-02-28T04:58:57.099900",
+  "scraped_at": "2026-02-28T08:38:37.668131",
   "date": "2026-02-28",
-  "total_articles": 35,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -287,6 +287,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/community-schools-in-kathmandu-metropolitan-city-are-becoming-technology-friendly-38-98.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764901322_1742606681_Kathmandu-1200x560-480x320.jpg"
+    },
+    {
+      "title": "Can Gagan Thapa convince Nepal that experience still matters?",
+      "summary": "Nepal’s most patient politician spent three decades insisting its oldest party could still save itself. Now, with the country on fire and the party finally his, he has to prove it.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/02/27/can-gagan-thapa-convince-nepal-that-experience-still-matters",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gaganmain-1772208087.jpg&w=300&height=200"
+    },
+    {
+      "title": "देश सिक्किमीकरणको जोखिममा पुग्ने चेतावनीसहित रास्वपा कोशी प्रदेश सदस्य ठगेन्द्र न्यौपानेद्वारा पार्टी परित्याग",
+      "summary": "प्राप्त जानकारी अनुसार इरानका सर्वोच्च नेता अलि खामेनीको कार्यालय नजिकै समेत प्रहार भएको छ। यो सैन्य अभियानमा अमेरिका प्रत्यक्ष सहभागी छ। ८६ वर्षीय खामेनी पछिल्लो समय सार्वजनिक रूपमा देखिएका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-declares-after-massive-bombing-in-tehran-the-hour-of-freedom-for-the-iranian-people-is-near-82-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769243660_Trump vs Khamenei-480x320.jpg"
+    },
+    {
+      "title": "उम्मेदवार र निकट परिवारको बैंक कारोबार अनुगमन हुन्छ : आयुक्त जबरा",
+      "summary": "शुक्रबार साँझ औपचारिक रूपमा पार्टी छाडेका उनले शनिबार विराटनगरमा पत्रकार सम्मेलन गर्दै रास्वपा ‘सिक्किमीकरण’को दिशातर्फ उन्मुख भएको गम्भीर आरोप लगाए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-koshi-province-member-thagendra-neupane-leaves-party-warning-that-the-country-is-at-risk-of-sikkimization-53-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772266452_koshi-480x320.jpg"
+    },
+    {
+      "title": "ओलीको चुनावी अभियानमा सहभागी हुन उपमहासचिव भट्टराई झापा जाँदै",
+      "summary": "अग्रता जोगाउन नसक्दा अपराजित टोली लालीगुराँस एसोसिएसनले जारी एन्फा राष्ट्रिय लिगको शीर्ष स्थानमा उक्लिने अवसर गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/laligurans-missed-the-opportunity-to-climb-to-the-top-spot-br-92-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772266236_dfg 56-480x320.jpg"
+    },
+    {
+      "title": "नेकपा केन्द्रीय सदस्य विनोद पहाडी एमाले प्रवेश, विष्णु पौडेलले गरे स्वागत",
+      "summary": "निर्वाचन आयोगका आयुक्त सगुन शमशेर जबराले फागुन २१ गते हुने निर्वाचनमा विभिन्न राजनीतिक दलबाट उम्मेदवारी दिएका व्यक्ति तथा उनीहरूका निकट परिवारका सदस्यको बैंक कारोबार अनुगमन गरिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bank-transactions-of-candidates-and-close-family-members-are-monitored-commissioner-jabra-22-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772266883_sagun jabara-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले देशलाई निकास दिन्छ : विश्वप्रकाश शर्मा",
+      "summary": "प्राप्त जानकारी अनुसार इरानका सर्वोच्च नेता अलि खामेनीको कार्यालय नजिकै समेत प्रहार भएको छ। यो सैन्य अभियानमा अमेरिका प्रत्यक्ष सहभागी छ। ८६ वर्षीय खामेनी पछिल्लो समय सार्वजनिक रूपमा देखिएका छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-declares-after-massive-bombing-in-tehran-the-hour-of-freedom-for-the-iranian-people-is-near-82-13.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
