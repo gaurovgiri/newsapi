@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-02-28T08:38:37.668131",
+  "scraped_at": "2026-02-28T13:01:25.219798",
   "date": "2026-02-28",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/trump-declares-after-massive-bombing-in-tehran-the-hour-of-freedom-for-the-iranian-people-is-near-82-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal requests Portugal to grant reprieve to Nepalis caught in fake stamp scandal",
+      "summary": "Islamabad accuses the Taliban of harbouring Tehreek-e-Taliban Pakistan (TTP) militants a charge the Taliban denies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/26/nepal-requests-portugal-to-grant-reprieve-to-nepalis-caught-in-fake-stamp-scandal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "काठमाडौं- ४ः विभिन्न दलका ८३ युवा कांग्रेसमा प्रवेश",
+      "summary": "पर्यटकीय सिजनको मुखैमा निर्वाचन परेपछि पोखरासहित देशभर विदेशी पर्यटक आगमन प्रभावित भएको व्यवसायीले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-atmosphere-affects-tourism-season-50-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772283511_Kaski-480x320.jpg"
+    },
+    {
+      "title": "रोल्पामा प्रचण्डले भने: वर्षमानलाई जिताएर पठाए कामको जिम्मा आफैं लिने",
+      "summary": "नवप्रवेशी युवा प्रकाश डंगोलले लामो समय अरुलाई हेरेको भएपनि युवाहरुको भावना बुझ्ने उम्मेदवारलाई साथ दिन कांग्रेसमा प्रवेश गरेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kathmandu-4-83-youth-from-various-parties-join-congress-10-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772283441_Sachen Timalsena-480x320.jpg"
+    },
+    {
+      "title": "जनताको मतको तागतबाटै सिंहदरबारको नेतृत्व गर्छाैं: दाहाल",
+      "summary": "आयोगले आज (शनिबार) विज्ञप्ती जारी गरेर मतदानको दिन दमकल, एम्बुलेन्स, शववाहन, खानेपानीका ट्याङकर, दुध, फलफूल, तरकारी, माछा, मासु, पेट्रोलियम पदार्थ बोकेका सवारी साधन लगायत सम्बन्धित प्रयोगकर्ताले मात्र प्रयोग गर्ने र असम्बन्धित यात्रु नबोक्ने सवारीसाधनलाई पास आवश्यक नपर्ने स्पष्ट पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/what-vehicles-are-allowed-to-be-driven-on-voting-day-18-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743139792_1624502024_public vehicle-1200x560-480x320.jpg"
+    },
+    {
+      "title": "झापा- ३ मा कामै गरेको छैन भन्ने प्रमाणित भए उम्मेदवारी त्याग्ने राप्रपा अध्यक्ष लिङदेनको घोषणा",
+      "summary": "निर्वाचनका लागि मतपत्र, मतपेटिका तथा निर्वाचन सामग्री सबै जिल्लामा पुगिसकेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-preparations-in-final-stage-65-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772282706_election-480x320.jpg"
+    },
+    {
+      "title": "हिमाली बस्तीका मतदान केन्द्रमा पुग्दै निर्वाचन टोली",
+      "summary": "पर्यटकीय सिजनको मुखैमा निर्वाचन परेपछि पोखरासहित देशभर विदेशी पर्यटक आगमन प्रभावित भएको व्यवसायीले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-atmosphere-affects-tourism-season-50-66.html?click_from=just_in",
       "image_url": ""
     }
   ]
