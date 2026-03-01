@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-01T08:40:47.927562",
+  "scraped_at": "2026-03-01T13:04:56.833961",
   "date": "2026-03-01",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/when-kp-oli-loses-the-country-loses-deputy-secretary-general-bhattarai-18-12.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "10 dead after protests erupt in near US Consulate in Karachi: hospital official",
+      "summary": "The protests follow the assassination of Iran’s Supreme Leader Ayatollah Ali Khamenei in Saturday’s coordinated US-Israeli airstrikes on Tehran.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/03/01/10-dead-after-protests-erupt-in-near-us-consulate-in-karachi-hospital-official",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Capture11-1772359598.png&w=600&height=400"
+    },
+    {
+      "title": "राजनीतिक सुशासन कायम गर्न सबैको योगदान आवश्यक : गृहमन्त्री अर्याल",
+      "summary": "यो अवधिमा मतदाता र दललाई प्रभाव पार्ने कुनै पनि सामाग्री तथा विषयवस्तु प्रचार-प्रसार गर्न नहुने निर्वाचन आयोगले स्पष्ट पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/advice-to-strictly-follow-the-code-of-conduct-during-the-silence-period-15-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772014405_Election (7)-480x320.jpg"
+    },
+    {
+      "title": "भ्रम र उत्तेजनाले देश बन्दैन, समृद्धिका लागि एमालेको जित अपरिहार्य: पृथ्वीसुब्बा",
+      "summary": "आफ्नै गाडीमा उपचारका लागि गरुडास्थित हेल्थ लैण्ड हस्पिटलमा पुर्‍याए पनि उनको उपचारका क्रममा मृत्यु भएको फुलबाबुले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/6-year-old-boy-dies-after-house-gate-collapses-14-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1770974143_death-480x320-wm.jpg"
+    },
+    {
+      "title": "भदौ २३ र २४ को घटनामा संलग्नलाई मतदानमार्फत दण्डित गर्न प्रचण्डको आग्रह",
+      "summary": "फागुन २१ मा हुन गइरहेको प्रतिनिधिसभा निर्वाचन नेपाली राजनीतिका लागि सामान्य आवधिक चुनाव मात्र होइन, दलहरूको एजेन्डा, नेतृत्व र अस्तित्वको अग्निपरीक्षा बनेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/falgun-21-trial-by-fire-for-the-parties-38-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772369561_Santosh-Paudel-480x320.jpg"
+    },
+    {
+      "title": "आगामी चुनाव जनमत संग्रह पनि हो: ओली",
+      "summary": "बिहीबार हुन लागेको प्रतिनिधिसभा सदस्य निर्वाचन स्वच्छ, स्वतन्त्र, निष्पक्ष, भयरहित र विश्वसनिय ढंगले सम्पन्न गर्न सबै एकजुट हुनुपर्ने बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/everyone-s-contribution-is-necessary-to-maintain-good-political-governance-home-minister-aryal-76-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1772368768_omprakash aryal final-480x320-wm.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीले भने: यो निर्वाचनमा धाँधली दोहोरिन दिँदैनौँ, पितृका नाममा कसैले भोट हाल्न पाउँदैन",
+      "summary": "यो अवधिमा मतदाता र दललाई प्रभाव पार्ने कुनै पनि सामाग्री तथा विषयवस्तु प्रचार-प्रसार गर्न नहुने निर्वाचन आयोगले स्पष्ट पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/advice-to-strictly-follow-the-code-of-conduct-during-the-silence-period-15-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
