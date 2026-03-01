@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-01T16:38:44.627408",
+  "scraped_at": "2026-03-01T20:36:17.818654",
   "date": "2026-03-01",
-  "total_articles": 55,
+  "total_articles": 58,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -447,6 +447,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/three-us-soldiers-killed-in-action-against-iran-75-28.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772378461_US Army-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भ्रष्टाचारको छानबिन आफैंबाट सुरु गर्छः शर्मा",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले सरकारको नेतृत्वमा आएपछि अरुबाट नभइ आफैंबाट भ्रष्टाचारको छनबिन सुरु गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-initiate-corruption-investigations-on-its-own-sharma-62-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772382960_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "साझा जनप्रतिनिधिको रुपमा दाङको विकास गर्छुः पोखरेल",
+      "summary": "नेकपा (एमाले) का महासचिव एवं दाङ क्षेत्र नम्बर-२ का उम्मेदवार शङ्कर पोखरेलले साझा जनप्रतिनिधिका रुपमा दाङको विकास र समृद्धिको नेतृत्व गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-will-develop-dang-as-a-common-representative-of-the-people-pokharel-16-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772382797_pokrel-480x320.jpg"
+    },
+    {
+      "title": "कास्की–१ मा ‘तेस्रो जित’को लक्ष्यसहित राजकाजी गुरुङ",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनको मतदानको मिति नजिकिँदै गर्दा उम्मेदवारहरू मतदाता भेटघाटको अन्तिम चरणमा छन्। दुईवटा निर्वाचन क्षेत्र रहेको सिन्धुलीमा यतिबेला सम्भावित नतिजालाई लिएर चौतर्फी आकलन र विश्लेषण भइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/exciting-clash-in-both-areas-of-sindhuli-legacy-to-be-protected-by-main-party-stakes-for-establishment-of-rsvp-br-15-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772382151_sindhuli-480x320.jpg"
     }
   ]
 }
