@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-01T05:20:10.309339",
+  "scraped_at": "2026-03-01T08:40:47.927562",
   "date": "2026-03-01",
-  "total_articles": 40,
+  "total_articles": 45,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -326,6 +326,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/yogesh-bhattarai-in-damak-to-win-over-chairman-oli-11-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "केपी ओलीले हार्दा देशले हार्छ : उपमहासचिव भट्टराई",
+      "summary": "नेकपा एमालेका उपमहासचिव योगेश भट्टराईले आगामी निर्वाचनमा नेकपा एमाले र केपी शर्मा ओलीले हार व्यहोर्नु परे देशले नै हार्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-kp-oli-loses-the-country-loses-deputy-secretary-general-bhattarai-18-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772352733_yog-480x320.jpg"
+    },
+    {
+      "title": "वर्तमान राजनीति गलत दिशामा गए नेपालकै अस्तित्व संकटमा पर्छ : ई:ई",
+      "summary": "झापा, विराटनगर, चितवन, लुम्बिनी, पोखरा र काठमाडौँबाट सुरु भएको यो शैक्षिक यात्रा राष्ट्रिय स्तरको सर्किटका रूपमा विस्तार हुँदै आएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/global-math-debate-league-concludes-prioritizing-logic-over-rote-memorization-19-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772352470_Global -480x320.jpg"
+    },
+    {
+      "title": "नेपालका कम्युनिष्टहरूका लागि झापा अति पवित्रस्थल : उपमहासचिव भट्टराई",
+      "summary": "निर्वाचन सही प्रतिनीधि छानेर पठाउने एउता राष्ट्रिय महोत्सव हो। यतिबेला देशभर प्रतिनिधिसभा चुनावको चहलपहल बढिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/lalitpur-2-demand-for-development-while-preserving-basic-infrastructure-38-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772352097_lalitpur-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगको ४८ घण्टे आचारसंहिता, प्रचारप्रसारदेखि सञ्जालसम्म कडाइ",
+      "summary": "सामाजिक अभियन्ता ईःईले वर्तमान राजनीतिक अवस्थाले भविष्यमा नेपालकै अस्तित्व संकटमा पर्न सक्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-the-current-politics-goes-in-the-wrong-direction-nepal-s-very-existence-will-be-in-danger-e-e-br-37-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772351967_18e-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रको भविष्यसँग जोडिएको निर्णायक मोडमा आगामी निर्वाचन : ओली",
+      "summary": "नेकपा एमालेका उपमहासचिव योगेश भट्टराईले आगामी निर्वाचनमा नेकपा एमाले र केपी शर्मा ओलीले हार व्यहोर्नु परे देशले नै हार्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-kp-oli-loses-the-country-loses-deputy-secretary-general-bhattarai-18-12.html?click_from=just_in",
       "image_url": ""
     }
   ]
