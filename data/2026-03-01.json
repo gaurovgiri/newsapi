@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-01T13:04:56.833961",
+  "scraped_at": "2026-03-01T16:38:44.627408",
   "date": "2026-03-01",
-  "total_articles": 51,
+  "total_articles": 55,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -415,6 +415,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/advice-to-strictly-follow-the-code-of-conduct-during-the-silence-period-15-49.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Qatar urges residents to remain indoors unless necessary amid regional tensions",
+      "summary": "While most of the European leaders regarded the death as a direct consequence of the Supreme Leader’s deed, Russian President Putin condemned the attack as a violation of international law.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/02/28/qatar-urges-residents-to-remain-indoors-unless-necessary-amid-regional-tensions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Oli-1772351181.jpg&w=400&height=267"
+    },
+    {
+      "title": "आचारसंहिता विपरितको माईकिङले कास्कीमा बढ्यो ध्वनी प्रदूषण",
+      "summary": "गगनकै हस्ताक्षरको टिकट लिएर भए पनि ‘रुख’ चिन्हबाट अन्तिम पटक चुनाव लड्ने चाहना राखेका देउवाले टिकट नपाएपछि असन्तुष्टि जनाएका छन्। उनी यसपटक डडेल्धुराको चुनावी मैदानमा छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/interesting-competition-in-dadeldhura-67-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772379076_Dadeldhura-480x320.jpg"
+    },
+    {
+      "title": "बीपी कांग्रेसमा समाहित",
+      "summary": "आइसिसी टी-२० विश्वकपअन्तर्गत ‘सुपर एट’ को भिडन्तमा वेस्टइन्डिजले भारतसामु जितका लागि १९६ रनको विशाल लक्ष्य प्रस्तुत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/west-indies-set-india-a-huge-target-of-196-runs-95-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772378724_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "हाम्रो प्रतिस्पर्धा अतिवादसँग छःमहामन्त्री पौडेल",
+      "summary": "अमेरिकी सेनाका अनुसार अन्य धेरै कर्मचारीलाई सामान्य चोटपटक र कन्कसन लागेको छ, जसलाई पुनः काममा फर्काउने प्रक्रिया सुरु गरिएको छ। क्षेत्रमा सैन्य कारबाही जारी रहेकाले स्थिति अझै 'तरल' रहेको कमान्डले जनाएको छ। विज्ञप्तिमा भनिएको छ, ‘परिवारलाई सूचित नगरेसम्म मृतकहरूको पहिचानसहितका थप विवरण २४ घण्टासम्म गोप्य राखिनेछ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/three-us-soldiers-killed-in-action-against-iran-75-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772378461_US Army-480x320.jpg"
     }
   ]
 }
