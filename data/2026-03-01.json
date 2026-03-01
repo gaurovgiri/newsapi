@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-01T03:15:58.683060",
+  "scraped_at": "2026-03-01T05:20:10.309339",
   "date": "2026-03-01",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-army-claims-to-have-dropped-30-bombs-on-khamenei-s-house-76-29.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "चन सामग्री आइपुग्यो, मतदान स्थलहरुको अनुगमन सकियो",
+      "summary": "चन सामग्री आइपुग्यो, मतदान स्थलहरुको अनुगमन सकियो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12391",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Dailekhma-chunabi-tayari-1772334215.jpg"
+    },
+    {
+      "title": "Iran’s Ali Khamenei, who based iron rule on fiery hostility to US and Israel, killed at 86",
+      "summary": "He was killed on Saturday in Israeli and US air strikes on his Tehran compound after decades of failed nuclear diplomacy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/03/01/iran-s-ali-khamenei-who-based-iron-rule-on-fiery-hostility-to-us-and-israel-dies-at-86",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/Q5Y5TJNLWZMWNAOURBAFMJOW4Y-1772332209.jpg&w=300&height=200"
+    },
+    {
+      "title": "अध्यक्ष ओलीलाई जिताउन योगेश भट्टराई दमकमा",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीलाई भोट माग्न एमाले उपमहासचिव योगेशकुमार भट्टराई दमक आइपुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/yogesh-bhattarai-in-damak-to-win-over-chairman-oli-11-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772341507_yogesh-480x320.jpg"
+    },
+    {
+      "title": "देश बनाउने र बिगार्नेबिचको जनमत संग्रह हो निर्वाचन : ईश्वर पोखरेल",
+      "summary": "इरानमाथि भएको आक्रमण र सर्वोच्च नेता अली खामेनी मारिएको एकदिनपछि नेपाली बजारमा सुनको मूल्य वृद्धि देखिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/impact-of-attack-on-iran-gold-and-silver-prices-rise-50-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "कोमल पौडेलद्वारा उम्मेदवारी स्थगित, ईश्वर पोखरेललाई समर्थन गर्ने",
+      "summary": "इरानमाथि अमेरिका र इजरायली आक्रमण र त्यसपछि इरानको बदला लिने हमलाले विश्वव्यापी तेल बजारमा हलचल मच्चाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/attack-on-iran-threatens-to-raise-global-oil-prices-89-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772340972_iran-480x320.jpg"
+    },
+    {
+      "title": "चार मतदान केन्द्रमा हेलिकप्टरबाट निर्वाचन सामग्री ओसारिंदै",
+      "summary": "समितिका अनुसार गोलभेँडा ठूलो (भारतीय) प्रतिकिलो रु ७०, गोलभेँडा सानो (टनेल) प्रतिकिलो रु ५०, गोलभेँडा सानो (भारतीय) प्रतिकिलो रु ३२, गोलभेँडा सानो (तराई) प्रतिकिलो रु ४०, आलु रातो प्रतिकिलो रु २५, आलु रातो (भारतीय) प्रतिकिलो रु २५ र प्याज सुकेको (भारतीय) प्रतिकिलो रु ३७ रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-today-83-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771123790_tarkari-480x320.jpg"
+    },
+    {
+      "title": "१५ वर्षसम्म स्थिर कर नीति कायम गछौँ : सभापति थापा",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीलाई भोट माग्न एमाले उपमहासचिव योगेशकुमार भट्टराई दमक आइपुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/yogesh-bhattarai-in-damak-to-win-over-chairman-oli-11-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
