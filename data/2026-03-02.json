@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-02T02:46:32.504248",
+  "scraped_at": "2026-03-02T05:18:12.813468",
   "date": "2026-03-02",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/middle-east-tensions-trump-warns-of-retaliation-after-three-us-soldiers-killed-43-17.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "द हिमालय टुर्स एण्ड प्रालिका संस्थापक तथा सीइओ खत्री अनुसन्धानमा",
+      "summary": "द हिमालय टुर्स एण्ड प्रालिका संस्थापक तथा सीइओ खत्री अनुसन्धानमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12396",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sss-1772338697.jpg"
+    },
+    {
+      "title": "Nepal braces for ripple effects of Gulf conflict",
+      "summary": "Kathmandu halts labour permits to key Gulf destinations as conflict threatens remittance lifeline and tourism sector.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/02/nepal-braces-for-ripple-effects-of-gulf-conflict",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/passenger-1772412863.jpg&w=300&height=200"
+    },
+    {
+      "title": "West Asia tensions push global oil prices higher; Nepal assures stable supply",
+      "summary": "Nepal Oil Corporation says fuel reserves are adequate despite increased demand during election period.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/02/west-asia-tensions-push-global-oil-prices-higher-nepal-assures-stable-supply",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/64027517612456208870002096428509426204309460n-1772426187.jpg&w=600&height=400"
+    },
+    {
+      "title": "जसपाका केन्द्रीय सदस्य सुमन खड्का नेकपामा प्रवेश",
+      "summary": "शनिबार इरानमाथि इजरायल र अमेरिकाले भीषण आक्रमण गरेपछि सुनको मूल्यमा निरन्तर वृद्धि देखिएको छ। शुक्रबारको तुलनामा सोमबारसम्म आइपुग्दा सुनको मूल्यमा कुल ११ हजार २०० रुपैयाँको भारी वृद्धि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-rises-by-11-200-on-middle-east-tensions-54-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुर क्षेत्र नं. २ का एमाले नेताकार्यकर्ता नेपाली कम्युनिष्ट पार्टीमा प्रवेश",
+      "summary": "उनीहरूलाई नेपाली कम्युनिष्ट पार्टीका संयोजक पुष्पकमल दाहालले पार्टीमा स्वागत गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jsp-central-member-suman-khadka-joins-ncp-41-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772428190_nekapapp-480x320.jpg"
+    },
+    {
+      "title": "आफूले जिते एमसीसी खारेज र एसपीपी लागु नगर्ने हर्कको दाबी",
+      "summary": "भक्तपुर क्षेत्र नं. २ अन्तर्गत विभिन्न स्थानीय तहका नेकपा एमालेसँग आबद्ध नेता तथा कार्यकर्ताहरू नेपाली कम्युनिष्ट पार्टीमा प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-leader-and-activist-from-bhaktapur-constituency-no-2-joins-nepali-communist-party-98-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772427950_nekapa-480x320.jpg"
     }
   ]
 }
