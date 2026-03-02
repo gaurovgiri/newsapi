@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-02T08:55:52.495449",
+  "scraped_at": "2026-03-02T13:17:20.673595",
   "date": "2026-03-02",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/diwas-shrestha-from-gorkha-dies-in-iranian-attack-in-uae-59-78.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "गगनसँग फोटो खिचेर निस्किए मिराज, गरेनन् पार्टी प्रवेश",
+      "summary": "रामेछाप नगरपालिका–२ स्थित सिरुबारीमा निर्वाचन सामाग्री र कर्मचारी बोकेको गाडी दुर्घटना हुँदा एक प्रहरी सहायक निरीक्षकको घटनास्थलमै मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/vehicle-carrying-election-materials-crashes-in-ramechhap-asi-yadav-dies-on-the-spot-7-injured-50-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772457054_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "जसपा, जनमतसहित नेमकिपा र जेन-जी समूहका उम्मेदवारले शेखर कोइरालालाई सघाउने",
+      "summary": "नेपाल प्रहरीका ३३औँ महानिरीक्षक दानबहादुर कार्कीले नेतृत्व सम्हालेको सय दिनमै संगठनभित्र सुधार र अपराध नियन्त्रणमा उल्लेख्य उपलब्धि देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-police-inspector-general-karki-s-100-days-reform-good-governance-and-result-oriented-campaign-56-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772456200_dan bahadur karki (1)-480x320.jpg"
+    },
+    {
+      "title": "कपिलवस्तु–३ मा शाहको प्रचारमा भारतीय सांसद पाल, जिते ‘ठूलो अस्पताल’ बनाउने घोषणा",
+      "summary": "सर्लाही क्षेत्र नम्बर-४ मा आयोजित एक कार्यक्रममा कांग्रेस सभापति गगनकुमार थापाबाट पार्टी प्रवेश गर्ने चर्चा चलिरहँदा मिराजले भने आफू केवल समर्थन जनाउन मात्र त्यहाँ पुगेको बताएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/miraj-left-after-taking-a-photo-with-gagan-but-did-not-enter-the-party-42-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772454574_miraj_-480x320.jpg"
+    },
+    {
+      "title": "मधेस झुक्यो भने अधिकार सुक्छ:उपेन्द्र यादव",
+      "summary": "बोर्डले पत्रपत्रिका, रेडियो, टेलिभिजन, अनलाइन सञ्चारमाध्यम, तथा सामाजिक सञ्जालमा दल तथा उम्मेदवारको विज्ञापन प्रकाशन तथा प्रसारण नगर्न पनि अनुरोध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-to-remove-party-and-candidate-promotional-materials-from-media-11-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772455544_bigyapan board-480x320.jpg"
+    },
+    {
+      "title": "बहुमत ल्याउने कांग्रेसको दाबी",
+      "summary": "रामेछाप नगरपालिका–२ स्थित सिरुबारीमा निर्वाचन सामाग्री र कर्मचारी बोकेको गाडी दुर्घटना हुँदा एक प्रहरी सहायक निरीक्षकको घटनास्थलमै मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/vehicle-carrying-election-materials-crashes-in-ramechhap-asi-yadav-dies-on-the-spot-7-injured-50-28.html?click_from=just_in",
       "image_url": ""
     }
   ]
