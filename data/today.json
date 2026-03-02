@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-02T05:18:12.813468",
+  "scraped_at": "2026-03-02T08:55:52.495449",
   "date": "2026-03-02",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-leader-and-activist-from-bhaktapur-constituency-no-2-joins-nepali-communist-party-98-76.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772427950_nekapa-480x320.jpg"
+    },
+    {
+      "title": "Prime Minister Karki calls March 5 polls a defining moment for Nepal",
+      "summary": "Prime minister urges high turnout, vows fear-free polls and action against misinformation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/02/prime-minister-karki-calls-march-5-polls-a-defining-moment-for-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PM_10_.jpg.jpeg&w=300&height=200"
+    },
+    {
+      "title": "जुत्ता चप्पल उद्योगमा ओली, आन्तरिक उत्पादनलाई प्रोत्साहन बढाउने प्रतिबद्धता",
+      "summary": "दूतावासले दिएको जानकारीअनुसार श्रेष्ठ मिडल इस्ट कम्पनीमा सेक्युरिटी गार्डका रूपमा कार्यरत थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/diwas-shrestha-from-gorkha-dies-in-iranian-attack-in-uae-59-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772439867_uae-480x320.jpg"
+    },
+    {
+      "title": "सबै मतदातालाई प्रतिनिधिसभा सदस्य निर्वाचनमा सरिक हुन प्रधानमन्त्रीको आह्वान",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आज झापाको दमकमा मजदुरहरूसँग भेटघाट गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-on-footwear-industry-commitment-to-increase-incentives-for-domestic-production-84-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772439188_oli-480x320.jpg"
+    },
+    {
+      "title": "देशलाई मियो बिनाको दाइँ हुनबाट रोक्न एमालेको जित अवश्यक : उपमहासचिव भट्टराई",
+      "summary": "जनताले उम्मेदवार तथा राजनीतिक दलका नेताहरुको कुरा सुनिसकेपछि प्रश्न सोध्न थालेका छन्, ‘अघिल्ला वाचा पूरा भए कि भएनन् ?’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/voters-want-to-see-development-progress-more-than-manifestos-70-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772439273_Myagdi-480x320.jpg"
+    },
+    {
+      "title": "मध्यपूर्वी संकटप्रति सरकार चिन्तित छ : प्रधानमन्त्री कार्की",
+      "summary": "प्रहरीका अनुसार निर्देशकले एलामकुलमस्थित ती महिलाको अपार्टमेन्टमा जबरजस्ती प्रवेश गरी यौन उत्पीडन गरेको आरोप लगाइएको छ। मुद्दा भारतीय न्यायसंहिताको धारा ७४ र ७५ अन्तर्गत दर्ता गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/sexual-harassment-case-registered-against-malayalam-director-chidambaram-s-poduwal-60-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1772438584_malyanam-480x320.jpg"
+    },
+    {
+      "title": "रुपन्देही-२ मा राप्रपाले नेपाली कांग्रेसलाई समर्थन गर्ने भनेर आएका समाचारमा सत्यता छैन : राप्रपा",
+      "summary": "दूतावासले दिएको जानकारीअनुसार श्रेष्ठ मिडल इस्ट कम्पनीमा सेक्युरिटी गार्डका रूपमा कार्यरत थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/diwas-shrestha-from-gorkha-dies-in-iranian-attack-in-uae-59-78.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
