@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-02T13:17:20.673595",
+  "scraped_at": "2026-03-02T16:59:21.005652",
   "date": "2026-03-02",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -414,6 +414,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/vehicle-carrying-election-materials-crashes-in-ramechhap-asi-yadav-dies-on-the-spot-7-injured-50-28.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Gorkha youth dies in Iranian drone strike at Abu Dhabi airport",
+      "summary": "The 29-year-old youth had returned to the UAE for employment about a year ago after celebrating Dashain with his family in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/02/gorkha-youth-dies-in-iranian-drone-strike-at-abu-dhabi-airport",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/dibasshrestha02320261100311000x01-1772449376.jpg&w=300&height=200"
+    },
+    {
+      "title": "In-situ development vital for slum rehabilitation",
+      "summary": "Nepal Oil Corporation says fuel reserves are adequate despite increased demand during election period.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/02/in-situ-development-vital-for-slum-rehabilitation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/energypostillustration-1772467724.png&w=400&height=267"
+    },
+    {
+      "title": "मौन अवधिअघि रविले भने- अब सिंहदरबारबाटै नीलो क्रान्ति सुरु हुन्छ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले मौन अवधि सुरु हुनुअघि मतदातालाई विशेष अपिल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/before-the-silence-period-ravi-said-now-the-blue-revolution-will-begin-from-singha-durbar-br-91-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772467136_rabi_lamichhane-480x320.jpg"
+    },
+    {
+      "title": "दुबईमा दिवसको मृत्यु भएपछि शोकमा डुब्यो बोर्लाङ ठाँटी",
+      "summary": "महोत्तरीको पिपरा गाउँपालिका–७ दनौलीका पवनदेव माझीले चिकित्सा शिक्षा (एमबिबएस) को प्रवेश परीक्षामा पूर्ण छात्रवृत्तिमा नाम निकालेर डाक्टर बन्ने सपना साकार पारे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/reservations-brighten-the-faces-of-the-marginalized-br-17-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनको तयारी पूराः मोरङका सबै मतदान केन्द्रमा पुगे कर्मचारी",
+      "summary": "घरको आर्थिक अवस्था सुधार्न चार वर्षअघि संयुक्त अरब इमिरेट्सको दुबई पुगेका थिए दिवस श्रेष्ठ। भीमसेन थापा गाउँपालिका–७ बोर्लाङ ठाँटीका २९ वर्षीय दिवस चामबहादुर र पवित्राको एकमात्र छोरा हुन्। दिवस गत वर्षको दशैँमा घर आएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/borlang-thanti-in-mourning-after-diwas-death-in-dubai-76-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772466430_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "‘नेपाली कांग्रेस नयाँ सोच र सङ्कल्पसहित अघि बढेको छ’",
+      "summary": "फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि मोरङका सबै मतदानस्थल र मतदान केन्द्रमा कर्मचारी तथा सुरक्षाकर्मी पुगी सकेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-preparations-complete-staff-reaches-all-polling-stations-in-morang-79-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772465140_election-480x320.jpg"
+    },
+    {
+      "title": "‘मतपेटिका खोल्नुअघि साझा प्रतिबद्धता गर्न राष्ट्रिय सम्वाद आवश्यक’",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले मौन अवधि सुरु हुनुअघि मतदातालाई विशेष अपिल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/before-the-silence-period-ravi-said-now-the-blue-revolution-will-begin-from-singha-durbar-br-91-65.html?click_from=just_in",
       "image_url": ""
     }
   ]
