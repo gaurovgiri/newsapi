@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-03-02T02:46:32.504248",
   "date": "2026-03-02",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "UML could lose big time in the elections",
       "summary": "In Nepal, two-thirds of the population is below the age of 35, yet the state and politics were controlled by those above 60. This massive imbalance makes rebellion inevitable.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/interviews/2026/03/01/uml-could-lose-big-time-in-the-elections",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/INTERVIEW.jpg&w=600&height=400"
-    },
-    {
-      "title": "UML could lose big time in the elections",
-      "summary": "Kathmandu halts labour permits to key Gulf destinations as conflict threatens remittance lifeline and tourism sector.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/interviews/2026/03/01/uml-could-lose-big-time-in-the-elections",
