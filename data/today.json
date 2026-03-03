@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-03T13:15:52.944898",
+  "scraped_at": "2026-03-03T16:59:15.741709",
   "date": "2026-03-03",
-  "total_articles": 49,
+  "total_articles": 53,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -399,6 +399,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-international-flights-canceled-from-tribhuvan-international-airport-more-than-8-000-passengers-stranded-in-doha-63-53.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepali mission in UAE seeks details of stranded nationals",
+      "summary": "One device detonates after being disturbed by pedestrians; another safely disposed of by Nepali Army.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/03/nepali-mission-in-uae-seeks-details-of-stranded-nationals",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NEPSEUP-1772532298.jpg&w=400&height=267"
+    },
+    {
+      "title": "गृहमन्त्रीले भेटे रामेछाप दुर्घटनाका घाइते",
+      "summary": "जिल्लाको घोराही उपमहानगरपालिका–१६ स्थित गगटैया तालमा डुबेर आज एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-died-after-drowning-in-a-lake-68-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङले हटाए मौन अवधिमा लेखिएकास्ट्याटस",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले रामेछापमा सोमबार भएको सवारी दुर्घटनाका घाईतेसँग आज भेट गरी उनीहरूको स्वास्थ्य अवस्थाबारे जानकारी लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-inquires-about-the-health-condition-of-those-injured-in-ramechhap-accident-46-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772552828_Untitled-3-480x320.jpg"
+    },
+    {
+      "title": "गगनले भने- मौन अवधिमा कांग्रेसविरुद्ध सुनियोजित आक्रमण भयो",
+      "summary": "जेन-जी आन्दोलनका क्रममा फरार रहेका सुनिल थापासहित आज चारजनालाई नियन्त्रणमा लिइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/four-people-including-a-fugitive-arrested-during-the-gen-g-movement-23-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
     }
   ]
 }
