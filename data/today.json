@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-03T08:53:36.555718",
+  "scraped_at": "2026-03-03T13:15:52.944898",
   "date": "2026-03-03",
-  "total_articles": 40,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -327,6 +327,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/china-speaks-out-against-accusations-of-providing-military-assistance-to-iran-71-63.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772501424_Iran-China-480x320.jpg"
+    },
+    {
+      "title": "Election Commission scraps candidacy of RSP’s Kishori Sah",
+      "summary": "Candidacy invalidated after complaint citing blacklist.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/03/election-commission-scraps-candidacy-of-rsp-s-kishori-lal-sah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kishori03320260951131000x0-1772528743.jpg&w=300&height=200"
+    },
+    {
+      "title": "West Asia tensions raise alarm for 1.9 million Nepali workers",
+      "summary": "Drone and missile strikes across the region have disrupted workplaces, leaving Nepali migrant workers in Kuwait, Saudi Arabia, the UAE, Qatar, and Lebanon facing heightened risks and uncertainty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/03/west-asia-tensions-raise-alarm-for-1-9-million-nepali-workers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/miscellaneous/thumb2-1772416186.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu Valley sees surge of people leaving for polls",
+      "summary": "Buses, microbuses and jeeps packed as voters head to home districts ahead of elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/03/03/kathmandu-valley-sees-surge-of-people-leaving-for-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1772511589.jpg&w=300&height=200"
+    },
+    {
+      "title": "One Nepali among three killed in Iranian attack in UAE",
+      "summary": "The IAEA’s finding fits ​with that of US think-tank ​the ⁠Institute for Science and International Security published on Monday after Iran said Natanz was hit ⁠on ​Sunday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/01/one-nepali-among-three-killed-in-iranian-attack-in-uae",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/22-1772519734.png&w=400&height=267"
+    },
+    {
+      "title": "राष्ट्रियसभा सदस्यको शपथ लिन औपचारिक वा पहिचान झल्कने पोशाक चाहिने",
+      "summary": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल कार्यालयका अनुसार आज पनि पूर्वनिर्धारित १६ अन्तर्राष्ट्रिय उडान रद्द भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-international-flights-canceled-from-tribhuvan-international-airport-more-than-8-000-passengers-stranded-in-doha-63-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772026640_TU Airport-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा सदस्यको शपथ फागुन २५ गते, दिउँसो २ बजे",
+      "summary": "गत माघ ११ गते भएको निर्वाचनबाट राष्ट्रियसभा सदस्यमा निर्वाचित १८ जनाको पद तथा गोपनियताको शपथ फागुन २५ गते हुने भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/newly-elected-national-assembly-members-to-be-sworn-in-on-falgun-10-23-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756118212_Samsad_sachiwalay-480x320.jpg"
+    },
+    {
+      "title": "यस्तो छ, निर्वाचनमा खटिने कर्मचारीले पालना गर्नुपर्ने आचरण",
+      "summary": "सङ्घीय संसद् सचिवालयले राष्ट्रिय सभामा नवनिर्वाचित सदस्यहरूको शपथ कार्यक्रम फागुन २५ गते तय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oath-of-office-for-national-assembly-members-on-falgun-25-2-pm-14-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770950975_1631755719_rastriyashava-1200x560-wm-1200x560-480x320.jpg"
+    },
+    {
+      "title": "२०८३ सालका कहिले कहिले सार्वजनिक बिदा ?",
+      "summary": "गृहमन्त्री ओमप्रकाश अर्यालले उच्च अधिकारीसहित ललितपुरका दुर्गम क्षेत्रका मतदान केन्द्रहरुको स्थलगत निरीक्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/home-minister-aryal-monitors-polling-stations-with-high-ranking-officials-79-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772541607_nirisan-480x320.jpg"
+    },
+    {
+      "title": "कालोसूचीमा परेपछि धनुषा–१ मा रास्वपा किशोरी साहको उम्मेदवारी खारेज",
+      "summary": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल कार्यालयका अनुसार आज पनि पूर्वनिर्धारित १६ अन्तर्राष्ट्रिय उडान रद्द भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-international-flights-canceled-from-tribhuvan-international-airport-more-than-8-000-passengers-stranded-in-doha-63-53.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
