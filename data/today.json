@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-03T02:49:39.894126",
+  "scraped_at": "2026-03-03T05:16:56.194185",
   "date": "2026-03-03",
-  "total_articles": 34,
+  "total_articles": 37,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-border-in-parsa-closed-from-midnight-33-91.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "मौन अवधिमा आचारसंहिता पालना गर्न अनुरोध",
+      "summary": "सुनको मूल्य बढ्दा चाँदीको मूल्यमा भने आज गिरावट देखिएको छ। हिजो सोमबार प्रतितोला ६ हजार २० रुपैयाँमा कारोबार भएको चाँदी आज मंगलबार २०५ रुपैयाँले घटेर ५ हजार ८१५ रुपैयाँ कायम भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-increases-by-2-500-silver-becomes-cheaper-85-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "तीन दिनदेखि अनसन बस्दै आएका बटाला भन्छन् - सुदूरपश्चिम पनि नेपालै हो भनेर विकास गर्नुपर्‍यो",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचन बिहीबार हुँदै छ। उम्मेदवारहरू मतपरिणाम हात पार्न घरघरमा पुगेर मतदाता रिझाउन व्यस्त छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/most-polling-stations-are-public-schools-21-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772514268_vd 52-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन प्रहरीको जिम्मेवारीसँगै सिर्जनाको स्वाद",
+      "summary": "यही फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनका लागि कास्की जिल्लाका ३६५ वटै मतदान केन्द्रमा निर्वाचन सामग्री पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-materials-have-reached-all-polling-stations-in-kaski-79-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772465140_election-480x320.jpg"
     }
   ]
 }
