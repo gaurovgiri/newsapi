@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-03T05:16:56.194185",
+  "scraped_at": "2026-03-03T08:53:36.555718",
   "date": "2026-03-03",
-  "total_articles": 37,
+  "total_articles": 40,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -303,6 +303,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/election-materials-have-reached-all-polling-stations-in-kaski-79-69.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772465140_election-480x320.jpg"
+    },
+    {
+      "title": "Nepal working on measures to protect its citizens in the Gulf",
+      "summary": "Foreign ministry to register Nepalis in West Asian nations for protection and possible repatriation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/03/nepal-working-on-measures-to-protect-its-citizens-in-the-gulf",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/JUB6O6V5JZJVFEMVFW2N4NDOMA-1772499159.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचन प्रहरीसहित दुई जनाको मृत्यु",
+      "summary": "केरमान प्रान्तमा भएको आक्रमणमा १३ जनाको मृत्यु भएको इरानी सेनाले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-israeli-attack-13-iranian-soldiers-killed-72-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772277807_israel iran conflict-480x320.jpg"
+    },
+    {
+      "title": "नेपाल आदिवासी जनजाति महासंघले भन्यो : सोविताले माफी माग्नुपर्छ",
+      "summary": "इरानी आईआरजीसी कमान्डरले यो मार्ग ‘बन्द’ गर्ने र आउन खोज्ने जहाजलाई ‘आगो लगाइने’ चेतावनी दिएपछि विश्व बजारमा हलचल मच्चिएको छ। यसको परिणाम स्वरूप ब्रेन्ट क्रूडको मूल्य प्रति ब्यारेल ८० डलरको नजिक पुगेको छ र विज्ञहरूले यो मूल्य १०० डलरसम्म पुग्न सक्ने आशंका गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/china-speaks-out-against-accusations-of-providing-military-assistance-to-iran-71-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772501424_Iran-China-480x320.jpg"
     }
   ]
 }
