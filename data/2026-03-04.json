@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-04T02:42:30.600504",
+  "scraped_at": "2026-03-04T05:11:30.003462",
   "date": "2026-03-04",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepalis-working-in-gulf-countries-in-panic-government-forms-rapid-action-team-for-emergency-rescue-and-management-br-82-78.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "धनुषामा निर्वाचनको तयारी पूरा, ढुक्क भएर मतदान गर्न आग्रह",
+      "summary": "यद्यपि, यो विवाह कानुनी रूपमा मान्य छैन किनभने थाइल्याण्डको कानुनले बहुविवाहलाई मान्यता दिँदैन। रोचक कुरा के छ भने सोही हप्ता गाउँकी प्रमुख चरिनरत नुमदुआले आफ्नी प्रेमिका रुंगनापा बुतसामरानसँग १.४ मिलियन भाटको दाइजोसहित कानुनी रूपमा विवाह गरेकी थिइन्, जसले थाइल्याण्डमा भर्खरै लागू भएको समलिंगी विवाहको कानुनी अभ्यासलाई देखाउँछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/married-to-two-austrian-men-at-once-with-mother-s-support-55-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772600346_Bihe-480x320.jpg"
+    },
+    {
+      "title": "विधेयक फिर्ता हुने निश्चित समय तोकिनुपर्छ : विमला घिमिरे",
+      "summary": "सुदूरपश्चिम प्रदेशका कैलाली र कञ्चनपुर जिल्लामा ‘बाख्राको हैजा’ भनेर चिनिने पिपीआर रोगको सङ्क्रमण पुष्टि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ppr-disease-infection-confirmed-in-goats-91-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753702466_Goat-480x320.jpg"
+    },
+    {
+      "title": "‘उच्च मनोबलका साथ नेपाल प्रहरी निर्वाचन सुरक्षा खटियो’",
+      "summary": "धनुषाका प्रमुख जिल्ला अधिकारी प्रेमप्रसाद लुइँटेलले भोलि हुने प्रतिनीधिसभा सदस्य निर्वाचनको सम्पूर्ण तयारी पूरा भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-preparations-complete-in-dhanusha-urges-voters-to-vote-with-confidence-36-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769303446_Election-480x320.jpg"
+    },
+    {
+      "title": "सिरहा क्षेत्र नं. ३ का जसपा नेपाल उम्मेदवार अशेश्वर यादव पक्राउ",
+      "summary": "नमस्ते नेपाल डिजिटल स्टुडियोबाट सार्वजनिक गरिएको यस भिडियोले प्रेम, माया र जीवनयात्रामा आवश्यक साथसहयोगको गहिरो अनुभूति उजागर गर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/khatiwada-s-song-chhahari-released-br-68-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772600060_jid 52-480x320.jpg"
     }
   ]
 }
