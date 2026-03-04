@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-04T05:11:30.003462",
+  "scraped_at": "2026-03-04T08:51:32.889249",
   "date": "2026-03-04",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/khatiwada-s-song-chhahari-released-br-68-94.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772600060_jid 52-480x320.jpg"
+    },
+    {
+      "title": "Kathmandu begins evacuating Nepalis in the Gulf to safety",
+      "summary": "Online portal launched to register stranded citizens and coordinate rescue efforts across West Asia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/04/kathmandu-begins-evacuating-nepalis-in-the-gulf-to-safety",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/63986936626366044333913193140843202154384942n-1772585247.jpg&w=600&height=400"
+    },
+    {
+      "title": "छुट पाएका सवारीसाधनले सम्बन्धित व्यक्तिबाहेकलाई ओसारपसार गर्न नपाइने",
+      "summary": "भारतीय प्रधानमन्त्री नरेन्द्र मोदीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन शाहलाई शुभकामना दिएको भन्दै भ्रम फैलाउने व्यक्तिलाई प्रहरीले नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/arrested-for-making-deep-fake-video-claiming-modi-wished-balen-64-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "नागरिक सरकारले गराएको निर्वाचन पहिलाभन्दा सुदृढ : गृहमन्त्री अर्याल",
+      "summary": "कम्पनीले जारी गरेको अद्यावधिक सूचनामा 'कतारी हवाई क्षेत्र बन्द गरिएकाले उडान सञ्चालन अस्थायी रूपमा निलम्बित छ' भनिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/flight-services-still-suspended-qatar-airways-57-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772523927_Quatar-480x320.jpg"
+    },
+    {
+      "title": "आशिका तामाङको उम्मेदवारी खारेज निराधार हो : निर्वाचन आयोग",
+      "summary": "नेकपा एमाले बाँकेका एक नेताले बाँकेका सिडिओविरुद्ध विवादास्पद अभिव्यक्ति दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/uml-leader-dhital-threatens-banke-cdo-60-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772613452_pic-480x320.jpg"
+    },
+    {
+      "title": "मतपेटिकाको सुरक्षा जिम्मा मतदान अधिकृतको : गृहमन्त्री अर्याल",
+      "summary": "८८ जना मौलवीहरू सम्मिलित उक्त सभाले सुरक्षा संवेदनशीलताका कारण अनलाइन मतदानमार्फत मोज्तबालाई चयन गरेको विदेशी सञ्चारमाध्यमले जानकारी दिएका छन्। जानकारी अनुसार ५५ वर्षीय मोज्तबालाई उनका बुबाले सन् २०२४ मै आफ्नो उत्तराधिकारीका रूपमा अघि सारेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/mojtaba-to-become-iran-s-supreme-leader-israel-threatens-cleansing-63-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772612142_Isreal warn-480x320.jpg"
+    },
+    {
+      "title": "‘बुर्का’ खोलेर चुनावी सुरक्षामा",
+      "summary": "भारतीय प्रधानमन्त्री नरेन्द्र मोदीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन शाहलाई शुभकामना दिएको भन्दै भ्रम फैलाउने व्यक्तिलाई प्रहरीले नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/arrested-for-making-deep-fake-video-claiming-modi-wished-balen-64-37.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
