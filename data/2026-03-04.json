@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-04T08:51:32.889249",
+  "scraped_at": "2026-03-04T13:14:35.627030",
   "date": "2026-03-04",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -350,6 +350,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/arrested-for-making-deep-fake-video-claiming-modi-wished-balen-64-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Kathmandu roads thin out as 884,000 leave Valley ahead of March 5 polls",
+      "summary": "With vehicle movement halted from midnight on Wednesday ahead of elections, only medium-distance services are operating on the final day.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/04/kathmandu-roads-thin-as-884-000-leave-valley-ahead-of-march-5-polls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/KathmanduValley-1772622594.jpg&w=300&height=200"
+    },
+    {
+      "title": "निर्वाचन तयारीबारे राष्ट्रपतिलाई प्रधानमन्त्रीको 'ब्रिफिङ'",
+      "summary": "महानायक राजेश हमालले आसन्न प्रतिनिधिसभा निर्वाचनमा सुझबुझपूर्ण तवरले मतदान गर्न आम मतदातालाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rajesh-hamal-s-appeal-vote-wisely-19-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760186488_rajesh_hamal-480x320.jpg"
+    },
+    {
+      "title": "रौतहट–४ मा भगत निष्क्रिय, धमलालाई समर्थन",
+      "summary": "अमेरिका-इजरायल आक्रमणबाट इरानमा पाँच दिनमा १ हजार ४५ जनाको मृत्यु भएको त्यहाँको सरकारी संचार माध्यमले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-attack-kills-1-000-in-iran-in-five-days-br-60-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772277807_israel iran conflict-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सभापति लामिछाने र वरिष्ठ नेता शाहले कहाँबाट गर्दैछन् मतदान ?",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनको पूर्वसन्ध्यामा प्रधानमन्त्री कार्कीले शीतल निवास पुगेर राष्ट्रपति पौडेलसँग भेट गरेकी हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-briefing-to-the-president-on-election-preparations-92-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772628319_PM_RASTRAPATI -480x320.jpg"
+    },
+    {
+      "title": "गण्डकीका सबै मतदान केन्द्रमा तयारी पूरा",
+      "summary": "बिहीबार हुने प्रतिनिधिसभा सदस्य निर्वाचनको अघिल्लो दिन रौतहट क्षेत्र नम्बर ४ मा नयाँ राजनीतिक समीकरण बनेको छ। सत्यनारायण भगतले आफ्नो उम्मेदवारी निष्क्रिय बनाउँदै ऋषि धमलालाई समर्थन गर्ने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bhagat-inactive-in-rautahat-4-support-for-dhamala-11-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772628061_Rishi_12-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनको गतिविधि 'मनिटरिङ' गर्न प्रहरीको 'सूचना प्रणाली'",
+      "summary": "महानायक राजेश हमालले आसन्न प्रतिनिधिसभा निर्वाचनमा सुझबुझपूर्ण तवरले मतदान गर्न आम मतदातालाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rajesh-hamal-s-appeal-vote-wisely-19-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
