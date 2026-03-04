@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-04T13:14:35.627030",
+  "scraped_at": "2026-03-04T16:57:05.419613",
   "date": "2026-03-04",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/rajesh-hamal-s-appeal-vote-wisely-19-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Prime Minister Karki briefs President Paudel on election preparedness",
+      "summary": "National Security Council reviews arrangements, says all measures are in place for a peaceful election.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/04/prime-minister-karki-briefs-president-paudel-on-election-preparedness",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/presidentssecretariat-1772634156.jpg&w=300&height=200"
+    },
+    {
+      "title": "रुपन्देही-२ : रास्वपा उम्मेदवार खरेलको सचिवालयमा आक्रमण",
+      "summary": "मध्यपुरथिमि नगरपालिका–१ लोकन्थली पार्कबाट अवैध लागुऔषध ब्राउनसुगर जस्तो देखिने पदार्थ र नगद २० हजार ४९५ सहित चार जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-people-arrested-with-drugs-35-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756829108_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सम्पर्कमा छौँ भनेर मात्र पुग्दैन सरकारले मध्यपूर्वमा फसेका नेपालीको तत्काल उद्धार गरोस्: गोकुल बास्कोटा",
+      "summary": "रुपन्देही क्षेत्र नम्बर-२ का राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार सुलभ खरेलको सचिवालयमा अज्ञात समूहले आक्रमण गरेको छ। बुटवल बसपार्क नजिकै रहेको होटल नमोबुद्धस्थित सचिवालयमा प्रवेश गरेर बुधबार राति आक्रमण भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rupandehi-2-attack-on-rsvp-candidate-kharel-s-secretariat-52-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772640121_rr-480x320.jpg"
+    },
+    {
+      "title": "विगतभन्दा बढी मत खस्ने सुनिश्चितता गरिएको आयोगको दाबी",
+      "summary": "भोलि हुने प्रतिनिधिसभा सदस्य निर्वाचनको पर्यवेक्षण गर्न विभिन्न मुलुकबाट आएका प्रतिनिधिहरुको सम्मानमा स्वागत समारोह आयोजना गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/reception-in-honor-of-the-observers-89-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772638860_7-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् आफैँलाई भोट हाल्न नपाउने शीर्ष नेता",
+      "summary": "आजदेखि २२ गतेसम्म देशभर उल्लेखनीय मौसम प्रणालीको प्रभाव नरहने जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-weather-across-the-country-will-remain-clear-on-the-day-of-voting-tomorrow-no-rain-anywhere-45-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772637877_Sky-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनका सम्पूर्ण तयारी पूरा भएको सुरक्षा परिषद्को निष्कर्ष",
+      "summary": "मध्यपुरथिमि नगरपालिका–१ लोकन्थली पार्कबाट अवैध लागुऔषध ब्राउनसुगर जस्तो देखिने पदार्थ र नगद २० हजार ४९५ सहित चार जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-people-arrested-with-drugs-35-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
