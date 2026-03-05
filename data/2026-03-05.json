@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-05T08:54:48.017710",
+  "scraped_at": "2026-03-05T13:18:34.263165",
   "date": "2026-03-05",
-  "total_articles": 49,
+  "total_articles": 57,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/24-50-percent-voting-in-okhaldhanga-till-1-pm-br-31-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Voting ends nationwide with sporadic disputes in a few districts",
+      "summary": "Disputes reported in Dolakha, Sarlahi and Rautahat. Election Commission to release turnout details in evening briefing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/voting-ends-nationwide-with-sporadic-disputes-in-a-few-districts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/08a51c8258ec47a8b3f1b5644ca49ae0-1772712248.jpg&w=300&height=200"
+    },
+    {
+      "title": "Vote counting set to begin tonight in all 10 Kathmandu constituencies",
+      "summary": "Officials estimate 60–65 percent voter turnout as polling concludes peacefully across the district.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/vote-counting-set-to-begin-tonight-in-all-10-kathmandu-constituencies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/641323233947598624589421110853322973032365n-1772712157.jpg&w=300&height=200"
+    },
+    {
+      "title": "Polling resumes in Dolakha after ballot snatching incident",
+      "summary": "All-party meeting agrees to allow voters in queue before 5 pm to cast ballots.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/polling-resumes-in-dolakha-after-ballot-snatching-incident",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/maludolakha05320261226141000x0-1772711004.jpg&w=300&height=200"
+    },
+    {
+      "title": "चितवनमा ६० प्रतिशत मत खसेको प्रारम्भिक अनुमान",
+      "summary": "जिल्ला निर्वाचन कार्यालय चितवनका निर्वाचन अधिकृत भिमसेन कार्कीका अनुसार प्रारम्भिक चरणमा ६० प्रतिशत मत खसेको हो । पुरा रिपोर्ट आउन बाँकी छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/initial-estimate-is-60-percent-voter-turnout-in-chitwan-22-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1772715912_Chitawan News (3)-480x320-wm.jpg"
+    },
+    {
+      "title": "मतदानमा देखिएको सहभागिताले थप जिम्मेवार बनाएको छः गगन थापा",
+      "summary": "मध्यपूर्वको हवाई क्षेत्रमा आएको अवरोधका कारण केही अन्तर्राष्ट्रिय उडानहरू ढिलाइ, पुनःतालिका वा रद्द हुन सक्ने सम्भावना रहेको सूचनाका उल्लेख छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/middle-east-tensions-in-nepal-15-international-flights-canceled-on-thursday-62-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741152120_Airport-480x320.jpg"
+    },
+    {
+      "title": "रोल्पामा करिब ४७ प्रतिशत मतदान, मतपेटिका संकलन सुरु",
+      "summary": "निर्वाचन आयोगले भौगोलिक रूपमा दुर्गम रहेका १५ जिल्लाका मतपेटिका हेलिकप्टरमार्फत ढुवानी गर्ने व्यवस्था मिलाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ballot-boxes-from-these-15-districts-are-being-transported-by-helicopter-23-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772715537_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "मनाङको नार र फू का मतपेटिका शुक्रबार बिहान मात्र ल्याइने",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले एक विज्ञप्ति जारी गर्दै निर्वाचनमा सहभागी भई आफ्नो अमूल्य मताधिकार प्रयोग गर्ने सम्पूर्ण आमाबुबा, दिदीबहिनी तथा दाजुभाइप्रति उच्च सम्मानसहित कृतज्ञता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/participation-in-voting-has-made-people-more-responsible-gagan-thapa-48-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772715660_GagaN tHAPA (1)-480x320.jpg"
+    },
+    {
+      "title": "रमजानका समय पनि मतदानमा मुस्लिम महिलाहरुको उत्साहजनक सहभागिता",
+      "summary": "जिल्ला निर्वाचन कार्यालय चितवनका निर्वाचन अधिकृत भिमसेन कार्कीका अनुसार प्रारम्भिक चरणमा ६० प्रतिशत मत खसेको हो । पुरा रिपोर्ट आउन बाँकी छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/initial-estimate-is-60-percent-voter-turnout-in-chitwan-22-69.html?click_from=just_in",
       "image_url": ""
     }
   ]
