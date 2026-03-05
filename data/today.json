@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-05T18:11:16.135342",
+  "scraped_at": "2026-03-05T20:46:19.130503",
   "date": "2026-03-05",
-  "total_articles": 65,
+  "total_articles": 70,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -526,6 +526,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/55-1-percent-voting-in-karnali-enthusiastic-participation-in-humla-and-dolpa-83-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "भक्तपुर–२ मा महेश बस्नेतको अग्रता, रास्वपाका खत्री पछिपछि",
+      "summary": "भक्तपुर क्षेत्र नम्बर-२ को मतगणनामा नेकपा एमालेका उम्मेदवार महेश बस्नेतले सुरुवाती अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-leads-in-bhaktapur-2-followed-by-rashtriya-swayamsevak-sangh-s-khatri-94-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768211911_mahesh_-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंका दुई क्षेत्रमा गणना जारी: विराजभक्त र कुलमानको फराकिलो अग्रता, कांग्रेस-एमाले निकै पछाडि",
+      "summary": "गौडेलले २०२ मतका साथ अग्रता कायम गर्दा उनलाई नेकपा एमालेका सूर्य प्रसाद ढकालले १४१ मतका साथ पछ्याइरहेका छन्। यस्तै, राष्ट्रिय स्वतन्त्र पार्टीका सुरेश कुमार चौधरी १०० मतका साथ तेस्रो स्थानमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/house-of-representatives-election-congress-gaudel-s-initial-lead-74-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772742818_Narayan-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं–३ : कुलमानको अग्रता, पछ्याउँदै राजु",
+      "summary": "प्रतिनिधि सभा निर्वाचन २०८२ को पछिल्लो मतपरिणाम अनुसार काठमाडौंका दुई महत्त्वपूर्ण क्षेत्रमा राष्ट्रिय स्वतन्त्र पार्टी र उज्यालो नेपाल पार्टीले अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/counting-continues-in-two-constituencies-of-kathmandu-biraj-bhakta-and-kulman-have-a-wide-lead-congress-uml-trailing-far-behind-17-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772741891_Kulman-Biraj-480x320.jpg"
+    },
+    {
+      "title": "झापा–५ मा सर्वदलीय बैठक जारी: ‘हेभीवेट’ भिडन्तको नतिजा कस्तो आउला ?",
+      "summary": "प्राप्त नतिजा अनुसार राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले सुरुवाती चरणमै फराकिलो अन्तरसहित अग्रता लिएको छ। रास्वपाले १ हजार ७ सय १४ मत प्राप्त गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rsp-s-one-sided-lead-in-kathmandu-8-congress-and-uml-far-behind-66-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743860057_biraj-480x320.jpg"
+    },
+    {
+      "title": "सर्लाही–१ को मतगणना भोलि बिहानदेखि",
+      "summary": "भक्तपुर क्षेत्र नम्बर-२ को मतगणनामा नेकपा एमालेका उम्मेदवार महेश बस्नेतले सुरुवाती अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahesh-basnet-leads-in-bhaktapur-2-followed-by-rashtriya-swayamsevak-sangh-s-khatri-94-92.html?click_from=just_in",
       "image_url": ""
     }
   ]
