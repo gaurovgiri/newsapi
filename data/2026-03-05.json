@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-05T13:18:34.263165",
+  "scraped_at": "2026-03-05T18:11:16.135342",
   "date": "2026-03-05",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/initial-estimate-is-60-percent-voter-turnout-in-chitwan-22-69.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "PM Karki discusses safety of 360,000 Nepalis with Qatari counterpart",
+      "summary": "The prime minister thanked Qatar for taking care of Nepali workers as tensions escalate in West Asia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/pm-karki-discusses-safety-of-360-000-nepalis-with-qatari-counterpart",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb28-1772722869.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali among six injured after drone intercepted in Abu Dhabi",
+      "summary": "Shrapnel from drones intercepted by UAE air defences in Abu Dhabi’s industrial city caused minor to moderate injuries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/nepali-among-six-injured-after-drone-intercepted-in-abu-dhabi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=600&height=400"
+    },
+    {
+      "title": "कर्णालीमा ५५.१ प्रतिशत मतदान, हिमाली जिल्लामा उच्च सहभागिता",
+      "summary": "दुई वटा निर्वाचन क्षेत्र रहेको दैलेखमा दुवै क्षेत्रमा मत खस्ने दर मध्यम देखिएको छ। दैलेख-१ मा ८१ हजार २ सय ८७ मतदाता संख्या रहेकोमा ५०.५२ प्रतिशत अर्थात् ४१ हजार ६९ मत खसेको छ भने ८१ हजार ५ सय ३ मतदाता संख्या रहेको दैलेख-२ मा ४८.२४ प्रतिशत अर्थात् ३९ हजार ३ सय २१ मत खसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/55-1-percent-voting-in-karnali-enthusiastic-participation-in-humla-and-dolpa-83-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772463714_Jumla-480x320.jpg"
+    },
+    {
+      "title": "सर्वदलीय बैठकको निर्णयपछि पनि मोरङ–४ को मतगणनामा ढिलाइ",
+      "summary": "प्रदेशभर कुल १० लाख ४८ हजार १३८ मतदाता रहेका थिए। तीमध्ये ५ लाख ७७ हजार ५४२ मत खसेको निर्वाचन कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/55-1-percent-voting-in-karnali-high-participation-in-himalayan-districts-br-74-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772704241_election3-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-७को मतगणना साढे ११ देखि",
+      "summary": "मोरङ क्षेत्र नम्बर ४ मा बिहीबार राति ११ बजेदेखि मतगणना गर्ने सर्वदलीय बैठकले निर्णय गरेपनि अझै सुरु हुन सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/morang-4-vote-counting-delayed-despite-all-party-meeting-decision-82-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772704240_election2-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-४ को मतगणना अब केहीबेरमा",
+      "summary": "निर्वाचन अधिकृत अमृताकुमारी शर्माका अनुसार सर्वदलीय बैठक सम्पन्न भएलगत्तै गणना कार्य अघि बढाइएको हो। काठमाडौं-१० को मतगणना दक्षिणकाली नगरपालिका वडा नम्बर १ बाट सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/counting-of-votes-begins-in-kathmandu-10-nbsp-36-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772729625_Bhaktapur-2-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-३ को मतगणना सुरु",
+      "summary": "दुई वटा निर्वाचन क्षेत्र रहेको दैलेखमा दुवै क्षेत्रमा मत खस्ने दर मध्यम देखिएको छ। दैलेख-१ मा ८१ हजार २ सय ८७ मतदाता संख्या रहेकोमा ५०.५२ प्रतिशत अर्थात् ४१ हजार ६९ मत खसेको छ भने ८१ हजार ५ सय ३ मतदाता संख्या रहेको दैलेख-२ मा ४८.२४ प्रतिशत अर्थात् ३९ हजार ३ सय २१ मत खसेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/55-1-percent-voting-in-karnali-enthusiastic-participation-in-humla-and-dolpa-83-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
