@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-05T02:45:08.693957",
+  "scraped_at": "2026-03-05T05:15:52.158589",
   "date": "2026-03-05",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/janardan-sharma-casts-his-vote-in-rukum-west-31-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Voting proceeds peacefully across country: Nepal Police",
+      "summary": "Minor disputes and an accidental firearm discharge caused slight disruption, but overall polling continues without major issues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/05/voting-proceeds-peacefully-across-country-nepal-police",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/64274807624577942780145903885036343000321140n-1772684630.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister Karki, political leaders cast votes",
+      "summary": "Voting underway nationwide with heightened security at key polling centres.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/05/prime-minister-karki-political-leaders-cast-votes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/c771396cc4b241d5b9bac3ad1e74f7cc-1772681073.jpg&w=300&height=200"
+    },
+    {
+      "title": "Voters turn out across Nepal for parliamentary elections",
+      "summary": "Polling centres see long queues as people of all ages cast their ballots peacefully.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/03/05/voters-turn-out-across-nepal-for-parliamentary-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/MAIN1-1772686770.jpg&w=300&height=200"
+    },
+    {
+      "title": "वेगको वाचा मात्र गर्दैनौं, दुर्घटना हुन नदिने जिम्मा पनि लिन्छौं: गगन",
+      "summary": "नेपाली कांग्रेसका सभापति एवं सर्लाही क्षेत्र नम्बर-४ का उम्मेदवार गगन थापाले मुलुकलाई वेगमा मात्र नभई सुझबुझपूर्ण ढंगले अघि बढाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-don-t-just-promise-speed-we-also-take-responsibility-for-preventing-accidents-gagan-67-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772687439_gagan_-480x320.jpg"
+    },
+    {
+      "title": "कार्यवाहक मेयर डंगोलद्वारा मतदान, मताधिकार प्रयाेग गर्न आग्रह",
+      "summary": "मन्त्री अर्याल, सुरक्षा निकायका प्रमुख र गृहमन्त्रालयका उच्च अधिकारीको टोलीले गृह मन्त्रालयको ‘कन्ट्रोल रूम’मा बसी सबै निर्वाचन क्षेत्रहरुको मनिटर गरिरहेको गृहमन्त्रीका निजी सचिव पर्शुराम पोखरेलले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/home-minister-s-monitoring-of-the-election-61-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772687174_Home-480x320.jpg"
+    },
+    {
+      "title": "मोरङमा विहानैदेखि उत्साहजनक मतदान करिब १४ प्रतिशत खस्यो मत",
+      "summary": "काठमाडौं महानगरपालिकाकी कार्यबाहक मेयर सुनिता डंगोलले मतदान गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/acting-mayor-dangol-urges-people-to-exercise-their-voting-rights-12-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772686566_sunita-480x320.jpg"
+    },
+    {
+      "title": "दोलखामा बुथ कब्जा गरेको आरोप : दुई पक्षबीच झडप भएपछि हवाई फायर",
+      "summary": "उनले सबै सरोकारवाला मतदाता, राजनीतिक दल र उम्मेदवारलाई उत्साहजनक र शान्तिपूर्ण मतदानमा सहयोग गर्न आह्वान गरेका छन्। मतदान सम्पन्न भएलगतै मतपेटिका संकलनपछि मतगणना गरिने उनले जानकारी गराए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/the-commission-estimates-that-65-percent-of-the-votes-will-be-cast-51-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772686360_Ramprasad (1)-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : १० बजेसम्म ६ प्रतिशत मतदान",
+      "summary": "नेपाली कांग्रेसका सभापति एवं सर्लाही क्षेत्र नम्बर-४ का उम्मेदवार गगन थापाले मुलुकलाई वेगमा मात्र नभई सुझबुझपूर्ण ढंगले अघि बढाउने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-don-t-just-promise-speed-we-also-take-responsibility-for-preventing-accidents-gagan-67-97.html?click_from=just_in",
       "image_url": ""
     }
   ]
