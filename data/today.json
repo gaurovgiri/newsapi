@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-05T05:15:52.158589",
+  "scraped_at": "2026-03-05T08:54:48.017710",
   "date": "2026-03-05",
-  "total_articles": 42,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -342,6 +342,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-don-t-just-promise-speed-we-also-take-responsibility-for-preventing-accidents-gagan-67-97.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "अर्थतन्त्रले कसरी देश विकासमा सहयोग पु¥याउँछ ?",
+      "summary": "अर्थतन्त्रले कसरी देश विकासमा सहयोग पु¥याउँछ ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12416",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Digital-economy-1772592073.jpg"
+    },
+    {
+      "title": "‘Pahilo Aamnirwachan 2015’ explores Nepal’s first parliamentary election",
+      "summary": "Attempts to influence voters tend to continue even during the silent periods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/05/pahilo-aamnirwachan-2015-explores-nepal-s-first-parliamentary-election",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=400&height=267"
+    },
+    {
+      "title": "A refugee’s struggle at the heart of ‘Prawasi Jiwan’",
+      "summary": "Ballot boxes have been sealed and will be sent to the office of chief returning officer after 5 pm, the jail administration said.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2026/03/04/a-refugee-s-struggle-at-the-heart-of-prawasi-jiwan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/2SQXUIIGWRI45NQOESYU23IKLE-1772695809.jpg&w=400&height=267"
+    },
+    {
+      "title": "ओखलढङ्गामा दिउँसो १ बजेसम्म २४ दशमलव ५० प्रतिशत मतदान",
+      "summary": "ओखलढुङ्गामा दिउँसो १ बजेसम्म ३० हजार ६७ मत अर्थात २४ दशमलव ५० प्रतिशत मतदान भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/24-50-percent-voting-in-okhaldhanga-till-1-pm-br-31-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769303446_Election-480x320.jpg"
+    },
+    {
+      "title": "इलाममा ४० प्रतिशत मतदान",
+      "summary": "इलाममा मतदानको क्रम जारी छ । दुई निर्वाचन क्षेत्र रहेको इलाममा मतदाताको उत्साहजनक सहभागितामा मतदान भइरहको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/40-percent-voting-in-ilam-51-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772699488_Ilam-480x320.jpg"
+    },
+    {
+      "title": "रुपन्देहीमा दिउँसो १ बजेसम्म करिब ५० प्रतिशत मतदान",
+      "summary": "रुपन्देहीमा दिउँसो १ बजेसम्म औसतमा ५० प्रतिशत मत खसेको मुख्य निर्वाचन अधिकृतको कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nearly-50-percent-voting-in-rupandehi-by-1-pm-12-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772697101_voter-480x320.jpg"
+    },
+    {
+      "title": "दार्चुलामा३० दशमलव ४० प्रतिशत मतदान",
+      "summary": "दार्चुलामा हालसम्म पुरुष मतदाताको संख्या १५ हजार १८७ र महिला मतदाताको संख्या १३ हजार २७ रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/30-40-percent-voter-turnout-in-darchula-14-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772620403_matadan-480x320.jpg"
+    },
+    {
+      "title": "मोरङमा २९ दशमलव ५५ प्रतिशत मतदान",
+      "summary": "ओखलढुङ्गामा दिउँसो १ बजेसम्म ३० हजार ६७ मत अर्थात २४ दशमलव ५० प्रतिशत मतदान भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/24-50-percent-voting-in-okhaldhanga-till-1-pm-br-31-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
