@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-03-05T02:45:08.693957",
   "date": "2026-03-05",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "NagarikNews",
     "News24",
@@ -131,14 +131,6 @@
     {
       "title": "16,000 Nepali nationals in war zone register online for help",
       "summary": "Based on daily reports from Nepali missions in West Asia, regular updates are maintained on the status of Nepali migrants.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/national/2026/03/05/16-000-nepali-nationals-in-war-zone-register-online-for-help",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/11-1772674666.jpg&w=600&height=400"
-    },
-    {
-      "title": "16,000 Nepali nationals in war zone register online for help",
-      "summary": "Polling began at 7am and will continue until 5pm.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/03/05/16-000-nepali-nationals-in-war-zone-register-online-for-help",
