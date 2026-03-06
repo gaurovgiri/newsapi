@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-06T16:53:32.755020",
+  "scraped_at": "2026-03-06T20:40:56.129286",
   "date": "2026-03-06",
-  "total_articles": 65,
+  "total_articles": 70,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -526,6 +526,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/work-is-more-important-than-winning-or-losing-i-am-not-prejudiced-against-anyone-raju-40-58.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सर्लाही-४ अग्रता बढाउँदै अमरेश, २८ सय मतले पछि परे गगन",
+      "summary": "सर्लाही क्षेत्र नम्बर-४ को मतगणनामा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार अमरेश कुमार सिंहले आफ्नो अग्रता कायमै राखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/amresh-increases-lead-in-sarlahi-4-gagan-lags-behind-by-2800-votes-60-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768296825_gagan-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौं-५ मा रास्वपाका स्मितको जित, प्रदीप र ईश्वर भारी मतान्तरले पराजित",
+      "summary": "काठमाडौं क्षेत्र नम्बर-५ बाट प्रतिनिधिसभा सदस्यमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार स्मित पोखरेल फराकिलो मतान्तरसहित निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-s-smit-wins-in-kathmandu-5-pradeep-and-ishwar-defeated-by-a-large-margin-55-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772747089_Sasmit-480x320.jpg"
+    },
+    {
+      "title": "झापा-२ मा इन्दिराको फराकिलो अग्रता, एमाले र कांग्रेस निकै पछाडि",
+      "summary": "झापा क्षेत्र नम्बर-२ को मतगणनामा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की उम्मेदवार इन्दिरा राना मगरले आफ्नो फराकिलो अग्रता कायमै राखेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/indira-s-wide-lead-in-jhapa-2-uml-and-congress-far-behind-31-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772802278_indira devraj-480x320.jpg"
+    },
+    {
+      "title": "दैलेख १ मा कांग्रेसकी बासना थापा विजयी",
+      "summary": "निर्वाचन अधिकृतको कार्यालयले सार्वजनिक गरेको अन्तिम मत परिणाम अनुसार थापा १२ हजार ३ सय ७१ मत प्राप्त गर्दै विजयी भएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-basna-thapa-wins-in-dailekh-1-73-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772825973_Thapa-480x320.jpg"
+    },
+    {
+      "title": "‘थोरै सिट ल्यायो भनेर हेप्ने दुस्साहस नगरियोस्, म जंगलको सिंह हुँ’",
+      "summary": "सर्लाही क्षेत्र नम्बर-४ को मतगणनामा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार अमरेश कुमार सिंहले आफ्नो अग्रता कायमै राखेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/amresh-increases-lead-in-sarlahi-4-gagan-lags-behind-by-2800-votes-60-87.html?click_from=just_in",
       "image_url": ""
     }
   ]
