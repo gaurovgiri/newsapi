@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-06T08:50:44.935963",
+  "scraped_at": "2026-03-06T13:14:09.756183",
   "date": "2026-03-06",
-  "total_articles": 47,
+  "total_articles": 57,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -382,6 +382,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-representative-dies-after-going-to-eat-from-counting-site-86-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP’s Shishir Khanal wins second term in Kathmandu-6",
+      "summary": "Former education minister secures decisive victory, far ahead of Congress and UML rivals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/rsp-s-shishir-khanal-wins-second-term-in-kathmandu-6",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SHISHIRKHANAL-1772798530.png&w=300&height=200"
+    },
+    {
+      "title": "RSP’s Rabi Lamichhane extends lead in Chitwan-2",
+      "summary": "Lamichhane secures 17,414 votes, far ahead of rivals in early count.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/rsp-s-rabi-lamichhane-extends-lead-in-chitwan-2",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/HCnRtrawAIhTV8-1772681455.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress opens win account, Yogesh Gauchan triumphs in Mustang",
+      "summary": "Nepali Congress candidate secures victory in Himalayan district, defeating UML rival",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/congress-opens-win-account-yogesh-gauchan-triumphs-in-mustang",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/yogeshgauchanthakali06320260746241000x0-1772780051.png&w=300&height=200"
+    },
+    {
+      "title": "Thirty million voices, one message: fix government!",
+      "summary": "All the stakeholders in the current electoral process deserve the highest praise.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/06/thirty-million-voices-one-message-fix-government",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/balendrashahreuters-1772801919.jpg&w=400&height=267"
+    },
+    {
+      "title": "What Nepal must do to break the cycle of instability",
+      "summary": "It can fix free-riding behaviour, end patronage and discourage the exodus of Nepali youth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/06/what-nepal-must-do-to-break-the-cycle-of-instability",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/iranvessel-1772801005.jpg&w=400&height=267"
+    },
+    {
+      "title": "झापा–२ अपडेट : निवर्तमान सभामुख भन्दा उपसभामुख साढे ७ हजार मतले अगाडि",
+      "summary": "झापा निर्वाचन क्षेत्र नम्बर–२ मा प्रतिनिधिसभाका निवर्तमान सभामुख र उपसभामुख आमनेसामने छन्। पछिल्लो परिणाम अनुसार राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की उम्मेदवार एवं निवर्तमान उपसभामुख इन्दिरा रानाले फराकिलो अग्रता बनाएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jhapa-2-update-deputy-speaker-leads-by-7-500-votes-over-outgoing-speaker-91-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772802278_indira devraj-480x320.jpg"
+    },
+    {
+      "title": "रौतहटका तीन क्षेत्रमा रास्वपाको अग्रता",
+      "summary": "आज साँझ करिब ६ बजेसम्मको मतगणना अनुरूप कुल ३३ हजार ६६७ मत गणना गर्दा रास्वपाका सुलभ खरेल २२ हजार ५६४ मतसहितको फराकिलो अग्रता कायम राखेका छन्। नेकपा एमालेका विष्णु पौडेल ४ हजार ८९७ मतसहित दोस्रो स्थानमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/sulabh-kharel-maintains-a-wide-lead-in-rupandehi-2-73-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772737882_Rupandehi-480x320.jpg"
+    },
+    {
+      "title": "उदयपुर १ मा रास्वपा र २ मा श्रम सँस्कृतिको सुरुवाति अग्रता",
+      "summary": "त्यसैगरि रास्वपाका लखन कुमार थापाले ८१९ मत पाउँदा प्रलोपाका सन्दीप पुनले २०३ मत प्राप्त गरेका छन्। नेकपा माओवादीका जुद्धबहादुर बुढाले १९१ ल्याउँदा जनमोर्चाका चन्द्रबहादुर शाहीले ३२ मत प्राप्त गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/dahal-wins-from-rukum-east-82-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771412030_prachanda-480x320.jpg"
+    },
+    {
+      "title": "दाङ–३ म पनि रास्वपाको अग्रता कायमै",
+      "summary": "हिमाली जिल्ला मनाङमा पनि कांग्रेसका उम्मेद्वार टेकबहादुर गुरुङ विजयी भएका छन। यो समेत गरेर उनको संसदमा तेश्रो सहभागिता हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/congress-tekhadur-gurung-wins-in-manang-94-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1772801607_Tek Bahadur Gurung Manang-480x320.jpg"
+    },
+    {
+      "title": "दाङ–२ मा मतान्तर बढाउँदै रास्वपा",
+      "summary": "झापा निर्वाचन क्षेत्र नम्बर–२ मा प्रतिनिधिसभाका निवर्तमान सभामुख र उपसभामुख आमनेसामने छन्। पछिल्लो परिणाम अनुसार राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की उम्मेदवार एवं निवर्तमान उपसभामुख इन्दिरा रानाले फराकिलो अग्रता बनाएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jhapa-2-update-deputy-speaker-leads-by-7-500-votes-over-outgoing-speaker-91-78.html?click_from=just_in",
       "image_url": ""
     }
   ]
