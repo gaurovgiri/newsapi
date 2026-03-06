@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-06T05:12:33.338032",
+  "scraped_at": "2026-03-06T08:50:44.935963",
   "date": "2026-03-06",
-  "total_articles": 37,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -303,6 +303,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/counting-of-votes-begins-in-morang-constituency-no-2-congress-s-rijal-in-third-place-81-86.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755952610_Minendra_Rijal-480x320.jpg"
+    },
+    {
+      "title": "Rastriya Swatantra Party leads nationwide with 77 constituencies",
+      "summary": "Nepali Congress has won one seat and is leading in eight others, while CPN-UML is ahead in seven constituencies.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/rastriya-swatantra-party-leads-nationwide-with-70-constituencies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260305at62637pm0532026014833-1772784976.jpg&w=300&height=200"
+    },
+    {
+      "title": "Unsigned ballots delay vote count in Syangja-2",
+      "summary": "Dispute over 171 ballots without polling officer’s signature stalls counting process.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/gandaki-province/2026/03/06/unsigned-ballots-delay-vote-count-in-syangja-2",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RMKhajuraMatgadna2-1772773748.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah holds wide margin in Jhapa-5",
+      "summary": "Pushpa Kamal Dahal retains the wide margin in Rukum East-1",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/balendra-shah-holds-wide-margin-in-jhapa-5",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balen-1772783934.jpg&w=300&height=200"
+    },
+    {
+      "title": "The rise of English writing in Nepal",
+      "summary": "Nepalis are contemplating a new government in the aftermath of the Gen Z revolt.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/06/the-rise-of-english-writing-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/yogeshgauchanthakali06320260746241000x0-1772780051.png&w=400&height=267"
+    },
+    {
+      "title": "In Janakpur, young women are reimagining Mithila art",
+      "summary": "Nepal Janasewa Party candidate Arjun Shahi, contesting with the 'Shoe' symbol, receives zero votes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/05/in-janakpur-young-women-are-reimagining-mithila-art",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb10-1772777532.jpg&w=400&height=267"
+    },
+    {
+      "title": "मतगणना स्थलबाट खाना खान गएका रास्वपा प्रतिनिधिको मृत्यु",
+      "summary": "मोरङ क्षेत्र नम्बर २ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का प्रतिनिधिको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-representative-dies-after-going-to-eat-from-counting-site-86-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753102635_raswapa office building-480x320.jpg"
+    },
+    {
+      "title": "कास्की–१ मा रास्वपाका पौडेल झण्डै दोब्बर मतले अगाडि",
+      "summary": "प्रतिनिधि सभा सदस्य निर्वाचनको प्रारम्भिक मतगणनाअनुसार म्याग्दी निर्वाचन क्षेत्र नं १ मा स्वतन्त्र उम्मेदवार महावीर पुनले अग्रता हासिल गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/mahavir-pun-leads-in-myagdi-1-br-98-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769247351_Mahabir_Pun-480x320.jpg"
+    },
+    {
+      "title": "एमालेले अग्रता लिएका चार निर्वाचन क्षेत्र",
+      "summary": "शुक्रबार सर्वदलीय बैठक सकिए लगत्तै रोल्पामा दिउँसो १ः३० बजेबाट मतगणना सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/counting-of-votes-begins-in-rolpa-49-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772785834_rolpa-480x320.jpg"
+    },
+    {
+      "title": "लमजुङ: कांग्रेसका गम प्रसादको सुरुवाती अग्रता, एमालेका पृथ्वीसुब्बा पछि",
+      "summary": "क्षेत्र नम्बर २ को मतगणना इलाम सदरमुकामस्थित गौतमबुद्ध सभागृहमा भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/counting-of-votes-begins-in-ilam-2-constituency-number-one-also-begins-26-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772785330_ilam vote count-480x320.jpg"
+    },
+    {
+      "title": "रुकुम पश्चिममा जनार्दन शर्माको सुरुवाती अग्रता",
+      "summary": "मोरङ क्षेत्र नम्बर २ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का प्रतिनिधिको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-representative-dies-after-going-to-eat-from-counting-site-86-89.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
