@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-06T13:14:09.756183",
+  "scraped_at": "2026-03-06T16:53:32.755020",
   "date": "2026-03-06",
-  "total_articles": 57,
+  "total_articles": 65,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -462,6 +462,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/jhapa-2-update-deputy-speaker-leads-by-7-500-votes-over-outgoing-speaker-91-78.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP takes early lead in Nepal polls with three confirmed seats",
+      "summary": "Rastriya Swatantra Party candidates are ahead in 110 constituencies as counting for the House of Representatives continues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/06/rsp-takes-early-lead-in-nepal-polls-with-three-confirmed-seats",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb7-1772771675.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu ranked world’s third most polluted city at Friday noon",
+      "summary": "Experts expect new government to take concrete steps to address air pollution. Brief rain likely across Bagmati, Gandaki, and Sudurpaschim provinces until Sunday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/03/06/kathmandu-ranked-world-s-third-most-polluted-city-at-friday-noon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/main1743569434-1772809390.jpg&w=300&height=200"
+    },
+    {
+      "title": "Former prime minister Pushpa Kamal Dahal secures fifth consecutive term in parliament",
+      "summary": "The Nepali Communist Party coordinator secures 10,240 votes, defeating CPN-UML and Congress rivals.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/06/former-prime-minister-pushpa-kamal-dahal-secures-fifth-consecutive-term-in-parliament",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/dahal31120261145381000x0-1772802724.jpg&w=300&height=200"
+    },
+    {
+      "title": "जित-हारभन्दा काम ठूलो, कसैप्रति पूर्वाग्रह राख्दिनँ: राजु",
+      "summary": "काठमाडौं क्षेत्र नम्बर-३ बाट प्रतिनिधिसभा सदस्यमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार राजुनाथ पाण्डे भारी मतान्तरसहित विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/work-is-more-important-than-winning-or-losing-i-am-not-prejudiced-against-anyone-raju-40-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771760391_raju_panday-480x320.jpg"
+    },
+    {
+      "title": "सप्तरी २ मा सीकेलाई पछि पार्दै रास्वपाका रामजीको अग्रता",
+      "summary": "पछिल्लो विवरण अनुसार रास्वपाका रामजी यादवले २ हजार ७ सय ५५ मत प्राप्त गरेका छन् भने जनमत पार्टीका सीके राउत १ हजार २ सय २७ मतका साथ दोस्रो स्थानमा खुम्चिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-s-ramji-leads-in-saptari-2-overtaking-ck-63-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772814877_CK-480x320.jpg"
+    },
+    {
+      "title": "सप्तरी ३ मा उपेन्द्रलाई रास्वपाको कडा चुनौती, अमरकान्तले उछिने",
+      "summary": "पछिल्लो विवरण अनुसार रास्वपाका अमरकान्त चौधरीले २ हजार ५ सय ७९ मत प्राप्त गरेका छन् भने जसपा नेपालका उपेन्द्र यादव २ हजार ५ सय ५ मतका साथ उनलाई पछ्याइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-faces-tough-challenge-to-upendra-in-saptari-3-amar-kanta-to-surpass-him-83-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772814144_Upendra-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन परिणाम हामी अनुकूल आएन, अब गहिरो र निर्मम समीक्षा गर्छौं : विश्वप्रकाश",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले हालै सम्पन्न प्रतिनिधिसभा निर्वाचनको परिणाम आफ्नो पार्टीको अनुकूल नआएको स्वीकार गर्दै यसको गहिरो र निर्मम समीक्षा गरिने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-results-were-not-favorable-to-us-now-we-will-conduct-a-deep-and-ruthless-review-bishwaprakash-71-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1748941207_Bishwaprakash-480x320.jpg"
+    },
+    {
+      "title": "कास्की ३ मा रास्वपाकी गुरुङ विजयी, २० हजार बढी मतान्तर",
+      "summary": "काठमाडौं क्षेत्र नम्बर-३ बाट प्रतिनिधिसभा सदस्यमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार राजुनाथ पाण्डे भारी मतान्तरसहित विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/work-is-more-important-than-winning-or-losing-i-am-not-prejudiced-against-anyone-raju-40-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
