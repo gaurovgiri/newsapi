@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-06T02:42:42.896456",
+  "scraped_at": "2026-03-06T05:12:33.338032",
   "date": "2026-03-06",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/counting-of-votes-continues-in-kailali-1-rukh-takes-the-lead-55-39.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "RSP leads early vote count in 44 constituencies",
+      "summary": "New party surges ahead as traditional rivals UML and Congress trail in preliminary tally.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/06/rsp-leads-early-vote-count-in-44-constituencies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb7-1772771675.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balen Shah widens lead over KP Sharma Oli in Jhapa-5",
+      "summary": "RSP senior leader ahead by more than 6,000 votes as counting continues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-1/2026/03/06/balen-shah-widens-lead-over-kp-sharma-oli-in-jhapa-5",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1772757467.jpg&w=300&height=200"
+    },
+    {
+      "title": "मोरङ क्षेत्र नं २ को मतगणना सुरु, कांग्रेसका रिजाल तेस्रो स्थानमा",
+      "summary": "सर्लाही–४ मा नेपाली कांग्रेसका सभापति गगन थापा र रास्वपाका डा. अमरेश सिह बिच कडा प्रतिस्पर्धा हुने आंकलन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/counting-of-votes-begins-in-sarlahi-4-gagan-and-amresh-expected-to-face-tough-competition-90-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772773694_gagan amresh-480x320.jpg"
+    },
+    {
+      "title": "कपिलवस्तु-३ : कांग्रेसका शाह अग्र स्थानमा",
+      "summary": "मोरङ क्षेत्र नं २ को पनि मतगणना सुरु भएको छ। मोरङ २ मा रास्पवाका कृष्ण कार्कीले प्रारम्भिक अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/counting-of-votes-begins-in-morang-constituency-no-2-congress-s-rijal-in-third-place-81-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755952610_Minendra_Rijal-480x320.jpg"
     }
   ]
 }
