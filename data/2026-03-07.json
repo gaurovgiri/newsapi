@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-07T08:40:34.531411",
+  "scraped_at": "2026-03-07T13:03:38.090065",
   "date": "2026-03-07",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/dr-wagle-of-rsvp-wins-in-tanahun-1-br-22-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rastriya Swatantra Party dominates FPTP race, leads proportional vote count",
+      "summary": "Party wins 36 seats and leads in 83 constituencies; secures nearly 55 percent of proportional votes counted so far.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/07/rastriya-swatantra-party-dominates-fptp-race-leads-proportional-vote-count",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/64249521943952080340463538352663073716210905n-1772863809.jpg&w=300&height=200"
+    },
+    {
+      "title": "Karki commission plans to submit report on Sunday",
+      "summary": "The commission members held a meeting at their Singh Durbar-based office on Saturday for a final discussion on the findings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/07/karki-commission-plans-to-submit-report-on-sunday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/GAURIBAHADURKARKI-1772875298.jpg&w=600&height=400"
+    },
+    {
+      "title": "मोरङका तीन क्षेत्रमा एमाले उम्मेदवारको जमानत जफत",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचन–२०८२ अन्तर्गत मोरङका तीन निर्वाचन क्षेत्रमा नेकपा (एमाले)का उम्मेदवारको जमानत जफत भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deposits-of-uml-candidates-confiscated-in-three-areas-of-morang-92-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770187895_uml21-480x320.jpg"
+    },
+    {
+      "title": "झापा ५ : ओलीलाई करिब ५० हजार मतले पछि पार्दै बालेन विजयी",
+      "summary": "बारा निर्वाचन क्षेत्र नम्बर १ मा पनि राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार गणेश धिमाल भारी मतान्तरले निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/rsvp-s-dhimal-wins-in-bara-1-11-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772887981_dhimal-480x320.jpg"
+    },
+    {
+      "title": "हारपछि प्रकाशलाई लिङदेनको आग्रहः अपार जनमतलाई निराश नबनाउनु",
+      "summary": "परिणाम आउन बाँकी रहेका क्षेत्रमध्ये पनि अधिकांशमा रास्वपाकै उम्मेद्वारको अग्रता कायम छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/gandaki-province-rashtriya-swayamsevak-sangh-rss-dominates-congress-seed-is-saved-56-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772704240_election2-480x320.jpg"
+    },
+    {
+      "title": "सिरहा–४ः रास्वपाका तपेश्वर जित नजिक",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का विरष्ठ नेता बालेन्द्र शाह (बालेन) निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/jhapa-5-balen-wins-trailing-oli-by-nearly-50-000-votes-br-67-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771947260_oli balen-480x320.jpg"
+    },
+    {
+      "title": "सिरहा–२ मा रास्वपाका यादवको जित सुनिश्चित",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचन–२०८२ अन्तर्गत मोरङका तीन निर्वाचन क्षेत्रमा नेकपा (एमाले)का उम्मेदवारको जमानत जफत भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deposits-of-uml-candidates-confiscated-in-three-areas-of-morang-92-78.html?click_from=just_in",
       "image_url": ""
     }
   ]
