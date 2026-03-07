@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-07T16:37:24.917694",
+  "scraped_at": "2026-03-07T20:34:25.005159",
   "date": "2026-03-07",
-  "total_articles": 64,
+  "total_articles": 70,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -518,6 +518,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/iran-apologizes-to-gulf-countries-announces-it-will-not-attack-sets-this-condition-52-79.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP extends lead in both FPTP and proportional votes",
+      "summary": "Party wins 78 constituencies, leads in 44 others.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/07/rsp-extends-lead-in-both-fptp-and-proportional-votes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balenrabi-1772905709.jpg&w=300&height=200"
+    },
+    {
+      "title": "मोरङ–३ : बेलबारीको मत गन्दा कार्कीको अग्रता फराकिलो, शर्मा ११ हजार मतले पछि",
+      "summary": "मोरङ क्षेत्र नम्बर ३ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार गणेश कार्कीले फराकिलो अग्रता बनाएका छन्। बेलबारी नगरपालिकाको वडा नम्बर २ र १० को मतपरिणाम मिसिएपछि कार्कीले मतान्तर थप बढाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/morang-3-karki-s-lead-widens-as-belbari-votes-counted-sharma-trails-by-11-000-votes-44-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772915358_kari sharma-480x320.jpg"
+    },
+    {
+      "title": "बाजुरामा कांग्रेसका गिरीले लिए अग्रता, हेमराज तेस्रो",
+      "summary": "प्रतिनिधिसभा सदस्य पदका लागि भएको निर्वाचनमा बाजुरमा नेपाली कांग्रेसका उम्मेदवार जनकराज गिरीले अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/chaudhary-of-rashtriya-swayamsevak-sangh-rss-elected-in-sunsari-3-86-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772914962_hemraj-480x320.jpg"
+    },
+    {
+      "title": "चुनाव हारे पनि जनताको सेवा गर्छु: धमला",
+      "summary": "रौतहट क्षेत्र नम्बर-४ बाट भारी मतान्तरले पराजित भएपछि आम जनता पार्टीका उम्मेदवार ऋषि धमलाले जनताको फैसलालाई स्वीकार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/even-if-i-lose-the-election-i-will-serve-the-people-dhamala-78-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1769357127_dhamala-480x320.jpg"
+    },
+    {
+      "title": "रुकुम पश्चिममा गोपाल शर्मा विजयी, जनार्दन तेस्रो",
+      "summary": "निर्वाचनको सबैभन्दा ठुलो धक्का पूर्वमन्त्री तथा प्रगतिशील लोकतान्त्रिक पार्टीका ६२ वर्षीय नेता जनार्दन शर्मालाई लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gopal-sharma-wins-in-rukum-west-janardan-third-70-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772912291_Gopal-480x320.jpg"
+    },
+    {
+      "title": "कञ्चनपुर–१ मा रास्वपाका धामी निर्वाचित",
+      "summary": "मोरङ क्षेत्र नम्बर ३ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार गणेश कार्कीले फराकिलो अग्रता बनाएका छन्। बेलबारी नगरपालिकाको वडा नम्बर २ र १० को मतपरिणाम मिसिएपछि कार्कीले मतान्तर थप बढाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/morang-3-karki-s-lead-widens-as-belbari-votes-counted-sharma-trails-by-11-000-votes-44-81.html?click_from=just_in",
       "image_url": ""
     }
   ]
