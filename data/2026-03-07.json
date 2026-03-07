@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-07T13:03:38.090065",
+  "scraped_at": "2026-03-07T16:37:24.917694",
   "date": "2026-03-07",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/deposits-of-uml-candidates-confiscated-in-three-areas-of-morang-92-78.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balendra Shah defeats UML chair Oli in Jhapa-5",
+      "summary": "Kathmandu’s former mayor secures 68,348 votes, defeating Oli by nearly 50,000 votes and emerging as RSP’s prime ministerial candidate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/07/balendra-shah-defeats-uml-chair-oli-in-jhapa-5",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balencopy07320261245591000x0-1772887196.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP surges ahead in FPTP and proportional vote counts",
+      "summary": "Party wins 62 seats and leads in 60 constituencies as Balendra Shah defeats UML chair KP Sharma Oli in Jhapa-5 by nearly 50,000 votes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/07/rsp-surges-ahead-in-fptp-and-proportional-vote-counts-1772896154",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/PKSJB3ZTIRMRLCTRVAY2CUVDMI-1772811213.jpg&w=300&height=200"
+    },
+    {
+      "title": "कैलाली-३ मा रास्वपाका जोशी निर्वाचित",
+      "summary": "फेब्रुअरी २८ मा इजरायल र संयुक्त राज्य अमेरिकाले इरानविरुद्ध सैन्य आक्रमण सुरु गरेपछि क्षेत्रीय तनाव तीव्र बनेको थियो। सो आक्रमणमा सर्वोच्च नेता आयातुल्ला अली खामेनी मारिएपछि इरानमा तीन सदस्यीय अन्तरिम नेतृत्व परिषद् गठन गरिएको छ, जसमा पेजेस्कियान पनि सदस्य छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-apologizes-to-gulf-countries-announces-it-will-not-attack-sets-this-condition-52-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772900777_Iran-480x320.jpg"
+    },
+    {
+      "title": "दाङ-३ मा रास्वपाका सुवेदी विजयी",
+      "summary": "ललितपुर-२ को मत गणना जारी छ । यो समाचार तयार पार्दासम्म राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार जगदीश खरेलले अग्रता लिइरहेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/jagdish-kharel-is-ahead-by-20-000-votes-in-lalitpur-2-54-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768100801_jagadish kharel-480x320.jpg"
+    },
+    {
+      "title": "शक्तिबहादुर बस्नेतलाई हराउँदै जाजरकोटमा कांग्रेसका बुढा निर्वाचित",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत भक्तपुरको निर्वाचन क्षेत्र नं २ बाट समानुपातिकतर्फको मतगणना सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/counting-of-votes-for-proportional-representation-begins-in-bhaktapur-12-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772765383_bhaktapur vote count-480x320.jpg"
+    },
+    {
+      "title": "पाल्पा-१ मा कांग्रेसका राना निर्वाचित",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनमा कैलालीको निर्वाचन क्षेत्र नं-३ बाट राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का जगतप्रसाद जोशी निर्वाचित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-s-joshi-elected-in-kailali-3-br-44-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772899177_jagat-480x320.jpg"
+    },
+    {
+      "title": "नवलपुर-१ मा रास्वपाका गौतम निर्वाचित",
+      "summary": "फेब्रुअरी २८ मा इजरायल र संयुक्त राज्य अमेरिकाले इरानविरुद्ध सैन्य आक्रमण सुरु गरेपछि क्षेत्रीय तनाव तीव्र बनेको थियो। सो आक्रमणमा सर्वोच्च नेता आयातुल्ला अली खामेनी मारिएपछि इरानमा तीन सदस्यीय अन्तरिम नेतृत्व परिषद् गठन गरिएको छ, जसमा पेजेस्कियान पनि सदस्य छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-apologizes-to-gulf-countries-announces-it-will-not-attack-sets-this-condition-52-79.html?click_from=just_in",
       "image_url": ""
     }
   ]
