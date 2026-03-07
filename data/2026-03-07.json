@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-07T05:03:33.524259",
+  "scraped_at": "2026-03-07T08:40:34.531411",
   "date": "2026-03-07",
-  "total_articles": 44,
+  "total_articles": 50,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/ganesh-poudel-of-rsvp-is-four-times-ahead-of-his-opponent-in-kaski-1-50-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RPP senior vice-chair Rabindra Mishra resigns",
+      "summary": "Mishra says he will remain independent and continue advocating for monarchy restoration and good governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/07/rpp-senior-vice-chair-rabindra-mishra-resigns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Rabndra-1772864856.jpg&w=300&height=200"
+    },
+    {
+      "title": "रूपन्देही–३ मा डा. लेखजंग थापाको ऐतिहासिक मतान्तरसहितको जित",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनमा तनहुँ निर्वाचन क्षेत्र नम्बर १ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उपसभापति डा. स्वर्णिम वाग्ले विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/dr-wagle-of-rsvp-wins-in-tanahun-1-br-22-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772872485_Wagle 52-480x320.jpg"
+    },
+    {
+      "title": "दाङ–२ः रास्वपाका आचार्य विजयी, शंकर पोखरेलको लगातार दोस्रो हार",
+      "summary": "रूपन्देही क्षेत्र नं. ३ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का डा. लेखजंग थापाले ५० हजारभन्दा धेरै मतान्तरले निर्वाचन जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dr-lekhjung-thapa-wins-with-a-historic-margin-in-rupandehi-3-98-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772871384_Lekhjung-480x320.jpg"
+    },
+    {
+      "title": "झापा ५ मा बालेनको जित पक्का : २४ हजार मत गन्न बाँकी, ओली ३८ हजारले पछि",
+      "summary": "आचार्य ४३ हजार ५ सय ५७ मत प्राप्त गर्दै निर्वाचित भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dang-2-acharya-of-rashtriya-swayamsevak-sangh-wins-shankar-pokharel-loses-for-second-time-in-a-row-16-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772871147_bipin rsp-480x320.jpg"
+    },
+    {
+      "title": "रवीन्द्र मिश्रका दुई घोषणा",
+      "summary": "८२ हजार ११८ गत मणना हुँदा ५२ हजार ९६ मतसहित बालेन अग्र स्थानमा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-victory-is-certain-in-jhapa-5-24-000-votes-remain-to-be-counted-oli-is-38-000-behind-94-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771947260_oli balen-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछाने भने: जनताले दिएको जिम्मेवारी परिणाममा बदल्छौं",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनमा तनहुँ निर्वाचन क्षेत्र नम्बर १ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उपसभापति डा. स्वर्णिम वाग्ले विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/dr-wagle-of-rsvp-wins-in-tanahun-1-br-22-53.html?click_from=just_in",
       "image_url": ""
     }
   ]
