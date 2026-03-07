@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-07T02:35:33.854478",
+  "scraped_at": "2026-03-07T05:03:33.524259",
   "date": "2026-03-07",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/ganesh-poudel-of-the-rashtriya-swayamsevak-sangh-rss-is-certain-to-win-in-kaski-1-17-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rastriya Swatantra Party surges towards landslide victory",
+      "summary": "Observers say voters punished old parties for their failure to deliver, abuse of power, and widespread corruption.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/07/rastriya-swatantra-party-surges-towards-landslide-victory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kathmandu1RanjuDarsana20260306J2A9951copy-1772843903.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP extends lead in proportional votes, dominates FPTP seats",
+      "summary": "The party ahead in early national tally with 57 pecent of proportional votes; wins 25 FPTP seats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/07/rsp-extends-lead-in-proportional-votes-dominates-fptp-seats",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/64419074913110037208992284590190267371420817n-1772857069.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Reels are shaping the way artists create",
+      "summary": "Karki delivers election",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/07/how-reels-are-shaping-the-way-artists-create",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MixCollage07Mar20260913AM2296-1772854118.jpg&w=400&height=267"
+    },
+    {
+      "title": "A petty thief’s story at Mandala Theatre Nepal",
+      "summary": "Senior party figures, including Paudel, Ghimire, and Koirala, lose by wide margins.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/07/a-petty-thief-s-story-at-mandala-theatre-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Screenshot20260307090549-1772853686.png&w=400&height=267"
+    },
+    {
+      "title": "The politics beneath Nepal’s rural roads",
+      "summary": "RSP’s senior leader Shah tops count with over 39,000 votes, far ahead of UML chair Oli.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/07/the-politics-beneath-nepal-s-rural-roads",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "At Dining Room, a menu shaped by global kitchens",
+      "summary": "The party ahead in early national tally with 57 pecent of proportional votes; wins 25 FPTP seats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/06/at-dining-room-a-menu-shaped-by-global-kitchens",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1772851388.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुदूरपश्चिममा एमालेका महर विजयी",
+      "summary": "कास्की क्षेत्र नम्बर-१ मा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाका गनेस पौडेलको जित सुनिश्चित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/ganesh-poudel-of-rsvp-is-four-times-ahead-of-his-opponent-in-kaski-1-50-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772850114_ganes 67-480x320.jpg"
+    },
+    {
+      "title": "चितवन-३ मा सोविताको अग्रता फराकिलो बन्दै, रेनु २८ हजार मतले पछि",
+      "summary": "सुदूरपश्चिम प्रदेशमा बझाङबाट नेकपा एमालेका ऐन महर विजयी भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-s-mahar-wins-in-the-far-west-99-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772859054_mahar-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका ढकाललाई बधाई दिँदै ज्ञवालीले भने : यस्तो परिणामको अपेक्षा थिएन",
+      "summary": "रौतहट र सर्लाहीमा ठुला पार्टीका ठुला नेताहरुलाई रास्वपाका साधारण उम्मेदवारहरुले चुनौती दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/rsp-candidate-challenging-heavyweight-s-existence-23-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1743427604_RSP_rasopa_rawopa-480x320.jpg"
+    },
+    {
+      "title": "डोल्पामा नेकपाको अग्रता",
+      "summary": "चितवन निर्वाचन क्षेत्र नम्बर ३मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)की उम्मेदवार सोविता गौतमले फराकिलो मतान्तरसहित अग्रता कायम गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sovita-s-lead-widens-in-chitwan-3-renu-trails-by-28-000-votes-16-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1747902626_sobita-480x320.jpg"
+    },
+    {
+      "title": "चितवन-३ मा सोविताको अग्रता, रेणु २५ हजार मतले पछि",
+      "summary": "कास्की क्षेत्र नम्बर-१ मा राष्ट्रिय स्वतन्त्र पार्टी रास्वपाका गनेस पौडेलको जित सुनिश्चित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/ganesh-poudel-of-rsvp-is-four-times-ahead-of-his-opponent-in-kaski-1-50-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
