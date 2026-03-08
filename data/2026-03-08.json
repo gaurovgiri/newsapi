@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-08T02:49:12.286549",
+  "scraped_at": "2026-03-08T05:12:29.227280",
   "date": "2026-03-08",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/prakash-singh-karki-of-the-congress-party-wins-in-solukhumbu-45-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ओखलढुंगाको परिणाम : पाँच मत बढी पाएर निर्वाचित भए रास्वपाका पोखरेल",
+      "summary": "रुखले च्यापेर आइतबार बिहान सुनसरी रामधुनीमा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-crushed-by-a-tree-while-sitting-on-a-platform-69-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742293886_nagarika-480x320.jpg"
+    },
+    {
+      "title": "गगन थापाले दिए अमरेशलाई बधाई, मतदातालाई भने : धन्यवाद!",
+      "summary": "कांग्रेस उम्मेदवार कुमार लुइटेललाई पाँच मतले पछि मात्रै पोखरेल निर्वाचित भएका हुन् । पोखरेल १३ हजार ९५३ मत ल्याएर विजयी हुँदा लुइटेलले १३ हजार ९४८ मत पाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/okhaldhunga-results-pokharel-of-the-rashtriya-swayamsevak-sangh-rss-was-elected-with-five-more-votes-59-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772946416_pokhrel-480x320.jpg"
+    },
+    {
+      "title": "सिरहा-३ मा रास्वपाका शम्भु यादव फराकिलो मतान्तरले विजयी",
+      "summary": "सर्लाही क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यमा निर्वाचित राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) नेता डा. अमरेश कुमार सिंहलाई नेपाली कांग्रेसका सभापति गगन थापाले बधाई तथा शुभकामना दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/gagan-thapa-congratulates-amresh-thanks-to-the-voters-13-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772945440_gagan-480x320.jpg"
+    },
+    {
+      "title": "नेपालीहरूले परिवर्तनको सन्देश दिए : सुमना श्रेष्ठ",
+      "summary": "सरकारले पेट्रोलमा १० प्रतिशत इथानोल मिश्रण गरी प्रयोगमा ल्याउने नीति लागु गरेसँगै वैकल्पिक इन्धन उत्पादनमा निजी तथा प्रवासी नेपाली लगानी आकर्षित हुन थालेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/attracting-investors-to-the-ethanol-industry-br-59-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772945246_cv 65-480x320.jpg"
+    },
+    {
+      "title": "बैतडीमा रास्वपाका भण्डारी विजयी",
+      "summary": "रुखले च्यापेर आइतबार बिहान सुनसरी रामधुनीमा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-crushed-by-a-tree-while-sitting-on-a-platform-69-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
