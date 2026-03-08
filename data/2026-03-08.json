@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-08T16:38:55.377984",
+  "scraped_at": "2026-03-08T20:35:47.184884",
   "date": "2026-03-08",
-  "total_articles": 57,
+  "total_articles": 61,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -463,6 +463,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/half-of-kavre-s-candidates-failed-to-reach-100-votes-21-19.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "RSP wins 124 seats, leads in one more; dominates proportional vote",
+      "summary": "Nepali Congress wins 17 seats and leads in one constituency, while UML secures eight seats and leads in one.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/08/rsp-wins-124-seats-leads-in-one-more-dominates-proportional-vote",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/reuters-1772888431.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रकाश शरणलाई हराउँदै रास्वपाका तिमिल्सिना विजयी",
+      "summary": "भारतका लागि सञ्जु सामसनले सर्वाधिक ८९ रन बनाएका छन्। त्यस्तै अभिषेक शर्माले ५२ र इशान किशनले ५४ रन बनाएका छन्। शिवम दुबेले ८ बलमा २६ रन जोडेका छन्। न्युजिल्याण्डका जिम्मी निशमले ३ विकेट लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/india-wins-t20-world-cup-for-the-third-time-defeating-new-zealand-50-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772990685_India-480x320.jpg"
+    },
+    {
+      "title": "बाजुरामा पराजित हेमराज थापाको अपिल- बजुरेली मेरा परिवार हुन्, गाली नगरिदिनुस्",
+      "summary": "सरकार, संसद र पार्टीमा प्रभाव राख्ने नेपाली कांग्रेसका नेता ज्ञानेन्द्रबहादुर कार्कीलाई पराजित गर्दै सुनसरी क्षेत्र नं. ४ बाट रास्वपाका दिपक साह विजयी भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/sah-of-the-rashtriya-swayamsevak-sangh-rss-wins-defeating-gyanendra-karki-of-the-congress-by-a-huge-margin-35-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772989211_Sah-480x320.jpg"
+    },
+    {
+      "title": "अछाममा एमालेका यज्ञबहादुर विजयी, बालेन्द्रका सारथी भुपदेवले कति मत पाए?",
+      "summary": "बागमती प्रदेशअन्तर्गत नुवाकोट निर्वाचन क्षेत्र नं. १ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उम्मेदवार विक्रम तिमिल्सिना निर्वाचित भएका छन्। ४३ वर्षीय तिमिल्सिनाले २२ हजार ६०९ मत प्राप्त गरी जित हासिल गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-s-timilsina-wins-defeating-prakash-sharan-88-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772987659_Nuwakot-480x320.jpg"
     }
   ]
 }
