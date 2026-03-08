@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-08T05:12:29.227280",
+  "scraped_at": "2026-03-08T08:40:32.847318",
   "date": "2026-03-08",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -310,6 +310,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dies-after-being-crushed-by-a-tree-while-sitting-on-a-platform-69-30.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Karki-led commission submits report on Gen Z uprising",
+      "summary": "Prime Minister Sushila Karki says she will study the commission’s report with the home minister, implement its recommendations, and decide on public disclosure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/08/karki-led-commission-submits-report",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/karki-1772953357.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah’s thumping win caps another big day for RSP",
+      "summary": "Kathmandu’s former mayor secured 68,348 votes, defeating Oli by nearly 50,000 votes and bolstering his chances of becoming prime minister.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/08/balendra-shah-s-thumping-win-caps-another-big-day-for-rsp",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6438766619083335754961147399774948982847704n-1772928607.jpg&w=300&height=200"
+    },
+    {
+      "title": "How the Iran war could create a ‘fertiliser shock’",
+      "summary": "After getting seat allotments, parties elect lawmakers from closed lists they have submitted to the commission.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/08/how-the-iran-war-could-create-a-fertiliser-shock",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1772956537.jpg&w=400&height=267"
+    },
+    {
+      "title": "हर्क साम्पाङको जितमा बालेन्द्र शाहको 'माया'",
+      "summary": "देशभर राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को ‘घन्टी लहर’ चलिरहेको बेला राजनीतिक वृत्तमा एउटा भनाइ निकै चर्चित थियो – ‘घन्टीको हावाले देशभरि सिट जिते पनि एउटा सिट सुरक्षित छ भने त्यो हो - भक्तपुर १।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/silently-ringing-the-bell-in-the-city-of-madal-52-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772854094_Prem suwal rukesh ranjit-480x320.jpg"
+    },
+    {
+      "title": "भक्तपुर–२ मा समानुपातिकतर्फको मतगणना सकियो, रास्वपा पहिलो पार्टी",
+      "summary": "शाह र साम्पाङबीच विगतदेखि नै निकट सम्बन्ध र आपसी समर्थन देखिँदै आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-sah-s-love-for-hark-sampang-s-victory-br-38-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758015678_balen and harka-480x320.jpg"
+    },
+    {
+      "title": "भोजपुरमा श्रम संस्कृति पार्टीकै अग्रता",
+      "summary": "आइतबार सम्पन्न मतगणनाको अन्तिम मतपरिणाम अनुसार राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)ले ४३ हजार ३२२ मत ल्याएर पहिलो बनेको मतदान अधिकृत राधिका सुवालले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/counting-of-votes-for-proportional-representation-completed-in-bhaktapur-2-92-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772765383_bhaktapur vote count-480x320.jpg"
+    },
+    {
+      "title": "बाबु र आमापछि संसदीय यात्रामा क्षितिज थेबे",
+      "summary": "भोजपुरमा प्रतिनिधिसभा निर्वाचनकाे मतगणना हुँदै छ। जसअन्तर्गत श्रम संस्कृति पार्टीकाे ध्रुवराज राईले नै अग्रता लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-culture-party-leads-in-bhojpur-br-51-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772951376_dhurba 65-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रवादीहरूलाई संगठित हुन ज्ञानेन्द्र शाहीको आह्वान",
+      "summary": "देशभर राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को ‘घन्टी लहर’ चलिरहेको बेला राजनीतिक वृत्तमा एउटा भनाइ निकै चर्चित थियो – ‘घन्टीको हावाले देशभरि सिट जिते पनि एउटा सिट सुरक्षित छ भने त्यो हो - भक्तपुर १।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/silently-ringing-the-bell-in-the-city-of-madal-52-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
