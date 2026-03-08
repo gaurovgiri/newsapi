@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-08T08:40:32.847318",
+  "scraped_at": "2026-03-08T13:05:17.182600",
   "date": "2026-03-08",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/silently-ringing-the-bell-in-the-city-of-madal-52-56.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP leads with 120 seats, dominates proportional vote with 2.5 million ballots",
+      "summary": "Nepali Congress secures 17 seats, UML and Nepali Communist Party win seven seats each.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/08/rsp-leads-with-120-seats-dominates-proportional-vote-with-2-5-million-ballots",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/RSPVOTECOUNT-1772974479.jpg&w=300&height=200"
+    },
+    {
+      "title": "नवलपुरमा २०४८ देखिको कांग्रेसको विरासत भत्कियो",
+      "summary": "गौतम तत्कालीन नेकपा माओवादीको राजनीति गर्दै रास्वपामा प्रवेश गरेका थिए। उनी रास्वपाको गण्डकी प्रदेश सभापति समेत हुन्। यसअघि देवचुली कलेजको क्याम्पस प्रमुख भएर काम गरेका उनले स्नातकोत्तरसम्मको अध्ययन पुरा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-legacy-since-2048-bs-destroyed-in-nawalpur-81-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772971706_Rajan-480x320.jpg"
+    },
+    {
+      "title": "‘बालेल फ्याक्टर’ले मधेसमा रास्वपाको एकलौटी : ‘घण्टी’मा मधेसले देख्यो बालेलको तस्बिर",
+      "summary": "एक सिट बाहेक ३० सिटमा रास्वपाले क्लिन स्वीप गरेको छ। रौतहट–२ मा नेपाली कांग्रेसले जित हासिल गरेको छ भने धनुषा–१ मा मतगणना जारी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balel-factor-shows-rsvp-s-dominance-in-madhesh-madhesh-saw-balel-s-picture-in-ghanti-82-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768751696_Balen-480x320.jpg"
+    },
+    {
+      "title": "१५५ स्थानको मतगणना सार्वजनिक, रास्वपाका ११९ उम्मेदवार विजयी",
+      "summary": "प्रतिनिधिसभा सदस्य निर्वाचनको जारी मतगणनामा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) हालसम्म ११९ क्षेत्रमा विजयी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/vote-count-for-155-seats-made-public-so-far-119-rsvp-candidates-win-25-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771407586_balen_rabi-480x320.jpg"
+    },
+    {
+      "title": "गोरखा–१ मा मतान्तर फराकिलो बनाउँदै गुरुङ, कांग्रेसका खत्री १५ सय मतले पछि",
+      "summary": "संयुक्त राष्ट्रसंघले सन् १९७५ लाई ‘अन्तर्राष्ट्रिय महिला वर्ष’ घोषणा गर्दै औपचारिक रूपमा मार्च ८ लाई अन्तर्राष्ट्रिय नारी दिवसका रूपमा मनाउन सुरु गर्यो (UN, 2023)।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/international-women-s-day-historical-background-objectives-and-achievements-52-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772971596_womenrights-480x320.jpg"
+    },
+    {
+      "title": "हाम्रो पार्टीविरुद्ध यस्तो लहर किन आयो, समीक्षा गर्छौं: गुरुङ",
+      "summary": "गौतम तत्कालीन नेकपा माओवादीको राजनीति गर्दै रास्वपामा प्रवेश गरेका थिए। उनी रास्वपाको गण्डकी प्रदेश सभापति समेत हुन्। यसअघि देवचुली कलेजको क्याम्पस प्रमुख भएर काम गरेका उनले स्नातकोत्तरसम्मको अध्ययन पुरा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-legacy-since-2048-bs-destroyed-in-nawalpur-81-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
