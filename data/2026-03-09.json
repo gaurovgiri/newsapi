@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-09T05:22:10.007346",
+  "scraped_at": "2026-03-09T08:55:52.852728",
   "date": "2026-03-09",
-  "total_articles": 39,
+  "total_articles": 44,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -319,6 +319,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/second-poster-of-the-film-paralak-ago-released-br-98-84.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773032707_lead 64-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक मत सुर्खेत-१ मा कांग्रेस, जुम्लामा नेकपा र सल्यानमा रास्वपा पहिलो",
+      "summary": "सुर्खेत निर्वाचन क्षेत्र १ को समानुपातिक निर्वाचन प्रणालीबमोजिम भएको मतगणनाअनुसार नेपाली कांग्रेस पहिलो भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proportional-vote-counting-congress-in-surkhet-1-ncp-in-jumla-and-rsvp-in-salyan-38-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772765383_bhaktapur vote count-480x320.jpg"
+    },
+    {
+      "title": "गोरखा १ : रास्वपाका सुधन गुरुङको अग्रता कायमै",
+      "summary": "कैलालीमा आफ्नै श्रीमतीको हत्या गर्ने व्यक्ति पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/man-arrested-for-murdering-wife-with-sharp-weapon-29-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रको निर्वाचन खर्च १४ लाख १७ हजार",
+      "summary": "भारतीय टी–२० क्रिकेट टोलीका कप्तान सूर्यकुमार यादवले आफ्नो अर्को लक्ष्य सन् २०२८ मा हुने एलए ओलम्पिक स्वर्ण जित्नु रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/captain-suryakumar-s-next-goal-winning-olympic-gold-98-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773043312_surya-480x320.jpg"
+    },
+    {
+      "title": "देश रूपान्तरण गर्न रास्वपाले पाएको आशा र भरोसा खेर जाँदैनः शिशिर खनाल",
+      "summary": "बिहीबार सम्पन्न प्रतिनिधिसभा सदस्य निर्वाचनअन्तर्गत लमजुङमा १२ उम्मेदवारमध्ये नौ जना उम्मेदवारको जमानत जफत भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/deposits-of-nine-candidates-confiscated-in-lamjung-br-61-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकमा तनहुँमा रास्वपा पहिलो",
+      "summary": "सुर्खेत निर्वाचन क्षेत्र १ को समानुपातिक निर्वाचन प्रणालीबमोजिम भएको मतगणनाअनुसार नेपाली कांग्रेस पहिलो भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proportional-vote-counting-congress-in-surkhet-1-ncp-in-jumla-and-rsvp-in-salyan-38-76.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
