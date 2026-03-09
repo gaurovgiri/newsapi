@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-09T08:55:52.852728",
+  "scraped_at": "2026-03-09T13:22:11.308674",
   "date": "2026-03-09",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/proportional-vote-counting-congress-in-surkhet-1-ncp-in-jumla-and-rsvp-in-salyan-38-76.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Young representatives of a young country",
+      "summary": "As many as 59 parliamentarians under 40 have been elected in the lower house in the March 5 election.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/09/young-representatives-of-a-young-country",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/34-1773028187.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah’s election expenses total Rs1.4 million",
+      "summary": "RSP senior leader’s highest spending recorded during a 15-day ward-level door-to-door campaign, costing Rs580,000.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/09/balendra-shah-s-election-expenses-total-rs1-4-million",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/balendraog01220260249541000x0-1773046843.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP maintains strong lead in FPTP seats and proportional votes",
+      "summary": "RSP secures 124 seats and leads in one constituency as of 161 declared seats.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/09/rsp-maintains-strong-lead-in-fptp-seats-and-proportional-votes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/64249521943952080340463538352663073716210905n-1772863809.jpg&w=600&height=400"
+    },
+    {
+      "title": "निर्वाचन आयोगले हटायो आचारसंहिता",
+      "summary": "मध्यपूर्वमा बढ्दो द्वन्द्व र तनावका कारण विश्व ऊर्जा बजारमा देखिएको अस्थिरता नियन्त्रण गर्ने उपायबारे प्रमुख औद्योगिक देशहरूका अर्थमन्त्रीहरूले छलफल गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-war-international-initiative-to-stabilize-oil-market-62-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773030131_Oil-480x320.jpg"
+    },
+    {
+      "title": "कपिलवस्तुमा पनि समानुपातिकतर्फ पहिलो भयो रास्वपा",
+      "summary": "गौरादह नगरपालिकाका प्रमुख छत्रपति सुवेदीलाई घरमै गई दुर्व्यवहार गरेको आरोपमा सोही पालिकाको वडा नं ५ निवासी ३४ वर्षीय भीष्म सिटौला पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/man-arrested-for-abusing-gauradaha-mayor-97-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "धनुषा–१ मा रास्वपा उम्मेदवार किशोरी साहको रिटमा सर्वोच्चद्वारा कारण देखाऊ आदेश",
+      "summary": "गुराँसको जङ्गलबीच रहेको धार्मिक तथा पर्यटकीयस्थल रायराँयकोटमा पूर्वाधार थपिएसँगै त्यहाँ पुग्ने पर्यटक बढेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/crowds-of-people-watching-gurans-and-making-tiktoks-in-raya-rayakot-31-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773058057_rayakot-480x320.jpg"
+    },
+    {
+      "title": "संसद्‍ प्रवेश गरेका नयाँ पार्टीका नयाँ अनुहारहरू",
+      "summary": "आयोगको सोमबार बसेको बैठकले आजै मध्यराति १२ बजेदेखि लागु हुनेगरी आचारसंहिता लागु नरहने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/election-commission-removes-code-of-conduct-60-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763442808_1762261986_Election Commission1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कालीकोटमा समानुपातिकतर्फ नेकपा पहिलो",
+      "summary": "मध्यपूर्वमा बढ्दो द्वन्द्व र तनावका कारण विश्व ऊर्जा बजारमा देखिएको अस्थिरता नियन्त्रण गर्ने उपायबारे प्रमुख औद्योगिक देशहरूका अर्थमन्त्रीहरूले छलफल गर्ने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-war-international-initiative-to-stabilize-oil-market-62-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
