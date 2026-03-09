@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-09T13:22:11.308674",
+  "scraped_at": "2026-03-09T17:02:00.473781",
   "date": "2026-03-09",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/impact-of-middle-east-war-international-initiative-to-stabilize-oil-market-62-49.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Indian Prime Minister Modi congratulates RSP leaders on election success",
+      "summary": "Modi expresses commitment to work with Nepal’s new government for mutual prosperity and stronger bilateral ties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/09/indian-prime-minister-modi-congratulates-rsp-leaders-on-election-success",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/birajbhaktashrestha02220261100201000x0-1773073589.jpg&w=300&height=200"
+    },
+    {
+      "title": "बाफलमा स्कुटर दुर्घटना हुँदा एक महिलाको मृत्यु",
+      "summary": "चितवनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)लाई समानुपातिक तर्फ ६१ दशमलव ०६ प्रतिशत मत आएको छ । चितवनबाट दुई वटा दल बाहेक अन्यले १० प्रतिशत समेत कटाउन सकेनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/in-chitwan-the-rashtriya-swayamsevak-sangh-rss-got-61-06-votes-through-proportional-representation-18-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773074651_mat-480x320.jpg"
+    },
+    {
+      "title": "धनुषा–१ मा नेकपाका यादवले पाए प्रमाणपत्र",
+      "summary": "काठमाडौं महानगरपालिका–१३ बाफलस्थित सडकमा बाप्र ०२–०४९ प १६३५ नम्बरको मोटरसाइकल र लु ७९ प ३४९ नम्बरको स्कुटर एकआपसमा ठक्कर खाँदा स्कुटरमा सवार नवलपरासी पूर्व घर भएकी ५० वर्षीया पिन्कीदेवी रौनियारको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/a-woman-died-in-a-scooter-accident-in-bafal-68-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "शान्तिपूर्ण निर्वाचनमा प्रहरीको भूमिका प्रशंसनीय : महानिरीक्षक कार्की",
+      "summary": "धनुषा निर्वाचन क्षेत्र नम्बर-१ को अन्तिम मतपरिणाम घोषणा नगर्न सर्वोच्च अदालतले आदेश दिएको अवस्थामा पनि निर्वाचन अधिकृतको कार्यालयले नेपाल कम्युनिस्ट पार्टी (नेकपा) का उम्मेदवार मातृकाप्रसाद यादवलाई निर्वाचित भएको प्रमाणपत्र प्रदान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ncp-s-yadav-receives-certificate-in-dhanusha-1-23-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773072639_649505931_25476922061985618_1464932469448646542_n-480x320.jpg"
+    },
+    {
+      "title": "११ जनप्रतिनिधिको पद गुम्यो, संसदीय यात्रामा पनि पूर्णविराम",
+      "summary": "प्रहरी महानिरीक्षक दानबहादुर कार्कीले प्रतिनिधिसभा सदस्य निर्वाचनलाई शान्तिपूर्ण, भयरहित एवं निष्पक्ष वातावरणमा सफलतापूर्वक सम्पन्न गराउन सम्पूर्ण प्रहरी कर्मचारीले निर्वाह गरेको भूमिका प्रशंसनीय रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/police-s-role-in-peaceful-elections-commendable-inspector-general-karki-27-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773072115_Untitled-3-480x320.jpg"
+    },
+    {
+      "title": "मोरङमा समानुपातिक मतमा पनि रास्वपाकै बर्चस्व",
+      "summary": "चितवनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)लाई समानुपातिक तर्फ ६१ दशमलव ०६ प्रतिशत मत आएको छ । चितवनबाट दुई वटा दल बाहेक अन्यले १० प्रतिशत समेत कटाउन सकेनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/in-chitwan-the-rashtriya-swayamsevak-sangh-rss-got-61-06-votes-through-proportional-representation-18-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
