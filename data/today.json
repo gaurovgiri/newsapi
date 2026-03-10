@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-10T13:19:51.350120",
+  "scraped_at": "2026-03-10T17:01:31.433593",
   "date": "2026-03-10",
-  "total_articles": 56,
+  "total_articles": 61,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -454,6 +454,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-reply-to-modi-s-post-we-will-cooperate-to-deepen-nepal-india-relations-97-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "सुन्दर देश भुटानसँग अझै बलियो सम्बन्ध चाहन्छौं: बालेन",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन्द्र शाहले भुटानसँग अझै सुन्दर र प्रगाढ सम्बन्ध बनाउन चाहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/expectations-for-stronger-ties-with-beautiful-country-bhutan-balen-92-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772969961_pm_balen-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा जेन-जी पुस्ताको बलियो ‘इन्ट्री’",
+      "summary": "नेपाली संसदीय राजनीतिमा लामो समयदेखि चल्दै आएको पुरानै अनुहारको वर्चस्वलाई यसपटकको निर्वाचन नतिजाले तोडेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rise-of-gen-g-in-parliament-eight-young-mps-in-direct-line-18-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773158309_12-480x320.jpg"
+    },
+    {
+      "title": "यो व्यवस्थामै पनि बहुमत ल्याउन सकिने रहेछ: प्रदीप",
+      "summary": "नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले प्राप्त गरेको बहुमतलाई वर्तमान व्यवस्थाकै जित भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-possible-to-bring-about-a-majority-even-under-this-system-pradeep-br-26-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773156817_pradip--480x320.jpg"
+    },
+    {
+      "title": "१७ भोट ल्याएका उम्मेदवारको चुनाव खर्च: १० प्लेट चाउमिन, २० प्लेट मःम !",
+      "summary": "कर्णालीको दुर्गम भूगोलमा स्वास्थ्य सेवा र चिकित्सा शिक्षाको उज्यालो आशा बोकेको कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठानको बहुवर्षीय गुरुयोजना वर्षौँदेखि कागजमै सीमित बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/cherechaur-master-plan-stalled-due-to-budget-shortage-86-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773156521_Rolpa-480x320.jpg"
+    },
+    {
+      "title": "दूरगामी महत्वका विषयमा साझा सहमति खोज्न रवि, बालेनलाई कांग्रेस महामन्त्री पौडेलको सुझाव",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता बालेन्द्र शाहले भुटानसँग अझै सुन्दर र प्रगाढ सम्बन्ध बनाउन चाहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/expectations-for-stronger-ties-with-beautiful-country-bhutan-balen-92-98.html?click_from=just_in",
       "image_url": ""
     }
   ]
