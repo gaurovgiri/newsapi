@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-10T02:41:38.400782",
+  "scraped_at": "2026-03-10T05:13:13.991188",
   "date": "2026-03-10",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/election-results-for-165-constituencies-announced-live-who-has-how-many-seats-88-59.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Vegetable prices fluctuate up to 200 percent in a month amid elections",
+      "summary": "Commerce Department report finds sharp swings in prices of cauliflower, broccoli and other produce despite stable supply conditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/10/vegetable-prices-fluctuate-up-to-200-percent-in-a-month-amid-elections",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/money-1773108598.jpg&w=600&height=400"
+    },
+    {
+      "title": "How travel can trigger acne",
+      "summary": "Shah should be the new prime minister and allowed to rule for the full five years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/10/how-travel-can-trigger-acne",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SPORTS-1773109591.jpg&w=400&height=267"
+    },
+    {
+      "title": "Through art, she observes life more deeply",
+      "summary": "US President Donald Trump told Republican lawmakers on Monday the ⁠war would continue until Iran is “totally and decisively defeated” but predicted it would be over soon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/09/through-art-she-observes-life-more-deeply",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/money-1773108598.jpg&w=400&height=267"
+    },
+    {
+      "title": "Kirtan artist Radhika Das to perform at Patan Museum",
+      "summary": "Striving for success can drive growth, but when it consumes identity, it can jeopardise mental health.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/09/kirtan-artist-radhika-das-to-perform-at-patan-museum",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1773107772.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Give to Gain’: The hidden labour of women",
+      "summary": "Stay informed and prepared: Plan your day with The Kathmandu Post’s weather updates.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/08/give-to-gain-the-hidden-labour-of-women",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/HAZE-1773107357.jpg&w=400&height=267"
+    },
+    {
+      "title": "कर्णालीमा पुरानै दलको वर्चस्व",
+      "summary": "नवलपरासी (बर्दघाट सुस्तापूर्व) नवलपुरको विनयी त्रिवेणी गाउँपालिका–२ मा अवस्थित दाउन्ने देवी मन्दिर धार्मिक, ऐतिहासिक तथा पर्यटकीय दृष्टिले महत्त्वपूर्णस्थलका रूपमा परिचित बन्दै गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nawalpur-s-daunne-devi-temple-is-becoming-a-center-for-religious-tourism-96-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773118088_daunne devi mandir-480x320.jpg"
+    },
+    {
+      "title": "चितवन-३ मा कांग्रेस र एमालेका उम्मेदवारले जोगाएनन् जमानत",
+      "summary": "यहाँस्थित रामप्रसादराई गाउँपालिका–३ भुल्के क्षेत्रका किसान पछिल्लो समय व्यावसायिक फलफूल खेतीतर्फ आकर्षित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/attraction-of-farmers-who-have-been-lost-towards-commercial-fruit-farming-63-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773117278_falful kheti-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको अकल्पनीय नतिजालाई भोलिका दिनमा देशले पश्चाताप गर्न नपरोस् : प्रवक्ता श्रेष्ठ",
+      "summary": "देशभर प्रतिनिधिसभा निर्वाचनमा नयाँ दल रास्वपाले विजयी हुँदा कर्णालीमा भने पुरानै दलका उम्मेदवारलाई जिताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dominance-of-the-old-party-in-karnali-73-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773019580_karnali map-480x320.jpg"
+    },
+    {
+      "title": "गगनज्यूले राजीनामा दिनु हुँदैन, अधिवेशनमा जानु नै उपयुक्त हुन्छ : चन्द्र भण्डारी",
+      "summary": "२०७९ सालमा सम्पन्न प्रदेशसभाको निर्वाचनमा बागमती प्रदेशसभामा हाम्रो नेपाली पार्टीले प्रत्यक्षतर्फ कुनै सिट जितेको थिएन। तर उक्त पार्टीले समानुपातिकतर्फ कुल सदर मतको १.५ प्रतिशत मत कटायो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/proportional-benefits-also-available-to-parties-that-get-3-percent-of-the-vote-94-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
     }
   ]
 }
