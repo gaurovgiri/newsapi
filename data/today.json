@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-10T05:13:13.991188",
+  "scraped_at": "2026-03-10T08:55:16.266327",
   "date": "2026-03-10",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -351,6 +351,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/NirwachanBishes/proportional-benefits-also-available-to-parties-that-get-3-percent-of-the-vote-94-57.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "ANFA, footballers at loggerheads, once again",
+      "summary": "With ANFA yet to announce the schedule of A Division league, players resort to protest, their second in four months.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/10/anfa-footballers-at-loggerheads-once-again",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SPORTS-1773109591.jpg&w=300&height=200"
+    },
+    {
+      "title": "UK rapper Ghetts jailed for killing Nepali student in hit-and-run",
+      "summary": "Striving for success can drive growth, but when it consumes identity, it can jeopardise mental health.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/03/uk-rapper-ghetts-jailed-for-killing-nepali-student-in-hit-and-run",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/money-1773108598.jpg&w=400&height=267"
+    },
+    {
+      "title": "अर्थमन्त्री खनालले फिर्ता गरे कूटनीतिक राहदानी",
+      "summary": "प्रदुषणले गर्दा गत बिहीबार यता मौसम पूर्ण रुपमा खुल्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/drought-increases-pollution-decreases-after-rain-meteorologist-62-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773130608_Mausam-480x320.jpg"
+    },
+    {
+      "title": "संसदमा ज्ञानेन्द्र शाहीसँग कुरा मिल्न सक्छ : हर्क साम्पाङ",
+      "summary": "युद्ध कहिले सकिन्छ भन्ने निर्णय इरानले नै गर्ने उसले बताएको छ। आईआरजीसीले चेतावनी दिँदै यदि अमेरिका र इजरायली आक्रमण जारी रहेमा यो क्षेत्रबाट ‘एक लिटर पनि तेल निर्यात गर्न दिइने छैन’ भनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/irgc-s-response-to-trump-iran-decides-when-the-war-will-end-nbsp-95-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773130179_Trump (1)-480x320.jpg"
+    },
+    {
+      "title": "चुनावमा हारजित हुनु र सामाजिक सत्कर्मबीच कुनै सम्बन्ध हुँदैन : सुनिल शर्मा",
+      "summary": "मकवानपुरको मनहरी गाउँपालिका–८ सिमपानीबाट राक्सिराङ गाउँपालिका–६ धुसराङ बस्ने सन्त सिंह लामा र सोही गाउँपालिका–२ बस्ने सन्तवीर मोक्तानलाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/14-people-arrested-with-drugs-from-various-locations-24-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रलाई भुटान र बंगलादेशको पनि बधाई",
+      "summary": "ताप्लेजुङको मैवाखोला गाउँपालिकाले पालिकाको अर्थ तथा सामाजिक लेखा समिति बनाउने गरी प्रकृया अघि बढाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/maiwakhola-rural-municipality-to-form-a-finance-and-social-accounts-committee-55-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773129630_mauwakhola gaupalika-480x320.jpg"
     }
   ]
 }
