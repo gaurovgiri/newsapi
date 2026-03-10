@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-10T08:55:16.266327",
+  "scraped_at": "2026-03-10T13:19:51.350120",
   "date": "2026-03-10",
-  "total_articles": 48,
+  "total_articles": 55,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -391,6 +391,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/maiwakhola-rural-municipality-to-form-a-finance-and-social-accounts-committee-55-91.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773129630_mauwakhola gaupalika-480x320.jpg"
+    },
+    {
+      "title": "Balen Shah’s rise contributes to the fall of identity politics",
+      "summary": "Most parties with regional and identity agendas have been decimated in Thursday’s election.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/10/balen-shah-s-rise-contributes-to-the-fall-of-identity-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/BALEN-1773105861.jpg&w=300&height=200"
+    },
+    {
+      "title": "New National Assembly arithmetic puts check on lower house dominance",
+      "summary": "Despite RSP’s near two-thirds strength in the lower house, constitutional amendments and major treaties still need 40 votes in the upper chamber.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/10/new-national-assembly-arithmetic-puts-check-on-lower-house-dominance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/WhatsAppImage20260310at21538PM-1773131476.jpg&w=600&height=400"
+    },
+    {
+      "title": "मोदीको पोस्टमा बालेनको रिप्लाई‍: नेपाल-भारत सम्बन्ध प्रगाढ बनाउन सहकार्य गर्नेछौं",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता एवं प्रधानमन्त्रीका उम्मेदवार बालेन्द्र शाहले भारतीय प्रधानमन्त्री नरेन्द्र मोदीको सामाजिक सञ्जाल पोस्टमा रिप्लाई गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-reply-to-modi-s-post-we-will-cooperate-to-deepen-nepal-india-relations-97-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773070987_6-480x320.jpg"
+    },
+    {
+      "title": "बालेनलाई प्रधानमन्त्री नबनाए सह्य हुँदैन: राजु पाण्डे",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का नवनिर्वाचित सांसद राजु पाण्डेले वरिष्ठ नेता बालेन्द्र साहलाई प्रधानमन्त्री नबनाउने कुरा केवल हल्ला मात्र भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-unacceptable-not-to-make-balen-the-prime-minister-raju-pandey-37-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773145844_raju_panday-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा दर्जनौँ उम्मेदवारको जमानत जफत",
+      "summary": "देशका विभिन्न निर्वाचन क्षेत्रमा नयाँ राजनीतिक शक्तिको उदय र राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को व्यापक चर्चा भइरहँदा कर्णालीका हिमाली जिल्लाको निर्वाचन परिणामले भने फरक देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dozens-of-candidates-deposits-confiscated-in-karnali-61-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772765383_bhaktapur vote count-480x320.jpg"
+    },
+    {
+      "title": "कपिलवस्तुमा ८९ जनाको धरौटी जफत",
+      "summary": "औषधि उत्पादन संघका अध्यक्ष विप्लव अधिकारीले सम्बन्धित ऐन तथा नीति उद्योगमैत्री बनाउन नसकको कारण यो क्षेत्रमा प्रगति हुन नसकेको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/amendment-of-the-act-is-necessary-to-make-the-country-self-reliant-in-medicines-88-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773145674_Medicine-480x320.jpg"
+    },
+    {
+      "title": "चैत पहिलो साताभित्र प्रतिनिधिसभा निर्वाचन प्रतिवेदन राष्ट्रपतिलाई बुझाइने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का वरिष्ठ नेता एवं प्रधानमन्त्रीका उम्मेदवार बालेन्द्र शाहले भारतीय प्रधानमन्त्री नरेन्द्र मोदीको सामाजिक सञ्जाल पोस्टमा रिप्लाई गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-reply-to-modi-s-post-we-will-cooperate-to-deepen-nepal-india-relations-97-38.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
