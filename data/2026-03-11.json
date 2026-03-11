@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-11T02:40:59.388422",
+  "scraped_at": "2026-03-11T05:14:51.684226",
   "date": "2026-03-11",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/middle-east-conflict-indian-foreign-minister-holds-phone-conversation-with-iranian-counterpart-77-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Kathmandu frets over cooking gas, but oil corporation says supply normal",
+      "summary": "Thailand, Vietnam, India and Bangladesh roll out energy-saving measures.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/11/kathmandu-frets-over-cooking-gas-but-oil-corporation-says-supply-normal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/MONEYYYYY-1773189942.jpg&w=300&height=200"
+    },
+    {
+      "title": "Political bastions collapse as voters embrace new faces across Nepal",
+      "summary": "Long-established politicians were defeated and traditional parties displaced as RSP gained sweeping nationwide influence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/11/political-bastions-collapse-as-voters-embrace-new-faces-across-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/PP-1773195207.jpg&w=300&height=200"
+    },
+    {
+      "title": "Is RSP leadership hesitant to confirm Shah as PM?",
+      "summary": "While Lamichhane and Aryal’s remarks raise questions, lower-rung leaders say there is no question of deviating from the previous agreement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/11/is-rsp-leadership-hesitant-to-confirm-shah-as-pm",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb4-1773195837.jpg&w=300&height=200"
+    },
+    {
+      "title": "Footballers end protest after deal to start A Division League on April 13",
+      "summary": "Clubs feel left out and pressurised as they were not part of the agreement between players and ANFA to hold the remaining matches of the top-tier regularly from May 3.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/11/footballers-end-protest-after-deal-to-start-a-division-league-on-april-13",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SPORTS-1773109591.jpg&w=600&height=400"
+    },
+    {
+      "title": "What I Watch Online: Pavitra Gautam",
+      "summary": "The cohort of younger MPs can bring the state closer to the large youth population of Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/11/what-i-watch-online-pavitra-gautam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/SPORTS-1773109591.jpg&w=400&height=267"
+    },
+    {
+      "title": "BTS returns and so does Army",
+      "summary": "Early on Wednesday, Iranian state media reported another round of attacks was unleashed on US military installations in Bahrain.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/10/bts-returns-and-so-does-army",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/reee-1773196687.jpg&w=400&height=267"
+    },
+    {
+      "title": "When ambition becomes harmful",
+      "summary": "Ambitious nine-year master plan envisions modern medical facilities and expanded healthcare for Karnali residents.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/10/when-ambition-becomes-harmful",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/Untitled1-1773196363.jpg&w=400&height=267"
+    },
+    {
+      "title": "रास्वपाका सभापति रवि लामिछानेको निर्वाचन खर्च कति ?",
+      "summary": "बुधबार चाँदी प्रतितोला २०० रुपैयाँ घटेर ५ हजार ५ सय २० रुपैयाँमा कारोबार भइरहेको छ। अघिल्लो दिन मंगलबार चाँदी ५ हजार ७ सय २० रुपैयाँमा कारोबार भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-rise-silver-falls-73-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "जसले पाए ५० हजार बढी मत",
+      "summary": "चितवनको भरतपुर महानगरपालिका ६ स्थित देवनगरका प्रकाश श्रेष्ठले सामाजिक सञ्जाल फेसबुकमा मेसिनबाट धान रोपेको देखेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/use-of-rice-planting-machines-increases-in-chitwan-90-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773205727_dhan 65-480x320.jpg"
+    },
+    {
+      "title": "को बन्ला नयाँ प्रधानन्यायाधीश?",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवी लामिछानेले फागुन २१ गते सम्पन्न प्रतिनिधिसभा सदस्य निर्वाचनमा भएको खर्च विवरण निर्वाचन आयोगमा बुझाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/how-much-is-the-election-expenditure-of-rashtriya-swayamsevak-sangh-rss-president-ravi-lamichhane-85-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770119974_rabi-480x320.jpg"
     }
   ]
 }
