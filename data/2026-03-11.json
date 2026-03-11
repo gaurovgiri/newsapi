@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-11T05:14:51.684226",
+  "scraped_at": "2026-03-11T08:54:23.966855",
   "date": "2026-03-11",
-  "total_articles": 43,
+  "total_articles": 48,
   "sources": [
     "NagarikNews",
     "News24",
@@ -351,6 +351,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/how-much-is-the-election-expenditure-of-rashtriya-swayamsevak-sangh-rss-president-ravi-lamichhane-85-87.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770119974_rabi-480x320.jpg"
+    },
+    {
+      "title": "कोशीमा समानुपातिकतर्फ श्रम संस्कृति दोस्रो, रास्वपा पहिलो",
+      "summary": "कोशी प्रदेशमा कांग्रेस, एमालेलाई उछिन्दै श्रम संस्कृति पार्टीले समानुपातिकतर्फ दोस्रो स्थान प्राप्त गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-culture-came-second-in-koshi-under-proportional-representation-rashtriya-swayamsevak-sangha-came-first-66-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772765383_bhaktapur vote count-480x320.jpg"
+    },
+    {
+      "title": "नयाँ संसद् बैठकको तयारी कस्तो छ?",
+      "summary": "इरानले पर्सियन खाडीबाट हिन्द महासागरतर्फ जाने प्रमुख समुद्री मार्ग हर्मुज जलडमरूमा जहाज आवागमनमा प्रभाव पारिरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/middle-east-war-impacts-oil-market-puts-energy-supply-at-risk-91-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773030131_Oil-480x320.jpg"
+    },
+    {
+      "title": "जनसंख्यामा बहुमत : अब संसदमा पनि जेन-जी",
+      "summary": "नेपालको संविधानको धारा ९३ अनुसार राष्ट्रपतिले प्रतिनिधि सभाका लागि भएको निर्वाचनको अन्तिम परिणाम घोषणा भएको ३० दिनभित्र सङ्घीय संसद्को अधिवेशन आह्वान गर्नुपर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/how-are-the-preparations-for-the-house-of-representatives-meeting-going-27-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773125105_Samsad-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका १२५ सांसद्‍मध्ये ४२ दल बदल्नेहरु",
+      "summary": "प्रत्यक्ष निर्वाचनतर्फबाट सांसदमा जेनजी पुस्ताका आठ जना सांसद प्रवेश गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/majority-in-population-now-gen-g-in-parliament-too-59-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773215357_Genz samsad-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिकमा रास्वपालाई ४८ प्रतिशत मत, कुन-कुनले पाए राष्ट्रिय दलको मान्यता?*",
+      "summary": "कोशी प्रदेशमा कांग्रेस, एमालेलाई उछिन्दै श्रम संस्कृति पार्टीले समानुपातिकतर्फ दोस्रो स्थान प्राप्त गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-culture-came-second-in-koshi-under-proportional-representation-rashtriya-swayamsevak-sangha-came-first-66-17.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
