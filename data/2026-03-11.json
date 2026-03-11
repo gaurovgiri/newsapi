@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-11T13:19:10.049333",
+  "scraped_at": "2026-03-11T17:01:53.466232",
   "date": "2026-03-11",
-  "total_articles": 56,
+  "total_articles": 62,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -454,6 +454,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/protesters-urge-rsvp-to-withdraw-genji-protest-case-17-21.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "EC mulls change in voter education strategy",
+      "summary": "More than five percent of votes under the first-past-the-post system were invalid in the House elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/11/ec-mulls-change-in-voter-education-strategy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/vote-1773234501.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेस राष्ट्रिय सभामा थप रचनात्मक र जिम्मेवार हुने",
+      "summary": "नेपाली कांग्रेसले जनताको भावना अनुरूप राष्ट्रिय सभामा प्रस्तुत हुने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-to-be-more-creative-and-responsible-in-the-national-assembly-81-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738311622_krishna p sitaula-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनपश्चात् संविधानले सही बाटो समातेको छ : गृहमन्त्री",
+      "summary": "साउदी अरेबियास्थित नेपाली दूतावासले मध्यपूर्व क्षेत्रमा विकसित पछिल्लो परिस्थितिमा साउदी अरेबियामा रहेका सम्पूर्ण नेपालीलाई आधिकारिक निकायबाट जारी हुने समाचार/निर्देशन/सूचना बमोजिम सजग रहन अनुरोध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepalis-in-saudi-arabia-urged-to-be-vigilant-71-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773243896_saudi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले ६०-७० सिट ल्याउने आशा थियो, लज्जाजनक भयो: रामहरि",
+      "summary": "चालु आर्थिक वर्ष २०८२/८३ को सात महिनामा विप्रेषण आप्रवाह ३९ दशमलव ८ प्रतिशतले वृद्धि भई १२ खर्ब ६१ अर्ब एक करोड पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/1-25-trillion-remittances-received-in-seven-months-43-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773242563_remittance-480x320.jpg"
+    },
+    {
+      "title": "सक्षम अनुहारलाई रोक्ने प्रवृत्तिले यस्तो परिणाम आयो: खतिवडा",
+      "summary": "बिहीबारदेखि वायुमण्डलमा मौसमी गतिविधि बढ्दै जाने देखिएको तथा देशका केही ठाउँमा क्षणिक वर्षाको सम्भावना पनि देखिएकाले मौसमको हालको प्रदूषणको अवस्थामा क्रमिकरूपमा सुधार हुने सम्भावना रहेको जनाएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/meteorological-activity-to-increase-from-tomorrow-33-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761529716_Mausam-480x320.jpg"
+    },
+    {
+      "title": "कक्षा ८ को उत्तीर्ण परीक्षाका लागि ५७ केन्द्र तोकियो",
+      "summary": "नेपाली कांग्रेसले जनताको भावना अनुरूप राष्ट्रिय सभामा प्रस्तुत हुने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-to-be-more-creative-and-responsible-in-the-national-assembly-81-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
