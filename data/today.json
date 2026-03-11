@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-11T08:54:23.966855",
+  "scraped_at": "2026-03-11T13:19:10.049333",
   "date": "2026-03-11",
-  "total_articles": 49,
+  "total_articles": 57,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -398,6 +398,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-culture-came-second-in-koshi-under-proportional-representation-rashtriya-swayamsevak-sangha-came-first-66-17.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Family launches demonstrations in Surkhet over death of teenage girl",
+      "summary": "Four arrested as family demands impartial investigation",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/11/family-launches-demonstrations-in-surkhet-over-death-of-teenage-girl",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/khabardarisabha11320260740321000x0-1773215312.jpg&w=300&height=200"
+    },
+    {
+      "title": "The new government wants to court India, China, and the West — without owing any of them",
+      "summary": "The RSP calls it “development diplomacy.” Experts say it's an attempt to attract investment and aid without the political strings that have made MCC and BRI so controversial.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/11/rsp-eyes-prosperity-via-development-diplomacy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/images-1773189597.jpg&w=600&height=400"
+    },
+    {
+      "title": "What is the ‘acid rain’ in the wake of US bombings in Iran?",
+      "summary": "Following decades of progress, the challenge today is making democratic governance effective.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/10/what-is-the-acid-rain-in-the-wake-of-us-bombings-in-iran",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NEPSE-1773224247.jpg&w=400&height=267"
+    },
+    {
+      "title": "जेनजी आन्दोलनका मुद्दा फिर्ता लिन रास्वपालाई आन्दोलनकारीको आग्रह",
+      "summary": "जेनजी आन्दोलनमा संलग्नमाथि दर्ता भएका मुद्दा फिर्ता लिन जेनजी आन्दोलनकारीहरूले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)सँग आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/protesters-urge-rsvp-to-withdraw-genji-protest-case-17-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773234992_Genz-480x320.jpg"
+    },
+    {
+      "title": "अहिले म्याजिक-स्याजिकको कुरा भएन, रास्वपालाई शभकामना: दाहाल",
+      "summary": "उक्त साँझ आयोजना गरिएको औपचारिक सम्मान समारोहमा इनड्राइभ प्लेटफर्ममा दीर्घकालीन प्रतिबद्धता र उत्कृष्ट सेवा प्रदान गर्दै आएका ड्राइभर–पार्टनरहरूलाई विशेष रूपमा सम्मान गर्न विभिन्न ड्राइभर–पार्टनरहरूलाई एकै स्थानमा ल्याइएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/indrive-driver-partner-excellence-award-respect-for-trust-15-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773233722_indrive 12-480x320.jpg"
+    },
+    {
+      "title": "हारबारे सञ्चारकर्मीको प्रश्नबाट पन्छिए माधव नेपाल, भने, ‘सबैको त्यस्तै भयो’",
+      "summary": "नेपाल कम्युनिष्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहालले अत्यधिक बहुमत ल्याएको राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का राम्रा काममा आफ्नो पार्टीको समर्थन रहने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/there-is-no-talk-of-magic-or-logic-now-best-wishes-to-the-rashtriya-swayamsevak-sangh-rss-dahal-77-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768298983_prachanda_-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीमा रास्वपालाई तेब्बर बढि मत, एमाले खुम्चियो",
+      "summary": "सङ्खुवासभाको चैनपुर नगरपालिका-७ मा रुखबाट लडेर बुधबार एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-died-after-falling-from-a-tree-62-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "रविले दिए बालेन्द्रलाई शुभकामना, भने : मेरो हात काँपिरहेको छ",
+      "summary": "जेनजी आन्दोलनमा संलग्नमाथि दर्ता भएका मुद्दा फिर्ता लिन जेनजी आन्दोलनकारीहरूले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)सँग आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/protesters-urge-rsvp-to-withdraw-genji-protest-case-17-21.html?click_from=just_in",
       "image_url": ""
     }
   ]
