@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-12T05:18:20.718236",
+  "scraped_at": "2026-03-12T08:54:41.037066",
   "date": "2026-03-12",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -334,6 +334,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/west-asia-crisis-emergency-response-team-meeting-br-78-24.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal’s communists lose electoral grip",
+      "summary": "Left parties consistently enjoyed popular vote of around 40 percent, which has dropped to 21 percent this time.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/12/nepal-s-communists-lose-electoral-grip",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1773278787.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपाले हिन्दु राष्ट्र स्वीकार गरे दुईतिहाइ पुर्‍याउन सहयोग गर्छौं : कमल थापा",
+      "summary": "पूर्व–पश्चिम राजमार्गको महेन्द्रनगर–दैजी खण्डमा बुधबार दिउँसो जिप र मोटरसाइकल ठोक्किँदा दुई जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-died-in-a-collision-between-a-jeep-and-a-motorcycle-34-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771124570_1764911820_1649837678_accident-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "गगन थापालाई राजीनामा नदिन ललितपुरका जनप्रतिनिधिको आग्रह",
+      "summary": "राप्रपा नेता कमल थापाले अब बन्ने बालेन्द्र शाह नेतृत्वको सरकारलाई दुईतिहाइ बहुमत पुर्‍याइदिनका लागि सर्त अघि सारेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-the-rashtriya-swayamsevak-sangh-accepts-hindu-rashtra-we-will-help-it-reach-two-thirds-kamal-thapa-47-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773303785_kamal-480x320.jpg"
+    },
+    {
+      "title": "क्षितिज थेबेको चुनावी खर्च २२ लाख ४२ हजार ५२५",
+      "summary": "अघिल्लो वर्षको तुलनामा यस वर्ष आँपका बोटमा प्रशस्त मञ्जरी लागेकाले स्थानीय किसान उत्पादन बढ्ने अपेक्षामा छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/iran-s-three-conditions-for-ending-the-war-58-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773304120_mango manjari aap ful-480x320.jpg"
+    },
+    {
+      "title": "सूर्य थापाको चुनावी खर्च २४ लाख १० हजार ३८९",
+      "summary": "कञ्चनपुरको शुक्लाफाँटा नगरपालिका–३ का किसानले लामो समयदेखि भोग्दै आएको सिँचाइ अभावको समस्या समाधान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/iran-s-three-conditions-for-ending-the-war-66-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773304483_irrigation sichai tubel pani-480x320.jpg"
+    },
+    {
+      "title": "देशको अवस्था परिवर्तन गर्न नागरिक योगदानको खाँचो : गणेश पराजुली",
+      "summary": "पूर्व–पश्चिम राजमार्गको महेन्द्रनगर–दैजी खण्डमा बुधबार दिउँसो जिप र मोटरसाइकल ठोक्किँदा दुई जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-died-in-a-collision-between-a-jeep-and-a-motorcycle-34-89.html?click_from=just_in",
       "image_url": ""
     }
   ]
