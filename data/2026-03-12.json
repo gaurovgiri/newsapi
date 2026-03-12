@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-12T08:54:41.037066",
+  "scraped_at": "2026-03-12T13:19:32.520533",
   "date": "2026-03-12",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-people-died-in-a-collision-between-a-jeep-and-a-motorcycle-34-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Inisa death: Body remains at provincial hospital for five days",
+      "summary": "Family says it will not receive body until justice is delivered.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/12/inisa-death-body-remains-at-provincial-hospital-for-five-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/Inisha-1773301891.jpg&w=300&height=200"
+    },
+    {
+      "title": "World Kidney Day 2026",
+      "summary": "Rastriya Swatantra Party’s FPTP wins saw 42 defectors knock seasoned leaders from major parties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/12/world-kidney-day-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gascylinder-1773317788.jpg&w=400&height=267"
+    },
+    {
+      "title": "Challenges of Nepal's new leadership",
+      "summary": "We are a nation haunted by ghosts of past shortages. Yet there seems to be enough LPG for everyone.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/12/nepal-s-new-leadership-s-challenges",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Dang-1773302833.jpg&w=400&height=267"
+    },
+    {
+      "title": "कालोसूची विवादमा सर्वोच्चको अन्तरिम आदेश, किशोरी साहको उम्मेदवारीबारे नयाँ बहस",
+      "summary": "खाना पकाउने ग्यासको अभाव चर्किएपछि सरकारले खाना पकाउने ग्यास आधा सिलिन्डर मात्रै बिक्री गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/corporation-decides-to-sell-only-half-of-gas-from-tomorrow-47-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770191584_gas-480x320.jpg"
+    },
+    {
+      "title": "जेनजी आन्दोलनबाट बिग्रिएको व्यवसायिक वातावरणमा सुधार भयो: अर्थमन्त्री खनाल",
+      "summary": "कपिलवस्तुमा अनुशासन विपरीत काम गर्ने १० जना निर्वाचन प्रहरीलाई कारबाही गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-election-police-personnel-facing-disciplinary-action-78-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773320506_myadi-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : चुनौतीसँगै उदय भएको रास्वपा र खुम्चिएका पुराना दल",
+      "summary": "पोखराका उपभोक्ता भने ग्यास नपाएको भन्दै भौतारिनुपरेको छ। पसलमा लामो समय पालो पर्खिदा पनि ग्यास पाउन नसकेको उपभोक्ताले बताएका छन्। बजारमा कृत्रिम अभाव खडा गरेर उपभोक्तालाई ग्यास नदिएको आशंका उपभोक्ताको छ। तर, नियमित रुपमा ग्यास आइरहेकोले अहिलेका लागि बजारमा सुनेजस्तो अभाव हुन नहुने कम्पनिहरुले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-crisis-in-pokhara-imports-remain-the-same-but-not-available-31-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1773231298_Gas Pokhara -480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा अध्यक्ष दाहालले गरे निर्माणाधीन संसद् भवनको अनुगमन",
+      "summary": "धनुषा–१ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवार बनेका साहको नाम कर्जा सूचना केन्द्रले कालोसूचीमा राखेपछि निर्वाचन आयोगले उनको उम्मेदवारी खारेज गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-s-interim-order-on-blacklist-controversy-new-debate-on-kishori-sah-s-candidacy-71-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773056630_Kishori Shaha-480x320.jpg"
+    },
+    {
+      "title": "शिशिर खनालको चुनावी खर्च १५ लाख",
+      "summary": "खाना पकाउने ग्यासको अभाव चर्किएपछि सरकारले खाना पकाउने ग्यास आधा सिलिन्डर मात्रै बिक्री गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/corporation-decides-to-sell-only-half-of-gas-from-tomorrow-47-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
