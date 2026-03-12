@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-12T02:46:40.277631",
+  "scraped_at": "2026-03-12T05:18:20.718236",
   "date": "2026-03-12",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -270,6 +270,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/war-with-iran-will-end-soon-trump-53-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Consistency over intensity: Building a sustainable fitness routine",
+      "summary": "We cannot expect gold-medal football performances on a copper-coin budget managed with leaden hands.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/12/consistency-over-intensity-building-a-sustainable-fitness-routine",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/31670811144-1773283370.jpg&w=400&height=267"
+    },
+    {
+      "title": "The human story behind the flood",
+      "summary": "Police say fire was opened in self-defence after attack on police official.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/11/the-human-story-behind-the-flood",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/voter-1773282454.jpg&w=400&height=267"
+    },
+    {
+      "title": "मोदी प्रमुख अतिथि रहने भारतको प्रतिष्ठित 'एनएक्सटी सम्मीट २०२६ मा रेनु दाहालले सम्बोधन गर्ने",
+      "summary": "परराष्ट्रसचिव अमृतबहादुर राईको संयोजकत्वमा गठित आपत्कालीन प्रतिकार्य टोलीको दोस्रो बैठक बुधबार परराष्ट्र मन्त्रालयमा सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/west-asia-crisis-emergency-response-team-meeting-br-78-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773289396_par rasta wed-480x320.jpg"
+    },
+    {
+      "title": "कम्युनिस्ट परिवर्तनको पक्षधर हो, विगतका कार्यशैलीको समीक्षा गरेर सुखद यात्रा तय गरौँ : भट्टराई",
+      "summary": "भरतपुर महानगरपालिकाकी पूर्वमेयर रेनु दाहाललाई भारतमा आयोजना हुने प्रतिष्ठित एनएक्सटी सम्मीट २०२६ मा सम्मानित वक्ताको रूपमा आमन्त्रण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/renu-dahal-to-address-india-s-prestigious-nxt-summit-2026-where-modi-will-be-the-chief-guest-88-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773288648_renu dahal-480x320.jpg"
+    },
+    {
+      "title": "खाडी युद्धका कारण जनजीवन अझ कठिन बन्ने संकेत देखियो : महासचिव पोखरेल",
+      "summary": "वैदेशिक रोजगारीमा आकर्षक तलबको प्रलोभनमा पारी ग्रीस पठाइदिन्छु भन्दै रकम ठगी गरेको अभियोगमा एक जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/arrested-for-fraud-of-rs-2-5-million-29-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "इनिशा घटनामा दबाब दिएको आरोप निराधार : मुख्यमन्त्री कँडेल",
+      "summary": "इरानी राष्ट्रपतिका अनुसार यी सर्तहरू स्वीकार गर्नु नै युद्ध अन्त्य गर्ने एक मात्र तरिका भएको बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-sets-three-conditions-to-end-the-war-12-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773288139_iran-480x320.jpg"
+    },
+    {
+      "title": "शक्तिशाली सरकार बनाउँदै रास्वपा, छैन रोकटोक",
+      "summary": "परराष्ट्रसचिव अमृतबहादुर राईको संयोजकत्वमा गठित आपत्कालीन प्रतिकार्य टोलीको दोस्रो बैठक बुधबार परराष्ट्र मन्त्रालयमा सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/west-asia-crisis-emergency-response-team-meeting-br-78-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
