@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-13T02:44:24.550177",
+  "scraped_at": "2026-03-13T05:16:12.302844",
   "date": "2026-03-13",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/india-s-counter-terrorism-strategy-36-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "गाउँपालिकामा डोकोमा विरामी बोक्ने दिनको अन्त्य",
+      "summary": "गाउँपालिकामा डोकोमा विरामी बोक्ने दिनको अन्त्य",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12464",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Aspatal-Sanchalan-1773371062.jpg"
+    },
+    {
+      "title": "ौं–१ का कांग्रेस उम्मेदवार प्रबल थापाले बुद्धनगरस्थित मतदान केन्द्रमा मतदान गरे",
+      "summary": "ौं–१ का कांग्रेस उम्मेदवार प्रबल थापाले बुद्धनगरस्थित मतदान केन्द्रमा मतदान गरे",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12427",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pt-1772698359.jpg"
+    },
+    {
+      "title": "RSP majority expected to reduce Nepal’s near-term political risk: Fitch",
+      "summary": "The American-British credit rating agency says strong mandate could improve policy predictability and reform momentum, but warns weak implementation capacity may constrain results.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/13/rsp-majority-expected-to-reduce-nepal-s-near-term-political-risk-fitch",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MONEY-1773368456.jpg&w=300&height=200"
+    },
+    {
+      "title": "Patan High Court orders ANFA to rehear Three Star dispute ‘properly’",
+      "summary": "Three Star Club’s A Division status has not been reinstated yet. The court quashes disciplinary and appeal decisions, highlighting a lack of natural justice, and directs the footballing body to provide a proper hearing.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/13/patan-high-court-orders-anfa-to-rehear-three-star-dispute-properly",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sports-1773370146.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bhaktapur Film Festival from March 20",
+      "summary": "Protecting the environment is therefore an essential strategy in preventing kidney disease.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/13/bhaktapur-film-festival-from-march-20",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/i-1773370359.jpg&w=400&height=267"
+    },
+    {
+      "title": "A canvas turned inward",
+      "summary": "From jatras to weddings, the traditional Newa drum continues to echo across Kathmandu, carried forward by youth, women, and cultural groups.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/12/a-canvas-turned-inward",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/thumb317715499441772154776-1772676180.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेन्द्रको भन्दा दोब्बर महावीरको चुनावी खर्च",
+      "summary": "धरान उपमहानगरपालिका–५ देउरालीका ७२ वर्षीय सुरेन श्रेष्ठको हत्या अभियोगमा सोही उपमहानगरपालिका–१५ का वर्षीय भरत विकपक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/arrested-on-murder-charges-br-91-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "चुनावको मिति घोषणापछि दल परिवर्तन गर्ने कार्य निषेध गर्न सुझाव",
+      "summary": "पूर्वप्रधानमन्त्री एवं नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीका बुवा मोहनप्रसादप्रति श्रद्धाञ्जली अर्पण गर्नेहरूको अस्पतालमा भिड लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/emotional-oli-radhika-in-hospital-pay-tribute-to-father-photos-47-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773377771_olipic-480x320.jpg"
     }
   ]
 }
