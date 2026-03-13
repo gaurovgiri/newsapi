@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-13T08:52:47.392663",
+  "scraped_at": "2026-03-13T13:17:18.082024",
   "date": "2026-03-13",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-expresses-grief-over-the-death-of-uml-chairman-oli-s-father-69-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Inisa BK died from excessive bleeding after sexual assault, postmortem confirms",
+      "summary": "Protests erupt nationwide demanding justice for the Birendranagar teenager, who was found dead Saturday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/13/inisa-bk-died-from-excessive-bleeding-after-sexual-assault-postmortem-confirms",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/page1-1773364765.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेनको नेतृत्व मधेसको सपना : संघीय लोकतान्त्रिक मोर्चा",
+      "summary": "उनको हरियाणी 'टटीरी' बोलको गीत विवादमा परेपछि बादशाहविरुद्ध गिरफ्तारीको आदेश जारी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/arrest-warrant-issued-for-singer-badshah-37-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773406963_badshah-480x320.jpg"
+    },
+    {
+      "title": "एमालेले समानुपातिक सांसदको नाम पर्सी पठाउने",
+      "summary": "संघीय लोकतान्त्रिक मोर्चाले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का वरिष्ठ नेता बालेन्द्र शाह (बालेन)लाई प्रधानमन्त्रीको रूपमा स्थापित गर्ने प्रक्रियामा सघाउने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balen-s-leadership-is-the-dream-of-madhesh-federal-democratic-front-82-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773406109_Balen-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले केन्द्रीय समितिमा निर्वाचन समीक्षा गर्ने",
+      "summary": "अमेरिकामा पेट्रोलको औसत मूल्य अहिले करिब ३.६ डलर प्रति ग्यालन पुगेको छ, जुन सन् २०२६ को फेब्रुअरीमा २.३० डलर प्रति ग्यालन थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-conflict-raises-us-gasoline-prices-trump-shifts-strategy-34-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772018087_Trump (1)-480x320.jpg"
+    },
+    {
+      "title": "चुनाव हारेका डा. शेखरको चुनावी खर्च २२ लाख",
+      "summary": "स्वस्तिमा खड्काको र्शीष भूमिका रहेको फिल्म ‘लालीबजार’ को पहिलो गीत ‘मायालाई के दिउँ म बैना’ सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/what-did-swastima-say-while-releasing-the-first-song-of-lalibazar-28-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773405017_lalibajar-480x320.jpg"
+    },
+    {
+      "title": "नेकपाको निष्कर्ष: निर्वाचनले लोकतन्त्रलाई लिकमा ल्याउने अवस्था बनायो",
+      "summary": "उनको हरियाणी 'टटीरी' बोलको गीत विवादमा परेपछि बादशाहविरुद्ध गिरफ्तारीको आदेश जारी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/arrest-warrant-issued-for-singer-badshah-37-38.html?click_from=just_in",
       "image_url": ""
     }
   ]
