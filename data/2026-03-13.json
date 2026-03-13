@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-13T05:16:12.302844",
+  "scraped_at": "2026-03-13T08:52:47.392663",
   "date": "2026-03-13",
-  "total_articles": 41,
+  "total_articles": 49,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -335,6 +335,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/emotional-oli-radhika-in-hospital-pay-tribute-to-father-photos-47-86.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773377771_olipic-480x320.jpg"
+    },
+    {
+      "title": "आइएमई बैंकद्वारा “नन् रेसिडेन्ट र ओभरसिज बैंकिङ विभाग” स्थापना,",
+      "summary": "आइएमई बैंकद्वारा “नन् रेसिडेन्ट र ओभरसिज बैंकिङ विभाग” स्थापना,",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12470",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/NROBD-1-1773387434.jpeg"
+    },
+    {
+      "title": "ाइभद्वारा क्याब र मोटरबाइक श्रेणीका उत्कृष्ट ड्राइभरलाई सम्मान",
+      "summary": "ाइभद्वारा क्याब र मोटरबाइक श्रेणीका उत्कृष्ट ड्राइभरलाई सम्मान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12469",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Photo-1773387183.jpeg"
+    },
+    {
+      "title": "हिंसा बढेपछि पोखरामा आक्रोश, सडकमै स्वतस्फूर्त प्रदर्शन",
+      "summary": "हिंसा बढेपछि पोखरामा आक्रोश, सडकमै स्वतस्फूर्त प्रदर्शन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12467",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nyayaka-Lagi-Pradarshan---1773372423.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीका पिताको निधनमा रवि लामिछानेद्वारा दुःख व्यक्त",
+      "summary": "राष्ट‍्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले नेकपा (एमाले)का अध्यक्ष तथा पूर्वप्रधानमन्त्री केपी शर्मा ओलीका पिताको निधनप्रति दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-expresses-grief-over-the-death-of-uml-chairman-oli-s-father-69-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773367765_oli-480x320.jpg"
+    },
+    {
+      "title": "ओलीलाई पितृशोक पर्दा शीर्ष नेताले दु:ख व्यक्त गरे",
+      "summary": "तेलको मूल्य उच्च रहँदा विश्वभरका शेयर बजारहरूमा गिरावट आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/oil-prices-rise-stock-markets-fall-after-iran-attack-85-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773390440_oil tank fuel-480x320.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीका पिताको निधनमा गगन थापाद्वारा दुःख व्यक्त",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीका पिता मोहनप्रसाद ओलीको निधनप्रति विभिन्न राजनीतिक दलका शीर्ष नेताहरूले दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/top-leaders-express-grief-as-oli-mourns-his-father-s-death-52-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773389465_WhatsApp Image 2026-03-13 at 1_38_44 PM-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री छान्ने अधिकार बालेन कि रविलाई ?",
+      "summary": "पूर्वप्रधानमन्त्री एवं नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीका पिता मोहनप्रसादको पशुपति आर्यघाटमा अन्त्येष्टि गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/photo-feature/oli-s-father-mohan-prasad-s-funeral-at-pashupati-aryaghat-photos-41-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773389690_kpoli-480x320.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीका पिताको निधनमा माधव नेपालद्वारा दुःख व्यक्त",
+      "summary": "राष्ट‍्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले नेकपा (एमाले)का अध्यक्ष तथा पूर्वप्रधानमन्त्री केपी शर्मा ओलीका पिताको निधनप्रति दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-expresses-grief-over-the-death-of-uml-chairman-oli-s-father-69-35.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
