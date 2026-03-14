@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-14T08:47:02.319941",
+  "scraped_at": "2026-03-14T13:09:16.991069",
   "date": "2026-03-14",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pollution-has-decreased-somewhat-after-the-rain-but-it-is-still-unhealthy-54-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "UAE arrests 10, including a Nepali, for sharing misleading war footage online",
+      "summary": "Authorities say suspects posted real interception videos and AI-generated clips of explosions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/14/uae-arrests-10-including-a-nepali-for-sharing-misleading-war-footage-online",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/79e65a5ad99341c08f03aadee1e78ad2-1773464552.jpg&w=400&height=267"
+    },
+    {
+      "title": "ओलीलाई फसाउन खोजे देश द्वन्द्वमा फस्छ: महेश",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले पार्टी अध्यक्ष केपी शर्मा ओलीलाई नियोजित रूपमा दोषी देखाउन खोजिए देश द्वन्द्वमा फस्ने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-oli-is-tried-to-be-trapped-the-country-will-be-plunged-into-conflict-mahesh-72-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768211911_mahesh_-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको ऐतिहासिक बहुमतबाट सुरु भएको परीक्षा: नयाँ जनादेशले दिएको अवसर र चुनौती",
+      "summary": "अब मुख्य प्रश्न भनेको इतिहासमै शक्तिशाली जनादेश पाएको सरकार जनताको अपेक्षा पूरा गर्न कत्तिको सफल हुन्छ भन्नेमा केन्द्रित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-test-that-began-with-the-historic-majority-of-the-rsvp-the-opportunities-and-challenges-presented-by-the-new-mandate-92-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773492254_Raswapa-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा नेतृत्व परिवर्तन हुँदैन: महेश बस्नेत",
+      "summary": "ललितपुर महानगरपालिकाको अपाङ्गतामैत्री अत्याधुनिक प्रशासनिक भवन सञ्चालनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/lalitpur-metropolitan-city-to-operate-disability-friendly-administrative-building-53-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773491894_chiribabu-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचनमा ४.७ प्रतिशत मत बदर",
+      "summary": "पारिजात स्मृति केन्द्रले पारिजात सम्मान २०८२ बाट सम्मानित हुने प्रतिभाको नाम घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/names-of-those-honored-with-parijat-samman-2082-announced-30-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773491455_parijat-480x320.jpg"
+    },
+    {
+      "title": "श्रम संस्कृति पार्टीले टुङ्ग्यायो समानुपातिक सांसदका चार नाम",
+      "summary": "नेकपा (एमाले) का सचिव महेश बस्नेतले पार्टी अध्यक्ष केपी शर्मा ओलीलाई नियोजित रूपमा दोषी देखाउन खोजिए देश द्वन्द्वमा फस्ने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-oli-is-tried-to-be-trapped-the-country-will-be-plunged-into-conflict-mahesh-72-95.html?click_from=just_in",
       "image_url": ""
     }
   ]
