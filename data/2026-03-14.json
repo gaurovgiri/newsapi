@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-14T16:40:55.351700",
+  "scraped_at": "2026-03-14T20:37:48.969110",
   "date": "2026-03-14",
-  "total_articles": 60,
+  "total_articles": 61,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -487,6 +487,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dealer-fined-rs-50-000-for-creating-artificial-shortage-by-hiding-gas-47-92.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770191584_gas-480x320.jpg"
+    },
+    {
+      "title": "Fears over fuel supply boost demand for electric stoves",
+      "summary": "Escalating tensions in West Asia raise concerns about gas shortages, prompting consumers to turn to induction hobs, rice cookers, and compatible cookware.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/14/fears-over-fuel-supply-boost-demand-for-electric-stoves",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/inductionstoves-1773498163.jpg&w=300&height=200"
     }
   ]
 }
