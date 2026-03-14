@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-14T05:13:33.587495",
+  "scraped_at": "2026-03-14T08:47:02.319941",
   "date": "2026-03-14",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -343,6 +343,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ai-impact-in-india-and-nepal-india-relations-br-73-94.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773461233_fgu fgu fgu 52-480x320.jpg"
+    },
+    {
+      "title": "ोकमा भावविह्वल ओली, मोहन प्रसादको अन्त्येष्टी, गगन र झलनाथ पशुपति पुगे",
+      "summary": "ोकमा भावविह्वल ओली, मोहन प्रसादको अन्त्येष्टी, गगन र झलनाथ पशुपति पुगे",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12481",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Oli-Pit_Binod-1773451848.jpg"
+    },
+    {
+      "title": "Can Nepal men’s football team bounce back under new coach Gugliermo Arena?",
+      "summary": "Avoiding bold predictions, the new head coach stresses belief and gradual improvement while assessing players ahead of the March FIFA Window.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/14/can-nepal-men-s-football-team-bounce-back-under-new-coach-gugliermo-arena",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/sp1-1773451669.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP secretariat meeting postponed to Sunday",
+      "summary": "Meeting to discuss PR lawmaker selection and statute amendments now set for 10 am at party office.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/14/rsp-secretariat-meeting-postponed-to-sunday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/rspleadersBalendraShahRabiLamichhane-1773473791.jpg&w=600&height=400"
+    },
+    {
+      "title": "Nepalis in Gulf may return home via Saudi Arabia, says MoFA",
+      "summary": "China views Taiwan as its own territory and has never renounced the use of force to take the island under its control. ⁠Lai ​rejects Beijing’s sovereignty claims, saying only the island’s people ​can decide their future.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/10/nepalis-in-gulf-may-return-home-via-saudi-arabia-says-mofa",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "मधेशकेन्द्रित दल बालेनकेन्द्रित भए : पूर्ण बस्नेत",
+      "summary": "भक्तपुर र ललितपुरको भैसीपाटीको हावा भने अझै पनि मानिसको लागि अस्वस्थ अवस्थामा रहेको वातावरण विभागले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pollution-has-decreased-somewhat-after-the-rain-but-it-is-still-unhealthy-54-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773393798_kathmandu pollution-480x320.jpg"
+    },
+    {
+      "title": "अभिनेत्री अधिकारीको चुनावी खर्च ७ लाख ७६ हजार",
+      "summary": "मन्त्रिपरिषद्ले जारी गरेको ‘पेट्रोलमा इथानोल मिश्रण गरी प्रयोगमा ल्याउनेसम्बन्धी आदेश, २०८२’ शुक्रबार राजपत्रमा प्रकाशित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ethanol-blended-petrol-policy-to-reduce-energy-imports-and-increase-employment-implemented-66-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1744420245_Nepal Oil-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय समितिको बैठक आइतबार बस्ने",
+      "summary": "लेजरपोर्ट नेपालद्वारा आयोजित सो दौड प्रतियोगिताको २१.१ किलोमिटर हाफ म्याराथनतर्फ सन्तोषी श्रेष्ठ पहिलो भएकी छिन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/santoshi-shrestha-wins-first-in-half-marathon-55-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773476138_marathoon-480x320.jpg"
+    },
+    {
+      "title": "प्रविधिको प्रयोगमार्फत लोकतन्त्र सुदृढ बनाउन डा. भट्टराईको सुझाव",
+      "summary": "उनीहरूले दोषी उपर कडा कारबाही र आगामी दिनमा यस्ता घटना हुन नदिन सरोकारवाला पक्षलाई सचेत समेत गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/inisha-murder-case-rights-activists-protest-in-udaipur-24-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773476052_inisa-480x320.jpg"
+    },
+    {
+      "title": "योगेशको भनाइको अधुरो अंश सम्प्रेषण भएको हुनसक्छ : महासचिव पोखरेल",
+      "summary": "भक्तपुर र ललितपुरको भैसीपाटीको हावा भने अझै पनि मानिसको लागि अस्वस्थ अवस्थामा रहेको वातावरण विभागले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pollution-has-decreased-somewhat-after-the-rain-but-it-is-still-unhealthy-54-83.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
