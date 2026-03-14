@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-14T13:09:16.991069",
+  "scraped_at": "2026-03-14T16:40:55.351700",
   "date": "2026-03-14",
-  "total_articles": 56,
+  "total_articles": 60,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -455,6 +455,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/if-oli-is-tried-to-be-trapped-the-country-will-be-plunged-into-conflict-mahesh-72-95.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Israel continues attacks on UN peacekeepers in Lebanon",
+      "summary": "A shelter of a Nepal Army battalion was destroyed in Israeli airstrikes on Friday night.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/14/israel-continues-attacks-on-un-peacekeepers-in-lebanon",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/UNIFIL-1773505896.jpg&w=300&height=200"
+    },
+    {
+      "title": "Traditional parties suffer major setback in PR vote",
+      "summary": "Proportional data suggests erosion of institutional support for established parties despite strong candidate performances.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/14/traditional-parties-suffer-major-setback-in-pr-vote",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/electionkathmanduvalley20260305j2a975714320260220291000x0-1773473238.jpg&w=300&height=200"
+    },
+    {
+      "title": "एनआरएनएको १२औँ विश्व सम्मेलन सुरु, एकताप्रति पूर्वअध्यक्षहरूको खुशी",
+      "summary": "मनकामना मन्दिर दर्शन गरेर फर्किँदै गरेका तीर्थयात्री बोकेको माइक्रो बस शनिबार साँझ दुर्घटना हुँदा ७ जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gorkha-micro-accident-7-dead-7-injured-19-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773504531_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "खोटाङमा ११ को जमानत जफत, समानुपातिकतर्फ श्रम संस्कृति पार्टी पहिलो",
+      "summary": "पोखरामा एलपी ग्यास लुकाएर कृत्रिम अभाव सिर्जना गरेको आरोपमा एक ग्यास डिलरलाई जरिवाना गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dealer-fined-rs-50-000-for-creating-artificial-shortage-by-hiding-gas-47-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770191584_gas-480x320.jpg"
     }
   ]
 }
