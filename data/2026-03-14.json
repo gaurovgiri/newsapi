@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-14T02:42:53.424044",
+  "scraped_at": "2026-03-14T05:13:33.587495",
   "date": "2026-03-14",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-killed-11-injured-in-scorpio-accident-in-sarlahi-45-53.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Keeping Nepalbhasa and Ranjana script alive",
+      "summary": "Protecting the environment is therefore an essential strategy in preventing kidney disease.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/14/keeping-nepalbhasa-and-ranjana-script-alive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/csin-1773457708.jpg&w=400&height=267"
+    },
+    {
+      "title": "When your dreams become data",
+      "summary": "The projects focus on empowering marginalised communities, improving livelihoods and strengthening social protection systems across several districts in Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/14/when-your-dreams-become-data",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/boooook-1773457285.jpg&w=400&height=267"
+    },
+    {
+      "title": "Bringing together poetry, music and spoken-word narratives",
+      "summary": "Iran continued to export crude oil while other producers in the Gulf halted their shipments for fear of Iranian attacks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/14/bringing-together-poetry-music-and-spoken-word-narratives",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/psot%20report.JPG&w=400&height=267"
+    },
+    {
+      "title": "The thunderous rhythm of dhime baja",
+      "summary": "The Post brings you a lowdown on some major events this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/13/the-thunderous-rhythm-of-dhime-baja",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/moneyyyyyyyy-1773454480.jpg&w=400&height=267"
+    },
+    {
+      "title": "शेरबहादुर आफ्नो र श्रीमतीको पद प्राप्तिका लागि गुट बदल्ने चरम अवसरवादी पात्र हुन् : बास्कोटा",
+      "summary": "नेकपा एमालेका नेता गोकुल बास्कोटाले आफूले राखेको मतका कारण शेरबहादुर तामाङ सार्वजनिक रूपमा आफूविरुद्ध लागेको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sher-bahadur-tamang-is-an-extremely-opportunistic-character-who-changes-factions-to-secure-positions-for-himself-and-his-wife-baskota-72-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773464051_gokul-480x320.jpg"
+    },
+    {
+      "title": "'हामीलाई पदमुक्त गर्ने अधिकार राप्रपाको विधानले अध्यक्षलाई दिएको छैन'",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का उपाध्यक्ष दिलविकास राजभण्डारी र केन्द्रीय सदस्य सुरेश आचार्यले आफूहरूलाई पदमुक्त गरिएको भनिएको कारबाही विधानविपरीत भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rpp-statute-does-not-give-the-chairman-the-right-to-remove-us-from-office-15-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773462690_rpp-480x320.jpg"
+    },
+    {
+      "title": "ओली निवास गुण्डुमा बस्दै एमाले केन्द्रीय सचिवालय बैठक",
+      "summary": "काठमाडौं महानगरपालिकाले सामुदायिक विद्यालय र अस्पताल क्यान्टिनको खाद्य स्वच्छतामा कडाइ गर्न थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kmc-tightens-food-hygiene-in-community-schools-hospital-canteens-67-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764901322_1742606681_Kathmandu-1200x560-480x320.jpg"
+    },
+    {
+      "title": "भिडियो भाइरल भएपछि बिना गुरुङको स्पष्टीकरण : यस्तो अनावश्यक तामझाम कसैले पनि गर्नु हुँदैन",
+      "summary": "भारत एआई प्रभाव शिखर सम्मेलनले नयाँ दिल्लीमा विश्वभरका नीतिनिर्माता, उद्योग नेता, अनुसन्धानकर्ता, प्रविधि विशेषज्ञ र नागरिक समाजका सदस्यहरूलाई एकसाथ ल्याएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ai-impact-in-india-and-nepal-india-relations-br-73-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773461233_fgu fgu fgu 52-480x320.jpg"
     }
   ]
 }
