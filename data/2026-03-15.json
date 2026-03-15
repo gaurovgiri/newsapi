@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-15T05:39:58.633500",
+  "scraped_at": "2026-03-15T08:48:42.404070",
   "date": "2026-03-15",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -318,6 +318,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/the-price-of-gold-fell-by-4-800-in-a-single-day-at-what-price-is-it-being-traded-96-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "He was asleep in his room. Then a drone struck to wake him up.",
+      "summary": "Anil Tamang from Nuwakot sustained injuries when the drone crashed inside his room.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/15/he-was-asleep-in-his-room-then-a-drone-struck-to-wake-him-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Oman-1773557656.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP to amend charter to make Balendra Shah prime minister",
+      "summary": "The PM candidate is said to be in favour of forming a Cabinet of around 15 members.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/15/rsp-to-amend-charter-to-make-balendra-shah-prime-minister",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1773538940.jpg&w=600&height=400"
+    },
+    {
+      "title": "समानुपातिकतर्फ ४८ महिला र ९ पुरुषको नाम टुंगो लाग्यो : रास्वपा",
+      "summary": "साहित्यकार बीडी त्यागीको स्मृति दिवसको अवसरमा बीडी त्यागी स्मृति केन्द्रले हरेक वर्ष अर्पण गर्दै आएको बीडी त्यागी सम्मान पुरस्कार २०८३ को लागि प्रतिभा चयन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/talent-selection-for-bd-tyagi-honors-br-32-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773561037_baa 52-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको भर्चुअल केन्द्रीय सचिवालय बैठक सुरु",
+      "summary": "खासआर्यबाट १७, आदिवासी जनजातीबाट १६, मधेशीबाट ९, दलितबाट ८, थारुबाट ४ र मुस्लिम समुदायबाट ३ जनाको नाम टुंगो लगाएको बैठकपछि पार्टी प्रवक्ता मनिष झाले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/names-of-48-women-and-9-men-finalized-for-proportional-representation-rashtriya-swayamsevak-sangh-rss-58-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740138838_rasopa-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सरकार गठन गर्न अझै १० दिन लाग्छ : रास्वपा",
+      "summary": "बगनासकाली गाउँपालिका–२ रोकाडाँडास्थित सिद्धार्थ राजमार्गमा सवारी दुर्घटना हुँदा एक जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-in-road-accident-in-palpa-30-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770605078_1632542280_accident-1200x560-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन सार्वजनिकको मागसहित जेनजी अभियन्ता सडकमा उत्रिँदै",
+      "summary": "मैले विषम परिस्थितिमा प्रधानमन्त्री भएर जुन काम गर्नुपर्ने हो, त्यो पूरा गरेँ। अब म पुरानै निजी दैनिकीमा फर्किंन्छु।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/old-parties-don-t-need-to-panic-new-ones-don-t-need-to-get-drunk-prime-minister-karki-58-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771134229_PM sushila-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको सचिवालय बैठक भर्चुअल बस्ने",
+      "summary": "साहित्यकार बीडी त्यागीको स्मृति दिवसको अवसरमा बीडी त्यागी स्मृति केन्द्रले हरेक वर्ष अर्पण गर्दै आएको बीडी त्यागी सम्मान पुरस्कार २०८३ को लागि प्रतिभा चयन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/talent-selection-for-bd-tyagi-honors-br-32-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
