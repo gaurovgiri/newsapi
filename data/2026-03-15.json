@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-15T13:10:17.524437",
+  "scraped_at": "2026-03-15T16:41:25.608235",
   "date": "2026-03-15",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -415,6 +415,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-began-to-be-sent-to-the-market-in-fixed-quantities-74-26.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Cabinet recommends Home Minister Aryal for National Assembly seat",
+      "summary": "One seat in the upper house, to be nominated by the President on the recommendation of the Council of Ministers, had remained vacant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/15/cabinet-recommends-home-minister-aryal-for-national-assembly-seat",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OmPrakashAryal-1773576074.jpg&w=300&height=200"
+    },
+    {
+      "title": "Consensus picks Hem Raj Sharma as NRNA president",
+      "summary": "NRNA urges legal reforms to implement Non-Resident Nepali citizenship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/15/consensus-picks-hem-raj-sharma-as-nrna-president",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/hemrajsharma15320260310441000x0-1773590452.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali embassy in Doha urges travellers to obtain tourist visa when returning via Saudi Arabia",
+      "summary": "One seat in the upper house, to be nominated by the President on the recommendation of the Council of Ministers, had remained vacant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/14/nepali-embassy-in-doha-urges-travellers-to-obtain-tourist-visa-when-returning-via-saudi-arabia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/World-1773565697.jpg&w=400&height=267"
+    },
+    {
+      "title": "६ दलले नै बुझाए समानुपातिक सांसदको नाम",
+      "summary": "निगमले आइतबार मध्यरातिदेखि लागू हुने गरी पेट्रोलमा प्रतिलिटर १५ रुपैयाँ र डिजेल तथा मट्टितेलमा प्रतिलिटर १० रुपैयाँ बढाउने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/petrol-imported-from-india-was-increased-by-rs-31-per-liter-but-it-was-increased-by-only-rs-15-per-liter-in-nepal-77-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773591792_petrol-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले बुझाएको समानुपातिकतर्फ ५७ जनाको नाम, छुटे प्रमोद र प्रकाश (नामसहित)",
+      "summary": "पर्सा प्रहरीले ठूलो परिमाणमा प्रतिबन्धित लागू औषधसहित दुई जनालाई पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-arrested-with-large-quantity-of-drugs-in-parsa-88-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773591825_Police-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस सुधारका लागि महामन्त्री पौडेलले मागे कार्यकर्ता र सुभेच्छुकसँग सुझाव",
+      "summary": "सात भारतीय तीर्थयात्रीको ज्यान जाने गरी गोरखामा भएको सवारी दुर्घटनाको छानबिन गर्न समिति गठन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/committee-formed-to-investigate-accident-that-killed-indian-pilgrim-58-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773585534_1773551543_durghatana-1200x560-480x320.jpg"
     }
   ]
 }
