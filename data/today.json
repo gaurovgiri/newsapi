@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-15T08:48:42.404070",
+  "scraped_at": "2026-03-15T13:10:17.524437",
   "date": "2026-03-15",
-  "total_articles": 47,
+  "total_articles": 52,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -382,6 +382,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/talent-selection-for-bd-tyagi-honors-br-32-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "किशोरी साहको मागमा सर्वोच्चद्वारा अन्तरिम आदेश दिन अस्वीकार, मात्रिका यादव सांसद कायमै",
+      "summary": "पोखराको गगनगौंडास्थित गृहलक्ष्मी ग्यास कम्पनि प्रालिले आइतबार सूचना जारी गर्दै कम्पनिबाट वितरण हुने ग्यास सिलिन्डरको संख्या सार्वजनिक गर्यो। कम्पनिले जारी गरेको सूचना अनुसार आइतबार ३ हजार ८ सय ७८ सिलिन्डर ग्यास (आधा भरि) बाहिरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-began-to-be-sent-to-the-market-in-fixed-quantities-74-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1773578369_Gas Shuklagandaki 2-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीका निर्णय विवादमा",
+      "summary": "अदालतको उक्त निर्णयसँगै सो क्षेत्रबाट निर्वाचित नेपाली कम्युनिष्ट पार्टीका सांसद मात्रिका यादवको पद यथावत रहने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-refuses-to-issue-interim-order-on-kishori-sah-s-demand-matrika-yadav-remains-mp-67-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773578398_Kishori Matrika-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछानेसम्बन्धी मुद्दा हेर्दाहेर्दैमा, सोमबार पुनः बहस हुने",
+      "summary": "सुशासन कायम गर्ने प्रतिबद्धता व्यक्त गर्दै सरकारको नेतृत्व गरेकी कार्कीले चुनाव सम्पन्न भइसकेपछि अन्तिम समयमा आफ्ना विश्वास पात्रहरूलाई पद बाँडेको आरोप लागेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-sushila-karki-s-decisions-before-leaving-the-government-are-controversial-47-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773578385_susila-omprakash-480x320.jpg"
+    },
+    {
+      "title": "पूर्वराष्ट्रपति भण्डारीद्वारा अध्यक्ष ओलीलाई समवेदना",
+      "summary": "उक्त निर्देशनअनुसार लामिछानेमाथि सहकारी ठगीको मुद्दा मात्रै अघि बढाउने र अन्य दुई गम्भीर आरोप हटाउने निर्णय गरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-lamichhane-case-to-be-re-debated-on-monday-60-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772983945_Rabi-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन ग्रहण गर्ने मन्त्रिपरिषद्काे निर्णय",
+      "summary": "पोखराको गगनगौंडास्थित गृहलक्ष्मी ग्यास कम्पनि प्रालिले आइतबार सूचना जारी गर्दै कम्पनिबाट वितरण हुने ग्यास सिलिन्डरको संख्या सार्वजनिक गर्यो। कम्पनिले जारी गरेको सूचना अनुसार आइतबार ३ हजार ८ सय ७८ सिलिन्डर ग्यास (आधा भरि) बाहिरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-began-to-be-sent-to-the-market-in-fixed-quantities-74-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
