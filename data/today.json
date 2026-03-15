@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-15T03:21:37.606524",
+  "scraped_at": "2026-03-15T05:39:58.633500",
   "date": "2026-03-15",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/iran-new-supreme-leader-mojtaba-khamenei-is-fully-recovered-and-unharmed-20-13.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "र सेर्माको उपचारका लागि युकेबाट २ लाख ३५ हजार सहयोग",
+      "summary": "र सेर्माको उपचारका लागि युकेबाट २ लाख ३५ हजार सहयोग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12484",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sherma-ba-1773474131.jpg"
+    },
+    {
+      "title": "आज समानुपातिक सांसदको नाम टुंग्याउँदै राप्रपा",
+      "summary": "नेपाली सुनचाँदी बजारमा आइतबार सुन–चाँदीको मूल्य घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-price-of-gold-fell-by-4-800-in-a-single-day-at-what-price-is-it-being-traded-96-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिको बैठक बस्दै",
+      "summary": "रमेश विकल साहित्य प्रतिष्ठानको सहकार्यमा कथा यात्रा समूहले आख्यान मञ्जिरा शीर्षकमा वरिष्ठ कथाकार रमेश विकलका चार पुस्ताको कथामाथि विमर्श गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/discussion-on-the-story-of-four-generations-br-10-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773552968_Four pusta 52-480x320.jpg"
+    },
+    {
+      "title": "शून्य सिटपछि पनि उत्साह : बालेन्द्रमा मधेशी ‘एजेन्डा’को जित",
+      "summary": "‘वन डढेलो नियन्त्रणमा प्रभावकारिताः तीनै तहका सरकार र समुदायको सहभागिता’ नाराका साथ आजदेखि ‘वन डढेलो व्यवस्थापन सप्ताह’ सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-management-week-begins-today-63-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742185725_dadhelo-480x320.jpg"
+    },
+    {
+      "title": "एनएक्सटी २०२६ सम्मेलनमा सहभागी भएर स्वदेश फर्किँदा सन्तोषको अनुभूति भयो : डा. भट्टराई",
+      "summary": "सहिद लखन गाउँपालिका–३ कान्टारमा शनिबारभएको यात्रुवाहक माइक्रोबस दुर्घटनाको मृतकको पहिचान खुलेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gorkha-microbus-accident-update-seven-indians-killed-36-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773551543_durghatana-480x320.jpg"
+    },
+    {
+      "title": "शोकको घडीमा नकारात्मक टिप्पणी र घृणाजन्य अभिव्यक्ति बन्द गरौं : योगेश भट्टराई",
+      "summary": "नेपाली सुनचाँदी बजारमा आइतबार सुन–चाँदीको मूल्य घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/the-price-of-gold-fell-by-4-800-in-a-single-day-at-what-price-is-it-being-traded-96-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
