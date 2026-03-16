@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-16T05:53:03.301844",
+  "scraped_at": "2026-03-16T09:07:27.259426",
   "date": "2026-03-16",
-  "total_articles": 35,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -287,6 +287,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-youths-from-surkhet-who-went-hunting-in-bardiya-national-park-are-missing-one-suspected-to-be-dead-93-75.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773639875_bardia national park-480x320.jpg"
+    },
+    {
+      "title": "आइएमई बैंकद्वारा ग्लोबल मनि विकको अवसरमा वित्तीय साक्षरता कार्यक्रम आयोजना गर्ने",
+      "summary": "आइएमई बैंकद्वारा ग्लोबल मनि विकको अवसरमा वित्तीय साक्षरता कार्यक्रम आयोजना गर्ने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12497",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gbime-1773649243.jpeg"
+    },
+    {
+      "title": "ा लगानी भन्दा बढी एनआरएनलाई नागरिकताको चिन्ता",
+      "summary": "ा लगानी भन्दा बढी एनआरएनलाई नागरिकताको चिन्ता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12487",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nrna___-1773546983.jpg"
+    },
+    {
+      "title": "Iran’s asymmetric warfare",
+      "summary": "A fusion of Balen Shah and the Rastriya Swatantra Party makes this election’s result representative of the Gen Z mandate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/16/iran-s-asymmetric-warfare",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1773650241.jpg&w=400&height=267"
+    },
+    {
+      "title": "दोस्रो अवसर दिनुभयो धन्यवाद, जानेर गल्ती गर्ने छैन: हर्क साङपाङ",
+      "summary": "बर्दिया राष्ट्रिय निकुञ्जमा सिकार खेल्न गएका सुर्खेतका ५ जना बेपत्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/5-people-who-went-hunting-go-missing-86-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773651201_bardiya national park-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले नयाँ निर्वाचित जनप्रतिनिधिलाई संसद्‌को मर्यादा सिकाउने",
+      "summary": "सम्झौताले सरकारी अस्पतालबिच बालबालिकाको क्यान्सर उपचार सम्बन्धी सेवा आदानप्रदान गर्न सहजीकरण हुने विश्वास लिएको उनले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kanti-and-bhaktapur-hospitals-to-collaborate-on-pediatric-cancer-treatment-32-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773650457_cancer-480x320.jpg"
+    },
+    {
+      "title": "महेश बस्नेतको आक्रोश: रास्वपा समर्थित सरकारको काम भनेर चित्त बुझाउने कि जनविरोध निर्णय मान्ने",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष हर्क साङपाङले जनताबाट दोस्रो पटक अनुमोदन भएको भन्दै खुसी व्यक्‍त गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/thank-you-for-giving-me-a-second-chance-i-will-not-make-any-mistakes-knowingly-hark-sangpang-73-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763899908_Harka-sampang-480x320.jpg"
+    },
+    {
+      "title": "चैतमा डाकिएको जनमतको महाधिवेशन असोजलाई सर्‍यो",
+      "summary": "काठमाडौं महानगरपालिकाले बञ्चरेडाँडामा लैजाने फोहरको मात्रा घटाउने उद्देश्यका साथ छुट्टै सुक्खा फोहर व्यवस्थापन कार्य सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-metropolitan-city-is-reducing-the-amount-of-waste-taken-to-bancharedanda-12-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746164922_sisdol damping-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक सांसदको सूचीमा रास्वपा सां‌सदकै असन्तुष्टि",
+      "summary": "बर्दिया राष्ट्रिय निकुञ्जमा सिकार खेल्न गएका सुर्खेतका ५ जना बेपत्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/5-people-who-went-hunting-go-missing-86-82.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
