@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-16T03:24:08.865249",
+  "scraped_at": "2026-03-16T05:53:03.301844",
   "date": "2026-03-16",
-  "total_articles": 32,
+  "total_articles": 35,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -263,6 +263,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sumana-on-appointment-of-personal-secretary-others-acted-in-nepotism-favoritism-nepobaby-while-he-appreciated-the-contribution-19-80.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Leaders aren’t gods, and progress is possible only through collective leadership",
+      "summary": "A fusion of Balen Shah and the Rastriya Swatantra Party makes this election’s result representative of the Gen Z mandate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/03/16/leaders-aren-t-gods-and-progress-is-possible-only-through-collective-leadership",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/ManishKhanalGenZMPfromRSPDEEPAKKC-1773619199.jpg&w=600&height=400"
+    },
+    {
+      "title": "संसदीय राजनीतिबाट सन्यास लिने सिके राउतको घोषणा",
+      "summary": "लमजुङस्थित बेसीसहर नगरपालिका–१ दलालमा रहेको ७० मेगावाटको मध्य मर्स्याङ्दी जलविद्युत् आयोजनाको ड्याममा एक वृद्ध मृतावस्थामा फेला परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-man-missing-for-a-month-found-dead-48-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "प्रतिवेदन सार्वजनिक नभए जेनजी युवालाई 'कराईबाट उम्केको माछा भूँग्रामा' भनेजस्तै हुनसक्छ : डा.भट्टराई",
+      "summary": "बर्दिया निकुञ्जमा सिकार खेल्न गएका सुर्खेतका एक युवकको मृत्यु आशंका गरिएको छ भने पाँच जना अझै सम्पर्कविहीन भएको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-youths-from-surkhet-who-went-hunting-in-bardiya-national-park-are-missing-one-suspected-to-be-dead-93-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773639875_bardia national park-480x320.jpg"
     }
   ]
 }
