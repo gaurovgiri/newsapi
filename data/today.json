@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-16T09:07:27.259426",
+  "scraped_at": "2026-03-16T13:44:58.141036",
   "date": "2026-03-16",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/5-people-who-went-hunting-go-missing-86-82.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Raped and left to die, teenager’s family wants answers",
+      "summary": "Inisa BK died after what police say was forcible sexual assault. Her father learned only after her death that the school had spoken to one accused’s family—and said nothing to him.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/16/raped-and-left-to-die-teenager-s-family-wants-answers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/page1-1773621046.jpg&w=300&height=200"
+    },
+    {
+      "title": "CK Raut announces retirement from parliamentary politics",
+      "summary": "His announcement comes in the wake of his party’s poor performance in the recently concluded parliamentary polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/16/ck-raut-announces-retirement-from-parliamentary-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ckraut29120260806511000x0-1773648368.jpg&w=300&height=200"
+    },
+    {
+      "title": "समानुपातिकतर्फ निर्वाचित ११० सांसद्को सूची सार्वजनिक",
+      "summary": "आयोगले विभिन्न दलहरूबाट सिफारिस भएर आएका ११०जनाकाे नाम सार्वजनिक गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/list-of-110-mps-elected-through-proportional-representation-made-public-25-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "सर्वोच्चमा रवि लामिछानेसम्बन्धी मुद्दा पुनः ‘हेर्दाहेर्दै’मा, मंगलबार फेरि सुनुवाइ हुने",
+      "summary": "एक्स्पोमा नर्सरी व्यवसायीहरूले उत्पादन गरेका गुणस्तरीय फूल तथा आलंकारिक बोटबिरुवाको प्रतिस्पर्धा गराइने आयोजकले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/flora-expo-from-chaitra-5-to-8-nbsp-94-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773665846_Flora-480x320.jpg"
+    },
+    {
+      "title": "रविको मुद्दा फिर्ता लिने निर्णयविरुद्धको रिट ‘हेर्दाहेर्दै’ मा",
+      "summary": "नेपाल निर्माण व्यवसायी महासङ्घले निर्माण सामग्रीमा मूल्य स्थिर नहुँदासम्म ‘कन्स्ट्रक्सन होलिडे’ घोषणा गर्न सरकारसँग आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/demand-to-declare-a-construction-holiday-until-the-prices-of-construction-materials-stabilize-96-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773664574_nirman vyabasahi mahasang-480x320.jpg"
+    },
+    {
+      "title": "प्रदेश अनुसन्धान तथा प्रशिक्षण प्रतिष्ठान ऐन संशोधन गरिने",
+      "summary": "योपटक नेपालको पर्यटन क्षेत्रले दुईप्रकारका अप्ठेरो खेपिरहेको छ। ती अप्ठेराका कारण पर्यटनमाथि सकस थपिएको छ। पर्यटन व्यावसायीका अनुसार दुवै अप्ठेरोका कारक भने एउटै हो–मध्यपूर्वको तनाव।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tourist-season-a-crisis-caused-by-stress-and-shortages-69-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1701513177_Indian Tourists Fewatal-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले भनिन्- काठमाडौं प्रशासनको सुधार सार्वजनिक सेवाको नमुना",
+      "summary": "आयोगले विभिन्न दलहरूबाट सिफारिस भएर आएका ११०जनाकाे नाम सार्वजनिक गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/list-of-110-mps-elected-through-proportional-representation-made-public-25-38.html?click_from=just_in",
       "image_url": ""
     }
   ]
