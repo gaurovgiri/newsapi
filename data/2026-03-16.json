@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-16T13:44:58.141036",
+  "scraped_at": "2026-03-16T17:12:06.784832",
   "date": "2026-03-16",
-  "total_articles": 50,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -407,6 +407,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/list-of-110-mps-elected-through-proportional-representation-made-public-25-38.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Mother of Gen Z martyr steps into Parliament seeking justice",
+      "summary": "Her son Rasik had taken to the streets of Baneshwar demanding justice and good governance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/16/mother-of-gen-z-martyr-steps-into-parliament-seeking-justice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rachanaphoto16320260939101000x0-1773665415.jpg&w=300&height=200"
+    },
+    {
+      "title": "यस्ता छन् कोशी सरकारको मन्त्रिपरिषद बैठकका निर्णयहरु",
+      "summary": "पूर्वप्रधानमन्त्री स्वर्गीय कृष्णप्रसाद भट्टराई स्मृति गोल्डकप फुटबल प्रतियोगितामा लोहोरुङ एफसी सङ्खुवासभा सेमिफाइनलमा प्रवेश गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/lohorung-fc-advances-to-sankhuwasabha-semifinals-40-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773675409_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "नेपाल परिवर्तनको नयाँ चरणमा प्रवेश गरेको छ: प्रधानमन्त्री",
+      "summary": "आइतबार बिहानदेखि भेरी नदीमा छोराछोरीसहित बेपत्ता भएकी गुर्भाकोट नगरपालिका–१२ पिप्लेकी माया कठायतको शव फेलापरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-missing-woman-found-with-children-79-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767236945_1756729847_death-1200x560-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभामा सिफारिस भएपछि गृहमन्त्रीको प्रतिक्रिया- ‘विवाद गर्नुपर्ने केही छैन’",
+      "summary": "जुम्लामा सार्वजनिक यातायातका साधनको मनपरी भाडा लिने प्रवृत्तिलाई अन्त्य गर्दै दूरीका आधारमा नयाँ भाडादर कायम गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/transportation-fare-adjustment-in-jumla-11-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1758950574_Jumla-480x320.jpg"
     }
   ]
 }
