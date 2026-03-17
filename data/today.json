@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-17T02:46:56.451106",
+  "scraped_at": "2026-03-17T05:24:16.729268",
   "date": "2026-03-17",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-died-in-a-fight-between-locals-57-63.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "China protests burning of Xi Jinping’s book in Morang college",
+      "summary": "Hundreds of copies of the book were set on fire at Manamohan Technical College on Saturday night. This is the latest in a series of events in Nepal that has irked China.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/17/china-protests-burning-of-xi-jinping-s-book-in-morang-college",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nook-1773710444.jpg&w=300&height=200"
+    },
+    {
+      "title": "13,000 people, including 612 fugitives from September 9 riots, placed on immigration blacklist",
+      "summary": "DoI intensifies monitoring at airports and land borders to prevent fugitives from fleeing or entering the country.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/16/13-000-people-including-612-fugitives-from-september-9-riots-placed-on-immigration-blacklist",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Gemini_Generated_Image_a76oipa76oipa76o.png&w=300&height=200"
+    },
+    {
+      "title": "Monsoon looms, but repairs on landslide-prone Tuinkhola slopes still pending",
+      "summary": "Last year, this section along the Narayanghat-Mugling road, a vital link to the Capital, was blocked for 184 hours.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/17/monsoon-looms-but-repairs-on-landslide-prone-tuinkhola-slopes-still-pending",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/road-1773710688.jpg&w=600&height=400"
+    },
+    {
+      "title": "Turning rhythm into care",
+      "summary": "It was clear to Iran’s astute military planners that a strategy was needed to cope with this challenge.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/17/turning-rhythm-into-care",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "A quiet reflection on inner strength",
+      "summary": "‘Journey to a Visionary Artworld’ showcases 50+ works that express personal discovery and ancestral influences.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/16/a-quiet-reflection-on-inner-strength",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/WhatsAppImage20260317at073830-1773714089.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रधानमन्त्रीले स्वकीय सचिवलाई कोषमा नियुक्ति दिनु भावनात्मकता र कृपावादको प्रयोग : रक्षा बम",
+      "summary": "राजेन्द्र बस्नेत निर्देशित फिल्म ‘कार्की साइँला’को छायांकन सकिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-shooting-of-karki-saila-has-been-completed-41-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1773724519_duniya ma 52-480x320.jpg"
+    },
+    {
+      "title": "मधेशकाे चाहना:प्रदेशसँग आफ्नै प्रहरी होस्",
+      "summary": "पृथ्वी राजमार्ग विस्तारका काममा सडक दायाँवायाँ बिजुलीका पोल मुख्य बाधक बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prithvi-highway-expansion-hundreds-of-electricity-poles-still-to-be-moved-53-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740043920_1707730544_Pokhara-Mugling 1-1200x560-480x320.jpg"
     }
   ]
 }
