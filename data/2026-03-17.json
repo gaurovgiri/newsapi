@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-17T09:00:59.970867",
+  "scraped_at": "2026-03-17T13:42:20.484382",
   "date": "2026-03-17",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
     "News24",
     "NagarikNews",
@@ -375,6 +375,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/lalima-team-writes-letter-to-balendra-shah-22-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal risks losing up to 132,000 jobs, $1 billion after LDC exit",
+      "summary": "ILO warns reduced exports after November may cost jobs, mainly for women, unless Nepal boosts competitiveness.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/17/nepal-risks-losing-up-to-132-000-jobs-1-billion-after-ldc-exit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/moneyyyyyyyy-1773710110.jpg&w=300&height=200"
+    },
+    {
+      "title": "केउरानी वनको डढेलो नियन्त्रणमा",
+      "summary": "काठमाडौंको चन्द्रागिरी नगरपालिकास्थित केउरानी सामुदायिक वनमा लागेको डढेलो नियन्त्रणमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/keurani-forest-fire-under-control-29-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773752945_dadelo-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको जग र जरा के हो ? कांग्रेस नेता विश्वकर्मा",
+      "summary": "यातायात क्षेत्रसम्बन्धी सर्वोच्च अदालतको आदेश तथा फैसलाहरू कार्यान्वयन गर्न गठित जाँचबुझ आयोगले आफ्नो प्रतिवेदन सरकारलाई बुझाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/report-of-the-commission-formed-to-implement-transport-sector-reforms-submitted-42-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773752863_Yatayat-480x320.jpg"
+    },
+    {
+      "title": "अन्तरघातलाई समेत प्राथमिकतामा राखेर कांग्रेसले समीक्षा गर्ने",
+      "summary": "आकर्षक पहिरनमा देखिएकी अभिनेत्री झाङ जिङयीले हातमा पहेंलो प्लास्टिक झोला बोकेपछि यसको चर्चा चुलिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/when-the-actress-reached-the-red-carpet-carrying-a-plastic-bag-37-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773752240_jiyang-480x320.jpg"
+    },
+    {
+      "title": "एमालेका पराजित उम्मेदवारद्वारा रास्वपाका दुई सांसदविरूद्ध रिट दायर",
+      "summary": "पहिलो दिनको खेलको समाप्तिमा आर्मीले पुलिसविरुद्ध १८० रनको अग्रता कायम राखेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/jai-trophy-army-in-strong-position-against-police-in-final-74-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773752406_Army_Police-480x320.jpg"
+    },
+    {
+      "title": "मतपत्रको केमिकल जाँच गरौं : एमाले नेता तामाङ",
+      "summary": "काठमाडौंको चन्द्रागिरी नगरपालिकास्थित केउरानी सामुदायिक वनमा लागेको डढेलो नियन्त्रणमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/keurani-forest-fire-under-control-29-88.html?click_from=just_in",
+      "image_url": "https://jscss.nagariknewscdn.com/images/default-image.png"
     }
   ]
 }
