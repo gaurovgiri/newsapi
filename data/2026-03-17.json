@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-17T13:42:20.484382",
+  "scraped_at": "2026-03-17T17:12:27.416204",
   "date": "2026-03-17",
-  "total_articles": 52,
+  "total_articles": 58,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -423,6 +423,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/keurani-forest-fire-under-control-29-88.html?click_from=just_in",
       "image_url": "https://jscss.nagariknewscdn.com/images/default-image.png"
+    },
+    {
+      "title": "PM Karki under fire for recruiting chief personal secretary as NTNC chair",
+      "summary": "Despite lacking a formal background in information technology, Shrestha was designated as an IT staff member during Karki’s tenure as chief justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/17/pm-karki-under-fire-for-recruiting-chief-personal-secretary-as-ntnc-chair",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/karkiAdarsha-1773748961.jpg&w=300&height=200"
+    },
+    {
+      "title": "पोखरा महानगर प्रमुख आचार्यसँग जर्मन राजदूतको शिष्टाचार भेट",
+      "summary": "यस वर्ष जुम्लाबाट माध्यमिक शिक्षा परीक्षा (एसईई) दिने विद्यार्थीको संख्या ह्वात्तै घटेको छ। चैत १९ गतेदेखि सुरु हुने परीक्षामा जुम्लाबाट जम्मा २ हजार २ सय ५५ जना विद्यार्थी मात्र सहभागी हुँदैछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-number-of-students-taking-see-in-jumla-has-decreased-sharply-67-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738141957_jumla-480x320.jpg"
+    },
+    {
+      "title": "पेट्रोलियम पदार्थको मूल्यमा सहुलियत दिन पौडेलको आग्रह",
+      "summary": "फागुन २१ गते सम्पन्न प्रतिनिधिसभा सदस्य निर्वाचनबाट झन्डै दुई तिहाइ बहुमत पाएको राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सरकार बनाउने तयारीमा जुटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/will-the-rashtriya-swayamsevak-sangh-rss-manifesto-bring-about-a-transformation-in-education-71-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773763653_f-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन तत्काल सार्वजनिक गर्ने उनेपाको माग",
+      "summary": "दुर्घटनामा चालक मुड्केचुला–३ भोटगाउँका २३ वर्षीय सल्मान रोकायाको घटनास्थलमै मृत्यु भएको हो। हाल रुकुम पश्चिम को त्रिवेणीमा बसोबास गर्दै आएका रोकाया एक्लै जिप चलाइरहेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bolero-accident-in-dolpa-driver-rokaya-dies-58-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1773762377_jeep-480x320-wm.jpg"
+    },
+    {
+      "title": "रास्वपालाई चिनियाँ कम्युनिस्ट पार्टीको शुभकामना",
+      "summary": "यही सोमबारको वर्षाले पनि नवलपरासीका गहुँबाली नष्ट भएको पाल्हीनन्दन गाउँपालिका–४ निवासी प्रमोद पटेलले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/unseasonal-rains-destroy-wheat-crop-in-western-nawalparasi-44-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773762345_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "देश, लोकतन्त्र र संविधानका लागि नयाँ जनमत उपयोग हुन सकोस्: पूर्वराष्ट्रपति",
+      "summary": "यस वर्ष जुम्लाबाट माध्यमिक शिक्षा परीक्षा (एसईई) दिने विद्यार्थीको संख्या ह्वात्तै घटेको छ। चैत १९ गतेदेखि सुरु हुने परीक्षामा जुम्लाबाट जम्मा २ हजार २ सय ५५ जना विद्यार्थी मात्र सहभागी हुँदैछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-number-of-students-taking-see-in-jumla-has-decreased-sharply-67-92.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
