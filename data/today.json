@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-17T05:24:16.729268",
+  "scraped_at": "2026-03-17T09:00:59.970867",
   "date": "2026-03-17",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
     "News24",
     "NagarikNews",
@@ -335,6 +335,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prithvi-highway-expansion-hundreds-of-electricity-poles-still-to-be-moved-53-65.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1740043920_1707730544_Pokhara-Mugling 1-1200x560-480x320.jpg"
+    },
+    {
+      "title": "Clubs slam ANFA over rushed A-Division league decision",
+      "summary": "Several clubs protested at the ANFA Complex on Monday and left after padlocking the office, as their meeting with ANFA officials did not reach an agreement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/17/clubs-slam-anfa-over-rushed-a-division-league-decision",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SPORT-1773720586.jpg&w=300&height=200"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन सार्वजनिक गर्न जेनजी २.० को माग",
+      "summary": "चलचित्र ‘लालिमा’ को टिमले रास्वपा वरिष्ठ नेता बालेन्द्र शाहलाई नेपाली यौनकर्मी महिलाको मानवअधिकार सुनिश्चित गर्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/lalima-team-writes-letter-to-balendra-shah-22-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773737106_Lalima1-480x320.jpg"
+    },
+    {
+      "title": "पूर्वमन्त्री श्रेष्ठविरुद्धको भ्रष्टाचार मुद्दा सुनुवाइका लागि पेसी तोकियो",
+      "summary": "पितृशोकमा रहेका पूर्वप्रधानमन्त्री तथा एमाले अध्यक्ष केपी शर्मा ओलीलाई भेट्न ओली निवास गुण्डु पुगेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/president-vice-president-gundu-to-offer-condolences-to-oli-family-br-21-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773736053_Poudel_Yadav-480x320.jpg"
+    },
+    {
+      "title": "जनताको आशा र विश्वास कायम राख्न रास्वपा उपसभापति अर्यालको आग्रह",
+      "summary": "बाजुराको स्वामीकार्तिक खापर गाउँपालिका–२ पुडेनीका ३५ वर्षीय शर्वाश बुढाको हत्या गरेको अभियोगमा ४० वर्षीय धनबहादुर महतरा पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/one-person-arrested-on-murder-charges-75-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "संसद्‍मा बोल्दा अध्ययन गरेर बोलौं : स्वर्णिम वाग्ले",
+      "summary": "जेनजी २.० ले कार्की आयोगद्वारा तयार पारिएको प्रतिवेदन यथाशीघ्र सार्वजनिक गर्न सरकारसँग माग गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/geng-2-0-demands-to-make-karki-commission-report-public-94-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773735576_gen-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिद्वारा शोक व्यक्त",
+      "summary": "चलचित्र ‘लालिमा’ को टिमले रास्वपा वरिष्ठ नेता बालेन्द्र शाहलाई नेपाली यौनकर्मी महिलाको मानवअधिकार सुनिश्चित गर्न आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/lalima-team-writes-letter-to-balendra-shah-22-47.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
