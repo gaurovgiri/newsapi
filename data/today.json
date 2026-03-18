@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-18T09:00:26.989109",
+  "scraped_at": "2026-03-18T13:44:09.585791",
   "date": "2026-03-18",
-  "total_articles": 43,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -350,6 +350,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/nba-league-date-postponed-to-be-held-in-april-43-71.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Ghode Jatra celebrated with grandeur at Tundikhel",
+      "summary": "President and top leaders attend as Nepali Army stages equestrian displays in Kathmandu Valley.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/03/18/ghode-jatra-marked-with-grandeur-at-tundikhel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ghodejatra6-1773834509.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचन : समग्र प्रतिवेदन भाेलि राष्ट्रपति पौडेललाई बुझाइने",
+      "summary": "आयोगले समानुपातिकतर्फ निर्वाचित सांसदलाई प्रमाणपत्र दिएपछि दिउँसो राष्ट्रपतिसमक्ष निर्वाचन परिणामसहितको प्रतिवेदन बुझाउने तयारी गरेकाे हाे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-member-election-overall-report-to-be-submitted-to-president-poudel-90-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768543645_Election (1)-480x320.jpg"
+    },
+    {
+      "title": "पितृशोकमा रहेका ओलीलाई अर्यालको समवेदना",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का उपसभापति डोलप्रसाद अर्यालले पूर्वप्रधानमन्त्री एवं नेकपा (एमाले) का अध्यक्ष केपी शर्मा ओलीलाई समवेदना व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/aryal-s-condolences-to-oli-who-is-grieving-for-his-father-60-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773839432_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सरकारलाई कम्तिमा तीन महिना काम गर्न दिनुपर्छ : एमाले नेता बाँसकोटा",
+      "summary": "केपिलासगढी गाउँपालिका–२ खार्तम्छास्थित बालाबेंसीमा आज एयर डाइनेष्टी कम्पनीको हेलिकप्टर दुर्घटना हुँदा छ जना घाइते भएका छन्। काठमाडौंबाट पाँच यात्रु लिएर आज दिउँसो १२ बजेर २ मिनेट जाँदा खार्तम्छास्थित बालाबेँसी आइपुगेको हेलिकप्टर अवतरणको क्रममा भित्तामा ठोक्किएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/passenger-in-helicopter-crash-says-the-pilot-turned-off-the-engine-immediately-after-the-accident-86-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773839136_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "रविको अभिव्यक्तिप्रति बाबुराम- पुरानाको सम्मान गर्ने सोच अर्थपूर्ण, फलेको हाँगो निहुरिनुपर्छ",
+      "summary": "ओलीले हँसिलो चेहरा बनाउँदै भने, ‘हेर्नुस् त म ठीक छु । मलाई स्वास्थ्यले साथ दिएको छ ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/oli-who-has-been-living-in-a-state-of-defecation-is-healthy-daily-diet-includes-greens-kurilo-and-parsley-leaves-51-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773838911_KP-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक सांसदले बिहीबार पाउँदैछन् प्रमाण पत्र",
+      "summary": "आयोगले समानुपातिकतर्फ निर्वाचित सांसदलाई प्रमाणपत्र दिएपछि दिउँसो राष्ट्रपतिसमक्ष निर्वाचन परिणामसहितको प्रतिवेदन बुझाउने तयारी गरेकाे हाे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-member-election-overall-report-to-be-submitted-to-president-poudel-90-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
