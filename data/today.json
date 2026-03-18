@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-18T02:53:15.472181",
+  "scraped_at": "2026-03-18T05:38:00.873987",
   "date": "2026-03-18",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-uml-in-review-of-defeat-76-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Most Nepalis missed annual non-communicable disease screening",
+      "summary": "Snap elections and harsh winter disrupted nationwide checks for blood pressure, blood sugar, kidney function and BMI.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/18/most-nepalis-missed-annual-non-communicable-disease-screening",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/thumb4-1773799183.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bengal tigers move to mid-hills. Sighted in Palpa, Arghakhanchi",
+      "summary": "Camera traps confirm three Bengal tigers in the two hilly districts, beyond their usual range in the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/18/bengal-tigers-move-to-mid-hills-sighted-in-palpa-aghakhanchi",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tiger-1773798833.jpg&w=600&height=400"
     }
   ]
 }
