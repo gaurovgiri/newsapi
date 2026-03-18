@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-18T13:44:09.585791",
+  "scraped_at": "2026-03-18T17:11:59.998165",
   "date": "2026-03-18",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/house-of-representatives-member-election-overall-report-to-be-submitted-to-president-poudel-90-37.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Over 2,000 Nepali denied labour permits daily as tensions persist in West Asia",
+      "summary": "Government partially resumes labour permits for seven countries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/18/over-2-000-nepali-denied-labour-permits-daily-as-tensions-persist-in-west-asia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/tiaphoto-1773838689.jpg&w=300&height=200"
+    },
+    {
+      "title": "स्थानीय तहमा कर्मचारीको सरुवाबढुवामा हालीमुहाली",
+      "summary": "पुरस्कार वितरण समारोह बहिष्कार गर्ने दुई विद्यालयमाथि अनुशासनात्मक कारबाही गर्न मेयर सुदीप पौडेलले निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/controversy-over-presidential-running-shield-mayor-directs-action-against-two-schools-that-boycotted-award-distribution-br-25-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773851906_Sild-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सरकार गठन कहिले ?",
+      "summary": "प्रधानसेनापति अशोकराज सिग्देलले समसामयिक परिस्थितिका सम्बन्धमा पूर्वप्रधान सेनापतिहरूसँग छलफल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/army-chief-sigdel-discusses-current-situation-59-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773850650_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन परिणाममा आइएनजीओको हात रहेको सीपी मैनालीको आरोप",
+      "summary": "रौतहटका विभिन्न स्थानीय तहमा चौथो तहमा नियुक्त भएका कर्मचारीहरूले नियमविपरीत बढुवा गराउँदै सातौँ तहसम्म पुगेको पाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/confusion-over-employee-transfers-and-promotions-at-local-levels-42-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773850208_Karmachari-480x320.jpg"
+    },
+    {
+      "title": "रास्वपामाथि अभूतपूर्व विश्वास: विद्रोह होइन, विकल्पको खोजी",
+      "summary": "निर्वाचन आयोगले बिहीबार राष्ट्रपति रामचन्द्र पौडेललाई प्रतिनिधिसभा सदस्य निर्वाचनको प्रतिवेदन बुझाउने तयारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/when-will-the-new-government-be-formed-br-60-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773849249_gov-480x320.jpg"
+    },
+    {
+      "title": "‘चुनावअघि छानविन प्रतिवेदन आएको भएसायद चुनाव हुँदैन थियो, आयोगले विवेक पुर्‍यायो’",
+      "summary": "पुरस्कार वितरण समारोह बहिष्कार गर्ने दुई विद्यालयमाथि अनुशासनात्मक कारबाही गर्न मेयर सुदीप पौडेलले निर्देशन दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/controversy-over-presidential-running-shield-mayor-directs-action-against-two-schools-that-boycotted-award-distribution-br-25-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
