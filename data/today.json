@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-18T05:38:00.873987",
+  "scraped_at": "2026-03-18T09:00:26.989109",
   "date": "2026-03-18",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/03/18/bengal-tigers-move-to-mid-hills-sighted-in-palpa-aghakhanchi",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tiger-1773798833.jpg&w=600&height=400"
+    },
+    {
+      "title": "Once the heartbeat of Nepali democracy, now a ghostly shell",
+      "summary": "The BICC building housed the Constituent Assembly and parliament after 2008. Due to destruction during Gen Z protests, federal parliament secretariat decided to end the lease.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/17/no-immediate-plan-to-rebuild-bicc-six-months-after-fire",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/oldparliamentbuilding0317320260909551000x0-1773760508.jpg&w=300&height=200"
+    },
+    {
+      "title": "Departmental clubs face stiff challange at Martyr’s Memorial Women’s League",
+      "summary": "The top-tier women’s club competition kicks off with two matches—NRT vs Sankata and Army vs Jhapa—at Chyasal Stadium today.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/18/departmental-clubs-face-stiff-challange-at-martyr-s-memorial-women-s-league",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/sports/stadium-1773803629.jpg&w=600&height=400"
+    },
+    {
+      "title": "पार्टीमा राई-लिम्बू समुदायको प्रतिनिधित्व नभएपछि रास्वपा सभापति लामिछानेले मागे माफी",
+      "summary": "दशौँ संस्करणको प्रधानमन्त्री कप एनभिए महिला तथा पुरुष लिगको मिति सरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nba-league-date-postponed-to-be-held-in-april-43-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773823081_Volleyball News-480x320.jpg"
+    },
+    {
+      "title": "देशको संविधान, संसदको नियमावली र पार्टीको विधान मानेर अघि बढ्नुपर्छ : सभापति लामिछाने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले पार्टीमा राई–लिम्बू समुदायको प्रतिनिधित्व सुनिश्चित गर्न नसकेको भन्दै माफी मागेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rabi-lamichhane-apologizes-for-lack-of-rai-limbu-representation-in-rashtriya-swayamsevak-sangh-rss-92-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773822377_WhatsApp Image 2026-03-18 at 1_42_28 PM-480x320.jpg"
+    },
+    {
+      "title": "यो देश अहिले पनि नबने कहिल्यै बन्दैन : रवि लामिछाने",
+      "summary": "व्यक्तिको चाहनाभन्दा पनि देशको आवश्यकता अनुसार काम गर्नुपर्ने उनको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-must-move-forward-by-adhering-to-the-country-s-constitution-parliamentary-regulations-and-party-statutes-chairman-lamichhane-61-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772983945_Rabi-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाबाट अर्थ र परराष्ट्रमन्त्री को बन्दै छन् ?",
+      "summary": "उनले स्टेजमा दर्शकसँग कुराकानी गर्दै आफ्नो चर्चित ‘हाउ इज द जोश?’ शैलीमा दर्शकसँग संवाद गरेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/why-is-actor-vicky-kaushal-embroiled-in-controversy-91-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773822121_vikki kausal-480x320.jpg"
+    },
+    {
+      "title": "मैले तलब लिन्न भन्दा पपुलिष्टलाई छटपटी : सुदन गुरुङ",
+      "summary": "दशौँ संस्करणको प्रधानमन्त्री कप एनभिए महिला तथा पुरुष लिगको मिति सरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nba-league-date-postponed-to-be-held-in-april-43-71.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
