@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-19T13:24:14.783272",
+  "scraped_at": "2026-03-19T17:04:44.982257",
   "date": "2026-03-19",
-  "total_articles": 53,
+  "total_articles": 61,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -430,6 +430,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/chadian-president-orders-closure-of-border-with-sudan-75-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Election Commission submits poll report to President Paudel",
+      "summary": "EC report includes the final names of the 275 members elected under the first-past-the-post and the proportional representation systems.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/election-commission-submits-poll-report-to-president-paudel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ecSUBMITSREPORT-1773920638.jpg&w=300&height=200"
+    },
+    {
+      "title": "Shrestha returns with first-hand experience of war in East Asia",
+      "summary": "Misleading content, videos fuel anxiety among Nepali families.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/shrestha-returns-with-first-hand-experience-of-war-in-east-asia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/devendrashrestharamechhap18320260908251000x0-1773915039.jpg&w=300&height=200"
+    },
+    {
+      "title": "High-tech surveillance helps nab notorious poachers in Chitwan",
+      "summary": "Chitwan National Park currently employs 25 spy cameras alongside seven drones to monitor its 952 sq km territory and buffer zone areas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/high-tech-surveillance-helps-nab-notorious-poachers-in-chitwan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/SPYCameraCNP-1773936803.jpg&w=600&height=400"
+    },
+    {
+      "title": "एक मतदातामा २८४ रुपैयाँ खर्च",
+      "summary": "बारपाक सुलिकोट गाउँपालिका–३ खारचोक भञ्ज्याङस्थित अकला आधारभूत विद्यालयका शिक्षक र विद्यार्थी झुसिल्किराका कारण हैरान भएका छन् । कक्षाभरि झुसिल्किरा भइँ दिँदा पठनपाठन प्रभावित भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/insects-all-over-the-classroom-teachers-and-students-are-shocked-and-shocked-42-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773937663_Akala School-480x320.jpg"
+    },
+    {
+      "title": "जाँदाजाँदै अर्थमन्त्रीको निष्कर्ष- राजनीतिक हस्तक्षेप नगरे हाम्रा सरकारी संयन्त्र सक्षम छन्",
+      "summary": "सर्लाही सदरमुकाम मलङ्गवामा आज पोखरीमा डुबेर एक युवकको मृत्यु भएको छ। मृतकको पहिचान खुल्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/young-man-dies-after-drowning-in-pond-31-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "विमानस्थलबाट २९ हजार डलरसहित तीन नेपाली पक्राउ",
+      "summary": "काठमाडौं महानगरपालिकाका कार्यवाहक प्रमुख सुनिता डंगोलले यस वर्षको बर्खा याम सुरु हुनुअघि कुमारी वहाल (कुमारी घर) को छानो जीर्णोद्धार गरिसक्न निर्दे",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dangol-directs-immediate-renovation-of-kumari-s-house-roof-79-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773936401_sunita-480x320.jpg"
+    },
+    {
+      "title": "‘सभापति थापाको राजीनामा अस्वीकृत हुन्छ’",
+      "summary": "गत फागुन २१ गते सम्पन्न प्रतिनिधिसभा सदस्य निर्वाचनमा प्रतिमतदाता २८४ रुपैयाँ खर्च भएको निर्वाचन आयोगले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rs-284-spent-on-one-voter-19-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772704240_election1-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा सदस्य निर्वाचनः प्रति मतदाता २८४ रुपैयाँ खर्च",
+      "summary": "बारपाक सुलिकोट गाउँपालिका–३ खारचोक भञ्ज्याङस्थित अकला आधारभूत विद्यालयका शिक्षक र विद्यार्थी झुसिल्किराका कारण हैरान भएका छन् । कक्षाभरि झुसिल्किरा भइँ दिँदा पठनपाठन प्रभावित भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/insects-all-over-the-classroom-teachers-and-students-are-shocked-and-shocked-42-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
