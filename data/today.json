@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-19T08:54:33.803606",
+  "scraped_at": "2026-03-19T13:24:14.783272",
   "date": "2026-03-19",
-  "total_articles": 47,
+  "total_articles": 53,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -382,6 +382,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/positive-initiative-of-the-local-government-to-turn-youth-who-returned-from-abroad-into-entrepreneurs-in-their-villages-82-40.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Gagan Thapa resigns as NC president, takes responsibility for electoral debacle",
+      "summary": "Party central working committee yet to decide whether to accept resignation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/gagan-thapa-resigns-as-nc-president-taking-responsibility-for-electoral-debacle",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GaganThapa-1773898044.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपाका शीर्ष नेताहरूबिच छलफल, बालेन्द्र पनि सहभागी",
+      "summary": "सीमावर्ती शहरमा सुडानी ड्रोन आक्रमणमा १७ जनाको मृत्यु भएपछि उनले सीमा पूर्ण रुपमा बन्द गर्न निर्देशन दिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/chadian-president-orders-closure-of-border-with-sudan-75-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773926338_Mahamat Idriss Déby Itno-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचन : २७५ सदस्य निर्वाचित हुँदा १७९ पुरुष र ९६ महिला",
+      "summary": "छलफलमा पार्टी सभापति रवि लामिछाने, वरिष्ठ नेता बालेन शाह, उपसभापतिद्वय स्वर्णिम वाग्ले र डोलप्रसाद (डिपी) अर्याल सहभागी थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/discussion-among-top-leaders-of-the-rashtriya-swayamsevak-sangh-rss-balendra-also-participated-br-23-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773925415_rsp-480x320.jpg"
+    },
+    {
+      "title": "नयाँ संसद् सञ्चालनको तयारी तीव्र: सर्वदलीय बैठकमा शपथ र कार्यसूचीमा सहमति",
+      "summary": "ढकारी गाउँपालिकामा बजेट दुरुपयोग गरेको आरोपमा अध्यक्ष साउदसहित ४ जनाविरुद्ध विशेष अदालतमा आरोप पत्र दायर भएकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/chargesheet-filed-in-special-court-against-4-people-including-rural-municipality-chairman-on-corruption-charges-30-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770014467_Akhtiyar-Durupayog-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सभापति लामिछानेविरुद्धको मुद्दाको सुनुवाइ लम्बिने",
+      "summary": "ग्यासको माग उच्च भएसँगै आयल निगमले आधा परिमाण (७.१ किलो) ग्यास भरिएको सिलिन्डर बजारमा पठाउने निर्णय केहीदिन अघि गर्यो। निगमको निर्णयसँगै ग्यास उद्योगले पनि आधा सिलिन्डर ग्यास भरेर बजारमा पठाए। तर, पर्यटन क्षेत्रले भने आधा सिलिन्डरले झनै नोक्सानी खेप्नुपरेको गुनासो गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/tourism-businessmen-say-the-use-of-half-cylinders-in-hotels-and-restaurants-has-increased-losses-47-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1773924219_Gas Shuklagandaki-480x320.jpg"
+    },
+    {
+      "title": "संविधान जारी भएपछि पहिलोपटक धारा ७६ (१) बाट सरकार गठन हुँदै",
+      "summary": "सीमावर्ती शहरमा सुडानी ड्रोन आक्रमणमा १७ जनाको मृत्यु भएपछि उनले सीमा पूर्ण रुपमा बन्द गर्न निर्देशन दिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/chadian-president-orders-closure-of-border-with-sudan-75-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
