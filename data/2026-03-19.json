@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-19T05:25:05.410298",
+  "scraped_at": "2026-03-19T08:54:33.803606",
   "date": "2026-03-19",
-  "total_articles": 37,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -303,6 +303,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/no-plans-to-take-oath-i-will-sell-books-please-don-t-accept-the-hardships-mahavir-pun-84-15.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773022124_mahabir-480x320.jpg"
+    },
+    {
+      "title": "7 Nepalis detained in Persian Gulf for sharing war-linked videos",
+      "summary": "Government weighing options to evacuate Nepalis. But it will be a herculean endeavour.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/7-nepalis-detained-in-persian-gulf-for-sharing-war-linked-videos",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/workers-1773885834.jpg&w=300&height=200"
+    },
+    {
+      "title": "Jumla is drawing medical students from India and beyond",
+      "summary": "Students praise Karnali Academy of Health Sciences for quality education and rural healthcare experience.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/jumla-is-drawing-medical-students-from-india-and-beyond",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DB-1773887740.jpg&w=600&height=400"
+    },
+    {
+      "title": "The uncalculated burden of a ‘glass child’",
+      "summary": "New leaders have leveraged poor governance, public discontent, economic hardship and anger against established elites.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/19/the-uncalculated-burden-of-a-glass-child",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVERYDAY AI: Siddhartha Guvaju",
+      "summary": "Ras Laffan, located 80 km (50 miles) north of Doha, is an energy-industry hub and hosts several international companies including Shell, the world’s biggest LNG trader.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/18/everyday-ai-siddhartha-guvaju",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/foronlinemain-1773892516.jpg&w=400&height=267"
+    },
+    {
+      "title": "धादिङका स्थानीय तहको कडा अडान: ‘संविधानभन्दा माथि कोही छैन’",
+      "summary": "जुम्लाका केही स्थानीय तहले विदेशबाट फर्किएका युवालाई उद्यमी बनाउने पहल सुरु गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/positive-initiative-of-the-local-government-to-turn-youth-who-returned-from-abroad-into-entrepreneurs-in-their-villages-82-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773909549_Jumla-480x320.jpg"
+    },
+    {
+      "title": "अब मेरो खबरदारी पर्दा पछाडीबाट : रिमा विश्वकर्मा",
+      "summary": "उनीहरूको भनाइमा सांसदको भूमिकाभन्दा बाहिर गएर प्रशासनिक हस्तक्षेप गर्ने प्रयास गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dhading-local-government-s-strong-stance-no-one-is-above-the-constitution-69-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773739376_aashika-480x320.jpg"
+    },
+    {
+      "title": "कानून अभावमा नागरिकले माग गरेजस्तो निर्वाचन हुन सकेन : आयुक्त भण्डारी",
+      "summary": "वर्तमान सन्दर्भमा हेर्ने हो भने, आजको ‘गुरुमाफा’ भ्रष्टाचार, ढिलासुस्ती, शक्तिको दुरुपयोग, जनताको अपेक्षाविपरीत शासन हुन्। घोडेजात्राको भोलिपल्ट भनेको अब यी ‘गुरुमाफा’ हरूलाई दबाउने दिन हुनुपर्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-day-after-the-horse-festival-now-is-not-the-time-to-postpone-but-to-start-37-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773908549_Horse-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्की रारामा",
+      "summary": "जिल्ला प्रशासन कार्यालयले फागुन ५गतेदेखि आजसम्मआमाको नामबाट ३३ नागरिकता जारी गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/33-citizenships-issued-in-mother-s-name-in-parsa-in-one-month-26-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773908576_Parsa 56-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन आयोगसँग प्रमाणपत्र बुझ्दै नवनिर्वाचित सांसद्",
+      "summary": "जुम्लाका केही स्थानीय तहले विदेशबाट फर्किएका युवालाई उद्यमी बनाउने पहल सुरु गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/positive-initiative-of-the-local-government-to-turn-youth-who-returned-from-abroad-into-entrepreneurs-in-their-villages-82-40.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
