@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-19T02:54:45.021570",
+  "scraped_at": "2026-03-19T05:25:05.410298",
   "date": "2026-03-19",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sachin-tendulkar-said-about-gagan-thapa-s-resignation-you-were-not-responsible-for-this-defeat-brother-66-73.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "माग्दै पोखरामा निरन्तर प्रदर्शन, सडक नाटकबाटै चेतावनी",
+      "summary": "माग्दै पोखरामा निरन्तर प्रदर्शन, सडक नाटकबाटै चेतावनी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12521",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sadak-natak-1773890919.jpg"
+    },
+    {
+      "title": "आइएमई बैंकबाट अन्तर्राष्ट्रिय अनलाइन भुक्तानी गर्दा सेवा शुल्कमा ५० प्रतिशत छुट",
+      "summary": "आइएमई बैंकबाट अन्तर्राष्ट्रिय अनलाइन भुक्तानी गर्दा सेवा शुल्कमा ५० प्रतिशत छुट",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12498",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gbime-2-1773649589.jpeg"
+    },
+    {
+      "title": "शपथ हुने छाँटकाँट देखिएन, किताब बेच्छु, गाह्रो पिरो नमान्नुहोला : महावीर पुन",
+      "summary": "स्थानीय बजारमा सुनचाँदीको मूल्य आज पनि घटेको छ। आज सुन प्रतितोला ५ हजार ४०० रुपैयाँले घट्दा चाँदी १४० रुपैयाँले सस्तो भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gold-and-silver-prices-fall-for-second-consecutive-day-br-74-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764479330_Gold -480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसमिति बैठकको अध्यक्षता उपसभापति शर्माले गर्ने",
+      "summary": "केही दिन पहिले पोखरा महानगरपालिकाका मेयर धनराज आचार्यले सडकमा नबस्न सुझाव दिएका थिए। तर त्यसलाई बेवास्ता गर्दै सांसद पुनले आफ्नो अभियान जारी राख्ने घोषणा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-plans-to-take-oath-i-will-sell-books-please-don-t-accept-the-hardships-mahavir-pun-84-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773022124_mahabir-480x320.jpg"
     }
   ]
 }
