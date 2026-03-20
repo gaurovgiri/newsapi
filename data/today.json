@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-20T08:52:57.767206",
+  "scraped_at": "2026-03-20T13:17:39.377753",
   "date": "2026-03-20",
-  "total_articles": 47,
+  "total_articles": 55,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -382,6 +382,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/arjun-narsingh-kc-to-stake-claim-to-be-parliamentary-party-leader-43-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "मा “मेरो नजरमा सीपीसी” संवाद, नेपालको तर्फबाट मनिषाको मन्तब्य",
+      "summary": "मा “मेरो नजरमा सीपीसी” संवाद, नेपालको तर्फबाट मनिषाको मन्तब्य",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12522",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/pariwarko-1773894807.jpg"
+    },
+    {
+      "title": "Rising tensions in West Asia leave bodies of Nepali migrant workers stranded",
+      "summary": "Embassies say preparations are underway to repatriate remains once flights resume.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/rising-tensions-in-west-asia-leave-bodies-of-nepali-migrant-workers-stranded",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774003176.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali Congress set to reject Gagan Thapa’s resignation as president",
+      "summary": "Vice-president Bishwa Prakash Sharma will table a proposal at the central committee towards this end.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/nepali-congress-set-to-reject-gagan-thapa-s-resignation-as-president",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GaganThapa-1773971572.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेसले भन्यो: निर्वाचनमा पराजय भोग्नुमा सम्पूर्ण पार्टी संरचना जिम्मेवार",
+      "summary": "आन्तरिक पर्यटन भित्र्याउन पोखरामा फेवा नववर्ष महोत्सव आयोजना गरिने भएको छ । होटल संघ पोखराले २१ औं संस्करणको महोत्सव गर्न थालेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-the-fewa-new-year-festival-58-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774011288_Pokhar-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रीले गरे नयाँ संसद भवनको स्थलगत अवलोकन",
+      "summary": "स्वच्छ वातावरण, रोजगारी तथा आर्थिक समृद्धिका लागि पुष्प व्यवसाय भन्ने मूल नाराका साथ चैत ८ गतेसम्म मेला सञ्चालन हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/over-5-1-million-transactions-in-two-days-at-the-27th-flora-expo-27-000-visitors-63-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774010915_flora-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस प्रवक्ता भन्छन्: अधिकांश केन्द्रीय सदस्यले सभापतिको राजीनामा अस्वीकार गरे",
+      "summary": "हेटौँडा–काठमाडौं जोड्ने कान्तिलोकपथमा पहिरो खस्दा सडक अवरुद्ध भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-completely-blocks-kantilokpath-62-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1745486157_pahiro-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सफल गराएकोमा प्रधानमन्त्रीले दिइन् धन्यवाद",
+      "summary": "लोकसेवा आयोगले आगामी चैत ७ गतेका लागि तय गरेको परीक्षा मिति मुस्लिम समुदायको प्रमुख पर्व ‘इद’सँग जुध्न सक्ने भएकाले त्यो मिति उपयुक्त नभएको पार्टीको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/demand-to-postpone-the-date-of-the-civil-service-exam-10-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774009904_Mag-480x320.jpg"
+    },
+    {
+      "title": "चुनाव किन हार्‍यो कांग्रेसले ? हेर्नुहोस् केन्द्रीय समितिले गरेको ९ बुँदे समीक्षा",
+      "summary": "आन्तरिक पर्यटन भित्र्याउन पोखरामा फेवा नववर्ष महोत्सव आयोजना गरिने भएको छ । होटल संघ पोखराले २१ औं संस्करणको महोत्सव गर्न थालेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-the-fewa-new-year-festival-58-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
