@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-20T02:45:50.770476",
+  "scraped_at": "2026-03-20T05:18:38.316546",
   "date": "2026-03-20",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "NagarikNews",
     "News24",
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/chaite-dashain-between-tradition-and-change-br-39-76.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Why are South Asia’s communist bastions crumbling?",
+      "summary": "Leftist leaders and analysts say the steady decline of communist parties stems from a mix of ideological drift, leadership failures, and changing voter expectations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/why-are-south-asia-s-communist-bastions-crumbling",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Communist-1773976895.jpg&w=300&height=200"
+    },
+    {
+      "title": "Global oil shock tests Nepal, but electric cooking cushions blow",
+      "summary": "Nepal is better prepared than before as West Asia tensions push up fuel prices.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/20/global-oil-shock-tests-nepal-but-electric-cooking-cushions-blow",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/Gasfuel-1773970726.jpg&w=300&height=200"
+    },
+    {
+      "title": "RSP landslide puts electoral reform debate on ice",
+      "summary": "Experts say past hung parliaments were due more to uninspiring candidates and vague agendas of parties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/rsp-landslide-puts-electoral-reform-debate-on-ice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/RSP-1773971251.jpg&w=300&height=200"
+    },
+    {
+      "title": "Balendra Shah to be sworn in as PM on March 27",
+      "summary": "A meeting of party chair Lamichhane and leaders Shah, Aryal and Wagle agreed to begin government formation after lawmakers’ oath.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/19/balendra-shah-to-be-sworn-in-as-pm-on-march-27",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/BalendraShah-1773938581.jpg&w=600&height=400"
+    },
+    {
+      "title": "रक्षालाई दोषी मान्नु गलत छ : भावना राउत",
+      "summary": "बिहीबार माइतीघरमा केही जेन जी समूहले बमलाई आन्दोलनस्थलमा घेरेर ‘अवसरवादी तन्त्र मुर्दावाद’ नारा लगाएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/blaming-the-defense-is-wrong-says-gen-g-campaigner-bhavana-raut-37-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760284663_bam-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाका पाँच गणेशः देश विकाशको श्री गणेश गरौँ",
+      "summary": "फिल्म ‘राम नाम सत्य’मा समावेश ‘धागोले बाटेको’ बोलको गीतले युट्युबमा तहल्का मच्चाइरहेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/biraj-and-khushi-danced-to-the-song-ram-naam-satya-saying-humlako-limi-63-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773979573_khur kot-480x320.jpg"
+    },
+    {
+      "title": "गगनको राजीनामाबारे छलफल गर्न कांग्रेस बैठक आज: डढेलो निभाउनेमाथि आगलागीकै दोष बोकाउन नहुने शर्माको तर्क",
+      "summary": "उनी सामाजिक सञ्जालमा फैलिएको आफ्नो ‘मृत्यु भएको’ भन्ने हल्लाका सन्दर्भमा बोलिरहेका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/benjamin-netanyahu-s-clarification-i-am-alive-14-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1773978916_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "जिबीको टिप्पणी झिकाउँदा रविको सुनुवाइमा ढिलाइ",
+      "summary": "माघको अन्तिम सातादेखि झुसिल्किरा लागेर शिक्षक र विद्यार्थी जीउ कन्याउँदै हैरान भएका छन्। उनीहरूको जीउभरी डाबर उठेको छ। सबैले एलर्जीको औषधी खाँदै आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-t-sleep-all-night-students-have-a-problem-92-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773978790_School-480x320.jpg"
     }
   ]
 }
