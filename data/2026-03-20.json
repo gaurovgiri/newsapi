@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-20T05:18:38.316546",
+  "scraped_at": "2026-03-20T08:52:57.767206",
   "date": "2026-03-20",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -335,6 +335,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-t-sleep-all-night-students-have-a-problem-92-75.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773978790_School-480x320.jpg"
+    },
+    {
+      "title": "अर्जुननरसिंह केसीले संसदीय दलको नेतामा दावी गर्ने",
+      "summary": "नेपाली कांग्रेसबाट समानुपातिक सांसदमा निर्वाचित अर्जुननरसिंह केसीले संसदीय दलको नेतामा आफ्नो दाबेदारी रहने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/arjun-narsingh-kc-to-stake-claim-to-be-parliamentary-party-leader-43-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773996194_Arjun_Narsing_KC-480x320.jpg"
+    },
+    {
+      "title": "संयोजक बममाथिको दुर्व्यवहार अस्वीकार्य : प्रश्नको उत्तर राज्यसँग खोज्न जेन-जी फ्रन्टको माग",
+      "summary": "कोहलपुरको रोजाइमा टिकटक बनाउने युवा दर्शकका लागि नयाँ गन्तव्यको खोजी कहिल्यै सकिँदैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/gohua-a-new-destination-for-ticket-holders-br-87-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773995882_tik 67-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीले गरिन् जानकी मन्दिरकाे दर्शन",
+      "summary": "फागुन महिनामा मात्रै नौ महिला, पाँच पुरुष र २-२ बालबालिका गरि १८ जनाको मृत्यु भएको हाे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/disasters-in-falgun-18-dead-124-injured-51-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "चुनाव हारे पनि बालेन्द्र प्रधानमन्त्री बन्ने कुराले किन हर्षित छन् निधि ?",
+      "summary": "राष्ट्रिय परीक्षा बोर्डले चैत १९ देखि सुरु हुने माध्यमिक शिक्षा परीक्षा (एसइई) कोसामूहिक अनुगमनमा रोक लगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/stop-mass-monitoring-in-see-br-88-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752807618_SEE_Exam_nagariknews-1200x560-480x320.jpg"
+    },
+    {
+      "title": "वन मन्त्रीका सय दिन",
+      "summary": "नेपाली कांग्रेसबाट समानुपातिक सांसदमा निर्वाचित अर्जुननरसिंह केसीले संसदीय दलको नेतामा आफ्नो दाबेदारी रहने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/arjun-narsingh-kc-to-stake-claim-to-be-parliamentary-party-leader-43-89.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
