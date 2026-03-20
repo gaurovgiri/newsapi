@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-20T13:17:39.377753",
+  "scraped_at": "2026-03-20T16:55:05.313530",
   "date": "2026-03-20",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -438,6 +438,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-for-the-fewa-new-year-festival-58-11.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "They left to build a future. Now they wait to come home in death",
+      "summary": "Ongoing war and irregular flights have hampered repatriation of 22 Nepali bodies. Embassies say bodies will be sent home after flights resume.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/rising-tensions-in-west-asia-leave-bodies-of-nepali-migrant-workers-stranded",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774003176.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘जेनजी आन्दोलनमा प्रधानमन्त्री, गृहमन्त्री र सुरक्षा प्रमुख जिम्मेवार !’",
+      "summary": "दिउँसो ४ बजेदेखि परेको निरन्तरको हिमपात र वर्षाले माथिल्लो मुस्ताङको लोमान्थाङ र लोघेकर दामोदरकुण्ड गाउँपालिका क्षेत्रमा विद्युत् सेवा अवरुद्ध भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/snowfall-and-rain-disrupt-electricity-service-in-upper-mustang-68-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768349465_Light-480x320.jpg"
+    },
+    {
+      "title": "हवाई सेवासम्बन्धी सङकल्प प्रस्ताव प्रदेशसभाबाट पारित",
+      "summary": "गत कात्तिकमा प्रदेशसभामा पेस भएको ‘औषधिजन्य तथा औद्योगिक प्रयोजनका लागि गाँजाखेतीलाई नियमन गर्ने सम्बन्धमा व्यवस्था गर्न बनेको विधेयक’ लाई प्रदेशसभाको यही कार्यकालमा पास गर्ने सरकारको तयारी छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/discussion-continues-on-bill-legalizing-marijuana-cultivation-38-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774020425_Kheti-480x320.jpg"
+    },
+    {
+      "title": "संसदको जेष्ठ सदस्य अर्जुननरसिंह केसी, ११ गते शपथ",
+      "summary": "‘बाइबल हस्पिटल’ नामक मोटरसाइकल ग्यारेज सञ्चालन गरी विभिन्न स्थानबाट मोटरसाइकल चोरी गरेर इञ्जिन तथा चेसिसका किर्ते कागजात बनाइ बिक्री गर्ने गिरोहलाई प्रहरीले पक्राउ गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/gang-of-motorcycle-thieves-arrested-from-garage-15-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774020015_moter-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको भ्रातृ संस्थाबाट बाहिरिने नेविसंघको तयारी",
+      "summary": "अख्तियार प्रमुख प्रेम कुमार राईलगायत उच्च पदस्थ व्यक्तिहरूलाई धम्क्याएको प्रकरणमा प्रहरीले नेपाल नागरिक उड्डयन प्राधिकरणका तत्कालीन महानिर्देशक प्रदीप अधिकारीसँग बयान लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/police-record-statement-of-former-director-general-pradeep-adhikari-90-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774019702_Pradip-480x320.jpg"
+    },
+    {
+      "title": "चुनावी समीक्षा प्रतिवेदन पठाउन जसपा नेपालको सर्कुलर",
+      "summary": "दिउँसो ४ बजेदेखि परेको निरन्तरको हिमपात र वर्षाले माथिल्लो मुस्ताङको लोमान्थाङ र लोघेकर दामोदरकुण्ड गाउँपालिका क्षेत्रमा विद्युत् सेवा अवरुद्ध भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/snowfall-and-rain-disrupt-electricity-service-in-upper-mustang-68-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
