@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-21T08:43:32.152095",
+  "scraped_at": "2026-03-21T13:06:32.811495",
   "date": "2026-03-21",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -359,6 +359,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/what-to-do-and-what-not-to-do-when-struck-by-lightning-government-agency-s-awareness-br-87-86.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774079289_chat-480x320.jpg"
+    },
+    {
+      "title": "Palpa exports white beans to Europe",
+      "summary": "Organic produce from Nisdi fetches higher returns as farmers tap international markets.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/21/palpa-exports-white-beans-to-europe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/galdhasimi421320260808371000x0-1774089225.jpg&w=300&height=200"
+    },
+    {
+      "title": "Snowfall, rain and storms disrupt life across hills and highways",
+      "summary": "Adverse weather blankets high-altitude settlements, blocks key roads, damages infrastructure and hampers pilgrimage movement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/snowfall-rain-and-storms-disrupt-life-across-hills-and-highways",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pathibharahiu721320260633391000x0-1774076945.jpg&w=300&height=200"
+    },
+    {
+      "title": "Fire at Korean car parts factory kills 14, injures 60",
+      "summary": "The government ​activated a centralised disaster management system after President ​Lee Jae Myung ordered all available resources to be used to deal with the fire and save lives.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/03/21/fire-at-korean-car-parts-factory-kills-14-injures-60",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/koreacarblast-1774089734.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमाले ब्युँताउन सुरेन्द्रले अघि सारे तीन सर्त",
+      "summary": "सुरक्षा गुल्मका गुल्मपति सशस्त्र प्रहरी नायब उपरीक्षक प्रदीप पौडेलसहितका कर्मचारीलाई काठमाडौंस्थित सशस्त्र प्रहरी बल नेपाल प्रधान कार्यालय झिकाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-employees-of-the-khakraula-based-armed-forces-including-the-commander-who-were-negligent-in-security-were-summoned-to-the-headquarters-45-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771570205_APF-480x320.jpg"
+    },
+    {
+      "title": "म मन्त्रीको दौडमा छैन, तर जिम्मेवारी पाए भाग्दिनँ: राजीव खत्री",
+      "summary": "जल तथा मौसम विज्ञान विभागका मौसमविद् विभूति पोखरेलले मौसममा राम्रो सुधार भइसकेको जानकारी दिँदै शुक्रबार र आज बिहानको जस्तो वर्षा भने नहुने बताइन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/weather-improving-current-rain-making-system-is-fading-away-69-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774004081_Rain0-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सांसद खत्री भन्छन्: म मन्त्रीको दौडमा छैन",
+      "summary": "नेकपा (एमाले) का नेता सुरेन्द्र पाण्डेले पार्टीलाई पहिलेकै लयमा फर्काउन र अझ शक्तिशाली बनाउन तीनवटा प्रस्ताव अघि सारेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-should-not-take-advantage-of-history-let-s-make-the-party-based-on-technology-and-expertise-leader-surendra-pandey-18-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774096663_surendra-480x320.jpg"
+    },
+    {
+      "title": "हङकङ उडे देउवा: पारिवारिक कार्यक्रममा सहभागी हुने",
+      "summary": "भक्तपुर क्षेत्र नम्बर-२ बाट निर्वाचित राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद राजीव खत्रीले आफू मन्त्री बन्ने दौडमा नरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-not-in-the-race-for-the-ministerial-post-but-i-will-not-run-away-if-given-the-responsibility-rajiv-khatri-br-19-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774095854_rajib-480x320.jpg"
+    },
+    {
+      "title": "पार्टीको पराजयले एमाले नेता चिन्तित: नेतृत्व नसुध्रिए पार्टी पंत्तिनै स्कूटरमा आट्ने चेतावनी",
+      "summary": "सुरक्षा गुल्मका गुल्मपति सशस्त्र प्रहरी नायब उपरीक्षक प्रदीप पौडेलसहितका कर्मचारीलाई काठमाडौंस्थित सशस्त्र प्रहरी बल नेपाल प्रधान कार्यालय झिकाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-employees-of-the-khakraula-based-armed-forces-including-the-commander-who-were-negligent-in-security-were-summoned-to-the-headquarters-45-47.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
