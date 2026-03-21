@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-21T13:06:32.811495",
+  "scraped_at": "2026-03-21T16:39:36.730805",
   "date": "2026-03-21",
-  "total_articles": 51,
+  "total_articles": 59,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/all-employees-of-the-khakraula-based-armed-forces-including-the-commander-who-were-negligent-in-security-were-summoned-to-the-headquarters-45-47.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Police firing leaves seven injured amid prohibitory order in Kapilvastu",
+      "summary": "Five protestors and two police personnel got injured as a clash broke out over a dispute during Eid festival.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/police-firing-leaves-seven-injured-amid-prohibitory-order-in-kapilvastu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/P-1774101908.jpg&w=300&height=200"
+    },
+    {
+      "title": "West Asia tensions affect daily life of a Nepali worker in Dubai",
+      "summary": "Hotel shutdown leaves 500 employees jobless.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/west-asia-tensions-affect-daily-life-of-a-nepali-worker-in-dubai",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gYANU-1774101040.jpg&w=300&height=200"
+    },
+    {
+      "title": "Delays in reaching hospitals cost mothers’ lives in Karnali",
+      "summary": "Pregnant and postpartum women often reach hospitals too late in the province, as remoteness and harmful practices prevent timely lifesaving care.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/delays-in-reaching-hospitals-cost-mothers-lives-in-karnali",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/helicoptor1-1774109501.jpg&w=300&height=200"
+    },
+    {
+      "title": "सबै समस्याको समाधान कांग्रेसले गर्छ, मिलेर काम गरौँ: सुजाता कोइराला",
+      "summary": "“कुनैपनि समस्याको समाधान कांग्रेसले गर्छ, विगतमा भएको गल्ती कमी कमजोरी महसुस गरेर अगाडि बढ्नुपर्छ,” उनले भनिन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-solve-all-problems-let-s-work-together-sujata-koirala-33-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768294507_Sujata Koirall-480x320.jpg"
+    },
+    {
+      "title": "इरानको नियन्त्रणमा रहेका नेपालीको रिहाइ गर‍्न सरकारसँग कांग्रेस उपसभापतिको आग्रह",
+      "summary": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले इरानी सुरक्षा निकायको नियन्त्रणमा रहेका एक नेपालीको रिहाइका लागि पहल गर्न सरकारलाई आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-vice-president-urges-government-to-release-nepalis-held-in-iran-54-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774001462_BiswaPrakash-480x320.jpg"
+    },
+    {
+      "title": "जनसंख्याकै आधारमा समावेशी प्रतिनिधित्व हुनुपर्छ: उपराष्ट्रपति",
+      "summary": "काभ्रेपलाञ्चोकका पाँचखाल, मण्डनदेपुर, नाला तथा पनौती क्षेत्रमा हाल किसान धमाधम आलु खनिरहेका छन्। खेतका गराभरि आलुका बोरा ठडिएका र सडक छेउमा आलुको चाङका दृश्य देखिन्छन्, तर किसान भने खुसी छैनन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/potatoes-are-not-sold-even-for-ten-rupees-per-kilogram-49-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774108066_Potato_Kavre-480x320.jpg"
+    },
+    {
+      "title": "जातीय विभेद हटाउन कानुनको प्रभावकारी कार्यान्वयन अत्यावश्यक",
+      "summary": "आमा छोदिङ्मो गाउँपालिका–३ गतलाङ स्वास्थ्य चौकीको स्वामित्वमा रहेको एम्बुलेन्स दुरुपयोग गरी चिनियाँ चुरोट काठमाडौंतर्फ लैजान लागेको अवस्थामा उनीहरुलाई पक्राउ गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/smuggler-arrested-for-misusing-ambulance-22-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीसँग कुलमानले भने– म हारे पनि देशले जितेको छ",
+      "summary": "“कुनैपनि समस्याको समाधान कांग्रेसले गर्छ, विगतमा भएको गल्ती कमी कमजोरी महसुस गरेर अगाडि बढ्नुपर्छ,” उनले भनिन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-solve-all-problems-let-s-work-together-sujata-koirala-33-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
