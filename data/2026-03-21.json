@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-21T05:10:03.873127",
+  "scraped_at": "2026-03-21T08:43:32.152095",
   "date": "2026-03-21",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -295,6 +295,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-93-12.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736825650_Kalimati Tarkari-480x320.jpg"
+    },
+    {
+      "title": "NHRC implicates Oli, Lekhak, officials over protest crackdown",
+      "summary": "Watchdog says the government’s failure to anticipate the magnitude of protest led to avoidable deaths, destruction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/nhrc-implicates-oli-lekhak-officials-over-protest-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/binod-1774061261.jpg&w=300&height=200"
+    },
+    {
+      "title": "US police release bodycam footage of fatal attack on Nepali family in Virginia",
+      "summary": "Footage shows the suspect shot dead after refusing to surrender.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/21/us-police-release-bodycam-footage-of-fatal-attack-on-nepali-family-in-virginia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/capture224220260911411000x0-1774081218.png&w=600&height=400"
+    },
+    {
+      "title": "Consensus picks Hem Raj Sharma as NRNA president",
+      "summary": "Here are some of the photos taken by our photojournalists and reporters this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/15/consensus-picks-hem-raj-sharma-as-nrna-president",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/YAM-1774064588.jpg&w=400&height=267"
+    },
+    {
+      "title": "सुधन गुरुङको पहलमा नेपाल वायुसेवा निगमको भ्रष्टाचार छानबिन हुने",
+      "summary": "जानकारी अनुसार इरानले प्रहार गरेका दुई मध्यम दूरीका क्षेप्यास्त्रले लक्ष्यमा भने प्रहार गरेनन्। एउटा क्षेप्यास्त्र उडानकै क्रममा असफल भयो भने अर्कोलाई अमेरिकी युद्ध पोतले रोक्ने प्रयास गर्‍यो। यो सैन्य आधार इरानी क्षेत्रबाट करिब चार हजार किलोमिटर टाढा छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-launches-missile-into-indian-ocean-us-military-base-4-000-km-away-targeted-18-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774081160_Iran Hit-480x320.jpg"
+    },
+    {
+      "title": "जनताद्वारा अभिव्यक्त राष्ट्र निर्माणको दायित्व पूरा गर्न राष्ट्रपतिको आह्वान",
+      "summary": "वर्षौंदेखि थन्किएका काला फाइलहरू आधिकारिक रूपमा खोलिने र प्रतिवेदनको आधारमा भ्रष्टाचारमा संलग्न जोसुकै भए पनि कारबाही प्रक्रिया अगाडि बढाइने गुरुङको भनाई छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/investigation-into-corruption-at-nepal-airlines-corporation-to-begin-at-sudhan-gurung-s-initiative-br-60-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774080778_sud07-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचन सम्पन्न भएकामा चीनको बधाई",
+      "summary": "दक्षिण कोरियाको डेइजोन मा रहेको एक अटो पाट्र्स उत्पादन गर्ने कारखानामा शुक्रबार भएको भीषण आगलागीमा कम्तीमा १० जनाको ज्यान गएको छ भने ५९ जना घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/fire-at-south-korean-auto-parts-factory-10-dead-59-injured-81-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773999097_sk-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीसँग रक्षाको अपिल: मेरो हातमा रगत लागेको छ कि छैन, प्रतिवेदन सार्वजनिक गरेर जवाफ दिनुहोस्",
+      "summary": "राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरण ले चट्याङका बेला अपनाउनुपर्ने सावधानीका उपाय सार्वजनिक गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/what-to-do-and-what-not-to-do-when-struck-by-lightning-government-agency-s-awareness-br-87-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774079289_chat-480x320.jpg"
     }
   ]
 }
