@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-21T16:39:36.730805",
+  "scraped_at": "2026-03-21T20:36:11.567423",
   "date": "2026-03-21",
-  "total_articles": 60,
+  "total_articles": 61,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -487,6 +487,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-will-solve-all-problems-let-s-work-together-sujata-koirala-33-48.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Elderly Chepang without citizenship, deprived of social security allowance",
+      "summary": "Around 30 percent of Chepangs in Kailash and Raksirang reportedly lack citizenship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/21/elderly-chepang-without-citizenship-deprived-of-social-security-allowance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/photofulmaya21320260209571000x0-1774111061.jpg&w=300&height=200"
     }
   ]
 }
