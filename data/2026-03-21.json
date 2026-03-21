@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-21T02:39:23.104320",
+  "scraped_at": "2026-03-21T05:10:03.873127",
   "date": "2026-03-21",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
     "News24",
     "NagarikNews",
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/drug-addiction-in-lahalhai-br-71-88.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "6,000 Nepalis in Gulf apply to return home",
+      "summary": "82,100 Nepalis have registered on the foreign ministry portal, but lately fewer are reporting unsafe conditions, say officials.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/20/6-000-nepalis-in-gulf-apply-to-return-home",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OMX5PVGJ2ZP3ZNX5GQI5UC4GQ4-1774010954.jpg&w=300&height=200"
+    },
+    {
+      "title": "A region seen from within",
+      "summary": "‘In the Margins of Empires’ challenges how South Asia understands one of its most fragile zones.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/21/a-region-seen-from-within",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bookreviewwww-1774061512.jpg&w=600&height=400"
+    },
+    {
+      "title": "शिक्षा तथा स्वास्थ्य क्षेत्रमा देखिएको राजनीतिक हस्तक्षेप अन्त्य गर्नु नै मेरो चाहना : महावीर पुन",
+      "summary": "कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषिउपजको थोक मूल्य निर्धारण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-93-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736825650_Kalimati Tarkari-480x320.jpg"
     }
   ]
 }
