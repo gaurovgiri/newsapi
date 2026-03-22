@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-22T02:55:16.075163",
+  "scraped_at": "2026-03-22T05:21:34.162821",
   "date": "2026-03-22",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/rasuwa-hospital-expands-services-92-15.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "घटनाको सत्यतथ्य छिट्टै बाहिर आउने आईजीपीको प्रतिवद्धता",
+      "summary": "घटनाको सत्यतथ्य छिट्टै बाहिर आउने आईजीपीको प्रतिवद्धता",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12543",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Enisha-Bka-Prakaran--1774148573.jpg"
+    },
+    {
+      "title": "ाडी लोकमार्गमा बाक्लो हिमपात, यात्रुलाई सास्ती",
+      "summary": "ाडी लोकमार्गमा बाक्लो हिमपात, यात्रुलाई सास्ती",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12542",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bato_Abarudda_-1774148116.jpg"
+    },
+    {
+      "title": "े महिलाकै विरोध गर्ने भन्दै महान्यायाधिवक्ता आक्रोशित, सपनाले के भनिन् ?",
+      "summary": "े महिलाकै विरोध गर्ने भन्दै महान्यायाधिवक्ता आक्रोशित, सपनाले के भनिन् ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12538",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Kanun-ma-mahila____-1774059703.jpg"
+    },
+    {
+      "title": "Nepali migrant workers face uncertainty as West Asia conflict disrupts jobs",
+      "summary": "Flights cancelled, visas delayed as Gulf-bound youths remain stuck amid escalating tensions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/22/nepali-migrant-workers-face-uncertainty-as-west-asia-conflict-disrupts-jobs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/qatarkophoto22320260144391000x0-1774154698.jpg&w=300&height=200"
+    },
+    {
+      "title": "India-China push to resume Lipulekh trade reignites Nepal’s concerns",
+      "summary": "It could be an early diplomatic test for the incoming Rastriya Swatantra Party government.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/22/india-china-push-to-resume-lipulekh-trade-reignites-nepal-s-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1774140657.jpg&w=300&height=200"
+    },
+    {
+      "title": "शपथसँगै सांसदलाई तलब र सुविधा",
+      "summary": "अहिले, धेरैजसो अवस्थामा बजारको अस्तित्व देखिँदैन । जमिन, श्रम र वस्तुहरू सिधै खोसिन्छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/greed-for-oil-is-destroying-the-world-26-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774156416_gel 52-480x320.jpg"
     }
   ]
 }
