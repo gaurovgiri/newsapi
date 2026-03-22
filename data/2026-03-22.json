@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-22T08:45:39.857369",
+  "scraped_at": "2026-03-22T13:08:45.448901",
   "date": "2026-03-22",
-  "total_articles": 44,
+  "total_articles": 50,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -359,6 +359,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/trade-deficit-of-around-rs-1-1-trillion-in-eight-months-15-21.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774168534_ghata 87-480x320.jpg"
+    },
+    {
+      "title": "US police release bodycam footage of fatal attack on Nepali family in Virginia",
+      "summary": "21 individuals, including Chinese officials and top CAAN figures, accused of contract manipulation and fund diversion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/21/us-police-release-bodycam-footage-of-fatal-attack-on-nepali-family-in-virginia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774157534.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रतिनिधिसभा निर्वाचनको प्रतिवेदन प्रधानमन्त्रीसमक्ष पेश",
+      "summary": "निगमको निर्णयअनुसार ग्यास उद्योगहरूले पनि आधा सिलिन्डर ग्यास भरेर वितरण सुरु गरेका छन्। तर, उक्त व्यवस्था लागू भए पनि बजारमा अझै ग्यास अभाव कायमै रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-shortage-in-pokhara-even-after-distributing-half-a-cylinder-there-is-still-a-shortage-90-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770685689_1741087269_nepal-gas--1200x560-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाको निर्देशक समितिको अध्यक्षबाट लोहनीले दिए राजीनामा",
+      "summary": "माडी नगरपालिका र राष्ट्रिय प्रकृति संरक्षण कोषको सहयोगमा दुई वटा मेसिन स्थापना गरी दुना–टपरी उद्योग सञ्चालन गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/income-from-falling-sal-leaves-madi-women-s-green-campaign-78-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774183779_duna tapari-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय परिचयपत्र बनाउन अब फाराम भर्नु नपर्ने",
+      "summary": "मोरङका विभिन्न पालिकाका कुखुरा फर्महरूमावर्डफ्लूको संक्रमण फैलिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/wordfever-spreads-in-morang-more-than-33-000-chickens-are-being-destroyed-73-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755501596_kukhura-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भन्यो: २१ निर्वाचन क्षेत्रमा हारको प्रमुख कारण अन्तर्घात र कमजोर अभियान",
+      "summary": "शुक्रबारदेखि मुलुकका अधिकांश स्थानमा परेको वर्षासँगै वायु प्रदूषण उल्लेखनीय रूपमा घटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/air-pollution-has-decreased-dramatically-with-the-rain-69-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774183111_kathmandu weather mausam-480x320.jpg"
+    },
+    {
+      "title": "सांसदहरुको कार्यविभाजन गर्ने तयारी",
+      "summary": "निगमको निर्णयअनुसार ग्यास उद्योगहरूले पनि आधा सिलिन्डर ग्यास भरेर वितरण सुरु गरेका छन्। तर, उक्त व्यवस्था लागू भए पनि बजारमा अझै ग्यास अभाव कायमै रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-shortage-in-pokhara-even-after-distributing-half-a-cylinder-there-is-still-a-shortage-90-20.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
