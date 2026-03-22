@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-22T05:21:34.162821",
+  "scraped_at": "2026-03-22T08:45:39.857369",
   "date": "2026-03-22",
-  "total_articles": 39,
+  "total_articles": 44,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -319,6 +319,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/greed-for-oil-is-destroying-the-world-26-13.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774156416_gel 52-480x320.jpg"
+    },
+    {
+      "title": "कै पर्यटकीय गन्तव्य बन्दै म्याग्दीको तातोपानी कुण्ड",
+      "summary": "कै पर्यटकीय गन्तव्य बन्दै म्याग्दीको तातोपानी कुण्ड",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12547",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Tatopani-Kund-1774150224.jpg"
+    },
+    {
+      "title": "देउवा समूहले छुट्टै केन्द्रीय कार्यसमिति बैठक बोलाउने",
+      "summary": "नेपालले आफ्नो नक्सामा समावेश गरेको लिपुलेक भञ्ज्याङ हुँदै भारत र चीनले सीमा व्यापार फेरि सुरु गर्ने तयारी गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/china-india-preparing-to-trade-through-nepali-territory-lipulekh-51-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1739241189_Lipulek-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस बैठक : सभापति थापाको राजीनामा अस्वीकृत गर्न नेताहरू एकमत",
+      "summary": "देउवा समूहको निर्णयले कांग्रेसभित्रको विवाद थप चर्किने देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-group-to-call-separate-central-working-committee-meeting-13-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755518370_Deuba-480x320.jpg"
+    },
+    {
+      "title": "‘नयाँ जनादेशले देशको राजनीतिक स्थायित्व हुनेछ’",
+      "summary": "४८ घण्टाभित्र स्ट्रेट अफ हर्मुज पूर्णरुपमा खोल्न इरानलाई अमेरिकाले चेतावनी दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-warns-iran-to-fully-open-strait-of-hormuz-within-48-hours-15-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774168290_Trump-480x320.jpg"
+    },
+    {
+      "title": "‘पराजित’हरूको ‘मानवीय’ प्रतिक्रिया",
+      "summary": "चालु आर्थिक वर्ष २०८२/८३ को दोस्रो चौमासिक अवधिसम्ममा मुलुकले करिब ११ खर्ब रूपैयाको व्यापार घाटा बेहारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/trade-deficit-of-around-rs-1-1-trillion-in-eight-months-15-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774168534_ghata 87-480x320.jpg"
     }
   ]
 }
