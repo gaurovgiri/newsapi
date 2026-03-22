@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-22T13:08:45.448901",
+  "scraped_at": "2026-03-22T16:40:00.178039",
   "date": "2026-03-22",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/gas-shortage-in-pokhara-even-after-distributing-half-a-cylinder-there-is-still-a-shortage-90-20.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Congress rejects party chief Thapa’s resignation",
+      "summary": "Party cites need for stability and continuity of ‘Congress reform agenda’ amid complex political climate.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/22/congress-rejects-party-chief-thapa-s-resignation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/gaganthapa-1774190992.jpg&w=300&height=200"
+    },
+    {
+      "title": "Third corruption case filed over China-funded Pokhara airport, 21 charged",
+      "summary": "21 individuals, including Chinese officials and top CAAN figures, accused of contract manipulation and fund diversion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/22/third-corruption-case-filed-over-china-funded-pokhara-airport-21-charged",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/pokharaintlairport-1774177506.jpg&w=300&height=200"
+    },
+    {
+      "title": "Immigration eases rules for solo trekkers in restricted areas",
+      "summary": "New guidelines allow individual travellers to obtain permits for regulated zones, provided they are accompanied by a guide and registered through an agency.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/22/immigration-eases-rules-for-solo-trekkers-in-restricted-areas",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/departmentofimmigration-1774182806.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्कीले रविलाई भनिन्: युवाले ठूलो आशा राखेका छन्, सम्हालिएर काम गर्नू",
+      "summary": "‘सस्टेनेबल टुरिजम भक्तपुर’ अभियान अन्तर्गत ‘जन्तु फेमिली’ समूहले प्रस्तुत गरेको आकर्षक ‘फायर शो’ हेर्न स्थानीय बासिन्दा तथा आन्तरिक–बाह्य पर्यटकहरूको उल्लेखनीय उपस्थिति देखिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-show-for-sustainable-tourism-bhaktapur-79-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774195633_Bhaktapur-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस अब १५औँ महाधिवेशनतर्फ केन्द्रित हुने, संगठन सुदृढीकरणमा जोड",
+      "summary": "कपिलवस्तुको महाराजगंज नगरपालिकाको बर्गदा घटना सम्बन्धमा १० जना पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/preparations-to-prosecute-10-people-arrested-in-bargada-incident-20-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774194564_kapilbastu-480x320.jpg"
+    },
+    {
+      "title": "साकेला गाउँपालिकाको प्रशासनिक भवन निर्माण बजेट अभावले अलपत्र",
+      "summary": "उनले देशवासीले युवाप्रति ठूलो आशा राखेको उल्लेख गर्दै इमानदारीपूर्वक काम गरे अपेक्षित परिणाम हासिल गर्न सकिने बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-karki-told-ravi-youth-have-high-hopes-work-with-determination-21-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774192910_Rabi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसमितिद्वारा सभापति थापाको राजीनामा अस्वीकृत",
+      "summary": "नयाँ शैक्षिक सत्र सुरु भएसँगै सार्वजनिक विद्यालयका विद्यार्थीले हातहातमा नयाँ पुस्तक पाउने भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/books-in-hand-with-admission-to-the-new-academic-session-12-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774191698_Book-480x320.jpg"
+    },
+    {
+      "title": "आयोग पदाधिकारीसँग प्रधानमन्त्रीले भनिन्: गुणस्तरीय चुनावको मानक स्थापित भयो",
+      "summary": "‘सस्टेनेबल टुरिजम भक्तपुर’ अभियान अन्तर्गत ‘जन्तु फेमिली’ समूहले प्रस्तुत गरेको आकर्षक ‘फायर शो’ हेर्न स्थानीय बासिन्दा तथा आन्तरिक–बाह्य पर्यटकहरूको उल्लेखनीय उपस्थिति देखिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-show-for-sustainable-tourism-bhaktapur-79-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
