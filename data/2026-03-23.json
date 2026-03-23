@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-23T05:43:06.325284",
+  "scraped_at": "2026-03-23T09:08:02.139436",
   "date": "2026-03-23",
-  "total_articles": 39,
+  "total_articles": 44,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -319,6 +319,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/17-rhinos-have-died-since-shrawan-br-14-70.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774244120_Gaida 67-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा नयाँ मानक स्थापित गरेका छौँः गृहमन्त्री",
+      "summary": "स्वास्थ्यमा समस्या देखिएपछि अस्पताल भर्ना गरिएका आचार्यको सोमबार निधन भएको हो।आचार्यलाई मस्तिष्कघात भएसँगै न्यूरो हस्पिटलमा भर्ना गरिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/economist-keshav-acharya-passes-away-63-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774256636_keshav-acharya-480x320.jpg"
+    },
+    {
+      "title": "नियमित जिम्मेवारीबाट विश्राम लिएको मन्त्री श्रेष्ठकाे घोषणा",
+      "summary": "उनले भने, ‘सामूहिक नेतृत्व प्रणाली र सबै सरोकारवालाको बलियो समन्वयका कारण सकारात्मक परिणाम हासिल भएको छ। आगामी दिनमा यसलाई कायम राख्न जरुरी छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-set-a-new-standard-in-elections-home-minister-66-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774256381_New Project-480x320.jpg"
+    },
+    {
+      "title": "नयाँ संसद् भवनमा सबै सांसदलाई बेग्लाबेग्लै ‘चेम्बर’",
+      "summary": "बझाङ जिल्लाको रायाल आसपास केन्द्रविन्दु भएर भूकम्प गएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/earthquake-with-epicenter-near-rayal-bajhang-86-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770168338_Earthquake-480x320.jpg"
+    },
+    {
+      "title": "विधेयक र नयाँ संसद्लाई जनअपेक्षाको भारी",
+      "summary": "चलचित्र ‘माइतिघर’ बाट नेपाली चलचित्रमा डेब्यु गरेकी अभिनेत्री दिकिला शेर्पाले यस वर्षको ‘मिस इन्डिया’ मा प्रतिस्पर्धा गर्ने भएकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/dikila-to-compete-in-miss-india-2026-69-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774255269_deekila-480x320.jpg"
+    },
+    {
+      "title": "विघटनपछि निष्क्रिय विधेयक आगामी संसद्का लागि ‘खुराक’",
+      "summary": "स्वास्थ्यमा समस्या देखिएपछि अस्पताल भर्ना गरिएका आचार्यको सोमबार निधन भएको हो।आचार्यलाई मस्तिष्कघात भएसँगै न्यूरो हस्पिटलमा भर्ना गरिएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/economist-keshav-acharya-passes-away-63-26.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
