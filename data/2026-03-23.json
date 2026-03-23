@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-23T02:55:51.036902",
+  "scraped_at": "2026-03-23T05:43:06.325284",
   "date": "2026-03-23",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/israel-says-will-bring-iran-to-its-knees-iran-says-we-will-respond-to-threats-on-the-field-42-40.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "डढेलोबाट जोगाउन सर्लाहीमा ७ दिने अभियान",
+      "summary": "डढेलोबाट जोगाउन सर्लाहीमा ७ दिने अभियान",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12559",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sachetana-Ryali-1774235998.jpg"
+    },
+    {
+      "title": "ाबा पोखरीमा विष्णु पुराण महायज्ञ",
+      "summary": "ाबा पोखरीमा विष्णु पुराण महायज्ञ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12555",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bishnu-Mahayagya---1774234625.jpg"
+    },
+    {
+      "title": "रमा लामिनारका दुई नयाँ शोरुम उद्धाटन, उपत्यकामा विस्तार",
+      "summary": "रमा लामिनारका दुई नयाँ शोरुम उद्धाटन, उपत्यकामा विस्तार",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12548",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Laminar-5-1774168134.jpeg"
+    },
+    {
+      "title": "Third graft case filed over China-funded Pokhara airport, 21 charged",
+      "summary": "Former civil aviation bosses, Chinese officials and others accused of embezzling Rs461.5 million through contract manipulation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/22/third-corruption-case-filed-over-china-funded-pokhara-airport-21-charged",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/pokhara-1774227346.jpg&w=300&height=200"
+    },
+    {
+      "title": "The youth must occupy spaces that actually dictate policy",
+      "summary": "The future of the Nepali Congress depends on its ability to evolve while staying rooted in its values",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/03/22/the-youth-must-occupy-spaces-that-actually-dictate-policy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/interviews/NISHCAL%20RAI%2C%20elected%20MP%20from%20Ilam-1_ANGAD%20DHAKAL.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रदीप पौडेलको प्रश्न : कार्की आयोगको प्रतिवेदन सार्वजनिक गर्न सरकारलाई कसले रोक्यो ?",
+      "summary": "चालु आर्थिक वर्षमा १७ वटा गैंडा मरेका छन्। तीमध्ये एउटा विद्युतीय करेन्ट लागेर मरेको हो भने बाँकी प्राकृतिक कारणले मरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/17-rhinos-have-died-since-shrawan-br-14-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774244120_Gaida 67-480x320.jpg"
     }
   ]
 }
