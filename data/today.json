@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-23T13:26:22.215388",
+  "scraped_at": "2026-03-23T17:01:53.482986",
   "date": "2026-03-23",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -431,6 +431,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-two-people-including-an-elderly-man-found-in-jhapa-36-57.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal is nowhere close to ending tuberculosis",
+      "summary": "At least 44 people die, and 184 people get infected with TB daily. Authorities are unaware of the whereabouts of 2,000 patients with drug-resistant TB.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/23/nepal-is-nowhere-close-to-ending-tuberculosis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tb-1774278696.jpg&w=300&height=200"
+    },
+    {
+      "title": "Conflict victims ask new government to ensure credible transitional justice",
+      "summary": "On the International Day for the Right to the Truth, they called for transparent, victim-centred commissions and comprehensive reparation programmes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/23/conflict-victims-ask-new-government-to-ensure-credible-transitional-justice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/POSTILLUSTRATION-1774284267.jpg&w=600&height=400"
+    },
+    {
+      "title": "अन्ततः बचाउमा उत्रिइन रक्षा बम, भन्छिन् : सत्तामा बसेकाहरू आफ्नै हिसाबले निर्णय गर्ने रहेछन्",
+      "summary": "निकुञ्जको बबई उपत्यका रातामाटे क्षेत्रमा सुर्खेत बराहताल गाउँपालिका-२ रानीपुरका ३३ वर्षीय टोपबहादुर खत्रीको शव फेलापरेको जिल्ला प्रहरी कार्यालय सुर्खेतका प्रहरी प्रमुख सुधीरराज शाहीले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/body-of-young-man-found-after-entering-park-for-hunting-5-friends-flee-to-india-53-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "झापाबाट सुरु भयो वामपन्थी शक्तिको पुनर्गठन अभियान",
+      "summary": "प्रहरी उपरीक्षक मनोहरप्रसाद भट्टले फरार रहेका तामाङलाई काठमाडौंको बौद्धबाट पक्राउ गरिएको जानकारी दिए। पक्राउ परेका तामाङलाई फैसला कार्यान्वयनका लागि काठमाडौं जिल्ला अदालतमा उपस्थित गराइएको प्रहरी उपरीक्षक भट्टले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/fugitive-defendant-sentenced-to-10-years-in-prison-arrested-in-boudha-46-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767659805_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "प्रदेश विधायन सम्बन्धमा व्यवस्था गर्न बनेको विधेयक समितिमा पठाइयो",
+      "summary": "खेलको पाँचौँ मिनेटमा सुजनको गोलले नेपाललाई पहिलो अग्रता दिलाएको थियो। त्यसपछि खेलको ५२औँ मिनेटमा सुवासले गोल गर्दै नेपाललाई २-० गोलको अग्रता दिलाए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-20-championship-nepal-s-thrilling-win-over-bhutan-in-the-opening-match-98-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774282882_Nepal Won-480x320.jpg"
+    },
+    {
+      "title": "जाँचबुझ आयोगको प्रतिवेदन सार्वजनिक गर्न एमालेको माग",
+      "summary": "जेनजी आन्दोलनपछि सरकार गठनदेखि आजसम्म आफू आन्दोलनका मुद्दाहरू बोकेरै हिँडिरहेको उनले उल्लेख गरेकी छन्। केही दिनअघि माइतीघरमा आफ्नै उमेर समूहका साथीहरूले प्रश्न गरिरहेको भिडियोबारे चर्चा गर्दै उनले त्यहाँ लगाइएका धेरैजसो आरोप निराधार भएको दाबी गरिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/raksha-bam-finally-comes-to-the-rescue-saying-those-in-power-will-make-decisions-on-their-own-terms-80-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770877097_Rakshya with Karki-480x320.jpg"
     }
   ]
 }
