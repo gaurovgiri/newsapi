@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-23T09:08:02.139436",
+  "scraped_at": "2026-03-23T13:26:22.215388",
   "date": "2026-03-23",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/economist-keshav-acharya-passes-away-63-26.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Recommendation to appoint Aryal to National Assembly under consideration, says President’s Office",
+      "summary": "Press adviser to the President dismisses claims of delay over alleged nomination dispute, cites constitutional process and pending court petition.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/23/recommendation-to-appoint-aryal-to-national-assembly-under-consideration-says-president-s-office",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/presidentsphoto-1774261694.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal charges 32 in fake rescue scam",
+      "summary": "Fake helicopter rescues and inflated hospital bills used to claim insurance payouts, investigators say.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/23/nepal-charges-32-in-fake-rescue-scam",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774242270.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse surges 5.01 points",
+      "summary": "Index continues to post gains for fourth consecutive day with turnover decline on Monday; analysts warn of potential correction.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/23/nepse-surges-5-01-points",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/nepse17120240229101000x0061120250210461000x0-1774268653.jpg&w=600&height=400"
+    },
+    {
+      "title": "भावी प्रधानमन्त्री बालेनले सुझाए १६ मन्त्रालय, १८ नै राख्नुपर्ने रविको अडान",
+      "summary": "दुवै शवको मुचुल्का उठाईपोस्टमार्टमका लागि परिवारलाई जिम्मा दिएर घटनाबारे अनुसन्धान गरिरहेको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-two-people-including-an-elderly-man-found-in-jhapa-36-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "समाचार टिप्पणी: “हेर्दाहेर्दैमा अल्झिएको रवि मुद्दा”",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टीका बरिष्ठ नेता बालेन्द्र शाह प्रधानमन्त्री बन्ने भएपछि उनले आफू अनुकुलको टीम बनाएर काम गर्ने आशय प्रकट गरेपनि निर्वाचनपछि बालेन कहीँ केही पनि बोलेका छैनन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/future-prime-minister-balen-suggests-16-ministries-ravi-insists-on-keeping-18-77-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773763653_f-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादव र बङ्गलादेशका राजदूत रहमानबिच भेटवार्ता",
+      "summary": "सोमबार अदालतमा उपस्थित भएका आचार्यलाई न्यायाधीशहरूको संयुक्त इजलासले धरौटीमा रिहा गर्ने आदेश दिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-international-airport-construction-case-special-court-seeks-bail-from-former-minister-acharya-41-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774271177_bhim acharya-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबारमा ६ दलका संसदीय कार्यालय तयार",
+      "summary": "गत भदौको ‘जेन-जी’ आन्दोलनका क्रममा केन्द्रीय कारागारबाट फरार एक कैदीलाई प्रहरीले सिरहाबाट पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/prisoner-who-escaped-from-central-jail-arrested-in-siraha-33-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसमिति बैठक मंगलबार, सभापति थापा पनि सहभागी हुने",
+      "summary": "दुवै शवको मुचुल्का उठाईपोस्टमार्टमका लागि परिवारलाई जिम्मा दिएर घटनाबारे अनुसन्धान गरिरहेको प्रहरीले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-two-people-including-an-elderly-man-found-in-jhapa-36-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
