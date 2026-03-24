@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-24T13:42:03.528016",
+  "scraped_at": "2026-03-24T17:09:47.722946",
   "date": "2026-03-24",
-  "total_articles": 58,
+  "total_articles": 64,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -471,6 +471,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/coal-use-increasing-in-south-asia-posing-pollution-and-health-risks-17-49.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "West Asia conflict disrupts Nepal’s supply chain, hitting raw materials from mineral water to saline bottles",
+      "summary": "Raw material costs surge by up to 40 per cent as industrialists fear imminent shortages.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/24/west-asia-conflict-disrupts-nepal-s-supply-chain-hitting-raw-materials-from-mineral-water-to-saline-bottles",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/headpicture24320260152491000x0-1774356086.png&w=300&height=200"
+    },
+    {
+      "title": "Nepal pharma lobby pushes for price hike citing rising costs",
+      "summary": "Regulator refuses immediate hike, demands detailed list of raw materials and other production costs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/03/24/nepal-pharma-lobby-pushes-for-price-hike-citing-rising-costs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MEDICINES-1774356456.jpg&w=300&height=200"
+    },
+    {
+      "title": "वैकल्पिक बाटोबाट मन्त्री बन्ने कल्पनासमेत गर्न सकिँदैन: कुलमान",
+      "summary": "उज्यालो पार्टी नेपालका अध्यक्ष कुलमान घिसिङले नयाँ बन्न लागेको सरकारमा आफू सहभागी हुने हल्लाको खण्डन गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-is-impossible-to-imagine-becoming-a-minister-through-alternative-means-kulman-29-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768380907_kulman_ghising-480x320.jpg"
+    },
+    {
+      "title": "महोत्तरीका ९ पालिका बाढीको उच्च जोखिममा",
+      "summary": "जेनजी आन्दोलनका क्रममा भएको करिब साढे ८४ अर्ब भौतिक क्षतिको पुनर्निर्माण र पुनर्स्थापनाका लागि सरकारले खाका तयार गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/84-5-billion-rupees-lost-in-genji-movement-61-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1757380684_Police Samsad-480x320.jpg"
+    },
+    {
+      "title": "नयाँ सांसदले कति बुझ्छन् तलब र भत्ता ?",
+      "summary": "बागलुङमा ऐतिहासिक चैत्राष्टमी मेला सुरु भएको छ। बागलुङ कालिका भगवती गुठी व्यवस्थापन समितिको आयोजना पाँच दिने मेला मंगलबार सुरु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/historic-chaitrashtami-fair-begins-in-baglung-64-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774367503_baglung kalika-480x320.jpg"
+    },
+    {
+      "title": "पर्वतमा रुखले च्यापिएर वृद्धको मृत्यु",
+      "summary": "बाजुरामा पाँच वर्षको अवधिका क्षयरोगका कारण १८ जनाको मृत्यु भएको तथ्याङ्क सार्वजनिक गरिएको छ । आज विश्व क्षयरोग दिवसमा स्वास्थ्य कार्यालय बाजुराले आज सो तथ्याङ्क सार्वजनिक गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/18-people-die-of-tuberculosis-in-bajura-19-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774274245_TV rog-480x320.jpg"
     }
   ]
 }
