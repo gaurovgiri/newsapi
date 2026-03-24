@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-24T09:01:13.149682",
+  "scraped_at": "2026-03-24T13:42:03.528016",
   "date": "2026-03-24",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/money-found-in-leader-s-house-during-gen-g-movement-should-be-investigated-thapa-70-39.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "War in Iran: Why destroying cultural heritage is a foolish strategic move in any conflict",
+      "summary": "Despite luxury hotels, an international airport, and growing tourism infrastructure, the majority of visitors spend under an hour at the Buddha’s birthplace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/24/war-in-iran-why-destroying-cultural-heritage-is-a-foolish-strategic-move-in-any-conflict",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb-1774358161.jpg&w=400&height=267"
+    },
+    {
+      "title": "४९ सांसदले लिँदैछन् मातृभाषामा शपथ",
+      "summary": "इरान युद्धपछि ग्यास आपूर्ति घट्दा भारत, दक्षिण कोरिया, इन्डोनेसिया, थाइल्यान्ड, फिलिपिन्स र भियतनामले कोइलामा निर्भरता बढाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/coal-use-increasing-in-south-asia-posing-pollution-and-health-risks-17-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774357983_koila-480x320.jpg"
+    },
+    {
+      "title": "महिला मन्त्रालय गाभ्ने विषयमा बहस: ‘मितव्ययिता’ कि अधिकार कटौती ?",
+      "summary": "नवनिर्वाचित ४९ जना प्रतिनिधिसभा सदस्यले नेपालीबाहेक आफ्नै मातृभाषामा पद तथा गोपनीयताको शपथ लिने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/49-mps-taking-oath-in-their-mother-tongue-76-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774357050_samsad-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादवसँग प्रदेश प्रमुखहरूको भेट",
+      "summary": "कार्कीलाई काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयले ठगी र वैदेशिक रोजगारसम्बन्धी कसुरको आरोपमा पक्राउ गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/oil-visa-producer-shivaraj-karki-arrested-64-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774356617_shivraj karki-480x320.jpg"
+    },
+    {
+      "title": "रविको अभियोग संशोधनविरुद्धको रिट फेरि ‘हेर्दाहेर्दै’ मा",
+      "summary": "स्थानीय तहले नदीजन्य सामग्रीको व्यवस्थापनमा सक्रियता देखाउन नसक्दा आयोजना सञ्चालनमा थप चुनौती सिर्जना भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/road-infrastructure-construction-slows-down-due-to-lack-of-river-based-materials-39-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774356527_Tamor -480x320.jpg"
+    },
+    {
+      "title": "‘जनताको निर्णयभन्दा ठूलो मेरो बोली होइन’",
+      "summary": "इरान युद्धपछि ग्यास आपूर्ति घट्दा भारत, दक्षिण कोरिया, इन्डोनेसिया, थाइल्यान्ड, फिलिपिन्स र भियतनामले कोइलामा निर्भरता बढाएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/coal-use-increasing-in-south-asia-posing-pollution-and-health-risks-17-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
