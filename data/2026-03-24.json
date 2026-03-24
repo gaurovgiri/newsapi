@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-24T02:47:20.773784",
+  "scraped_at": "2026-03-24T05:25:50.993173",
   "date": "2026-03-24",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/the-rise-of-a-moderate-power-amid-the-iran-crisis-75-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Family refuses to claim body, demands impartial probe into Inisa BK death case",
+      "summary": "16-year-old’s body remains at Karnali Province Hospital for 18 days as police say investigation in final stages.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/03/24/family-refuses-to-claim-body-demands-impartial-probe-into-inisa-bk-death-case",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/protest-1774327551.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kapilvastu lifts prohibitory order after situation returns to normal",
+      "summary": "Restrictions imposed after clash in Maharajganj Municipality and surrounding areas withdrawn as security situation stabilises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/24/kapilvastu-lifts-prohibitory-order-after-situation-returns-to-normal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DAO-1774325278.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal eyes Lumbini revival with major World Bank-backed push",
+      "summary": "Despite luxury hotels, an international airport, and growing tourism infrastructure, the majority of visitors spend under an hour at the Buddha’s birthplace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/24/nepal-aims-to-change-lumbini-s-image-as-hit-and-run-destination-with-85m-loan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/lumbini-1774315648.jpg&w=600&height=400"
+    },
+    {
+      "title": "नयाँ सरकारले भ्रष्टाचारीलाई उठ्न नसक्ने गरी सजाय देओस : महाविर पुन",
+      "summary": "सुनको मूल्य ओरालो लागे पनि चाँदीको मूल्यमा भने वृद्धि देखिएको छ। सोमबार प्रतितोला चार हजार ४२५ रुपैयाँमा कारोबार भएको चाँदी मंगलबार ८० रुपैयाँले बढेर चार हजार ५०५ रुपैयाँ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-fall-silver-becomes-more-expensive-42-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "संस्कृत भाषामा शपथ लिँदै राप्रपा सांसद ओली",
+      "summary": "जिल्ला विपद् व्यवस्थापन समितिले बाढीपहिरोले क्षति पुर्याएको डेढ वर्षपछि स्थायी आवास निर्माणार्थ पीडितको नामावली सिफारिस सुरुआत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/grant-recommendation-for-reconstruction-of-houses-damaged-by-floods-and-landslides-after-one-and-a-half-years-39-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1747102223_roshi badhi-480x320.jpg"
+    },
+    {
+      "title": "बलियो बालेन्द्र : चुनावपछि पनि थामिएन ‘लहर’",
+      "summary": "उनले भ्रष्टाचारमा संलग्न व्यक्तिहरूलाई कहिल्यै उठ्न नसक्ने गरी सजाय दिनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mahabir-pun-urges-the-new-government-should-punish-the-corrupt-in-a-way-that-they-cannot-recover-from-br-76-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764778261_mahabir-480x320.jpg"
+    },
+    {
+      "title": "मेरो कार्यकालको छोटो समयमै नीतिगत सुधार र महत्वपूर्ण उपलब्धि भयो : मन्त्री श्रेष्ठ",
+      "summary": "किशोरले लागुऔषध किन्न पैसा अभाव भएपछि चोरी गर्ने उद्देश्यले पसलमा प्रवेश गरेको र सो क्रममा विवाद हुँदा हत्या गरेको बयान दिएका बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/15-year-old-arrested-for-murdering-woman-38-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "विगतमा सरकारी नियुक्ति पाएकाहरूले पद छोड्दा नै राम्रो : चन्द्र भण्डारी",
+      "summary": "सुनको मूल्य ओरालो लागे पनि चाँदीको मूल्यमा भने वृद्धि देखिएको छ। सोमबार प्रतितोला चार हजार ४२५ रुपैयाँमा कारोबार भएको चाँदी मंगलबार ८० रुपैयाँले बढेर चार हजार ५०५ रुपैयाँ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-fall-silver-becomes-more-expensive-42-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
