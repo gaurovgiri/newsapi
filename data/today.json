@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-24T05:25:50.993173",
+  "scraped_at": "2026-03-24T09:01:13.149682",
   "date": "2026-03-24",
-  "total_articles": 42,
+  "total_articles": 52,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -342,6 +342,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-fall-silver-becomes-more-expensive-42-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ौँको बागबजारबाट पनि विद्यार्थीलाई सेवा प्रदान गर्दै गोरेटो",
+      "summary": "ौँको बागबजारबाट पनि विद्यार्थीलाई सेवा प्रदान गर्दै गोरेटो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12561",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/goreto-1774243414.jpg"
+    },
+    {
+      "title": "Colombia military plane crash kills 66, four still missing",
+      "summary": "The death toll was nearly double that of the previous figure given by ​authorities, who continued search and recovery efforts at the site of the deadly crash.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/03/24/colombia-military-plane-crash-kills-66-four-still-missing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/HTHEI5K3X5MRHAVWDQ7G2TCUBA-1774327763.jpg&w=300&height=200"
+    },
+    {
+      "title": "Authorities issue safety advisory after child’s death on Pathibhara route",
+      "summary": "Pilgrims urged to seek immediate medical help as cold-related illness risks persist in high-altitude areas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/24/authorities-issue-safety-advisory-after-child-s-death-on-pathibhara-route",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774330679.jpg&w=300&height=200"
+    },
+    {
+      "title": "Free screenings bring back the joy of shared cinema",
+      "summary": "This will be a challenge for the new RSP government. It will also be a chance to show its diplomatic nous.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/24/free-screenings-bring-back-the-joy-of-shared-cinema",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774330679.jpg&w=400&height=267"
+    },
+    {
+      "title": "A colourful approach to public education",
+      "summary": "Tension erupts in Gulariya as protest against drug trade leads to road blockade; police fire in air and use tear gas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/23/a-colourful-approach-to-public-education",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/HTHEI5K3X5MRHAVWDQ7G2TCUBA-1774327763.jpg&w=400&height=267"
+    },
+    {
+      "title": "जेन-जी आन्दोलनका क्रममा नेताका घरमा भेटिएको पैसाको अनुसन्धान हुनुपर्छ: थापा",
+      "summary": "पार्टीको केन्द्रीय कमिटी बैठकमा आफ्नो धारणा राख्दै थापाले भदौ २४ गते नेताका घरमा भेटिएका पैसाको अनुसन्धान हुनुपर्ने बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/money-found-in-leader-s-house-during-gen-g-movement-should-be-investigated-thapa-70-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772115280_gagan-480x320.jpg"
+    },
+    {
+      "title": "जिम्मेवारी बोधले राजीनामा दिए : गगन थापा",
+      "summary": "इरानसँगको युद्धका कारण विश्वव्यापी तेल आपूर्तिमा अनिश्चितता बढिरहेको बेला अमेरिकाका ठूलो प्रशोधन केन्द्रमध्ये एकमा यस्तो दुर्घटना भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/explosion-at-us-oil-refinery-local-residents-advised-to-stay-indoors-56-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774341723_USA Oil-480x320.jpg"
+    },
+    {
+      "title": "१७ वर्षपछि सिंहदरबारमै संसद्",
+      "summary": "आगो फैलिएर करिब ५ बिघा क्षेत्रफलमा लगाइएको उखु खेतसम्म पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/massive-fire-breaks-out-in-sugarcane-field-in-sarlahi-efforts-to-control-it-continue-85-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774341543_ukhu-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री कार्की शुक्रबार निजी निवास फर्किने",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले आफूले दिएको राजीनामा कुनै हतार, हतास वा दबाबका कारण नभई पूर्ण रूपमा जिम्मेवारीबोधका आधारमा दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/resignation-was-made-out-of-a-sense-of-responsibility-gagan-thapa-64-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1772360321_gagan-480x320.jpg"
+    },
+    {
+      "title": "अब बन्ने सरकारले नै संसद् अधिवेशन आह्वानको लागि राष्ट्रपतिलाई सिफारिस गर्ने",
+      "summary": "पार्टीको केन्द्रीय कमिटी बैठकमा आफ्नो धारणा राख्दै थापाले भदौ २४ गते नेताका घरमा भेटिएका पैसाको अनुसन्धान हुनुपर्ने बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/money-found-in-leader-s-house-during-gen-g-movement-should-be-investigated-thapa-70-39.html?click_from=just_in",
       "image_url": ""
     }
   ]
