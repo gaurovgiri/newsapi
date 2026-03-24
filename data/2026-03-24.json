@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-03-24T02:47:20.773784",
   "date": "2026-03-24",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "NagarikNews",
     "News24",
@@ -131,14 +131,6 @@
     {
       "title": "Nepal is nowhere close to ending tuberculosis",
       "summary": "At least 44 people die, and 184 people get infected with TB daily. Authorities are unaware of the whereabouts of 2,000 patients with drug-resistant TB.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/national/2026/03/23/nepal-is-nowhere-close-to-ending-tuberculosis",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tb-1774278696.jpg&w=600&height=400"
-    },
-    {
-      "title": "Nepal is nowhere close to ending tuberculosis",
-      "summary": "Despite luxury hotels, an international airport, and growing tourism infrastructure, the majority of visitors spend under an hour at the Buddha’s birthplace.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/03/23/nepal-is-nowhere-close-to-ending-tuberculosis",
