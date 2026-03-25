@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-25T02:52:03.022054",
+  "scraped_at": "2026-03-25T05:25:51.047280",
   "date": "2026-03-25",
-  "total_articles": 33,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/successful-surgery-of-sabitra-bhandari-75-43.html?click_from=just_in",
       "image_url": "https://jscss.nagariknewscdn.com/images/default-image.png"
+    },
+    {
+      "title": "PM aide pins stalled Karki report release on RSP leaders",
+      "summary": "Adviser cites top Rastriya Swatantra Party leaders’ communication to the interim government that it should not take decisions of long-term consequences.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/25/pm-aide-pins-stalled-karki-report-release-on-rsp-leaders",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/studentfromtrichandracollectsignatureforkarkiayogreport202603240144copy-1774400155.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal seeks details on citizen held by Iranian forces",
+      "summary": "Amrit Jha still in custody; arrest date and reasons remain unclear as family appeals for swift release.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/25/nepal-seeks-details-on-citizen-held-by-iranian-forces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774412098.jpg&w=300&height=200"
+    },
+    {
+      "title": "Millions left waiting as Nepal’s driving licence backlog drags on",
+      "summary": "Nearly 2.7 million applicants yet to receive licences issued since 2022, with printing delays, fire damage and policy gaps compounding the crisis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/25/millions-left-waiting-as-nepal-s-driving-licence-backlog-drags-on",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/lisence-1774414345.jpg&w=300&height=200"
+    },
+    {
+      "title": "Making peace with what we feel",
+      "summary": "History offers many examples of how damage to cultural heritage during wars can galvanise nationalist sentiment and strengthen the legitimacy of governments under pressure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/24/making-peace-with-what-we-feel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/7DQQFPOYEJIC3P3OZ6KM672EWQ-1774405410.jpg&w=400&height=267"
+    },
+    {
+      "title": "How to return from the Gulf? Here are the available routes",
+      "summary": "Amrit Jha still in custody; arrest date and reasons remain unclear as family appeals for swift release.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/22/how-to-return-from-the-gulf-here-are-the-available-routes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb10-1774401545.jpg&w=400&height=267"
+    },
+    {
+      "title": "घुस ७० लाख, धरौटी २५ लाख",
+      "summary": "सुनसँगै चाँदीको मूल्यमा पनि उच्च वृद्धि भएको छ। मंगलबार प्रतितोला चार हजार ५०५ रुपैयाँमा कारोबार भएको चाँदी आज ४१५ रुपैयाँले बढेर चार हजार ९२० रुपैयाँ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-jumps-by-14-600-silver-also-increases-54-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "गगन-विश्वलाई रवीन्द्रको सुझाव : प्रचण्डपथ छोड्नै नसक्ने हो भने प्रचण्डकै पार्टीमा समाहित भए हुन्छ",
+      "summary": "समाचार एजेन्सी वाफाका अनुसार आक्रमण अज-जवैदा क्षेत्रमा भएको थियो, जहाँ अचानक हवाई आक्रमण भएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/israeli-airstrikes-kill-four-in-gaza-91-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774415342_attack-480x320.jpg"
+    },
+    {
+      "title": "वाम एकताले जनता र समर्थकमा विश्वास आर्जन हुन सक्दैन : गोकुल बास्कोटा",
+      "summary": "इरानले मंगलबार राति कुवेत अन्तर्राष्ट्रिय विमानस्थलमा ड्रोन आक्रमण गरेको छ। जसबाट त्यहाँ रहेको इन्धन ट्याङ्कीमा आगलागी भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iranian-drone-attack-on-kuwait-airport-79-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774415043_kuwait-480x320.jpg"
+    },
+    {
+      "title": "दलीय भ्रातृ संगठनमाथि निषेध कि सुधार?",
+      "summary": "ताप्लेजुङको मैवाखोला गाउँपालिकाको वडा नं ५ र ६ फाकुम्बालाईवडा नं २ र १ हुँदै दोभान र फुङलिङ बजारसँग जोड्ने नेरुवाखोला खार्तेको निर्माणाधीन मोटरेबल हिउँदे बाढीका कारण भाँचिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-motorable-bridge-over-the-neruwa-river-connecting-fakumba-and-dhungesanghu-collapsed-due-to-winter-floods-39-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774414345_pul-480x320.jpg"
+    },
+    {
+      "title": "नवनिर्वाचित सासंदहरू चाकरीबाजबाट पर बस्नु, नत्र जनताले गुल्ट्याउँछन् : महावीर पुन",
+      "summary": "सुनसँगै चाँदीको मूल्यमा पनि उच्च वृद्धि भएको छ। मंगलबार प्रतितोला चार हजार ५०५ रुपैयाँमा कारोबार भएको चाँदी आज ४१५ रुपैयाँले बढेर चार हजार ९२० रुपैयाँ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-jumps-by-14-600-silver-also-increases-54-63.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
