@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-25T13:41:00.877179",
+  "scraped_at": "2026-03-25T17:13:01.896917",
   "date": "2026-03-25",
-  "total_articles": 57,
+  "total_articles": 65,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -462,6 +462,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-a-surname-be-changed-if-it-is-considered-insulting-this-is-the-supreme-court-s-ruling-64-22.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Deuba claims video of cash at his residence is AI-generated",
+      "summary": "Former prime minister denies large cash haul, calls it a conspiracy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/25/deuba-claims-video-of-cash-at-his-residence-is-ai-generated",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb32-1774451136.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police rule out gang rape in Inisa's death",
+      "summary": "Report says Inisa’s death was caused by severe injury during physical contact with the main accused.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/25/police-rule-out-gang-rape-in-inisa-s-death",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/inishabk-1774432287.jpg&w=300&height=200"
+    },
+    {
+      "title": "Saudi Arabia grants amnesty until 18 April for expired visa holders, permits direct exit",
+      "summary": "Ministry says holders of visit, Umrah, transit, and final exit visas expired by February 25 can either renew their status or leave without penalties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/25/saudi-arabia-grants-amnesty-until-18-april-for-expired-visa-holders-permits-direct-exit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/saudiarabia16112025013624watermarked21120260713251000x0-1774452451.jpg&w=300&height=200"
+    },
+    {
+      "title": "बालेन मधेसवादी होइनन्: राजेन्द्र महतो",
+      "summary": "जुम्लाको तातोपानी गाउँपालिकामा बारी खन्ने क्रममा फेला परेको पुरानो सकेट बमलाई नेपाली सेनाले सुरक्षित रूपमा निष्कृय पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/old-socket-bomb-found-while-digging-in-jumla-field-disposed-of-by-army-br-62-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774455674_saket_bam-480x320.jpg"
+    },
+    {
+      "title": "जेन-जी घटनाको जाँचबुझ प्रतिवेदन सार्वजनिक गर्ने प्रधानमन्त्रीको निर्णय",
+      "summary": "कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठान शिक्षण अस्पताल, जुम्लाले संस्थागत समृद्धि र दिगो विकासको खाका तयार पार्न सर्वपक्षीय सुझाव संकलन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/all-party-suggestions-at-karnali-health-institute-debate-focused-on-service-improvement-and-quality-94-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774455066_karnali-480x320.jpg"
+    },
+    {
+      "title": "राजेन्द्रको गुनासो- ‘यत्रो संघर्ष गर्यौं, मधेसी जनताले नपत्याउँदा अलिअलि चित्त दुखेको छ’",
+      "summary": "नेपाल प्रहरीको खोजतलासपछि काठमाडौं उपत्यकाका विभिन्न स्थान र मितिमा चोरी भएका ५० ओटा मोटरसाइकल र स्कुटर सम्बन्धित धनीको जिम्मा लगाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fifty-people-get-back-their-lost-motorcycles-and-scooters-50-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774455332_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "‘रास्वपाले पनि मधेसी अनुहार देखाएर मत लियो, कांग्रेस-कम्युनिस्ट जस्तै धोका दिन्छ’",
+      "summary": "अघिल्लो आर्थिक वर्षबाट जिम्मेवारी सरेका मुद्दा, रिट र निवेदन/प्रतिवेदनको सङ्ख्या २५ हजार ७२८ र गत आवमा नयाँ दर्ता भएका १५ हजार १३ गरी जम्मा मुद्दाको लगत ४० हजार ७४१ रहेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/40-82-percent-of-cases-disposed-of-in-supreme-court-86-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760588843_supreme-480x320.jpg"
+    },
+    {
+      "title": "मधेसी दलहरूको अहंकार नै हारको मुख्य कारण: महतो",
+      "summary": "जुम्लाको तातोपानी गाउँपालिकामा बारी खन्ने क्रममा फेला परेको पुरानो सकेट बमलाई नेपाली सेनाले सुरक्षित रूपमा निष्कृय पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/old-socket-bomb-found-while-digging-in-jumla-field-disposed-of-by-army-br-62-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
