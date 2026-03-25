@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-25T05:25:51.047280",
+  "scraped_at": "2026-03-25T09:00:45.455492",
   "date": "2026-03-25",
-  "total_articles": 43,
+  "total_articles": 50,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -350,6 +350,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-jumps-by-14-600-silver-also-increases-54-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "51 Nepalis rescued from Cambodia scam centres return home",
+      "summary": "Embassy in Bangkok says victims were forced into online fraud operations; urges job seekers to follow legal channels.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/25/51-nepalis-rescued-from-cambodia-scam-centres-return-home",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1774415246.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal pharmaceutical lobby pushes for medicine price hike",
+      "summary": "Regulator refuses immediate hike, demands detailed list of raw materials and other production costs.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/03/24/nepal-pharma-lobby-pushes-for-price-hike-citing-rising-costs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MEDICINES-1774356456.jpg&w=300&height=200"
+    },
+    {
+      "title": "मुलुकलाई समृद्ध बनाउन एकजुट हुनुपर्नेमा राष्ट्रपतिको जोड",
+      "summary": "आगलागीबाट केक बनाउने सामग्रीसहित अन्य मेसिन र तयारी सामान नष्ट भएको इलाका प्रहरी कार्यालय इटहरीका डिएसपी सुवास हमालले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-at-ice-cream-parlor-causes-damage-worth-rs-3-5-million-49-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774428036_Fire-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाका ज्येष्ठ सदस्य केसीद्वारा कार्यभार सुरु",
+      "summary": "जिल्ला प्रहरी कार्यालय सुर्खेतका अनुसार घटनासँग सम्बन्धित विभिन्न प्रमाण, आरोपितहरूको बयान तथा प्राविधिक विश्लेषणका आधारमा अनुसन्धान प्रतिवेदन तयार गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/investigation-into-inisha-s-murder-case-complete-case-to-now-proceed-to-court-53-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773303153_Inisha -480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र साहको शपथमा १०८ जना बटुकले स्वस्ति वाचन गर्ने",
+      "summary": "'लोकतन्त्रमा मत फरक हुन सक्छन्, तर राष्ट्र निर्माणको साझा लक्ष्यमा सबै नेपालीको एउटै मत हुनेछ भन्ने मैले विश्वास लिएको छु', उनले भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/president-stresses-unity-to-make-the-country-prosperous-86-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774427519_Ramchandra Paudel-480x320.jpg"
+    },
+    {
+      "title": "सरकारले घाइतेकाे उपचार र पुन:स्थापना गर्नुपर्छ : हर्क साम्पाङ",
+      "summary": "उनी आफ्नो कोठाको पंखामा झुण्डिएको अवस्थामा मृतक फेला परेको प्रहरीले जानकारी दिएको छ। भारतीय सञ्चार माध्यमका अनुसार घटनास्थलमा फोरेन्सिक टोली र प्रहरीले निरीक्षण गरेपछि यो आत्महत्या नै भएको निष्कर्ष निकालेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/medical-student-commits-suicide-after-losing-money-in-online-gaming-64-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774426988_Student-480x320.jpg"
+    },
+    {
+      "title": "आफूबारे गलत विचार फैलाइएको घिसिङको दाबी",
+      "summary": "आगलागीबाट केक बनाउने सामग्रीसहित अन्य मेसिन र तयारी सामान नष्ट भएको इलाका प्रहरी कार्यालय इटहरीका डिएसपी सुवास हमालले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-at-ice-cream-parlor-causes-damage-worth-rs-3-5-million-49-34.html?click_from=just_in",
       "image_url": ""
     }
   ]
