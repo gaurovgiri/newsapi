@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-25T09:00:45.455492",
+  "scraped_at": "2026-03-25T13:41:00.877179",
   "date": "2026-03-25",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-at-ice-cream-parlor-causes-damage-worth-rs-3-5-million-49-34.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepse corrects by 24.45 points after over 161-point surge",
+      "summary": "Index posts fifth straight day of gains before decline.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/25/nepse-corrects-by-24-45-points-after-over-161-point-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb-1774438255.jpg&w=600&height=400"
+    },
+    {
+      "title": "पृथ्वीसुब्बाको बयान- सामाजिक सञ्जालमाथिको प्रतिबन्ध व्यक्तिगत आवेग थिएन",
+      "summary": "नेपाल नागरिकता ऐन, २०६३ को दफा १७ ले ‘त्रुटि सच्याउने’ अधिकार दिएको र यसलाई सङ्कुचित अर्थमा मात्र नभई मानव अधिकार र संवैधानिक अधिकारको विस्तार गर्ने माध्यमका रूपमा पनि व्याख्या गरिनुपर्ने अदालतको ठहर छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-a-surname-be-changed-if-it-is-considered-insulting-this-is-the-supreme-court-s-ruling-64-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1744772361_Supreme Court-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन ‘लिक’ हुनु राज्य संयन्त्रको असफलताः रक्षा बम",
+      "summary": "चैत्राष्टमी मेला २०८२ को अवसरमा आयोजित खुला कालिका कप पुरुष भलिबल प्रतियोगितामा बागलुङ भलिबल र घले हार्भेस्टिङ अस्ट्रेलियाले विजयी सुरुवात गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/baglung-volleyball-and-ghale-harvesting-australia-make-winning-starts-26-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774445115_Volleyball-480x320.jpg"
+    },
+    {
+      "title": "भदौ २४ गते बिहान सिग्देलले दिएका थिए ओलीलाई दुई विकल्प",
+      "summary": "पछिल्लो समय इन्धनको मूल्य बढेर आएपछि विभागले मन्त्रालयलाई भाडा समायोजनको लागि सिफारिस गरेको विभागका निर्देशक यादवले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/department-s-recommendation-to-increase-public-vehicle-fares-ministry-studying-41-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773756811_Gadi-480x320.jpg"
+    },
+    {
+      "title": "प्रधानसेनापतिको बयान: सेना संवैधानिक सीमाभित्र रहेरपरिचालित थियो",
+      "summary": "ललितपुरका शाक्य–बज्राचार्य समुदायले शाक्य बज्राचार्य बृहत जनसभा गर्ने भएका छन् । जनसभा सांस्कृतिक बाजागाजासहित नगर परिक्रमा गरेर चैत १३ गते शुक्रबार ललितपुरमा हुनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/shakya-bajracharya-grand-assembly-to-be-held-40-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774443929_Budhha-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रीको नाम टुंग्याउने अन्तिम कसरतमा बालेन र रवि:शुक्रबार नै सबैको शपथ",
+      "summary": "नेपाल नागरिकता ऐन, २०६३ को दफा १७ ले ‘त्रुटि सच्याउने’ अधिकार दिएको र यसलाई सङ्कुचित अर्थमा मात्र नभई मानव अधिकार र संवैधानिक अधिकारको विस्तार गर्ने माध्यमका रूपमा पनि व्याख्या गरिनुपर्ने अदालतको ठहर छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-a-surname-be-changed-if-it-is-considered-insulting-this-is-the-supreme-court-s-ruling-64-22.html?click_from=just_in",
       "image_url": ""
     }
   ]
