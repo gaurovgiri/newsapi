@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-26T13:46:46.209525",
+  "scraped_at": "2026-03-26T17:13:06.609009",
   "date": "2026-03-26",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/special-offer-when-buying-byd-vehicles-at-wada-auto-show-2026-92-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Rautahat’s loan shark victims hit streets, again, seeking justice",
+      "summary": "Victims allege that despite legal reforms, police, courts and local administration have failed to provide them redress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/26/rautahat-s-loan-shark-victims-hit-streets-again-seeking-justice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/loansharkvictimsfilephoto-1774537432.jpg&w=300&height=200"
+    },
+    {
+      "title": "आज रंगीचंगी बनेको सिंहदरबार",
+      "summary": "प्रमुख प्रशासनिक केन्द्र सिंहदरबारमा धेरै समयपछि आज चहलपहल देखियो । नवनिर्वाचित प्रतिनिधिसभा सदस्यहरुको सपथका कारण आज बिहानैदेखि मानिसको चहलपहल बढेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/singha-durbar-is-colorful-today-93-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774541668_RS-KTM-RATL8864-480x320.jpg"
+    },
+    {
+      "title": "र्‍यापरदेखि प्रधानमन्त्रीको यात्रामा बालेन्द्र शाह",
+      "summary": "प्रत्येक वर्ष चैत्र शुक्ल अष्टमीदेखि दरबारमार्गस्थित तीनधारा पाठशालाबाट सुरु हुने वर्षा र सहकालका देवता सेतो मच्छेन्द्रनाथको रथयात्रा सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/chaitra-shukla-ashtami-seto-machhendranath-s-chariot-procession-begins-67-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774540602_se-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रका नाममा सम्बोधन गर्दै प्रधानमन्त्री कार्कीले भनिन्: धेरै आशा बोकेर बिदा लिदैछु",
+      "summary": "इरानले मैत्रीपूर्ण सम्बन्ध भएका भारतसहित पाँच देशका पानीजहाजलाई हर्मुज जलमार्ग प्रयोग गर्न अनुमति दिने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/strait-of-hormuz-opens-to-five-countries-including-india-47-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774248191_hormuz-480x320.jpg"
+    },
+    {
+      "title": "विश्वका नेपाली मूललाई नेपालसँग जोड्न पहल गर्छुः गगन",
+      "summary": "रुसी राष्ट्रपति भ्लादिमिर पुटिनले इरान युद्धले विश्वभर कोभिड महामारी जस्तै संकट निम्त्याउन सक्ने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-war-could-cause-a-crisis-like-the-covid-pandemic-putin-18-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774538437_putin-480x320.jpg"
+    },
+    {
+      "title": "कति हुन्छ, बालेन शाहको तलब भत्ता ?",
+      "summary": "प्रमुख प्रशासनिक केन्द्र सिंहदरबारमा धेरै समयपछि आज चहलपहल देखियो । नवनिर्वाचित प्रतिनिधिसभा सदस्यहरुको सपथका कारण आज बिहानैदेखि मानिसको चहलपहल बढेको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/singha-durbar-is-colorful-today-93-51.html?click_from=just_in",
       "image_url": ""
     }
   ]
