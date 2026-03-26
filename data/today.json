@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-26T03:17:21.477098",
+  "scraped_at": "2026-03-26T05:44:18.535627",
   "date": "2026-03-26",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-today-33-88.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "धुरी अझै अन्धकार र सडकविहीन अवस्थामा",
+      "summary": "धुरी अझै अन्धकार र सडकविहीन अवस्थामा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12586",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sewasubidhabat-Banchit---1774498270.jpg"
+    },
+    {
+      "title": "ो पहिरे खोलामा पुल निर्माणको काम शुरु",
+      "summary": "ो पहिरे खोलामा पुल निर्माणको काम शुरु",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12584",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Pahire-Kholama-Pul-Nirman---1774497721.jpg"
+    },
+    {
+      "title": "िन्न नसक्ने अवस्थामा इटहरी, स्थानीय जुटे रकम संकलनमा",
+      "summary": "िन्न नसक्ने अवस्थामा इटहरी, स्थानीय जुटे रकम संकलनमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12581",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Aaglagiko-Jokhim-1774495377.jpg"
+    },
+    {
+      "title": "ड नेशनल कुलिनरी च्यालेन्ज २०२६ दमकमा हुने",
+      "summary": "ड नेशनल कुलिनरी च्यालेन्ज २०२६ दमकमा हुने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12566",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/WhatsApp-Image-2026-03-24-at-2.19.33-PM-1774341805.jpeg"
+    },
+    {
+      "title": "Kathmandu University’s global ranking sparks debate",
+      "summary": "KU celebrates placement in HE Higher Education Rankings, but experts question credibility of ranking and significance of the achievement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/26/kathmandu-university-s-global-rankings-spark-debate",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1774499738.jpg&w=300&height=200"
+    },
+    {
+      "title": "Leaked Gen Z revolt probe report holds Oli, Lekhak liable to prosecution",
+      "summary": "Karki commission’s findings, however, are largely silent on the second day of arson and vandalism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/26/leaked-gen-z-revolt-probe-report-holds-oli-lekhak-liable-to-prosecution",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/protest-1774486440.jpg&w=300&height=200"
+    },
+    {
+      "title": "महावीर पुनको अनुभव : दूरदृष्टि भएका नेता र विज्ञहरूको कुरा कर्मचारीले पटक्कै सुन्दैनन्",
+      "summary": "कपिलवस्तुको महारागंजको बर्गदा घटना सम्बन्धमा थप ४ जनालाई पक्राउ गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-more-people-arrested-and-charged-in-connection-with-kapilvastu-s-bargada-incident-br-28-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767659805_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "आगजनी गर्नेको बयान लिइयो? आयोगलाई ओलीको प्रश्न",
+      "summary": "यस्तै, चाँदीको मूल्यमा पनि गिरावट आएको छ। बुधबार प्रतितोला ४ हजार ९२० रुपैयाँ रहेको चाँदी आज १०० रुपैयाँले घटेर ४ हजार ८२० रुपैयाँ कायम भएको महासंघले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/fall-in-gold-and-silver-prices-34-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
     }
   ]
 }
