@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-26T05:44:18.535627",
+  "scraped_at": "2026-03-26T09:08:06.081973",
   "date": "2026-03-26",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -335,6 +335,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/fall-in-gold-and-silver-prices-34-51.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "भवन नहुँदा सभा सञ्चालनको प्रबन्ध गर्न कठिन भयो : संसद् सचिवालय",
+      "summary": "अन्तर्राष्टिय सम्मेलन केन्द्र ध्वस्त भएको तथा नयाँ संसद् भवन हस्तान्तरण नभएकाले सभा सञ्चालनको प्रबन्ध गर्न निकै कठिन भएकाे उनले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lack-of-building-makes-it-very-difficult-to-manage-the-assembly-parliament-secretariat-32-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774515715_samsad-480x320.jpg"
+    },
+    {
+      "title": "रविको स्वागतमा उठे रास्वपाका सांसद, बालेनसँग हात मिलाएर बसे रवि",
+      "summary": "रवि लामिछानेलाई रास्वपाका बरिष्ठ नेता बालेन्द्र शाहसहित उपसभापति डोरप्रसाद अर्याल, स्वर्णिम वाग्लेसहित सबै रास्वपाका सांसदले उठेर स्वागत गरेका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-mps-rise-to-welcome-ravi-ravi-shakes-hands-with-balen-and-sits-down-82-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774514927_Rabi-480x320.jpg"
+    },
+    {
+      "title": "नवनिर्वाचित सांसदले लिए शपथ",
+      "summary": "वीरगंजबाट सुरु भएको ‘जाउँ है पोखरा’ अभियानका क्रममा व्यावसायीले पोखरालाई सिमरासम्म सिधा हवाई सञ्जालमार्फत जोड्नमा चाँसो दिएका छन। आन्तरिक पर्यटन प्रवर्द्धन गर्ने उद्देश्य सहितको अभियान लिएर गएका पोखराका पर्यटन व्यावसायीले वीरगञ्जका व्यवासायीसँगको छलफलका क्रममा सिधा हवाई सेवा नहुँदा पर्यटकको यात्रामा असहज भएको बताएका थिए। सिधा हवाई सेवा सञ्जालको बिस्तारका लागि दुईवटै सहरका व्यावसायी एकजुट हुनुपर्नेमा उनीहरुको जोड थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/emphasis-on-resuming-pokhara-simara-air-service-37-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1774514748_Jaun Hai Pokhara Birgunj -480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभाका सदस्यले एकसाथ लिए शपथ",
+      "summary": "प्रतिनिधिसभाका ज्येष्ठ सदस्य अर्जुननरसिंह केसीले पद तथा गोपनीयताको शपथ गराएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oath-for-newly-elected-mps-30-73.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774514636_Sapat-480x320.jpg"
+    },
+    {
+      "title": "रचनात्मक प्रतिपक्षको भूमिका निर्वाह गर्ने राईको भनाइ",
+      "summary": "अन्तर्राष्टिय सम्मेलन केन्द्र ध्वस्त भएको तथा नयाँ संसद् भवन हस्तान्तरण नभएकाले सभा सञ्चालनको प्रबन्ध गर्न निकै कठिन भएकाे उनले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lack-of-building-makes-it-very-difficult-to-manage-the-assembly-parliament-secretariat-32-84.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
