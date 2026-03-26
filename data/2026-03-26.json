@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-26T09:08:06.081973",
+  "scraped_at": "2026-03-26T13:46:46.209525",
   "date": "2026-03-26",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/lack-of-building-makes-it-very-difficult-to-manage-the-assembly-parliament-secretariat-32-84.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Lack of digital awareness puts Nepali migrants abroad at legal risk",
+      "summary": "Recently, seven Nepalis have been arrested in the Gulf for allegedly filming and posting photos and videos of explosions, missile strikes and military activities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/26/lack-of-digital-awareness-puts-nepali-migrants-abroad-at-legal-risk",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/3743c99d220d4690900fee93be2ae27549fc108726320260746281000x0-1774530479.jpg&w=300&height=200"
+    },
+    {
+      "title": "जनताको सेवा गर्ने औपचारिक जागीर सुरु भयाे : महावीर पुन",
+      "summary": "पोखराको लेकसाइडस्थित तालबाराही चौरमा मार्च २५ देखि २९ अर्थात चैत ११ देखि १५ सम्म चल्ने अटो शोको स्टल ए१२ मा बीवाईडीका सवारी साधन अवलोकन गर्न सकिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/special-offer-when-buying-byd-vehicles-at-wada-auto-show-2026-92-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774532568_BYD-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री अर्यालले लिए विदाइ",
+      "summary": "एन्फा निर्वाचन समितिले बिहीबार सूचना जारी गर्दै अर्को सूचना नआएसम्म निर्वाचन स्थगित गरिएको जनाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/anfa-elections-postponed-at-the-last-minute-62-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1753838710_ANFA 45-480x320.jpg"
+    },
+    {
+      "title": "गुण र दोषका आधारमा सरकारलाई सहयोग हुन्छः एमाले सचिव अर्याल",
+      "summary": "महानगरपालिकाले चालु आर्थिक वर्षका लागि ५ अर्ब १९ करोड ७१ लाख ६६ हजार रुपैयाँको अनुमानित बजेट विनियोजन गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/economic-progress-weak-bharatpur-metropolitan-city-s-expenditure-limited-to-37-percent-16-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764917513_1753429086_bharatpur_metro-1200x560-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सभापति लामिछानेको रिट ‘हेर्दाहर्दै’मा, आइतबार सुनुवाइ हुने",
+      "summary": "पत्रकारहरूले बालबालिकाको सर्वोत्तम हितलाई ध्यानमा राख्दै सञ्चार गर्ने प्रतिबद्धता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-journalists-commitment-to-child-friendly-media-71-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774531433_Balmaitri Sanchar Pratibadhata PIC-480x320.jpg"
+    },
+    {
+      "title": "रविको रिट आज पनि ‘हेर्दाहर्दै’ मा, अब आइतबार सुनुवाइ हुने",
+      "summary": "पोखराको लेकसाइडस्थित तालबाराही चौरमा मार्च २५ देखि २९ अर्थात चैत ११ देखि १५ सम्म चल्ने अटो शोको स्टल ए१२ मा बीवाईडीका सवारी साधन अवलोकन गर्न सकिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/special-offer-when-buying-byd-vehicles-at-wada-auto-show-2026-92-32.html?click_from=just_in",
       "image_url": ""
     }
   ]
