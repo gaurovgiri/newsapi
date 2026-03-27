@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-27T17:01:57.263443",
+  "scraped_at": "2026-03-27T20:50:06.429057",
   "date": "2026-03-27",
-  "total_articles": 63,
+  "total_articles": 65,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -511,6 +511,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/23-uml-mass-organizations-warn-of-taking-to-the-streets-against-government-decision-53-27.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ओली पक्राउ गर्न गृहमन्त्रीले निर्देशन दिएपछि प्रहरीले माग्यो लिखित पत्र",
+      "summary": "सरकारले लिखित पत्र दिएपछि मात्रै पक्राउ प्रक्रिया अघि बढाउने पक्षमा प्रहरी उभिएको छ। गृहमन्त्री गुरुङले शुक्रबार राति प्रधानमन्त्री बालेन्द्र शाहलाई बालुवाटारमा ब्रिफिङ गरेलगत्तै प्रहरी प्रधान कार्यालय पुगेर पक्राउका लागि दबाब बढाएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/police-request-written-letter-after-home-minister-directs-to-arrest-oli-52-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774638240_af-480x320.jpg"
+    },
+    {
+      "title": "ओली निवास निगरानीमा, हेडक्वार्टरमा छलफल, सुरक्षाकर्मी हाइअलर्टमा",
+      "summary": "गृहमन्त्री सुधन गुरुङले पूर्व प्रधानमन्त्री केपी शर्मा ओलीलाई पक्राउ गर्न निर्दशन दिएपछि सुरक्षा निकायलाई हाइ अलर्टमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-s-residence-under-surveillance-discussions-at-headquarters-security-personnel-on-high-alert-12-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774636250_i-480x320.jpg"
     }
   ]
 }
