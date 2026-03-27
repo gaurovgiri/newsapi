@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-27T05:45:56.034971",
+  "scraped_at": "2026-03-27T09:02:42.627145",
   "date": "2026-03-27",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/we-three-brothers-entered-the-hall-62-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "14 ministers in Balendra Shah Cabinet finalised",
+      "summary": "They will be administered oath after Shah is sworn in.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/15-ministers-in-balendra-shah-cabinet-finalised",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balencabinetministers27320260632011000x0-1774593045.png&w=300&height=200"
+    },
+    {
+      "title": "Far from inclusive",
+      "summary": "The expectation is that Shah will be the architect of a revitalised and prosperous Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/03/27/how-far-from-being-truly-inclusive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/balencabinetministers27320260632011000x0-1774593045.png&w=400&height=267"
+    },
+    {
+      "title": "३५ वर्षीय युवालाई आफ्नो उत्तराधिकारीका रुपमा पाउँदा थप हर्षित छु : निवर्तमान प्रधानमन्त्री कार्की",
+      "summary": "निवर्तमान प्रधानमन्त्री सुशीला कार्कीले नवनियुक्त प्रधानमन्त्री बालेन्द्र शाहलाई बधाई दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-even-more-delighted-to-have-a-35-year-old-youth-as-my-successor-outgoing-prime-minister-karki-58-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774601953_Balen-susila-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्रलाई एमाले अध्यक्ष ओलीले दिए बधाई",
+      "summary": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले प्रधानमन्त्री बालेन्द्र शाहलाई बधाइ दिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-congratulates-prime-minister-balendra-67-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768651779_KP_Oli-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस सभापति थापाले दिए प्रधानमन्त्री शाहलाई बधाई, सहयोगको प्रतिबद्धता",
+      "summary": "सभापति थापाले नवनियुक्त प्रधानमन्त्री शाह तथा उनको मन्त्रिपरिषद्का सदस्यहरूलाई बधाई तथा शुभकामना दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-president-thapa-congratulates-prime-minister-shah-pledges-support-85-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774601456_Balen-gagan-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्रलाई मोदीको बधाई : नेपाल-भारत सम्बन्धलाई नयाँ उचाइमा पुर्‍याउने लक्ष्य",
+      "summary": "भारत र नेपालबीचको सम्बन्धलाई थप सुदृढ बनाउँदै सहकार्यका नयाँ क्षेत्रहरू पहिल्याउने प्रतिबद्धता समेत मोदीले व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/modi-congratulates-balendra-aims-to-take-nepal-india-relations-to-new-heights-61-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774601148_Modi Balen-480x320.jpg"
+    },
+    {
+      "title": "पदभारका लागि बालेन्द्र पुगे सिंहदरबार",
+      "summary": "निवर्तमान प्रधानमन्त्री सुशीला कार्कीले नवनियुक्त प्रधानमन्त्री बालेन्द्र शाहलाई बधाई दिएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-even-more-delighted-to-have-a-35-year-old-youth-as-my-successor-outgoing-prime-minister-karki-58-40.html?click_from=just_in",
       "image_url": ""
     }
   ]
