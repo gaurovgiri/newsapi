@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-27T09:02:42.627145",
+  "scraped_at": "2026-03-27T13:23:38.993296",
   "date": "2026-03-27",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-am-even-more-delighted-to-have-a-35-year-old-youth-as-my-successor-outgoing-prime-minister-karki-58-40.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Balendra Shah sworn in as prime minister",
+      "summary": "President Ramchandra Paudel administered the oath amid a special function.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/balendra-shah-sworn-in-as-prime-minister",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sweringin-1774596186.jpg&w=300&height=200"
+    },
+    {
+      "title": "Global leaders congratulate Prime Minister Balendra Shah",
+      "summary": "Messages from India, Pakistan and Finland highlight expectations for stronger ties and regional cooperation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/global-leaders-congratulate-prime-minister-balendra-shah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/6445414767316828100296224309414249042770842n-1774603136.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिवेदन कार्यान्वयन गर्ने नाममा राजनीतिक बदला लिन खोजे देश द्वन्द्वतर्फ जान्छ : महेश बस्नेत",
+      "summary": "राष्ट्रिय परीक्षा बोर्डले यही चैत १९ गतेदेखि सुरु हुने माध्यमिक शिक्षा परीक्षा (एसइई) को तयारी पूरा भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/1-966-exam-centers-have-been-determined-for-see-question-papers-have-reached-all-locations-93-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773764291_SEE-480x320.jpg"
+    },
+    {
+      "title": "नवनियुक्त प्रधानमन्त्री बालेन्द्र शाहलाई अमेरिकाको बधाई",
+      "summary": "बागलुङमा चैत्राष्टमी मेलाको अवसरमा आयोजित छेलो प्रतियोगिताको उपाधि दुजिक थापा मगरले जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/dujik-thapa-s-hat-trick-in-the-chelo-title-69-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774615965_chhelo game-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय झण्डा अगाडी पूजा गरेर बालुवाटार प्रवेश गरे प्रधानमन्त्री शाह (तस्बिरसहित)",
+      "summary": "एमाले नेता महेश बस्नेतले कार्की आयोगको प्रतिवेदन कार्यान्वयन गर्ने नाममा सरकारले धरपकड र राजनीतिक बदला लिन खोजे देश द्वन्दतर्फ जाने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/seeking-political-revenge-in-the-name-of-implementing-the-report-will-lead-the-country-towards-conflict-mahesh-basnet-61-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772690325_Mahesh-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् बालेन सरकारको पहिलो बैठकका चार निर्णय",
+      "summary": "काठमाडौँस्थित अमेरिकी दूतावास नेपाल ले सामाजिक सञ्जाल फेसबुकमार्फत प्रधानमन्त्री शाह तथा नयाँ सरकारलाई शुभकामना दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/us-congratulates-newly-appointed-prime-minister-balendra-shah-82-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774615551_Balen Usa-480x320.jpg"
+    },
+    {
+      "title": "निजी निवास फर्किइन् निवर्तमान प्रधानमन्त्री कार्की",
+      "summary": "राष्ट्रिय परीक्षा बोर्डले यही चैत १९ गतेदेखि सुरु हुने माध्यमिक शिक्षा परीक्षा (एसइई) को तयारी पूरा भएको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/1-966-exam-centers-have-been-determined-for-see-question-papers-have-reached-all-locations-93-80.html?click_from=just_in",
       "image_url": ""
     }
   ]
