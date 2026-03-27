@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-27T13:23:38.993296",
+  "scraped_at": "2026-03-27T17:01:57.263443",
   "date": "2026-03-27",
-  "total_articles": 57,
+  "total_articles": 64,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -462,6 +462,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/1-966-exam-centers-have-been-determined-for-see-question-papers-have-reached-all-locations-93-80.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "RSP tells bureaucracy to remain neutral, shun politics",
+      "summary": "The ruling party says it does not support any union or group formed in the name of political parties within the civil service.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/rsp-tells-bureaucracy-to-remain-neutral-shun-politics",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/karmachari-1774618279.jpg&w=300&height=200"
+    },
+    {
+      "title": "Helicopter reported missing in Dolakha confirmed safe",
+      "summary": "Officials say Mustang Helicopter aircraft lost contact briefly amid bad weather before later being found safe.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/helicopter-carrying-five-reported-missing-in-dolakha-confirmed-safe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/66686438393831316c7569676834357366356a67676664673534383835623132346a6764666266685836040b4d51750611460-1774608599.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारको निर्णयविरुद्ध एमालेका २३ जनवर्गीय संगठन : सडकमा उत्रने चेतावनी",
+      "summary": "एमाले निकट विभिन्न २३ जनवर्गीय संगठनले गौरीबहादुर कार्की जाँचबुझ आयोगको प्रतिवेदन कार्यान्वयन गर्ने मन्त्रिपरिषद्को निर्णयप्रति गम्भीर ध्यानाकर्षण भएको जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/23-uml-mass-organizations-warn-of-taking-to-the-streets-against-government-decision-53-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768651779_KP_Oli-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामन्त्री पोखरेलको प्रतिबद्धता: उद्यमशीलता, रोजगारी र नेतृत्व विकासमा जोड",
+      "summary": "जल तथा मौसम विज्ञान विभागको विभिन्न क्षेत्रका वर्षा मापन केन्द्रहरूमा आज साँझ भएको अभिलेखअनुसार पछिल्लो २४ घण्टामा आज सल्यानमा सबैभन्दा बढी ७५.२ मिलीमिटर वर्षा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/weather-changes-across-the-country-heavy-rain-in-these-seven-districts-rain-expected-on-saturday-as-well-27-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774004019_Rain4-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई ट्रेड युनियनको संयुक्त बधाई",
+      "summary": "शिक्षा, विज्ञान तथा प्रविधि र युवा तथा खेलकुदमन्त्री सस्मित पोखरेलले गुणस्तरीय, समावेशी र नवप्रवर्तनमुखी शिक्षा तथा युवामैत्री नीतिको प्रवर्द्धन गर्ने प्रतिबद्धता जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/education-minister-pokharel-s-commitment-emphasis-on-entrepreneurship-employment-and-leadership-development-34-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774628113_Sasmit-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन खारेज गर्न एमालेको माग",
+      "summary": "उनका अनुसार हावाहुरी र निरन्तर वर्षा भइरहेकाले पहिरो पन्छ्याउन निकै कठिनाइ भइरहेको छ। गतवर्षको बाढीपहिरोका कारण उक्त क्षेत्रको सडक क्षतिग्रस्त भएपछि खोलाबाटै अस्थायी सडक बनाएर सञ्चालनमा ल्याइएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslides-at-various-places-on-bp-highway-due-to-rain-vehicles-held-38-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774627662_Sadak-480x320.jpg"
+    },
+    {
+      "title": "एकै वर्ष मुलुकमा तीन प्रधानमन्त्री",
+      "summary": "एमाले निकट विभिन्न २३ जनवर्गीय संगठनले गौरीबहादुर कार्की जाँचबुझ आयोगको प्रतिवेदन कार्यान्वयन गर्ने मन्त्रिपरिषद्को निर्णयप्रति गम्भीर ध्यानाकर्षण भएको जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/23-uml-mass-organizations-warn-of-taking-to-the-streets-against-government-decision-53-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
