@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-27T03:20:26.911106",
+  "scraped_at": "2026-03-27T05:45:56.034971",
   "date": "2026-03-27",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-died-after-meat-got-stuck-in-his-throat-83-61.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Karki probe report under fire for gaps, contradictions",
+      "summary": "Right from the start of Gen Z revolt, questions were raised over the Army’s role. The report gives no clear answers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/27/karki-probe-report-under-fire-for-gaps-contradictions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pm-1774576889.jpg&w=300&height=200"
+    },
+    {
+      "title": "The quiet work theatre actors do behind the spotlight",
+      "summary": "Shah government has no excuse to keep TJ commissions in uncertainty like its predecessors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/27/the-quiet-work-theatre-actors-do-behind-the-spotlight",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/mainpicc-1774580433.jpg&w=400&height=267"
+    },
+    {
+      "title": "In the race to be productive, who sets the pace?",
+      "summary": "Shah was appointed prime minister under Article 76(1) of the Constitution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/26/in-the-race-to-be-productive-who-sets-the-pace",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/police-1774579849.jpg&w=400&height=267"
+    },
+    {
+      "title": "Climate activism shaped by books",
+      "summary": "Gurung, who rose to prominence during the Gen Z movement, won a parliamentary seat from Gorkha-2",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/books/2026/03/26/climate-activism-shaped-by-books",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anfa-1774536034.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेन्द्रको नेतृत्वमा नयाँ सरकार: यस्तो बन्दैछ १५ सदस्यीय मन्त्रिमण्डल (नामसहित)",
+      "summary": "रामनवमीको अवसर पारेर आजबाट देशभरका हलमा फिल्म‘हामी तीन भाइ’ प्रदर्शनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/we-three-brothers-entered-the-hall-62-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774589977_thap 67-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीमा बालेन्द्र शाह नियुक्त : सुदनदेखि स्वर्णिमसम्म मन्त्री बन्दै",
+      "summary": "राष्ट्रपति रामचन्द्र पौडेलले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) संसदीय दलका नेता बालेन्द्र शाह (बालेन)लाई प्रधानमन्त्रीमा नियुक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-government-under-balendra-s-leadership-this-is-how-the-15-member-cabinet-is-being-formed-with-names-52-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774588125_Balen (2)-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र शाह प्रधानमन्त्री नियुक्त",
+      "summary": "तत्कालीन भारतीय प्रधानमन्त्री इन्दिरा गान्धीले सन् ७० को दशकमा बहुमतको शासन गर्दा सरकार र न्यायालयका बिचमा चलेको द्वन्द्व राजनीतिशास्त्र र कानुनशास्त्रका जानकारहरूका लागि नौलो विषय हुनै सक्दैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/majority-power-s-terror-over-the-judiciary-br-51-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774587677_su ko 67-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र शाहले किन रोजे ‘१२ः३४’ को समय ?",
+      "summary": "शाहसँगै आजै नयाँ मन्त्रीहरूले पनि शपथ लिने छन्। स्रोतका अनुसार रास्वपाले स्वर्णिम वाग्लेलाई अर्थ, शिशिर खनाललाई परराष्ट्र र सुदन गुरुङलाई गृहमन्त्री बनाउने पक्का भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/balendra-shah-appointed-as-prime-minister-ministers-from-sudan-to-swarnim-56-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774586458_Balen (1)-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र सरकारमा वाग्ले अर्थ र खनाल परराष्ट्र मन्त्री बन्दै",
+      "summary": "रामनवमीको अवसर पारेर आजबाट देशभरका हलमा फिल्म‘हामी तीन भाइ’ प्रदर्शनमा आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/we-three-brothers-entered-the-hall-62-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
