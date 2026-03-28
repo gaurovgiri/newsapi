@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-28T08:51:55.042686",
+  "scraped_at": "2026-03-28T13:12:26.687116",
   "date": "2026-03-28",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -390,6 +390,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-placed-in-isolation-cabin-citing-potential-additional-risks-due-to-stress-of-detention-50-82.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Legal steps ahead following arrest of Oli and Lekhak",
+      "summary": "Police detained the two leaders from Bhaktapur on Saturday morning over deaths during the September Gen Z protests. Court to decide on arrest warrant on Sunday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/28/legal-steps-ahead-following-arrest-of-oli-and-lekhak",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Oliand-1774682493.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेसले भन्यो: भदौ २४ को विध्वंसमा संलग्नलाई पनि कारबाही हुनुपर्छ",
+      "summary": "नेपाली कांग्रेसले भदौ २३ गतेको घटनासँगै भदौ २४ गते भएको आगजनी र विध्वंसमा संलग्नहरूलाई पनि कानुनबमोजिम कारबाही गर्न सरकारसँग माग गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-said-action-should-also-be-taken-against-those-involved-in-the-demolition-of-bhadra-24-52-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768468645_Gagan_Biswa1-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकको रिहाइ माग गर्दै धनगढीमा प्रदर्शन",
+      "summary": "प्रदर्शनकारिहरुले राजनीतिक प्रतिशोधका कारण ओली र लेखकलाई पक्राउ गरिएको भन्दै चर्का नारा लगाएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/protests-also-held-in-dhangadhi-demanding-the-release-of-oli-and-the-writer-97-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774700823_dhangadi-480x320.jpg"
+    },
+    {
+      "title": "पीडितलाई न्याय दिनुको साटो सरकारले गिजोल्यो: कांग्रेस",
+      "summary": "नेपाली कांग्रेसले भदौ २३ र २४ को घटनाको निष्पक्ष छानविन गरी दोषीलाई कारबाही गर्नुपर्नेमा हतारमा हतास मनस्थितिमा गरेको आरोप लगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/instead-of-providing-justice-to-the-victims-the-government-has-been-teasing-them-congress-49-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774694375_Congresh-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकलाई तत्काल रिहाई गर्न एमाले ताप्लेजुङको माग",
+      "summary": "वीरगञ्ज भन्सार कार्यालय हुँदै करिब डेढ महिनाको अवधिमा दुई हजार १३६ वटा एलपी ग्यासका बुलेट भित्रिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/more-than-2-000-lp-gas-bullets-entered-through-birgunj-border-36-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774700277_lp gas, noc-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन भारत र पाकिस्तानसँग सहकार्य गर्न इच्छुक",
+      "summary": "नेपाली कांग्रेसले भदौ २३ गतेको घटनासँगै भदौ २४ गते भएको आगजनी र विध्वंसमा संलग्नहरूलाई पनि कानुनबमोजिम कारबाही गर्न सरकारसँग माग गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-said-action-should-also-be-taken-against-those-involved-in-the-demolition-of-bhadra-24-52-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
