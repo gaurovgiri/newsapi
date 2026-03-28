@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-28T05:23:56.339212",
+  "scraped_at": "2026-03-28T08:51:55.042686",
   "date": "2026-03-28",
-  "total_articles": 38,
+  "total_articles": 47,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -310,6 +310,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-admitted-to-tu-teaching-hospital-under-doctor-s-supervision-75-68.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Ex-PM KP Sharma Oli, former home minister Ramesh Lekhak detained over Gen Z protest crackdown",
+      "summary": "Arrests follow a commission’s recommendation to prosecute both leaders for alleged criminal negligence in handling protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/28/ex-pm-kp-sharma-oli-former-home-minister-ramesh-lekhak-detained-over-gen-z-protest-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/65501033818334705438742277914131366236291858n-1774659034.jpg&w=300&height=200"
+    },
+    {
+      "title": "EVENTS: March 28 to April 3, 2026",
+      "summary": "Shah government has no excuse to keep TJ commissions in uncertainty like its predecessors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/28/events-march-28-to-april-3-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Oliand-1774682493.jpg&w=400&height=267"
+    },
+    {
+      "title": "When too many ideas dilute a powerful story",
+      "summary": "From hearty chicken adobo to refreshing halo-halo, Cebu Fiesta Kitchen introduces Kathmandu to the rich, lesser-known flavours of Filipino cuisine.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/28/when-too-many-ideas-dilute-a-powerful-story",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/miscellaneous/92817d7447a74fe09fb35babe08b4f2a-1774604217.jpg&w=400&height=267"
+    },
+    {
+      "title": "Street play on women’s empowerment to tour Karnali, Sudurpaschim",
+      "summary": "Iran’s Shi'ite allies in ​Lebanon ⁠and Iraq have already joined the war in the region triggered by US and ⁠Israeli ​strikes on Tehran four ​weeks ago.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/27/street-play-on-women-s-empowerment-to-tour-karnali-sudurpaschim",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sunillamsal-1774678195.jpg&w=400&height=267"
+    },
+    {
+      "title": "हिरासतको तनावले थप जोखिम हुन सक्ने भन्दै ओलीलाई ‘आइसोलेसन क्याबिनमा’ मा राखियो",
+      "summary": "दुईपटक मिर्गौला प्रत्यारोपण गराएका ओलीलाई एनेक्स वान भवनको ५०१ नम्बर बेडमा आइसोलेसनमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-placed-in-isolation-cabin-citing-potential-additional-risks-due-to-stress-of-detention-50-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774687197_oli-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकसँगै सिंहदरबार र सर्वोच्च जलाउनेलाई पनि कारबाही होस्: हर्क साम्पाङ",
+      "summary": "पोखरामा विदेशी पाहुना अभाव हुन थालेपछि झन्डै अढाई दशक अघि पोखराले बल्ल आन्तरिक पाहुना अभाव महसुस गर्न थालेको हो। पोखरामा अढाई दशक अघिसम्म आन्तरिक पाहुनाको हिस्सा बढिमा पाँचप्रतिशत थियो, त्यो बेला विदेशी पाहुनाको मात्र बाहुल्यता रहन्थ्यो। आन्तरिक पाहुना पोखरा नआउने र पर्यटन व्यावसायीले पनि आइहालेका आन्तरिक पाहुनालाई त्यो बेला खासै महत्व दिँदैनथे। विदेशी पाहुनालाई मात्र पर्यटक सम्झने अवस्था त्यो बेला थियो। जसोतसो पोखरा आइपुगेका स्वदेशी पाहुना पनि लेकसाइडको साटो सहरभित्रै अन्यत्रका होटलमा रात बिताउँथे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/pokhara-s-tourism-domestic-guests-become-the-basis-for-sustaining-business-24-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/authors/1774687369_Pokhara City (1)-480x320.jpg"
+    },
+    {
+      "title": "बिहानै उपत्यकाका सबै प्रहरी चौकी किन पुगे गृहमन्त्री सुदन ?",
+      "summary": "संयुक्त राज्य अमेरिकाको स्थापनाको २५०औँ वार्षिकोत्सवका अवसरमा गर्न लागिएको यो परिवर्तनलाई मन्त्रालयले ऐतिहासिक कदम बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-s-signature-on-us-dollars-will-now-be-on-the-table-a-165-year-old-tradition-will-be-broken-76-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774687292_Trump's note-480x320.jpg"
+    },
+    {
+      "title": "पूर्वगृहमन्त्री लेखकलाई महाराजगञ्जस्थित २ नं गणमा राखियो",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष एवं प्रतिनिधि सभा सांसद हर्क साम्पाङले पूर्व प्रधामन्त्री केपी शर्मा ओली र पूर्व गृहमन्त्री रमेश लेखकलाई कारबाही गर्नुपर्ने बताएका छन्। यसका साथै उनले जेन-जी आन्दोलनका क्रममा राज्यका प्रमुख अंगहरू जलाउने योजना बनाउनेहरूलाई पनि कारबाहीको माग गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/action-should-be-taken-against-those-who-burned-down-singha-durbar-and-supreme-court-along-with-oli-and-the-writer-hark-sampang-br-83-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774520280_harka-480x320.jpg"
+    },
+    {
+      "title": "ओली-लेखक पक्राउ: बन्दी प्रत्यक्षीकरण रिट निवेदनबारे कानुन व्यवसायीहरू छलफलमा",
+      "summary": "दुईपटक मिर्गौला प्रत्यारोपण गराएका ओलीलाई एनेक्स वान भवनको ५०१ नम्बर बेडमा आइसोलेसनमा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-placed-in-isolation-cabin-citing-potential-additional-risks-due-to-stress-of-detention-50-82.html?click_from=just_in",
       "image_url": ""
     }
   ]
