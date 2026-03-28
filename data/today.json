@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-28T16:43:52.495778",
+  "scraped_at": "2026-03-28T20:40:26.288825",
   "date": "2026-03-28",
-  "total_articles": 60,
+  "total_articles": 62,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -487,6 +487,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/party-organizations-to-be-removed-from-schools-and-universities-within-60-days-97-51.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "सातै प्रदेशमा निःशुल्क ‘ब्लु बस’ सञ्चालन हुने",
+      "summary": "सरकारले महिलाहरूको सुरक्षित र सहज आवागमन सुनिश्चित गर्न सातै प्रदेशमा निःशुल्क ‘ब्लु बस’ सेवा सञ्चालन गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/free-blue-bus-to-be-operated-in-all-seven-provinces-17-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774713120_mantriparisad-480x320.jpg"
+    },
+    {
+      "title": "कक्षा ५ सम्म परीक्षा नलिइने, आन्तरिक मूल्याङ्कन मात्र",
+      "summary": "सरकारले साना बालबालिकालाई मनोवैज्ञानिक त्रास र दबाबबाट मुक्त गर्न विद्यालय तहको पठनपाठन र मूल्याङ्कन पद्धतिमा परिवर्तन गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-exams-until-grade-5-only-internal-assessment-99-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774711806_cabinate-480x320.jpg"
     }
   ]
 }
