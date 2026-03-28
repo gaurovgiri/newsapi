@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-28T13:12:26.687116",
+  "scraped_at": "2026-03-28T16:43:52.495778",
   "date": "2026-03-28",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-said-action-should-also-be-taken-against-those-involved-in-the-demolition-of-bhadra-24-52-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Former PM Oli hospitalised for tests, ex-home minister Lekhak in custody",
+      "summary": "Medical professionals at TUTH said the UML chair is being monitored by a specialist team of cardiologists and nephrologists.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/28/former-pm-oli-hospitalised-for-tests-ex-home-minister-lekhak-in-custody",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OliLekhak-1774701161.jpg&w=300&height=200"
+    },
+    {
+      "title": "६० दिनभित्र विद्यालय र विश्वविद्यालयबाट दलीय सङ्गठन हटाइने",
+      "summary": "सरकारले शिक्षा क्षेत्रलाई राजनीतिक हस्तक्षेपबाट पूर्ण रूपमा मुक्त गर्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/party-organizations-to-be-removed-from-schools-and-universities-within-60-days-97-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774713120_mantriparisad-480x320.jpg"
+    },
+    {
+      "title": "राजस्व प्रणालीलाई पारदर्शी बनाउन ठूला व्यवसायमा अनिवार्य ‘ई–बिलिङ’",
+      "summary": "सरकारले राजस्व प्रणालीलाई पारदर्शी, डिजिटल र प्रभावकारी बनाउन ‘ई-बिलिङ’ प्रणाली लागू गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mandatory-e-billing-for-big-businesses-to-make-revenue-system-transparent-18-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774712766_1212-480x320.jpg"
+    },
+    {
+      "title": "२४ घण्टाभित्रै सबै ‘बेटिङ एप’ र वेबसाइट बन्द गरिने",
+      "summary": "नेपाल सरकारले अवैध रूपमा सञ्चालित अनलाइन सट्टेबाजी (बेटिङ) बन्द गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-betting-apps-and-websites-will-be-shut-down-within-24-hours-42-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774711806_cabinate-480x320.jpg"
+    },
+    {
+      "title": "राहदानी, लाइसेन्स पूर्ण रूपमा बिचौलियामुक्त बनाइने, घरमै डेलिभरीसम्मको व्यवस्था",
+      "summary": "सरकारले राहदानी, सवारी चालक अनुमतिपत्र र नागरिकताजस्ता अत्यावश्यक सेवाहरूलाई पूर्ण रूपमा बिचौलियामुक्त बनाउने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/passports-and-licenses-will-be-made-completely-middleman-free-with-arrangements-for-home-delivery-57-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774713120_mantriparisad-480x320.jpg"
+    },
+    {
+      "title": "सरकारी सेवा लिँदा हुने झन्झट हटाउन नागरिक सेवा केन्द्र स्थापना गर्ने, दैनिक १२ घण्टा सेवा दिने",
+      "summary": "सरकारले शिक्षा क्षेत्रलाई राजनीतिक हस्तक्षेपबाट पूर्ण रूपमा मुक्त गर्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/party-organizations-to-be-removed-from-schools-and-universities-within-60-days-97-51.html?click_from=just_in",
       "image_url": ""
     }
   ]
