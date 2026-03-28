@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-28T02:50:59.458505",
+  "scraped_at": "2026-03-28T05:23:56.339212",
   "date": "2026-03-28",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/former-prime-minister-oli-taken-to-teaching-hospital-for-health-check-up-22-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ओली चिकित्सकको निगरानीमा, त्रिवि शिक्षण अस्पताल भर्ना",
+      "summary": "उनलाई स्वास्थ्य परीक्षणका लागि अस्पताल लगिएको र चिकित्सकको सुझावपछि निगरानीमा राखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-admitted-to-tu-teaching-hospital-under-doctor-s-supervision-75-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774669913_KP OLI 2-480x320.jpg"
+    },
+    {
+      "title": "भारतमा पनि ओली-लेखक पक्राउको चर्चा: केजरीवालले भने- विगतका ‘कुकर्म’ले पक्राउ परे",
+      "summary": "म्याग्दीको अन्नपूर्ण गाउँपालिका–६ बिरौटामा रहेको मुक्तिपथ आधारभूत विद्यालयमा जीर्ण भवनमा जोखिम मोलेर पठनपाठन गराउनुपर्ने बाध्यता हटेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-obligation-to-study-at-risk-in-dilapidated-buildings-has-been-eliminated-41-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774674188_school 68-480x320.jpg"
+    },
+    {
+      "title": "ओली पक्राउविरुद्ध एमाले सडकमा, चाबहिलबाट प्रदर्शन सुरु",
+      "summary": "थारु जातिभित्रको राजवंशी ठाकुर समुदायले आफ्नो भाषा, संस्कृति र इतिहासको संरक्षण तथा अनुसन्धानलाई प्राथमिकतामा राख्दै विभिन्न कार्यक्रम अघि बढाउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rajbanshi-thakur-community-in-search-of-identity-history-and-culture-br-20-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774673380_gui gui 52-480x320.jpg"
+    },
+    {
+      "title": "लेखक पक्राउबारे कांग्रेस आन्तरिक छलफलमा, दिउँसोमात्र धारणा सार्वजनिक गर्ने",
+      "summary": "कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषिउपजको थोक मूल्य निर्धारण गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/this-is-the-wholesale-price-of-agricultural-produce-for-today-59-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774583230_fixed 65-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखक पक्राउ परेपछि चर्चामा कार्की आयोग: के हो कार्यान्वयनको प्रक्रिया र विगतको इतिहास?",
+      "summary": "उनलाई स्वास्थ्य परीक्षणका लागि अस्पताल लगिएको र चिकित्सकको सुझावपछि निगरानीमा राखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/oli-admitted-to-tu-teaching-hospital-under-doctor-s-supervision-75-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
