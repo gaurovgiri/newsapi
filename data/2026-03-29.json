@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-29T03:25:18.405427",
+  "scraped_at": "2026-03-29T05:46:43.140853",
   "date": "2026-03-29",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/baburam-calls-government-s-100-point-agenda-positive-and-suggests-four-points-including-peace-process-79-54.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "१५औं पन्ध्र वर्षीय योजनाबारे नेपालमा चर्चा, विज्ञहरुले सुझाए नेपालले फाइदा लिनसक्ने उपाय",
+      "summary": "१५औं पन्ध्र वर्षीय योजनाबारे नेपालमा चर्चा, विज्ञहरुले सुझाए नेपालले फाइदा लिनसक्ने उपाय",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12596",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/f-1774665937.JPG"
+    },
+    {
+      "title": "Government unveils ambitious 100-point roadmap for effective governance",
+      "summary": "The Shah administration has announced it will abolish party-affiliated student organisations in the academic sector and strictly enforce the provision requiring private hospitals to allocate 10 percent of their beds free of charge to needy patients.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/29/government-unveils-ambitious-100-point-roadmap-for-effective-governance",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774757354.jpg&w=300&height=200"
+    },
+    {
+      "title": "Legality of Oli, Lekhak arrests comes into question",
+      "summary": "Legal experts decry the use of ‘urgent warrant of arrest’, saying it amounts to an executive overreach.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/29/legality-of-oli-lekhak-arrests-comes-into-question",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/KPsharmaOlihospital20260328887copy-1774745478.jpg&w=300&height=200"
+    },
+    {
+      "title": "पूर्वगृहमन्त्री लेखकलाई अदालतमा उपस्थित गराइयो",
+      "summary": "त्यस्तै, चाँदीको मूल्यमा पनि वृद्धि भएको छ। आज चाँदी प्रतितोला चार हजार ७२० रुपैयाँ कायम भएको छ। यसअघि चाँदीको मूल्य चार हजार ६७० रुपैयाँ थियो। यसरी चाँदीको मूल्यमा ५० रुपैयाँ बढेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-have-increased-what-is-the-price-today-50-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई ‘नायक’ को अनिल कपुर जस्तो व्यवहार नगर्न एमाले नेता रिजालको सुझाव",
+      "summary": "गत भदौ २३–२४ गते जेनजी पुस्ताको प्रदर्शनबारे छानबिन गर्न गठित गौरीबहादुर कार्की नेतृत्वको जाँचबुझ आयोगले तत्कालीन प्रधानमन्त्री ओली र तत्कालीन गृहमन्त्री लेखकसहित जिम्मेवार पदमा रहेका व्यक्तिहरूलाई दोषी ठहर्‍याउँदै कारबाही सिफारिस गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-home-minister-writer-appears-in-court-88-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774760324_Ramesh-480x320.jpg"
+    },
+    {
+      "title": "सय बुँदे कार्यसूची राम्रो छ, कार्यान्वयनमा ध्यान दिइयोस्: चन्द्र भण्डारी",
+      "summary": "हर्मुज जलडमरुमा हाल देखिएको संकटले २१औं शताब्दीमा शक्तिले कसरी काम गर्छ भन्ने स्पष्ट पारेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/eyes-on-the-decline-of-american-dominance-br-64-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774760278_patan 65-480x320.jpg"
     }
   ]
 }
