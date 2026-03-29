@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-29T05:46:43.140853",
+  "scraped_at": "2026-03-29T08:52:01.759165",
   "date": "2026-03-29",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -319,6 +319,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/eyes-on-the-decline-of-american-dominance-br-64-41.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774760278_patan 65-480x320.jpg"
+    },
+    {
+      "title": "Kantipur Media Group appoints Anup Kaphle as Group Editorial Director",
+      "summary": "In the new role, Kaphle will oversee editorial operations across all of Kantipur’s flagship properties — Kantipur Daily, The Kathmandu Post, Kantipur Television, and Kantipur FM Radio.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/29/kantipur-media-group-appoints-anup-kaphle-as-group-editorial-director",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Anupkafle-1774765960.jpg&w=300&height=200"
+    },
+    {
+      "title": "शाह सरकारको सय कार्यसूचीमा ‘हिन्दू अधिराज्य’ बारे बुँदा थप्न कमल थापाको माग",
+      "summary": "परम्परागत गन्धर्व समुदायसँग सम्बन्धित यी दम्पतीले जीवनको अधिकांश समय सारङ्गीको मधुर धुनमा गीत गाउँदै बिताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-life-shared-with-the-melody-of-the-sarangi-40-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774773759_Sarangi-480x320.jpg"
+    },
+    {
+      "title": "कानुनमन्त्री गौतम पुगिन् सर्वोच्च",
+      "summary": "हाल उनी अस्पतालको एनेक्स–१ को बेड नं. ५०१ मा चिकित्सकीय निगरानी तथा उपचारमा रहेको अस्पताल प्रशासनले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/former-prime-minister-oli-s-health-condition-under-constant-monitoring-hospital-62-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768651779_KP_Oli-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकलाई १० दिन हिरासतमा राख्न माग, अदालतमा बहस जारी",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का नेता कमल थापाले बालेन्द्र शाह सरकारले ल्याएको एक सय कार्यसूची सकारात्मक भएको प्रतिक्रिया दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/kamal-thapa-demands-adding-a-point-on-hindu-rule-to-shah-government-s-100-agenda-40-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774772849_Kamal-480x320.jpg"
+    },
+    {
+      "title": "ओली-लेखकको गिरफ्तारीविरुद्ध एमाले र कांग्रेसको संयुक्त विरोध",
+      "summary": "विगत दुई सातादेखि हराइरहेका मकवानपुरको राक्सिराङ गाउँपालिका-५ निवासी ६१ वर्षीय कामीसिंह थिङकाे शव फेला परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-man-missing-for-15-days-found-in-decomposed-condition-50-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "एमालेले जिल्ला प्रशासन कार्यालय काठमाडौंलाई बुझायो विरोधपत्र: देशभर बुझाउँदै",
+      "summary": "परम्परागत गन्धर्व समुदायसँग सम्बन्धित यी दम्पतीले जीवनको अधिकांश समय सारङ्गीको मधुर धुनमा गीत गाउँदै बिताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-life-shared-with-the-melody-of-the-sarangi-40-16.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
