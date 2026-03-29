@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-29T08:52:01.759165",
+  "scraped_at": "2026-03-29T13:13:09.023319",
   "date": "2026-03-29",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-life-shared-with-the-melody-of-the-sarangi-40-16.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Economic reform tops agenda as new government sets ambitious growth targets",
+      "summary": "Finance Minister Wagle outlines policy overhaul, pledges institutional reforms and accelerated growth amid fiscal challenges.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/29/economic-reform-tops-agenda-as-new-government-sets-ambitious-growth-targets-1774771240",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260328at102029320260307471000x0-1774771303.jpg&w=300&height=200"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीको प्रभावकारी उपचार गर्न अदालतको आदेश",
+      "summary": "सङ्खुवासभाको कोशी राजमार्गअन्तर्गत खाँदबारी–किमाथाङ्का सडक खण्डको भोटखोलामा पहिरोका कारण सडक अवरुद्ध भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-road-to-bhotkhola-85-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774400242_Pahiro-480x320.jpg"
+    },
+    {
+      "title": "व्यस्त भएर सरकारका १०० बुँदे कार्यसूची हेर्न भ्याएकै छैन: दाहाल",
+      "summary": "पक्राउ परेका एमाले अध्यक्ष तथा पूर्वप्रधानमन्त्री केपी ओलीको उपचारमा प्रभावकारी व्यवस्था गर्न अदालतले आदेश दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/court-orders-effective-treatment-for-uml-chairman-oli-85-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774520113_KP-480x320.jpg"
+    },
+    {
+      "title": "‘सय कार्यसूची’ अभियान: मन्त्रीहरूको सुधारमुखी कदमले सकारात्मक सुरुवात",
+      "summary": "नेपाली कम्युनिष्ट पार्टी (नेकपा) का संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ ले सरकारको १०० बुँदे कार्यसूची आफूले हालसम्म नहेरेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/busy-can-t-even-look-at-government-s-100-point-agenda-dahal-84-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772714500_prachanda-480x320.jpg"
+    },
+    {
+      "title": "बेटिङ एप र वेबसाइट बन्द गर्न प्राधिकरणलाई निर्देशन",
+      "summary": "सरकारद्वारा स्वीकृत‘१०० कार्यसूची’ अन्तर्गत सुशासन, पारदर्शिता, सेवा प्रवाह सुधार, डिजिटल प्रणाली विस्तार, भ्रष्टाचार नियन्त्रण तथा विकास निर्माणलाई तीव्रता दिने विषयलाई प्राथमिकतामा राखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hundred-agendas-campaign-ministers-reform-oriented-steps-make-a-positive-start-47-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774786794_belun-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकलाई पाँच दिन थुनामा राख्न अनुमति",
+      "summary": "सङ्खुवासभाको कोशी राजमार्गअन्तर्गत खाँदबारी–किमाथाङ्का सडक खण्डको भोटखोलामा पहिरोका कारण सडक अवरुद्ध भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-road-to-bhotkhola-85-75.html?click_from=just_in",
       "image_url": ""
     }
   ]
