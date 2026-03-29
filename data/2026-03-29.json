@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-29T13:13:09.023319",
+  "scraped_at": "2026-03-29T16:44:51.888401",
   "date": "2026-03-29",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-blocks-road-to-bhotkhola-85-75.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Court remands Oli, Lekhak to five days in custody",
+      "summary": "Former prime minister and ex-home minister face investigation over deaths during Gen Z protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/29/court-remands-oli-lekhak-to-five-days-in-custody",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olilekhakl-1774779800.jpg&w=300&height=200"
+    },
+    {
+      "title": "श्रम स्वीकृतिमा टोकन प्रणाली खारेज, आवेदन दिएकै दिन स्वीकृति पाइने",
+      "summary": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालयले श्रम स्वीकृतिमा लाग्दै आएको टोकन प्रणाली खारेज गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/token-system-for-labor-permits-abolished-approval-available-on-the-same-day-of-application-br-21-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774799969_dipak-480x320.jpg"
+    },
+    {
+      "title": "सचिवलाई प्रधानमन्त्रीको निर्देशन: मन्त्रीलाई नपढाउनुहोस्",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले गत शुक्रबार प्रधानमन्त्री कार्यालयका उच्च कर्मचारी तथा नेपाल सरकारका सचिवहरूलाई छोटो मन्तव्य दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-s-instructions-to-secretary-don-t-teach-the-minister-br-65-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774776832_balen-480x320.jpg"
+    },
+    {
+      "title": "जघन्य अपराधका कानुन संशोधन गर्न कार्यदल गठन: कानुनमन्त्री",
+      "summary": "कानुन, न्याय तथा संसदीय मामिलामन्त्री सोबिता गौतमले यौनजन्य र जघन्य अपराधमा पीडितलाई शीघ्र न्याय दिलाउन विद्यमान कानुन संशोधनको प्रक्रिया अघि बढाएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/task-force-formed-to-amend-heinous-crime-laws-law-minister-84-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774798624_sobita-480x320.jpg"
+    },
+    {
+      "title": "ध्वस्त संसद् भवन अब के हुन्छ ?",
+      "summary": "निजी क्षेत्रबाट सञ्चालित धनगढीको सिसिएस विद्यालयका विद्यार्थी आसिस जोशीले रिमोटबाट चल्ने विद्युतीय मोटरसाइकल बनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/asis-s-electric-motorcycles-are-exciting-72-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774797516_f-480x320.jpg"
+    },
+    {
+      "title": "बेटिङ एप बन्द गर्ने सरकारकाे निर्णय",
+      "summary": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालयले श्रम स्वीकृतिमा लाग्दै आएको टोकन प्रणाली खारेज गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/token-system-for-labor-permits-abolished-approval-available-on-the-same-day-of-application-br-21-26.html?click_from=just_in",
       "image_url": ""
     }
   ]
