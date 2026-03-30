@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-30T13:52:23.125247",
+  "scraped_at": "2026-03-30T17:05:17.304126",
   "date": "2026-03-30",
-  "total_articles": 49,
+  "total_articles": 58,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-to-raise-positive-issues-of-women-in-the-media-br-55-63.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Police preparing to record statements of Oli and Lekhak from Tuesday",
+      "summary": "Officials say decision on modality of recording statements pending amid health and security concerns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/30/police-preparing-to-record-statements-of-oli-and-lekhak-from-tuesday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olilekhak30320260714261000x0-1774882878.jpg&w=300&height=200"
+    },
+    {
+      "title": "Congress factions parallel activities rattle party ranks",
+      "summary": "Dissident camp hosts lawmakers, uses official party letterhead. Thapa camp mulls disciplinary action.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/03/30/congress-factions-parallel-activities-rattle-party-ranks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/NEPALICONGRESS-1774886950.jpg&w=300&height=200"
+    },
+    {
+      "title": "Banana prices soar in Kathmandu",
+      "summary": "Retail rates have hit Rs300 a dozen as import curbs over fungal disease causes shortages.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/30/banana-prices-soar-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/1-17102-2-Dhading_banana%20bazar%20(3).JPG&w=300&height=200"
+    },
+    {
+      "title": "Government move to seize dormant accounts hits legal wall",
+      "summary": "Existing laws bar transfer of funds from private bank accounts to the state treasury.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/30/government-move-to-seize-dormant-accounts-hits-legal-wall",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bankcounter2432020025701241120250235011000x0-1774873818.jpg&w=600&height=400"
+    },
+    {
+      "title": "श्रममन्त्रीद्वारा ‘इपिए’ को निरीक्षण",
+      "summary": "श्रम, रोजगार तथा सामाजिक सुरक्षामन्त्री दिपककुमार साहले आज भैँसेपाटीस्थित राष्ट्रिय व्यावसायिक प्रशिक्षण प्रतिष्ठान (इपिए) को निरीक्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-minister-inspects-epa-85-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774799969_dipak-480x320.jpg"
+    },
+    {
+      "title": "आगामी बजेट सन्तुलित आउँछ: प्रधानमन्त्री",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले आगामी आर्थिक वर्षको बजेट सन्तुलित बनाइने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-upcoming-budget-will-be-balanced-prime-minister-58-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774776832_balen-480x320.jpg"
+    },
+    {
+      "title": "६३ उपसचिव प्रमुख प्रशासकीय अधिकृतविहीन स्थानीय तहमा परिचालित (सूचीसहित)",
+      "summary": "श्रीलङ्काले मध्यपूर्वमा युद्धको कारण ऊर्जा अभावको सामना गरिरहेका समय बुधबारदेखि बिजुलीको मूल्यमा करिब ४० प्रतिशतले वृद्धि गर्ने घोषणा गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/electricity-prices-increase-by-40-percent-in-sri-lanka-50-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1750811814_Bijuli-480x320.jpg"
+    },
+    {
+      "title": "जनताको हितलाई केन्द्रमा राखेर संविधान संशोधन हुनुपर्छः नेता खड्का",
+      "summary": "विभागले किसानलाई उचित मूल्य सुनिश्चित गर्न विभिन्न २५ जिल्लामा स्थलगत अध्ययनसहितको प्रतिवेदन कृषि तथा पशुपन्छी विकास मन्त्रालयमा पठाएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/support-price-recommendation-for-chaite-paddy-92-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769393517_dhan 90-480x320.jpg"
+    },
+    {
+      "title": "बलियो सरकार निरंकुश बन्ने खतरा छ : मुख्यमन्त्री पाण्डे",
+      "summary": "श्रम, रोजगार तथा सामाजिक सुरक्षामन्त्री दिपककुमार साहले आज भैँसेपाटीस्थित राष्ट्रिय व्यावसायिक प्रशिक्षण प्रतिष्ठान (इपिए) को निरीक्षण गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/labor-minister-inspects-epa-85-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
