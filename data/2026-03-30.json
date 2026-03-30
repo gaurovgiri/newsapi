@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-30T03:28:16.950569",
+  "scraped_at": "2026-03-30T06:03:05.252524",
   "date": "2026-03-30",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/twelve-injured-as-three-vehicles-collide-in-gaindakot-59-58.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Government sets 180-day deadline to clear stalled power deals, eyes export push",
+      "summary": "The plan prioritises clearing pending PPAs, boosting energy exports and reforming the power sector, but draws criticism for lacking focus on domestic electricity consumption.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/30/government-sets-180-day-deadline-to-clear-stalled-power-deals-eyes-export-push",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1774843640.jpg&w=300&height=200"
+    },
+    {
+      "title": "Democracy in the shadow of supermajority: Strong government, weak opposition",
+      "summary": "RSP’s historic mandate promises stability but analysts doubt a weak opposition can hold it accountable.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/30/strong-government-weak-opposition",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/miscellaneous/92817d7447a74fe09fb35babe08b4f2a-1774604217.jpg&w=300&height=200"
+    },
+    {
+      "title": "रास्वपा सांसद बास्कोटा भन्छिन्: मन्त्री भेट्न समय मिलाउने काम गर्दिनँ",
+      "summary": "नयाँ सरकार गठनसँगै राजनीतिक अस्थिरता अन्त्य हुने विश्वास व्यक्त गर्दै उनले सञ्चारसम्बन्धी कानुनहरू सरोकारवालासँग छलफल गरेर मात्र ल्याउन आग्रह गरिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/we-are-committed-to-press-freedom-and-the-welfare-of-workers-chairman-sharma-13-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774849386_Nirmala-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबारमा आज मन्त्रिपरिषद् बैठक, महत्त्वपूर्ण निर्णयको अपेक्षा",
+      "summary": "तोकिएकै शैक्षिक सत्रभित्र उच्च शिक्षा पूरा गराउने लक्ष्यसहित नवगठित सरकारले शैक्षिक पात्रो बनाउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/ministry-of-education-preparing-university-academic-calendar-citizenship-not-required-to-study-higher-education-br-42-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774849388_bigyan 65-480x320.jpg"
     }
   ]
 }
