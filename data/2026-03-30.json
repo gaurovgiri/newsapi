@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-30T09:22:41.404597",
+  "scraped_at": "2026-03-30T13:52:23.125247",
   "date": "2026-03-30",
-  "total_articles": 42,
+  "total_articles": 49,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-protests-for-third-day-demanding-oli-s-release-four-secretaries-in-leadership-66-12.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Supreme Court refuses interim relief to Oli, seeks grounds for detention",
+      "summary": "Show-cause order follows hearing on habeas corpus petition filed by the former prime minister’s wife.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/30/supreme-court-refuses-interim-relief-to-oli-seeks-grounds-for-detention",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/KPOLI-1774870017.jpg&w=300&height=200"
+    },
+    {
+      "title": "Hill and mountain regions to receive moderate rain Tuesday",
+      "summary": "Met office issues yellow warning, meaning people need to stay alert to changing weather conditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/weather/2026/03/30/hill-and-mountain-regions-to-receive-moderate-rain-tuesday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rainfall-1774871998.jpg&w=300&height=200"
+    },
+    {
+      "title": "इलामका सांसद राईले प्रधानमन्त्री बालेनसँग राखे दर्जनबढी माग",
+      "summary": "महिलाका साना-साना उद्यमका कथा पनि सकारात्मक ढंगले प्रस्तुत गर्नुपर्नेमा एक कार्यक्रममा सहभागीले जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-to-raise-positive-issues-of-women-in-the-media-br-55-63.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774877216_sancharika-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभाको पहिलो बैठक बिहीबार बस्ने",
+      "summary": "सांसद निश्कल राईले जिल्लामा प्राकृतिक विपत्तिबाट भएको क्षतिको राहत साथै कृषि क्षेत्रका समस्या र पर्यटन विकासमा ध्यान दिन प्रधानमन्त्री बालेन्द्र शाहसँग माग राखेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ilam-mp-rai-puts-forward-more-than-a-dozen-demands-to-prime-minister-balen-31-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774877018_Niskal_Rai-480x320.jpg"
+    },
+    {
+      "title": "स्मार्ट हुलाकलाई प्राथमिकता दिन मन्त्री तिमिल्सिनाको आग्रह",
+      "summary": "मन्त्रिपरिषद्को सिफारिसअनुसार राष्ट्रपति पौडेलले १९ गते बिहीबार दिउँसो २ बजेका लागि अधिवेशन आह्वान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-first-meeting-of-the-house-of-representatives-will-be-held-on-thursday-38-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774876895_Pratinidhi -480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधनको बहसपत्र बनाउन कार्यदल गठनगर्ने निर्णय",
+      "summary": "'एसइई दिएका विद्यार्थीलाई ब्रिज कोर्सले तानातान गर्ने भएकाले यो तत्कालै रोक्ने निर्णय गरिएको हो,' उनले भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-ministry-of-education-reversed-its-own-decision-within-24-hours-69-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774628113_Sasmit-480x320.jpg"
+    },
+    {
+      "title": "संघीय संसदको अधिवेशन चैत १९ मा बोलाउन सिफारिस",
+      "summary": "महिलाका साना-साना उद्यमका कथा पनि सकारात्मक ढंगले प्रस्तुत गर्नुपर्नेमा एक कार्यक्रममा सहभागीले जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-to-raise-positive-issues-of-women-in-the-media-br-55-63.html?click_from=just_in",
       "image_url": ""
     }
   ]
