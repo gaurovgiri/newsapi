@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-03-30T06:03:05.252524",
+  "scraped_at": "2026-03-30T09:22:41.404597",
   "date": "2026-03-30",
-  "total_articles": 38,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -311,6 +311,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/ministry-of-education-preparing-university-academic-calendar-citizenship-not-required-to-study-higher-education-br-42-33.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774849388_bigyan 65-480x320.jpg"
+    },
+    {
+      "title": "ओलीको रिहाइको माग गर्दै आज तेस्रो दिन पनि एमालेको प्रदर्शन: नेतृत्वमा चार सचिव",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीको रिहाइको माग गर्दै आज पार्टीका पदाधिकारी सहितका नेताहरु सडकमा ओर्लिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-protests-for-third-day-demanding-oli-s-release-four-secretaries-in-leadership-66-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774862084_UML-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले गरे कोशी र कर्णाली प्रदेशका सांसदसँग छलफल",
+      "summary": "जौन योञ्जनद्वारा निर्देशित नेपाली चलचित्र ‘आँखा’ अमेरिकामा आयोजना हुने वर्ल्डफेस्ट ह्युस्टन इन्टरनेसनल फिल्म फेस्टिभलमा प्रतिष्ठित ‘रेमी अवार्ड’का लागि मनोनित भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/nepali-film-aankh-nominated-for-remy-award-81-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774861700_aakha-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेनले गरे कोशीका सांसदसँग संवाद",
+      "summary": "इरानले साउदी अरबको प्रिन्स सुल्तान विमान बेसमाथि मिसाइल र ड्रोन हमला गर्दा कम्तीमा १५ अमेरिकी सैनिक घाइते भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/15-us-soldiers-injured-in-iran-attack-in-saudi-arabia-52-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774860826_us army-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीको सांसदसँग 'प्रदेशवाइज' छलफल: हर्क साम्पाङले भने- कोठे बैठकमा आउँदैनौँ",
+      "summary": "आज बिहान मन्त्रीहरूसँगको छलफलपछि उनले सांसदहरूसँग प्रदेशगत छलफल गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-holds-discussions-with-mps-from-koshi-and-karnali-provinces-82-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774861309_Balendra-480x320.jpg"
+    },
+    {
+      "title": "आज दिउँसो ४ बजे मन्त्रिपरिषद् बैठक बस्ने",
+      "summary": "नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीको रिहाइको माग गर्दै आज पार्टीका पदाधिकारी सहितका नेताहरु सडकमा ओर्लिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-protests-for-third-day-demanding-oli-s-release-four-secretaries-in-leadership-66-12.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
