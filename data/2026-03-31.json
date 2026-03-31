@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-31T13:52:21.441422",
+  "scraped_at": "2026-03-31T17:08:03.798207",
   "date": "2026-03-31",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -415,6 +415,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/bank-employee-arrested-on-charges-of-embezzlement-87-58.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Measles spread continues amid vaccine shortage",
+      "summary": "Officials say they have no doses for oubreak response and are still waiting for aid agencies to supply vaccine doses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/03/31/measles-spread-continues-amid-vaccine-shortage",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/measlesvaccination-1774969898.jpg&w=300&height=200"
+    },
+    {
+      "title": "Arena’s campaign with Nepal gets off to a rocky start",
+      "summary": "Nepal lose 0-1 to Laos and end their AFC Asian Cup Qualification-Third Round on a low.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/03/31/arena-s-campaign-with-nepal-gets-off-to-a-rocky-start",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/65820224721726566434827245421479526691640640n31320260403161000x0-1774975134.jpg&w=300&height=200"
+    },
+    {
+      "title": "Syaphrubesi-Rasuwagadhi road to remain shut for 45 days over next three months for upgrade",
+      "summary": "Retaining walls will be built at 10 critical sections. Imports and exports through the border point will remain closed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/31/syaphrubesi-rasuwagadhi-road-to-remain-shut-for-45-days-over-next-three-months-for-upgrade",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1774966742.jpg&w=600&height=400"
+    },
+    {
+      "title": "एमाले कार्यकर्ताबाट दुर्व्यवहारमा परेका ज्येष्ठ नागरिकलाई गृहमन्त्रीले घरमै पुगेर भेटे",
+      "summary": "इन्डियन आयल कर्पोरेसनले पेट्रोलियम पदार्थको खरिद मूल्यमा भारी वृद्धि गरेर पठाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/petrol-price-increased-by-rs-41-and-diesel-by-rs-94-from-india-but-not-in-nepal-59-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1773591792_petrol-480x320.jpg"
+    },
+    {
+      "title": "बागमती प्रदेश सभाको बैठक चैत २४ भित्र बोलाउन कांग्रेसको आग्रह",
+      "summary": "सङ्खुवासभा सभापोखरी गाउँपालिका–६ तामिङमा ढुङ्गाले लागेर एकजना मजदुरको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/worker-dies-after-being-hit-by-stone-in-sankhuwasabha-88-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिवालय बैठक : पार्टी अध्यक्ष ओलीको रिहाइ गर्न माग",
+      "summary": "गृहमन्त्री सुदन गुरुङले नेकपा (एमाले) का कार्यकर्ताबाट सडकपेटीमा अभद्र व्यवहार खेपेका ज्येष्ठ नागरिकलाई उनकै निवासमा पुगेर भेटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-visits-senior-citizen-who-was-abused-by-uml-cadres-at-home-91-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774973586_Untitled-1-480x320.jpg"
     }
   ]
 }
