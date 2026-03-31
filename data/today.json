@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-03-31T17:08:03.798207",
+  "scraped_at": "2026-03-31T20:52:05.888393",
   "date": "2026-03-31",
-  "total_articles": 58,
+  "total_articles": 59,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -471,6 +471,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-visits-senior-citizen-who-was-abused-by-uml-cadres-at-home-91-37.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774973586_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "व्यापारी भट्टको राहदानी रोक्का",
+      "summary": "सङ्खुवासभा सभापोखरी गाउँपालिका–६ तामिङमा ढुङ्गाले लागेर एकजना मजदुरको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/worker-dies-after-being-hit-by-stone-in-sankhuwasabha-88-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
     }
   ]
 }
