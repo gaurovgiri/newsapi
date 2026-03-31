@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-31T03:19:21.075919",
+  "scraped_at": "2026-03-31T05:47:49.205550",
   "date": "2026-03-31",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-secretariat-meeting-underway-28-30.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "West Asia conflict puts Nepal’s remittance inflows at risk, raises economic concerns",
+      "summary": "Escalating tensions threaten remittance from Gulf countries, which account for nearly 40 percent of Nepal’s total inflows, along with jobs, trade and foreign exchange reserves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/31/west-asia-conflict-puts-nepal-s-remittance-inflows-at-risk-raises-economic-concerns",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb1-1774930872.jpg&w=300&height=200"
+    },
+    {
+      "title": "Phewa Lake: PM’s push meets decades of encroachment, court orders, and costly reality",
+      "summary": "With the Shah government intent on clearing structures around the lake, Pokhara struggles to navigate the legal and financial labyrinth of restoring the iconic lake’s encroached shores.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/31/phewa-lake-pm-s-push-meets-decades-of-encroachment-court-orders-and-costly-reality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/phewa-1774918836.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police arrest former Kathmandu CDO Chhabilal Rijal",
+      "summary": "Arrest linked to probe into alleged negligence during Gen Z protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/03/31/police-arrest-former-kathmandu-cdo-chhabilal-rijal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/chhabicopy31320260445301000x0-1774928602.jpg&w=600&height=400"
+    },
+    {
+      "title": "संसद्को बैठकअघि सर्वदलीय बैठक आह्वान",
+      "summary": "गत २१ फागुनमा सम्पन्न प्रतिनिधिसभा निर्वाचनबाट निर्वाचित सांसदहरूको पहिलो बैठक १९ चैत दिउँसो २ बजेका लागि बोलाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/all-party-meeting-called-before-parliament-session-74-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774248725_Samsad-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस महामन्त्री पौडेलको आग्रह : पार्टीभित्रको विवाद बिर्सिएर एकजुट होऔँ",
+      "summary": "निर्वाचनपछि गठित सरकारले शिक्षासम्बन्धी तयारी कक्षा र बृजकोर्स बन्द गर्ने र कक्षा ५ सम्मको आन्तरिक परीक्षा हटाउने गरी नयाँ शिक्षा नीति ल्याउने विषयले चौतर्फी चर्चा पाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/we-need-a-practical-education-policy-that-can-explain-life-br-11-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774934606_view 67-480x320.jpg"
+    },
+    {
+      "title": "एमालेलाई रक्षा बमको अपिल: सडकमा अराजकता नफैलाउनुहोस्, कानुनी लडाइँ लड्नुहोस्",
+      "summary": "नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार आज सुनको मूल्यमा अघिल्लो दिनको तुलनामा प्रतितोला छ हजार ७०० रुपैयाँले वृद्धि भएर कारोबार हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-increases-by-rs-6-700-44-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
     }
   ]
 }
