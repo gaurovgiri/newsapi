@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-03-31T09:11:28.632079",
+  "scraped_at": "2026-03-31T13:52:21.441422",
   "date": "2026-03-31",
-  "total_articles": 45,
+  "total_articles": 51,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/health-supplies-worth-rs-4-8-million-to-vp-foundation-99-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepse rebounds with 19.7 points gain after declining for two days",
+      "summary": "The decrease in turnover signals weak momentum despite recovery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/03/31/nepse-rebounds-with-19-7-points-gain-after-declining-for-two-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb1-1774955051.jpg&w=600&height=400"
+    },
+    {
+      "title": "संसदमा म एक्लो पूर्वप्रधानमन्त्री: दाहाल",
+      "summary": "उदयपुरस्थित एक वाणिज्य बैंकमा कार्यरत एक जना महिला कर्मचारी रकम अपचलन आरोपमा पक्राउ परेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/bank-employee-arrested-on-charges-of-embezzlement-87-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1774964859_udayapur cdo-480x320.jpg"
+    },
+    {
+      "title": "इतर समूहलाई पुनः एकताबद्ध हुन कांग्रेस सहमहामन्त्री राणाको अपिल",
+      "summary": "जजीरा एयरवेज र फ्लाइ दुबईका दुई-दुई, हिमालय एयरलाइन्स र कुवेत एयरवेजमा चार-चार तथा नेपाल एयरलाइन्सका ६ गरि १८ अन्तर्राष्ट्रिय उडान रद्द भएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/18-international-flights-scheduled-for-tuesday-canceled-56-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772026640_TU Airport-480x320.jpg"
+    },
+    {
+      "title": "पाठ्यक्रममा विपद् उद्धारसम्बन्धी विषय राख्न गृहमन्त्रीको निर्देशन",
+      "summary": "मोरङको बुढीगंगा गाउँपालिकाले प्रथम बुढीगंगा गोल्ड कप आयोजना गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/budhiganga-gold-cup-to-be-held-67-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1774964277_budhigandaki-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले निर्वाचन समीक्षा गर्न सातै प्रदेशमा तोक्यो प्रतिनिधि",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले सार्वजनिक गरेको १०० दिने प्राथमिक कार्यसूचीमा खेलकुद क्षेत्र नअटाएपछि नेपाली खेलकुद जगत आश्चर्यमा पर्‍यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/prime-minister-35-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774964886_khel-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्रको प्रेस सहजकर्तामा सुरेन्द्र बजगाईं",
+      "summary": "उदयपुरस्थित एक वाणिज्य बैंकमा कार्यरत एक जना महिला कर्मचारी रकम अपचलन आरोपमा पक्राउ परेकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/bank-employee-arrested-on-charges-of-embezzlement-87-58.html?click_from=just_in",
       "image_url": ""
     }
   ]
