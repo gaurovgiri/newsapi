@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-01T17:04:59.783919",
+  "scraped_at": "2026-04-01T20:55:12.657012",
   "date": "2026-04-01",
-  "total_articles": 67,
+  "total_articles": 68,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -543,6 +543,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-currently-in-the-opposition-we-will-make-hark-sampang-the-prime-minister-in-5-years-mp-rai-br-16-37.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nine Nepali bodies brought home from Kuwait",
+      "summary": "The deceased include four women whose repatriation was delayed by growing Gulf conflict.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/01/nine-nepali-bodies-brought-home-from-kuwait",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/66257022814533649264526123426614057488883773n01420260417351000x0-1775059258.jpg&w=300&height=200"
     }
   ]
 }
