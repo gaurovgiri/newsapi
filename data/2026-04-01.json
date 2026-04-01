@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-01T13:55:28.985753",
+  "scraped_at": "2026-04-01T17:04:59.783919",
   "date": "2026-04-01",
-  "total_articles": 60,
+  "total_articles": 66,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -486,6 +486,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/5-500-students-to-appear-for-see-in-udayapur-number-of-centers-reduced-14-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal hikes jet fuel to historic high as West Asia war drives global surge",
+      "summary": "Aviation fuel sold to domestic airlines surges by up to 97.6 percent, pushing up airfares and widening Nepal Oil Corporation losses. ATF prices for international airlines surged by 77.63 percent.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/01/nepal-hikes-jet-fuel-to-record-high-as-middle-east-war-drives-global-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DomesticAirportArielview-1775034165.jpg&w=300&height=200"
+    },
+    {
+      "title": "अहिले प्रतिपक्षमै बस्छाैं, ५ वर्षपछि हर्क साम्पाङलाई प्रधानमन्त्री बनाउँछाैं: सांसद राई",
+      "summary": "भोजपुरबाट निर्वाचित श्रम संस्कृति पार्टीका सांसद ध्रुवराज राईले आगामी ५ वर्षपछि आफ्नो पार्टीका अध्यक्ष हर्क साम्पाङलाई देशको प्रधानमन्त्री बनाउने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-currently-in-the-opposition-we-will-make-hark-sampang-the-prime-minister-in-5-years-mp-rai-br-16-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775059306_rai-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले बोलाउँदा किन गएनन् श्रम संस्कृतिका सांसद ?",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले कोशी प्रदेशका समस्या बुझ्न र छलफल गर्न बोलाएको बैठकमा श्रम संस्कृति पार्टीका सांसदहरू अनुपस्थित रहे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-didn-t-the-labor-culture-mp-go-when-the-prime-minister-called-him-60-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775059305_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङ राष्ट्रभक्त मान्छे, त्यसैले एमाले छाडेर श्रम संस्कृतिमा आएँ: सांसद राई",
+      "summary": "जुम्लाको हिमाली भेगमा उत्पादन हुने अर्गानिक आलु गुणस्तर, स्वाद र पोषणका हिसाबले देशभर चर्चित छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-potato-recognized-farmers-still-at-loss-64-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775060882_661435600_1647042649896427_7285965785210933708_n-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा कार्यवाहक अध्यक्षको जिम्मेवारी रामबहादुर थापालाई",
+      "summary": "नेकपा एमालेको राजनीतिक यात्रा छाडेर श्रम संस्कृति पार्टीमा जोडिएका भोजपुरका सांसद ध्रुवराज राईले पार्टी अध्यक्ष हर्क साम्पाङको राष्ट्रभक्तिबाट प्रभावित भएर आफूले नयाँ बाटो रोजेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-is-a-patriotic-person-that-s-why-i-left-uml-and-joined-the-labor-culture-mp-rai-82-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775059306_rai-480x320.jpg"
+    },
+    {
+      "title": "जग्गा फुकुवाका नाममा २ हजार असुल्ने मालपोतका कर्मचारी पक्राउ",
+      "summary": "भोजपुरबाट निर्वाचित श्रम संस्कृति पार्टीका सांसद ध्रुवराज राईले आगामी ५ वर्षपछि आफ्नो पार्टीका अध्यक्ष हर्क साम्पाङलाई देशको प्रधानमन्त्री बनाउने दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-are-currently-in-the-opposition-we-will-make-hark-sampang-the-prime-minister-in-5-years-mp-rai-br-16-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
