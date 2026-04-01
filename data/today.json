@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-01T03:32:12.190183",
+  "scraped_at": "2026-04-01T06:00:24.518632",
   "date": "2026-04-01",
-  "total_articles": 34,
+  "total_articles": 44,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/iran-no-longer-an-existential-threat-to-israel-prime-minister-netanyahu-66-56.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Shah consults lawmakers on governance and budget priorities",
+      "summary": "Prime Minister Balendra Shah meets MPs from three provinces as he builds a national plan focused on reforms, budget allocation and development.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/01/shah-consults-lawmakers-on-governance-and-budget-priorities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/pmoffice31320260418181000x0-1775018364.jpg&w=300&height=200"
+    },
+    {
+      "title": "The global fertiliser crisis may hit Nepal hard this plantation season",
+      "summary": "Nepal needs 250,000 tonnes of fertiliser for paddy cultivation. Around 183,000 likely to be available.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/01/the-global-fertiliser-crisis-may-hit-nepal-hard-this-plantation-season",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/FarmerFertilizer1copy-1775005645.jpg&w=300&height=200"
+    },
+    {
+      "title": "A battle of rights",
+      "summary": "The government has great authority to improve the lives of marginalised groups.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2026/04/01/a-battle-of-rights",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/RQY7HWRXP5OKHG4UWR33RIQDVA-1775010184.jpg&w=400&height=267"
+    },
+    {
+      "title": "What I Watch Online: Sajina Paudel",
+      "summary": "Gold jumps by Rs7,400 per tola in a day, with global bullion trends staying firm amid safe-haven demand.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/01/what-i-watch-online-sajina-paudel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/THSXSGRUARLIJHUDEXYBS3WX4A-1775009931.jpg&w=400&height=267"
+    },
+    {
+      "title": "How mindfulness reshapes body image",
+      "summary": "The ministry did not state how many people were on board and made no mention of survivors. The An-26, a light tactical military transport, has long been in service and can carry cargo or up to 40 passengers over short and medium distances.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/03/31/how-mindfulness-reshapes-body-image",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/thumb6-1729043489.jpg&w=400&height=267"
+    },
+    {
+      "title": "कर्मचारीतन्त्रमा सुधार गर्न सुझाव",
+      "summary": "माल्दिभ्समा जारी साफ यू-२० च्याम्पियनसिप अन्तर्गतको पहिलो सेमिफाइनल खेलमा आज नेपाल र बंगलादेशसँग प्रतिस्पर्धा गर्दै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-20-championship-nepal-to-face-bangladesh-in-semi-finals-11-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775022473_saff-480x320.jpg"
+    },
+    {
+      "title": "पाँच दिनमा पाँच भीआइपी पक्राउ, एक हाजिर जमानीमा रिहा",
+      "summary": "यातायात व्यवस्था कार्यालय महेन्द्रनगरले कार्यालय परिसरभित्र बिचौलियाको प्रवेश पूर्ण रूपमा निषेध गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-middlemen-are-prohibited-from-entering-the-transport-management-office-50-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775022089_yatayat-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जालमा रास्वपाले जङ्गली रूप देखायो : बस्नेत",
+      "summary": "नेपालको संविधानमा आमाको नामबाट नागरिकता प्राप्त गर्ने प्रावधानको व्यवस्था भए पनि झन्झटिलो रहेको अधिकारवादीले चिन्ता व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-process-of-obtaining-citizenship-in-the-mother-s-name-is-complicated-47-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775021817_nn 90-480x320.jpg"
+    },
+    {
+      "title": "गण्डकी प्रदेश सभाबाट जनस्वास्थ्य विधेयक पारित",
+      "summary": "महाकाली नदीमा बगेर पञ्चेश्वर गाउँपालिका–४ बन्नाका ६४ वर्षीय कृष्ण चन्द बेपत्ता भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-missing-after-being-swept-away-by-mahakali-river-64-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755046699_Nadi-480x320.jpg"
+    },
+    {
+      "title": "२४ गते सिंहदरबार, संसद् भवन र सर्वोच्च जलाउनेलाई पनि कारबाही हुनुपर्छ : साम्पाङ",
+      "summary": "माल्दिभ्समा जारी साफ यू-२० च्याम्पियनसिप अन्तर्गतको पहिलो सेमिफाइनल खेलमा आज नेपाल र बंगलादेशसँग प्रतिस्पर्धा गर्दै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-20-championship-nepal-to-face-bangladesh-in-semi-finals-11-39.html?click_from=just_in",
       "image_url": ""
     }
   ]
