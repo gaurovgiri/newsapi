@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-01T06:00:24.518632",
+  "scraped_at": "2026-04-01T09:18:15.217166",
   "date": "2026-04-01",
-  "total_articles": 44,
+  "total_articles": 52,
   "sources": [
     "NagarikNews",
     "News24",
@@ -358,6 +358,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-u-20-championship-nepal-to-face-bangladesh-in-semi-finals-11-39.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ालिकाको नेतृत्व महिलाको हातमा पुग्दै, प्रधानन्यायाधीश राउतको कार्यकाल कस्तो ?",
+      "summary": "ालिकाको नेतृत्व महिलाको हातमा पुग्दै, प्रधानन्यायाधीश राउतको कार्यकाल कस्तो ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12619",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Pradhannyayadhish_Bidama-1775013486.jpg"
+    },
+    {
+      "title": "Nepal hikes jet fuel to record high as West Asia war drives global surge",
+      "summary": "ATF prices jump up to 97.6 percent, pushing fares higher and deepening losses at Nepal Oil Corporation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/01/nepal-hikes-jet-fuel-to-record-high-as-middle-east-war-drives-global-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/DomesticAirportArielview-1775034165.jpg&w=300&height=200"
+    },
+    {
+      "title": "Electric bus resumes service in Lumbini",
+      "summary": "Two of five electric buses are in operable condition; remaining three under repair.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/01/electric-bus-resumes-service-in-lumbini",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260401at121317pm01420260904021000x0-1775031079.jpg&w=300&height=200"
+    },
+    {
+      "title": "जिसस महासंघ कोशी प्रदेश समितिमा लामा",
+      "summary": "अब अमेरिकामा पनि तेलको मूल्य बढ्न थालेको छ। अमेरिकामा तेलको मूल्य प्रति ग्यालन चार डलर पार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-s-president-says-he-can-stop-war-demands-guarantees-18-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775034449_Masoud Pezeshkian and Antonio Costa-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा कार्यव्यवस्था परामर्श समितिको बैठकमा अधिवेशनको पूर्वतयारीबारे छलफल",
+      "summary": "जिल्ला समन्वय समिति महासंघ, कोशी प्रदेश समितिको अध्यक्षमा ताप्लेजुङका जिल्ला समन्वय समिति प्रमुख छिरिङ लामा चयन भएका छन्। लामा यसअघि समितिको उपाध्यक्ष थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/lama-in-the-koshi-province-committee-of-the-federation-of-jesus-christ-33-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775034213_Lama-480x320.jpg"
+    },
+    {
+      "title": "सभामुख र उपसभामुख चयन आगामी अधिवेशनको ‘विजनेस’",
+      "summary": "सप्राईज चेकिङ गर्दा मापसे गरेर सवारी साधन चलाएको आरोपमा १६ जना चालकलाई कारबाही गरिएको हाे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/early-morning-breathalyzer-test-16-drivers-taken-into-action-by-traffic-police-58-12.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775033921_Mapase-480x320.jpg"
+    },
+    {
+      "title": "संसद्मा प्रतिनिधित्व गर्ने दलहरुको बैठक सिंहदरबारमा",
+      "summary": "पूर्वपश्चिम राजमार्गअन्तर्गत मकवानपुरको हेटौँडामा दुई मोटरसाइकल र ट्रक ठोक्किँदा एक जनाको मृत्यु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-collision-between-two-motorcycles-and-a-truck-in-hetauda-15-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770605078_1632542280_accident-1200x560-480x320.jpg"
+    },
+    {
+      "title": "अबदेखि खाजाको समयमा पनि सेवा : ललितपुर जिल्ला अदालत",
+      "summary": "अब अमेरिकामा पनि तेलको मूल्य बढ्न थालेको छ। अमेरिकामा तेलको मूल्य प्रति ग्यालन चार डलर पार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-s-president-says-he-can-stop-war-demands-guarantees-18-37.html?click_from=just_in",
       "image_url": ""
     }
   ]
