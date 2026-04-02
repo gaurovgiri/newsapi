@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-02T09:09:53.413979",
+  "scraped_at": "2026-04-02T13:45:46.025559",
   "date": "2026-04-02",
-  "total_articles": 48,
+  "total_articles": 56,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-will-show-our-commitment-by-fulfilling-this-mandate-ravi-lamichhane-77-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Businessman Deepak Bhatta arrested in money laundering probe",
+      "summary": "CIB detains him from Naxal as authorities widen scrutiny of financial dealings and political links.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/businessman-deepak-bhatta-arrested-in-money-laundering-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1775122128.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sunil Sah left country aiming to build his parents a house. Now they struggle to bring his body home",
+      "summary": "DNA hurdles and bureaucratic delays leave a Mahottari family in limbo two years after a deadly industrial fire in Saudi Arabia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/sunil-sah-left-country-aiming-to-build-his-parents-a-house-now-they-struggle-to-bring-his-body-home",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/IMG6729copy-1775093385.jpg&w=300&height=200"
+    },
+    {
+      "title": "Saudi Arabia grants amnesty until 18 April for expired visa holders, permits direct exit",
+      "summary": "The two-day conference is focused on discussions around human capital, economic growth, diaspora engagement, and the future of work in the age of AI.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/03/25/saudi-arabia-grants-amnesty-until-18-april-for-expired-visa-holders-permits-direct-exit",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SCREE-1775100466.jpg&w=400&height=267"
+    },
+    {
+      "title": "बालेनसँग अङ्कमालपछि हर्कले भने- काम त राम्रै गर्न खोज्नुभएको छ, तर...",
+      "summary": "यातायात व्यवस्था कार्यालयबाट ६ पुरुष र मालपोत कार्यालयबाट १० जना महिला गरी जम्मा १६ जनालाई नियन्त्रणमा लिएको उनले जानकारी दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-middlemen-arrested-by-land-revenue-and-transport-29-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभाको सभामुख डीपी अर्याल निश्चित",
+      "summary": "सम्झौता सकिन केही दिनमात्र बाँकी रहँदा पनि नेपाल क्रिकेट संघबाट कुनै प्रतिक्रिया नआएको विश्वविद्यालय क्रिकेट संघको भनाइ छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-contract-for-the-tribhuvan-university-cricket-ground-is-expiring-in-april-the-university-is-in-favor-of-not-renewing-it-what-happens-now-31-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775135450_tu ground-480x320.jpg"
+    },
+    {
+      "title": "प्रवासी नेपालीलाई धन्यवाद दिँदै रविले भने: यो सरकार, यो संसद् तपाईंहरूकै हो",
+      "summary": "सामाजिक सञ्जालमा एकअर्काको आलोचना गर्दै आएका यी दुई नेता बिहीबार प्रतिनिधि सभाको बैठकपछि अङ्कमाल गर्दै सँगै देखिएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-hugging-balen-hark-said-you-re-trying-to-do-a-good-job-but-24-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775133871_belun harku-480x320.jpg"
+    },
+    {
+      "title": "विदेशी लगानीकर्तालाई रास्वपाको आह्वान: आउनुहोस् देश सुरक्षित भइसक्यो",
+      "summary": "दुर्घटनामा गम्भीर घाइते भएका २४ वर्षीय माबोलाई उपचारका लागि जिल्ला अस्पताल फिदिम ल्याइएकामा चिकित्सकले मृत घोषित गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-jeep-accident-96-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775133025_Accident-480x320.jpg"
+    },
+    {
+      "title": "सभामुखमा डीपी अर्याललाई पठाउने रास्वपाको निर्णय",
+      "summary": "यातायात व्यवस्था कार्यालयबाट ६ पुरुष र मालपोत कार्यालयबाट १० जना महिला गरी जम्मा १६ जनालाई नियन्त्रणमा लिएको उनले जानकारी दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-middlemen-arrested-by-land-revenue-and-transport-29-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
