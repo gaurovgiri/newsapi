@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-02T13:45:46.025559",
+  "scraped_at": "2026-04-02T17:03:55.723880",
   "date": "2026-04-02",
-  "total_articles": 56,
+  "total_articles": 63,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -454,6 +454,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/16-middlemen-arrested-by-land-revenue-and-transport-29-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Court allows two more days’ remand of Oli and Lekhak",
+      "summary": "Former prime minister Oli attends hearing virtually from hospital as police seek more time for probe.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/court-allows-two-more-days-remand-of-oli-and-lekhak",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olilekhak30320260529401000x0-1775141597.jpg&w=300&height=200"
+    },
+    {
+      "title": "After six years of construction, authorities realise Kakri-Maikot road does not belong to Shahid Marga",
+      "summary": "Project orders a halt to additional construction. Locals are disappointed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/after-six-years-of-construction-authorities-realise-kakri-maikot-road-does-not-belong-to-shahid-marga",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb33-1775140372.jpg&w=300&height=200"
+    },
+    {
+      "title": "विमानस्थलको छड्के अनुगमनमा गृहमन्त्री, सेवाग्राहीलाई दुःख नदिन निर्देशन",
+      "summary": "भारत सरकारको अनुदान सहयोगमा नेपालको शिक्षा, स्वास्थ्य र कृषि क्षेत्रका सातवटा उच्च प्रभाव सामुदायिक विकास परियोजना अघि बढाइने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-grant-of-rs-470-million-in-education-health-and-agriculture-sectors-7-projects-under-construction-98-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775148690_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन अध्ययन गर्न कांग्रेसले बनायो समिति",
+      "summary": "डुम्रे-बेसीशहर-चामे सडक योजनाअन्तर्गत डुम्रे-बेसीशहर सडक खण्डको भानु नगरपालिकास्थित चाम्बासदेखि तुरतुरे क्षेत्रमा सवारी आवागमन पूर्ण रूपमा बन्द हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dumre-besishahar-road-section-from-chambas-to-turture-to-be-closed-for-10-days-99-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775148364_sadak-480x320.jpg"
+    },
+    {
+      "title": "संविधान निर्माण गरेका शक्तिहरु एकताबद्ध हुनुपर्छः दाहाल",
+      "summary": "गृहमन्त्री सुधन गुरुङ अनुगमनका लागि त्रिभुवन अन्तरराष्ट्रिय विमानस्थल पुगेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-instructs-not-to-cause-inconvenience-to-service-recipients-during-airport-surveillance-br-35-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775147282_augamna-480x320.jpg"
+    },
+    {
+      "title": "जनमतलाई ‘एआई’ भन्नु एमालेको हारको आवेग: खगेन्द्र",
+      "summary": "जिल्ला अदालतले सम्पत्ति शुद्धीकरण कसुरमा व्यापारी दीपक भट्टमाथि १० दिन थुनामा राखेर अनुसन्धान गर्न अनुमति दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/permission-granted-to-detain-businessman-bhatta-for-10-days-for-investigation-24-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775122765_Dipak_Bhatta-480x320.jpg"
+    },
+    {
+      "title": "संसदमा बादलको अभिव्यक्ति पार्टीको नीतिविपरीत: विष्णु पौडेल",
+      "summary": "भारत सरकारको अनुदान सहयोगमा नेपालको शिक्षा, स्वास्थ्य र कृषि क्षेत्रका सातवटा उच्च प्रभाव सामुदायिक विकास परियोजना अघि बढाइने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-grant-of-rs-470-million-in-education-health-and-agriculture-sectors-7-projects-under-construction-98-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
