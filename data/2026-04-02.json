@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-02T02:57:01.875889",
+  "scraped_at": "2026-04-02T05:44:46.530245",
   "date": "2026-04-02",
-  "total_articles": 33,
+  "total_articles": 42,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-end-the-practice-of-killing-people-to-save-the-law-hark-sampang-51-68.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "क सञ्जालमा महिलामाथि भइरहेको भद्दा र अमर्यादित टिप्पणी खेदजनक : गीता गुरुङ",
+      "summary": "क सञ्जालमा महिलामाथि भइरहेको भद्दा र अमर्यादित टिप्पणी खेदजनक : गीता गुरुङ",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12621",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gita-1775027661.jpg"
+    },
+    {
+      "title": "Inisa’s family agrees to receive body",
+      "summary": "Last rites will be performed at Samjhighat near Bheri bridge on Thursday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/inisa-s-family-agrees-to-receive-body",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/INISA-1775108443.jpg&w=300&height=200"
+    },
+    {
+      "title": "Driven to Dharan by threats, Sarin finds acceptance in the ballot box",
+      "summary": "Shram Sanskriti Party chair Harka Sampang beat her by a margin of about 8,000 votes but that’s the closest an LGBTQ+ candidate has got to victory in direct contest.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/01/driven-to-dharan-by-threats-sarin-finds-acceptance-in-the-ballot-box",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/2f760429dd4b4fe380d4a16d819af0e9copy01420260706561000x0-1775065531.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal devising long-term strategy to protect citizens abroad",
+      "summary": "Foreign minister-led panel is exploring a mechanism to respond immediately in times of international crises.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/02/nepal-devising-long-term-strategy-to-protect-citizens-abroad",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/save-1775096344.jpg&w=300&height=200"
+    },
+    {
+      "title": "AI requires literature, not just code",
+      "summary": "Will Nepal’s new government live up to expectations?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/02/ai-requires-literature-not-just-code",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SPO-1775099021.jpg&w=400&height=267"
+    },
+    {
+      "title": "In ‘Tu Yaa Main’, class is the real antagonist",
+      "summary": "Last rites will be performed at Samjhighat near Bheri bridge on Thursday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/movie-review/2026/04/01/in-tu-yaa-main-class-is-the-real-antagonist",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/fifa-1775098643.jpg&w=400&height=267"
+    },
+    {
+      "title": "रूसका परराष्ट्रमन्त्रीद्वारा परराष्ट्रमन्त्री खनाललाई बधाई",
+      "summary": "ताप्लेजुङमा जिल्ला कारागारबाट दुई जना परीक्षार्थीले एसइई दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/two-people-in-taplejung-gave-see-from-prison-preparations-are-underway-to-check-the-answer-sheets-at-the-respective-centers-51-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775107948_see tp-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङले गरे पशुपतिनाथ मन्दिरको दर्शन",
+      "summary": "नेपाल सुनचाँदी व्यवसायी महासङ्घका अनुसार आज छापावाल सुनको मोल प्रतितोला रु दुई लाख ९४ हजार र त्यति नै परिमाणको सेतो धातुको मूल्य रु चार हजार ७८० कायम भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-and-silver-prices-fell-33-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1766985796_Gold silver price-480x320.jpg"
+    },
+    {
+      "title": "विभेद र प्रतिशोधको राजनीतिले बालेन नेतृत्वको सरकारको आयु लामो नहुने स्पष्ट देखिन्छ : बस्नेत",
+      "summary": "नियमित गस्तीमा रहेको प्रहरी टोलीले देशका विभिन्न भागबाट २८ जनालाई लागुऔषधसहित पक्राउ गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/28-people-arrested-from-various-places-with-drugs-br-32-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767659805_Pakrau-480x320.jpg"
     }
   ]
 }
