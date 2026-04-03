@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-03T03:17:27.953405",
+  "scraped_at": "2026-04-03T05:45:04.918650",
   "date": "2026-04-03",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/protest-by-stopping-vehicles-alleging-that-the-committee-has-been-abusing-private-vehicles-13-89.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Provincial inertia might go against Balendra Shah’s speedy delivery plan",
+      "summary": "It’s unclear how Prime Minister Balendra Shah will reach out to provincial governments led by traditional parties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/03/provincial-inertia-might-go-against-balendra-shah-s-speedy-delivery-plan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1775184175.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ugly wires still hang over Capital even after underground cabling completed",
+      "summary": "Electricity authority has completed underground cabling, but poor coordination with local units is delaying the connection to households.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/03/ugly-wires-still-hang-over-capital-even-after-underground-cabling-completed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/wirephoto-1775183544.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘Seto-Kalo’: Echoes from Yatana’s chamber",
+      "summary": "The government should uphold the principle that reparations are the right of victims.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/03/seto-kalo-echoes-from-yatana-s-chamber",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1775184175.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Mankala’ and the loneliness of becoming yourself",
+      "summary": "The US military “hasn’t even started destroying what’s left in Iran. Bridges next, then Electric Power Plants,” Trump wrote on social media late on Thursday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/02/mankala-and-the-loneliness-of-becoming-yourself",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/wirephoto-1775183544.jpg&w=400&height=267"
+    },
+    {
+      "title": "जेन-जी आन्दोलनका घाइतेसँग गृहमन्त्री",
+      "summary": "गृहमन्त्री सुधन गुरुङले जेनजी आन्दोलनका घाइतेलाई भेटेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-with-the-injured-of-the-gen-g-movement-br-12-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775194290_ghu lo 52-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङको कार्यालयमै सुतेको फोटो भाइरल: ‘जनताभन्दा माथि सरकार हुँदैन’",
+      "summary": "विश्व स्वास्थ्य संगठनको मापदण्ड अनुसार वायुमण्डलमा पिएम २.५ को स्तर वार्षिक सरदर ५ माइक्रोग्राम प्रतिघनमिटर तोकिएको छ। हावामा रहेका धुलोका सूक्ष्म कणहरूलाई पिएम २.५ भनिन्छ। कमलादेखि कञ्चनपुरसम्मको एयर क्वालिटी पिएम २.५ भन्दा कम छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-troubled-by-dust-and-haze-close-highways-chinese-company-s-negligence-makes-life-difficult-89-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775193535_Sadak Band-480x320.jpg"
     }
   ]
 }
