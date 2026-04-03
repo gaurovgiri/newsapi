@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-03T13:21:17.726339",
+  "scraped_at": "2026-04-03T16:52:17.701587",
   "date": "2026-04-03",
-  "total_articles": 53,
+  "total_articles": 60,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -430,6 +430,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/ban-on-broadcasting-of-government-advertisements-on-private-media-how-justified-81-85.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Diesel-run public vehicles are driving Kathmandu’s air pollution",
+      "summary": "Over 75 percent diesel vehicles have failed emission tests conducted by Kathmandu Metropolitan City.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/climate-environment/2026/04/03/diesel-run-public-vehicles-are-driving-kathmandu-s-air-pollution",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb34-1775229958.jpg&w=300&height=200"
+    },
+    {
+      "title": "Controversial businessman Bhatta linked to multiple irregularities",
+      "summary": "Police arrested him from Naxal on Thursday in a money laundering case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/03/controversial-businessman-bhatta-linked-to-multiple-irregularities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1775205654.jpg&w=300&height=200"
+    },
+    {
+      "title": "खाली ठाउँमा कर्मचारी पठाउन सरकारको ताकेता: तीन दिनभित्र विवरण पठाउन निर्देशन",
+      "summary": "लोपोन्मुख वन्यजन्तु रेडपाण्डाको संरक्षण गर्दै पर्यटन प्रवर्द्धन गर्ने उद्देश्यले इलामको सन्दकपुर गाउँपालिकामा आजदेखि तेस्रो संस्करणको ‘रेडपाण्डा महोत्सव’सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/red-panda-festival-begins-in-sandakpur-21-16.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775231440_Ilam-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिवालयको निर्णय: साइबर आक्रमणको निन्दा, विद्यार्थी संगठनमाथि प्रतिबन्धको विरोध",
+      "summary": "पोर्चुगल सरकारले काठमाडौंमा आफ्नो कन्सुलर कार्यालय खोल्ने घोषणा गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/portugal-to-open-consular-office-in-kathmandu-88-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775230757_Portugal-480x320.jpg"
+    },
+    {
+      "title": "संसदीय दलको नेता छान्न पार्टी नेतृत्वले दवाव दिएको थिएन: एमाले",
+      "summary": "स्वच्छ पानीको पहुँच अझै पनि भारतका कैयन् भागमा छैन र झन् गर्मीयाममा पानीको अभाव झन् खटकिन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/it-will-be-extremely-hot-in-india-this-year-what-will-be-the-price-of-water-95-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775230308_water -480x320.jpg"
+    },
+    {
+      "title": "एक सातामै ‘एक्सन मोड’मा सरकार: सुधारको संकेत कि लोकप्रियताको जोखिम ?",
+      "summary": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले स्थानीय तह र प्रदेश सरकार मातहतका सम्पूर्ण कार्यालयलाई तीन दिनभित्र स्वीकृत दरबन्दीको विवरण उपलब्ध गराउन निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-request-to-send-employees-to-vacant-positions-instructions-to-send-details-within-three-days-39-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775229626_Noticce-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहको प्रेस तथा अनुसन्धान विज्ञमा दिपा दाहाल नियुक्त",
+      "summary": "लोपोन्मुख वन्यजन्तु रेडपाण्डाको संरक्षण गर्दै पर्यटन प्रवर्द्धन गर्ने उद्देश्यले इलामको सन्दकपुर गाउँपालिकामा आजदेखि तेस्रो संस्करणको ‘रेडपाण्डा महोत्सव’सुरु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/red-panda-festival-begins-in-sandakpur-21-16.html?click_from=just_in",
       "image_url": ""
     }
   ]
