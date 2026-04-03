@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-03T05:45:04.918650",
+  "scraped_at": "2026-04-03T09:04:18.577716",
   "date": "2026-04-03",
-  "total_articles": 40,
+  "total_articles": 46,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -327,6 +327,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/locals-troubled-by-dust-and-haze-close-highways-chinese-company-s-negligence-makes-life-difficult-89-50.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775193535_Sadak Band-480x320.jpg"
+    },
+    {
+      "title": "Nepal hikes fuel prices for third time in a month",
+      "summary": "Petrol and diesel rise by Rs15 per litre; NOC cites global surge as losses remain high despite adjustments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/03/nepal-hikes-fuel-prices-for-third-time-in-a-month",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1775203682.jpg&w=300&height=200"
+    },
+    {
+      "title": "एमालेमा नेतृत्व फेर्न दबाब, युवाले दिए नेताहरूलाई फूल",
+      "summary": "युवा पुस्ताले रचनात्मक रुपमा नेतृत्वलाई पुस्तानान्तरणको सुझावसहितको दवाव दिएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pressure-to-change-leadership-in-uml-youth-give-flowers-to-leaders-47-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775206796_UML_Youth-480x320.jpg"
+    },
+    {
+      "title": "सभामुखमा अर्यालको एकल उम्मेदवारी",
+      "summary": "अहिले एफबीआई प्रमुख काश पटेल र नेशनल इन्टेलिजेन्स प्रमुख तुलसी गबार्डको पद पनि संकटमा रहेको चर्चा छ। पटेलमाथि सरकारी स्रोत र सुरक्षा टोलीको व्यक्तिगत दुरुपयोग गरेको आरोप छ। उता, गबार्डले इरान युद्ध र परमाणु क्षमताबारे ट्रम्पको दाबीको खण्डन गरेकी थिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/unexpected-reshuffle-in-trump-administration-top-officials-including-army-chief-and-attorney-general-removed-82-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775206162_Trump-480x320.jpg"
+    },
+    {
+      "title": "धुलो टक्टक्याउँदै उठ्न सक्छौँ : ईश्वर पोखरेल",
+      "summary": "सर्वोच्च अदालतमा संवैधानिक विवादको समयमै निरुपण, पारदर्शिता र जवाफदेहिताका लागि संवैधानिक इजलाससम्बन्धी ‘वेव पोर्टल’ प्रारम्भ गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-a-separate-web-portal-for-constitutional-courts-50-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775204688_sapana-480x320.jpg"
+    },
+    {
+      "title": "सभामुखका लागि रास्वपा उपसभापति अर्यालले दिए उम्मेदवारी",
+      "summary": "प्रतिनिधिसभा सभामुखका लागि राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का उपसभापति डोलप्रसाद अर्यालको एकल उम्मेदवारी परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/aryal-s-solo-candidacy-for-speaker-46-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773730031_DP Aryal-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीले जेन-जी आन्दोलनका घाइते भेटे",
+      "summary": "युवा पुस्ताले रचनात्मक रुपमा नेतृत्वलाई पुस्तानान्तरणको सुझावसहितको दवाव दिएका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/pressure-to-change-leadership-in-uml-youth-give-flowers-to-leaders-47-99.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
