@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-03T09:04:18.577716",
+  "scraped_at": "2026-04-03T13:21:17.726339",
   "date": "2026-04-03",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/pressure-to-change-leadership-in-uml-youth-give-flowers-to-leaders-47-99.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Unpaid dues push sugarcane farmers into distress",
+      "summary": "Indira Sugar Mill in Pratappur remains shut this season, leaving hundreds unpaid for two years.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/03/unpaid-dues-push-sugarcane-farmers-into-distress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ukhukisan103420261051561000x0-1775215526.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali bullion market sees sharp volatility in March",
+      "summary": "Gold reached monthly high of 328,600 on March 3 and low of Rs 273,900.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/03/nepali-bullion-market-sees-sharp-volatility-in-march",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/main-1775200693.jpg&w=600&height=400"
+    },
+    {
+      "title": "नवनिर्वाचित सभामुखकाे शपथ आइतबार",
+      "summary": "विज्ञापनको न्यायोचित वितरण र कार्यक्षमताका आधारमा ‘लोककल्याणकारी विज्ञापन’ मोडेल अवलम्बन गर्नु उपयुक्त विकल्प हुन सक्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/ban-on-broadcasting-of-government-advertisements-on-private-media-how-justified-81-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775220859_Kishor1-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई बहाना बनाउने छुट छैन: अर्थमन्त्री वाग्ले",
+      "summary": "सम्मेलन आगामी जुन २३-२४ मा आयरल्याण्डको डब्लिनमा आयोजना हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nrna-17th-european-gathering-in-third-week-of-june-foreign-minister-to-participate-75-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775220141_NRNA -Europe-480x320.jpg"
+    },
+    {
+      "title": "रेस्टुरेन्टको सामान्य मजदूरदेखि सभामुखसम्म: डीपी अर्याल",
+      "summary": "उनले नीतिको मस्यौदामाथि सरोकार पक्षहरूसँग बृहत् छलफल गरी दीर्घकालीन सोचका साथ अगाडि बढाउनुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/internal-discussions-begin-on-electricity-policy-98-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774771226_birajbhakta shrestha-480x320.jpg"
+    },
+    {
+      "title": "गण्डकी प्रदेशका सांसदसँगको छलफलमा प्रधानमन्त्री",
+      "summary": "कैलालीका किसानलाई यतिबेला गहुँबाली भित्र्याउन चटारो छ । अचेल गहुँ, मसुरोलगायत बाली भित्र्याउन यहाँका खेतबारी कृषकहरू व्यस्त देखिन्छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/farmers-are-in-a-hurry-to-bring-in-their-wheat-crop-74-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775219209_wheat-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक मूल सुध्रियो, अब हरेक संस्था सुध्रिने बेला आएको छः सञ्चारमन्त्री",
+      "summary": "विज्ञापनको न्यायोचित वितरण र कार्यक्षमताका आधारमा ‘लोककल्याणकारी विज्ञापन’ मोडेल अवलम्बन गर्नु उपयुक्त विकल्प हुन सक्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/ban-on-broadcasting-of-government-advertisements-on-private-media-how-justified-81-85.html?click_from=just_in",
       "image_url": ""
     }
   ]
