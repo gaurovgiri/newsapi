@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-04T13:13:28.818086",
+  "scraped_at": "2026-04-04T16:46:15.922718",
   "date": "2026-04-04",
-  "total_articles": 53,
+  "total_articles": 60,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -431,6 +431,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-thai-nationals-arrested-for-illegally-entering-india-from-sarlahi-38-27.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775304545_thai pakrau-480x320.jpg"
+    },
+    {
+      "title": "Six Nepalis injured in UAE discharged, one recovering",
+      "summary": "Seven Nepalese nationals were injured by falling debris in Abu Dhabi’s Al-Ajban area after UAE air defenses intercepted Iranian missiles.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/04/six-nepalis-injured-in-uae-discharged-one-recovering",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/uaehit02320260151351000x0104420261135351000x0-1775305034.jpg&w=300&height=200"
+    },
+    {
+      "title": "As part of government restructuring, foreign ministry wants three key departments under it",
+      "summary": "The responsibilities concerning foreign employment, foreign trade and foreign aid are currently being handled by other ministries.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/04/as-part-of-government-restructuring-foreign-ministry-wants-three-key-departments-under-it",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/foreignminister-1775318713.jpg&w=600&height=400"
+    },
+    {
+      "title": "ओली लेखक बन्दीप्रत्यक्षीकरण रिटको सुनुवाइ भोलि",
+      "summary": "पक्राउ गैरकानूनी भनेर दुवै जनाले चैत १५ गते सर्वोच्च अदालतमा बन्दीप्रत्यक्षीकरण रिट दायर गराएका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hearing-on-oli-lekhak-s-custodial-interrogation-writ-tomorrow-87-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774670606_Oli-Lekhak-480x320.jpg"
+    },
+    {
+      "title": "एमालेद्वारा सांसदलाई संसदीय अभ्यासबारे प्रशिक्षण",
+      "summary": "सिंहदरबारस्थित संसद् सचिवालयमा आज प्रतिनिधिसभा र राष्ट्रियसभाका सदस्यलाई प्रशिक्षण दिइएको सांसद ऐन महरले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-trains-mps-on-parliamentary-practices-57-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775036276_yemale-480x320.jpg"
+    },
+    {
+      "title": "मधेसमा ३.७० प्रतिशत मात्र हरियाली क्षेत्र, बढाउन आग्रह",
+      "summary": "मधेस प्रदेशका सभामुख रामअशिष यादवले मधेस प्रदेशमा तीन दशमलव ७० प्रतिशत मात्र हरियाली रहेकाप्रति दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/urge-to-increase-greenery-in-madhes-province-63-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765253782_Chure-480x320.jpg"
+    },
+    {
+      "title": "पीडित व्यापारीको ब्याज मिनाहा गर्न मुख्यमन्त्री बानियाँको माग",
+      "summary": "कलाकार दीपकराज गिरीले यस विषयमा प्रतिक्रिया दिँदा संयमता अपनाउन आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/let-s-raise-our-voices-for-justice-don-t-become-judges-ourselves-deepak-raj-giri-25-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770178577_Deepak-480x320.jpg"
+    },
+    {
+      "title": "चुनाव र परराष्ट्र नीति विषयमा राष्ट्रिय जनमोर्चाको छलफल",
+      "summary": "पक्राउ गैरकानूनी भनेर दुवै जनाले चैत १५ गते सर्वोच्च अदालतमा बन्दीप्रत्यक्षीकरण रिट दायर गराएका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hearing-on-oli-lekhak-s-custodial-interrogation-writ-tomorrow-87-67.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
