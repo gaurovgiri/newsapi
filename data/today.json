@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-04T08:52:54.045593",
+  "scraped_at": "2026-04-04T13:13:28.818086",
   "date": "2026-04-04",
-  "total_articles": 48,
+  "total_articles": 54,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -391,6 +391,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/technology/stunning-image-of-earth-from-artemis-2-released-81-70.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Balendra Shah renewed curiosity for Badimalika. But will he make it easily accessible?",
+      "summary": "Badimalika and Ramaroshan drew Balendra Shah’s attention as he toured Nepal’s far-west for election campaign.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/04/balendra-shah-renewed-curiosity-for-badimalika-but-will-he-make-it-easily-accessible",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/fina-1775281982.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali students to organise a first-ever Nepal summit at Harvard University",
+      "summary": "Pokhara metropolis begins demolition on Saturday following PM Shah’s directive. The apex court ruled on lake conservation seven years ago.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/02/nepali-students-to-organise-a-first-ever-nepal-summit-at-harvard-university",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sport-1775272602.jpg&w=400&height=267"
+    },
+    {
+      "title": "सेनालाई सीमा रक्षामा खटाउनुपर्छ, मन्त्रीको सुरक्षामा होइन: हर्क",
+      "summary": "प्रदेश सरकार मातहतमा रहेको भौतिक पूर्वाधार विकास कार्यालय खोटाङले सम्झौता भए पनि निर्माण कार्य नथाल्ने ठेकेदारलाई पत्राचार गरी ताकेता गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/infrastructure-office-issues-notice-to-contractors-who-do-not-perform-work-as-per-contract-nbsp-90-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775305526_khotang-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा ‘जरा अभियान’ सुरु, १५ औं महाधिवेशनमा भाग लिन कांग्रेस आईडी अनिवार्य",
+      "summary": "सदरमुकाम बेंसीसहरदेखि मर्स्याङ्दी गाउँपालिका-७ छिनखोलातर्फ जाँदै गरेको ग १ ज ६४७० नम्बरको जिप दुर्घटना भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-accident-in-lamjung-13-injured-24-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775305887_jeep _acc-480x320.jpg"
+    },
+    {
+      "title": "पेट्रोलियम पदार्थको मूल्यवृद्धिको विरोधमा प्रदर्शन",
+      "summary": "श्रम संकृति पार्टीका अध्यक्ष एवं प्रतिनिधि सभा सांसद हर्क साम्पाङले नेपाली सेनालाई मन्त्रीहरूको सुरक्षामा नभई देशको सीमा रक्षा र विपद् व्यवस्थापनमा खटाउनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/army-should-be-deployed-for-border-protection-not-for-minister-s-security-hark-98-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737462518_harka sampang 1-480x320.jpg"
+    },
+    {
+      "title": "पिएम कप : गण्डकीविरुद्ध जवाफी व्याटिङ गर्दै कोशी प्रदेश",
+      "summary": "नेपाल भारत सीमा क्षेत्र अन्तर्गत मलंगवा नगरपालिका–९ पिपलबोट सीमा क्षेत्रबाट सशस्त्र प्रहरी गस्ती टोलीले भारततर्फ जाँदै गरेका दुई जना थाइल्यान्डका नागरिकलाई नियन्त्रणमा लिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-thai-nationals-arrested-for-illegally-entering-india-from-sarlahi-38-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775304545_thai pakrau-480x320.jpg"
     }
   ]
 }
