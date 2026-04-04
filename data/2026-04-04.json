@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-04T05:24:01.093730",
+  "scraped_at": "2026-04-04T08:52:54.045593",
   "date": "2026-04-04",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -335,6 +335,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/preparations-for-the-10th-bhaktapur-industrial-festival-in-full-swing-38-44.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775278352_bkt-480x320.jpg"
+    },
+    {
+      "title": "Illegal structures on Phewa lakeside torn down",
+      "summary": "Pokhara metropolis begins demolition on Saturday following PM Shah’s directive. The apex court ruled on lake conservation seven years ago.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/04/illegal-structures-on-phewa-lakeside-torn-down",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thumb1-1775287465.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेस संसदीय दलको नेता चयन चैत २४ गते",
+      "summary": "अन्तरिक्ष यात्री क्रिस्टिना कोचका अनुसार यो सफलताको खबर सुन्दा चालक दलले खुसी व्यक्त गरे। मिसन विशेषज्ञ जेरेमी ह्यान्सेनले इन्जिन बर्नको काम सकिएपछि सबै सदस्य तस्बिर खिच्न ‘झ्यालमा टाँसिएको’ बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/stunning-image-of-earth-from-artemis-2-released-81-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775290816_NASA-480x320.jpg"
+    },
+    {
+      "title": "रवि लामिछाने र ज्ञानेन्द्र शाहीबिच भेटघाट",
+      "summary": "ताप्लेजुङको फुङलिङ नगरपालिका-३ का हेमसागर भट्टराईको कोठामा पाहुनाका रूपमा आएकी आचार्य खेल्ने क्रममा झ्यालबाट खसेकी थिइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-year-old-girl-dies-after-falling-from-three-floors-11-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "रविसँगको तस्बिर सेयर गर्दै ज्ञानेन्द्रले भने : विगतका दु:खहरूले हामीलाई कमजोर होइन, दृढ बनाएको छ",
+      "summary": "पश्चिमी भारतको महाराष्ट्रमा कार दुर्घटनामा ९ जनाको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/car-accident-in-india-9-dead-73-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775290521_car accident-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले देशभर क्रियाशील सदस्यता वितरणका लागि खटिने प्रतिनिधिलाई अभिमुखीकरण गर्ने",
+      "summary": "अर्जुननरसिंह केसी, भीष्मराज आङदेम्बे, मोहन आचार्य, भरतबहादुर खड्काले दलको नेतामा दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-parliamentary-party-leader-to-be-elected-on-chaitra-10-70-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767857745_Congress HQ-480x320.jpg"
+    },
+    {
+      "title": "अन्तर्राष्ट्रिय सम्बन्धलाई सुदृढ बनाउन सरकार क्रियाशील छः मन्त्री खनाल",
+      "summary": "अन्तरिक्ष यात्री क्रिस्टिना कोचका अनुसार यो सफलताको खबर सुन्दा चालक दलले खुसी व्यक्त गरे। मिसन विशेषज्ञ जेरेमी ह्यान्सेनले इन्जिन बर्नको काम सकिएपछि सबै सदस्य तस्बिर खिच्न ‘झ्यालमा टाँसिएको’ बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/stunning-image-of-earth-from-artemis-2-released-81-70.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
