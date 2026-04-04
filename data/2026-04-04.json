@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-04T02:49:53.577028",
+  "scraped_at": "2026-04-04T05:24:01.093730",
   "date": "2026-04-04",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/diaspora/twelve-injured-including-seven-nepalis-in-iranian-missile-debris-fall-in-uae-one-in-critical-condition-58-16.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "थन्किएका बस जिर्ण अवस्थामै चलाइदै, मर्मतलाई १ करोड चाहिने",
+      "summary": "थन्किएका बस जिर्ण अवस्थामै चलाइदै, मर्मतलाई १ करोड चाहिने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12628",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Bidhutiya-Bus--Sanchalan-1775100907.jpg"
+    },
+    {
+      "title": "I just wanted to make a damn good movie: Ramesh Sippy on ‘Sholay’",
+      "summary": "Fifty years after the blockbuster, Bollywood’s veteran director reflects on timeless storytelling, Nepali cinema, censorship, and debunks a popular cinema myth.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/interviews/2026/04/04/i-just-wanted-to-make-a-damn-good-movie-ramesh-sippy-on-sholay",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/use-1775278482.jpg&w=300&height=200"
+    },
+    {
+      "title": "West Asia conflict drives up Nepal’s trade costs, fuels inflation fears",
+      "summary": "Freight, fuel and insurance surge as import-dependent economy braces for 50 percent price rise across goods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/04/west-asia-conflict-drives-up-nepal-s-trade-costs-fuels-inflation-fears",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/truck-1775271839.jpg&w=300&height=200"
+    },
+    {
+      "title": "What home minister Sudan Gurung’s first week in office looked like",
+      "summary": "His early actions drew both praise and scrutiny as he appeared to be intervening in policing and administrative decisions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/03/new-home-minister-s-unconventional-approach-to-governance-raises-eyebrows",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sudhangurung30320261029351000x0-1775222839.jpg&w=300&height=200"
+    },
+    {
+      "title": "Flight disruptions slow repatriation of 38 Nepali bodies from Gulf",
+      "summary": "Nine bodies were brought Wednesday, and special flights on Friday and Sunday will bring more.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/04/flight-disruptions-slow-repatriation-of-38-nepali-bodies-from-gulf",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1775270283.jpg&w=600&height=400"
+    },
+    {
+      "title": "A village fading into silence",
+      "summary": "The government should uphold the principle that reparations are the right of victims.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/04/a-village-fading-into-silence",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sport-1775272602.jpg&w=400&height=267"
+    },
+    {
+      "title": "Art Kathmandu 2026 brings together Nepal’s diverse artistic heritage",
+      "summary": "Police detained the artist after a woman accused him of rape on social media.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/03/art-kathmandu-2026-brings-together-nepal-s-diverse-artistic-heritage",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/truck-1775271839.jpg&w=400&height=267"
+    },
+    {
+      "title": "मैले विगतदेखि उठाउँदै आएका मुद्दाहरूमा सरकारले कारबाही सुरु गरेकामा खुसी छु : सांसद सिंह",
+      "summary": "नयाँ वर्ष २०८३ तथा विस्काः जात्राको अवसर पारेर आयोजना गरिएको ‘दशौँ भक्तपुर औद्योगिक, सांस्कृतिक, पर्यटन, कृषि तथा व्यापार महोत्सव’को तयारी तीव्र पारिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/preparations-for-the-10th-bhaktapur-industrial-festival-in-full-swing-38-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775278352_bkt-480x320.jpg"
     }
   ]
 }
