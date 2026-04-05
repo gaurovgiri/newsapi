@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-05T03:27:29.357730",
+  "scraped_at": "2026-04-05T05:48:36.685917",
   "date": "2026-04-05",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/reconstruction-of-the-statue-of-the-ancient-poet-bhanubhakta-64-54.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "निक विवादका मुद्दा टुंगो लगाउन संवैधानिक इजलास पोर्टल शुरुवात",
+      "summary": "निक विवादका मुद्दा टुंगो लगाउन संवैधानिक इजलास पोर्टल शुरुवात",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12643",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Nyayapalika_-1775270579.jpg"
+    },
+    {
+      "title": "Bheri bridge project stalls for years, leaving key highway link incomplete",
+      "summary": "Failed contracts and rejected bids keep Rukum West–Jajarkot connection stranded as locals rely on suspension bridge.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/04/05/bheri-bridge-project-stalls-for-years-leaving-key-highway-link-incomplete",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bheri-1775365684.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police, machines deployed to reclaim Phewa Lake territory",
+      "summary": "On Saturday morning those living by the lake woke up to the clatter of excavators deployed to remove structures built on lake land.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/gandaki-province/2026/04/05/police-machines-deployed-to-reclaim-phewa-lake-territory",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Swimmibgpool-1775349920.jpg&w=300&height=200"
+    },
+    {
+      "title": "लुम्बिनी प्रदेश सभाको बैठक बस्दै",
+      "summary": "अर्कोतर्फ, इरानी सेनाले आफ्नो देशले विमानमाथि आक्रमण गर्न स्वदेशी रूपमा उत्पादित नयाँ हवाई-रक्षा प्रणाली प्रयोग गरिरहेको जानकारी दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/another-us-pilot-trapped-in-iran-rescued-trump-confirms-we-got-him-60-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775027182_Trump-480x320.jpg"
     }
   ]
 }
