@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-05T08:54:49.080271",
+  "scraped_at": "2026-04-05T13:14:52.138786",
   "date": "2026-04-05",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-must-now-rise-above-the-boundaries-of-party-and-opposition-minister-gautam-83-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "युवाले आन्दोलन गर्न नपर्ने गरी कानुन र नीति बनाउन ध्यान दिन्छुः सभामुख अर्याल",
+      "summary": "पचालझरना गाउँपालिका उपाध्यक्ष अल्किना बमका अनुसार चरम लापरबाहीका कारण पुल निर्माण अलपत्र परेको बताइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarkot-bridge-is-in-limbo-only-21-percent-of-the-bridge-which-should-have-been-built-three-and-a-half-years-ago-is-under-construction-87-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1775394816_Jarkot Pool-480x320-wm.jpg"
+    },
+    {
+      "title": "नवनियुक्त महान्याधिवक्ता डा. कँडेलले लिए शपथ",
+      "summary": "पोखरा महानगरपालिका-६ स्थित फेवातालमा अचानक आएको हावाहुरीका कारण बीच तालमा फसेका ११ जनालाई सशस्त्र प्रहरीले सकुशल उद्धार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-46-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775394673_fewa-480x320.jpg"
+    },
+    {
+      "title": "पूर्व गृहमन्त्री लेखकको बन्दीप्रत्यक्षीकरण रिट हेर्दाहेर्दैमा",
+      "summary": "नेपाल उद्योग वाणिज्य महासंघका अध्यक्ष चन्द्रप्रसाद ढकालले उद्योग वाणिज्य महासंघको प्रदेश र संघका पदाधिकारी सर्वसम्मत चयन गर्न आग्रह गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/chairman-dhakal-urges-for-unanimous-leadership-selection-66-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775394368_cnfj-480x320.jpg"
+    },
+    {
+      "title": "पूर्वप्रधानमन्त्री ओलीको बन्दीप्रत्यक्षीकरण रिट हेर्दाहेर्दैमा",
+      "summary": "सशस्त्र प्रहरी महानिरीक्षक राजु अर्यालले उत्कृष्ट कार्य गर्ने निर्वाचन प्रहरी, समुदायस्तरका विपद् स्वयंसेवक तथा विपद् सूचकलाई सम्मान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/outstanding-election-police-and-disaster-volunteers-honored-30-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775393301_Raju-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्याललाई सभापति लामिछानेको बधाई",
+      "summary": "पचालझरना गाउँपालिका उपाध्यक्ष अल्किना बमका अनुसार चरम लापरबाहीका कारण पुल निर्माण अलपत्र परेको बताइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarkot-bridge-is-in-limbo-only-21-percent-of-the-bridge-which-should-have-been-built-three-and-a-half-years-ago-is-under-construction-87-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
