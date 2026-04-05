@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-05T05:48:36.685917",
+  "scraped_at": "2026-04-05T08:54:49.080271",
   "date": "2026-04-05",
-  "total_articles": 38,
+  "total_articles": 46,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -311,6 +311,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/another-us-pilot-trapped-in-iran-rescued-trump-confirms-we-got-him-60-58.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775027182_Trump-480x320.jpg"
+    },
+    {
+      "title": "Police detain Shanker Group vice-chair Sulav Agrawal",
+      "summary": "Investigation linked to Deepak Bhatta expands to one of Nepal’s largest conglomerates, raising questions over financial transactions, political access and regulatory influence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/05/police-detain-shanker-group-vice-chair-sulav-agrawal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shulavagrawal04420260608061000x0-1775370354.png&w=300&height=200"
+    },
+    {
+      "title": "DP Aryal elected Speaker unopposed",
+      "summary": "First non-communist Speaker in 18 years takes office as parties turn to deputy Speaker race.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/05/dp-aryal-elected-speaker-unopposed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/66312242820066103735910091059790952793622431n-1775369499.jpg&w=300&height=200"
+    },
+    {
+      "title": "Could Arjun Kumal be the next big thing in Nepali cricket?",
+      "summary": "Kumal, perhaps the most consistent Nepali batter of late, smashed a century on Saturday and became the fastest to reach 1,000 runs in the tournament. He now awaits a senior national team debut.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/04/05/could-arjun-kumal-be-the-next-big-thing-in-nepali-cricket",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Kumal-1775351122.jpg&w=300&height=200"
+    },
+    {
+      "title": "संसद् अब पक्ष र विपक्षको सीमाभन्दा माथि उठ्नैपर्छ: मन्त्री गौतम",
+      "summary": "मन्त्री गौतमले संसदले जनताको मुद्दामा केन्द्रित भएर परिणाममुखी काम गर्नुपर्ने बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-must-now-rise-above-the-boundaries-of-party-and-opposition-minister-gautam-83-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775377879_Sovita_Gautam-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा बैठकः सुशासन, पारदर्शिता र भ्रष्टाचार नियन्त्रणमा जोड",
+      "summary": "गत फागुन अन्तिम सातादेखि ‘क्यामेरा ट्र्यापिङ’ विधिबाट सुरु गरिएको राष्ट्रिय बाघ गणनाको फिल्डको काम सकिएर क्यामेरा सङ्कलन भइरहेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/tiger-census-completed-in-shuklaphanta-40-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768527908_Tiger-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा उपाध्यक्षमा एमालेबाट भण्डारीलाई अगाडि बढाउने निर्णय",
+      "summary": "राष्ट्रियसभाको आइतबारको बैठकमा नवगठित सरकारले सुशासन, पारदर्शिता र भ्रष्टाचार नियन्त्रणमा विशेष जोड दिइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-assembly-meeting-emphasis-on-good-governance-transparency-and-corruption-control-71-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775377375_rastriyasabha-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद बैठक सुरु",
+      "summary": "‘जुम्लामा खेलकुदका यस्ता नियमित गतिविधि कम छन्। युवालाई सकारात्मक दिशातर्फ उन्मुख गराउन र आपसी सद्भाव बढाउन प्रतियोगिता महत्त्वपूर्ण हुनेछ,’ उनले भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/first-swu-cup-volleyball-to-be-held-in-jumla-71-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775377198_Jumla-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभाको बैठक चैत २३ गते बस्ने",
+      "summary": "मन्त्री गौतमले संसदले जनताको मुद्दामा केन्द्रित भएर परिणाममुखी काम गर्नुपर्ने बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-must-now-rise-above-the-boundaries-of-party-and-opposition-minister-gautam-83-86.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
