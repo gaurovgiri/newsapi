@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-05T13:14:52.138786",
+  "scraped_at": "2026-04-05T16:47:37.688135",
   "date": "2026-04-05",
-  "total_articles": 51,
+  "total_articles": 57,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jarkot-bridge-is-in-limbo-only-21-percent-of-the-bridge-which-should-have-been-built-three-and-a-half-years-ago-is-under-construction-87-43.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government announces two-day weekend amid fuel crisis",
+      "summary": "Offices to operate from 9 am to 5 pm as Cabinet moves to ease pressure from petroleum supply disruptions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/05/government-announces-two-day-weekend-amid-fuel-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/cabinet05420260949221000x0-1775384028.jpg&w=300&height=200"
+    },
+    {
+      "title": "दलहरुबीच सहमति जुटाउन संसद सचिवालयले बोलायो सर्वदलीय बैठक",
+      "summary": "उनले जलसन्धि नखोलिए इरानको अवस्था नर्कजस्तै बनाइदिने चेतावनी दिएका हुन्। साथै, उनले इरानका पावर प्लान्ट र पुलहरूमा आक्रमण गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-to-turn-iran-into-hell-if-it-doesn-t-open-the-strait-of-hormuz-19-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775406020_trump-480x320.jpg"
+    },
+    {
+      "title": "जलवायु परिवर्तनका चुनौतीलाई अवसरमा परिणत गराैं: मन्त्री चौधरी",
+      "summary": "इन्डियन प्रिमियर लिग (आईपीएल) २०२६ अन्तर्गत आइतबार जारी खेलमा रोयल च्यालेन्जर्स बेंगलुरु (आरसीबी) ले चेन्नई सुपर किंग्स (सीएसके) विरुद्ध विशाल योगफल तयार गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/bengaluru-s-huge-total-chennai-challenge-251-runs-57-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775405161_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "शैक्षिक सत्र सुरु हुनअघि मनपरि शुल्क असुल्नेलाई कारबाही हुने",
+      "summary": "दलहरुबीच सहमति जुटाउन संसद सचिवालयले सर्वदलीय बैठक डाकेको छ । बैठक सोमबार (भोलि) बिहान ११ बजे बस्नेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/parliament-secretariat-calls-all-party-meeting-to-reach-consensus-among-parties-33-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775138166_Samsad -480x320.jpg"
+    },
+    {
+      "title": "सेवामा कुनै विभेद नगर्न मातहतका निकायलाई निर्देशन",
+      "summary": "कृषि तथा पशुपन्छी विकास, वन तथा वातावरणमन्त्री गीता चौधरीले जलवायु परिवर्तनका चुनौतीलाई अवसरमा परिणत गर्दै दिगो विकासतर्फ अगाडि बढ्न सबै एकजुट हुनुपर्ने बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-turn-the-challenges-of-climate-change-into-opportunities-and-move-forward-24-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775404874_gita-480x320.jpg"
+    },
+    {
+      "title": "धनगढीमा आयुर्वेदिक उपचार लिनेको सङ्ख्या बढ्दै",
+      "summary": "उनले जलसन्धि नखोलिए इरानको अवस्था नर्कजस्तै बनाइदिने चेतावनी दिएका हुन्। साथै, उनले इरानका पावर प्लान्ट र पुलहरूमा आक्रमण गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-to-turn-iran-into-hell-if-it-doesn-t-open-the-strait-of-hormuz-19-30.html?click_from=just_in",
       "image_url": ""
     }
   ]
