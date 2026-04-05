@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-05T16:47:37.688135",
+  "scraped_at": "2026-04-05T20:43:14.558939",
   "date": "2026-04-05",
-  "total_articles": 56,
+  "total_articles": 57,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -455,6 +455,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/trump-threatens-to-turn-iran-into-hell-if-it-doesn-t-open-the-strait-of-hormuz-19-30.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Mother of two returns from Kuwait in casket",
+      "summary": "33-year-old Yamuna Sunar had gone to the Gulf kingdom to give her daughters a better future.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/05/mother-of-two-returns-from-kuwait-in-casket",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/yamunasunar05420261128491000x0-1775408228.jpg&w=300&height=200"
     }
   ]
 }
