@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-06T06:03:26.359978",
+  "scraped_at": "2026-04-06T09:17:57.178294",
   "date": "2026-04-06",
-  "total_articles": 38,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -311,6 +311,46 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/money/2026/04/06/ev-demand-in-nepal-is-growing-but-so-is-cost",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/nadaautoshowphoto08232025BT5A3003copy-1775435816.jpg&w=600&height=400"
+    },
+    {
+      "title": "सदनमा सभामुखको प्रतिवद्धता: पाँच वर्षको यो जिम्मेवारी अधिकार मात्र होइन् उत्तरदायित्व पनि",
+      "summary": "सभामुख डोलप्रसाद अर्यालले जेनजी आन्दोलनमा भएको त्याग, बलिदान र संघर्षकै परिणामस्वरूप वर्तमान परिवर्तन भएको उल्लेख गर्दै त्यसको सम्मान गर्दै जिम्मेवारी पूरा गर्नुपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-s-commitment-to-the-house-this-five-year-term-is-not-only-a-right-but-also-a-responsibility-26-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775466695_DP_Aryal_Speeker-480x320.jpg"
+    },
+    {
+      "title": "सदनमा खगेन्द्रले गरे रविको तारिफ: सम्झाए नवराज विक हत्याको घटना",
+      "summary": "खगेन्द्र सुनारले रुकुम पश्चिमको सोती घटनालाई संसदमा उठाउँदै दलित समुदायमाथि भइरहेका अत्याचारप्रति गम्भीर चिन्ता व्यक्त गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/khagendra-praised-ravi-in-the-house-reminded-about-the-incident-of-nawaraj-bk-s-murder-39-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775465621_Khagendra_Sunar-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको मत एआई होइन, जनताको पुनर्जागरण हो : निशा डाँगी",
+      "summary": "पशु सेवा विभागका महानिर्देशक डा उमेश दाहालले चैतमा मात्र २३ ठाउँमा बर्ड फ्लू रोग देखिएको बताए । यसअघि चैत अगाडि यस वर्ष बर्ड फ्लू देखिएको थिएन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bird-flu-detected-in-23-locations-across-the-country-62-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774226960_Bird Flu-480x320.jpg"
+    },
+    {
+      "title": "विगतमा भएका परिवर्तनको मूल्याङ्कन हुनुपर्छः रामकुमारी झाँक्री",
+      "summary": "डाँगीले रास्वपाले पाएको मत केवल अंकगणितीय परिणाम नभई जनचेतनाको पुनर्जागरणबाट जन्मिएको बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-rsvp-s-vote-is-not-ai-it-is-the-renaissance-of-the-people-nisha-dangi-21-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775464572_Nisha-480x320.jpg"
+    },
+    {
+      "title": "सरकारले स्वीकार गरेको ऋणमा सांसद खुश्बु ओलीको प्रश्न: यो ‘अफर्ड कि रिक्वेस्टेड’ लोन ?",
+      "summary": "सभामुख डोलप्रसाद अर्यालले जेनजी आन्दोलनमा भएको त्याग, बलिदान र संघर्षकै परिणामस्वरूप वर्तमान परिवर्तन भएको उल्लेख गर्दै त्यसको सम्मान गर्दै जिम्मेवारी पूरा गर्नुपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-s-commitment-to-the-house-this-five-year-term-is-not-only-a-right-but-also-a-responsibility-26-55.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
