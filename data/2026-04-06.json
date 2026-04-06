@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-06T03:30:17.796610",
+  "scraped_at": "2026-04-06T06:03:26.359978",
   "date": "2026-04-06",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/raut-re-elected-as-president-of-federation-of-nepalese-chambers-of-commerce-and-industry-koshi-province-66-51.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "नम्बर सार्वजनिक गर्छ, प्रहरी पीडितको कुरा सुन्न तयार हुन्न",
+      "summary": "नम्बर सार्वजनिक गर्छ, प्रहरी पीडितको कुरा सुन्न तयार हुन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12658",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Piditlai-Jhan-Pida-1775446859.jpg"
+    },
+    {
+      "title": "नीको मुहार फेरिदैं, जुट्यो अर्बौ रुपैयाँ रकम",
+      "summary": "नीको मुहार फेरिदैं, जुट्यो अर्बौ रुपैयाँ रकम",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12657",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Greter-Lumbini---1775446551.jpg"
+    },
+    {
+      "title": "लमा चल्यो प्रहरीको ‘सेफ्टी अपरेसन’",
+      "summary": "लमा चल्यो प्रहरीको ‘सेफ्टी अपरेसन’",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12647",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Operation-saftey--1775359992.jpg"
+    },
+    {
+      "title": "Home Minister Gurung claims deception in Phewa Lake land lease. Landowner disputes claim",
+      "summary": "Authorities say structures linked to Gurung fall within a protected zone, while he claims he was misled about the land’s location and plans to seek legal remedy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/gandaki-province/2026/04/06/home-minister-gurung-faces-scrutiny-over-unpaid-land-rent-near-phewa-lake",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/46a8ec1c307c47a6bb592f84da7cc51105420260609161000x0-1775441746.jpg&w=300&height=200"
+    },
+    {
+      "title": "EV demand in Nepal is growing but so is cost",
+      "summary": "Rising fuel prices and supply uncertainty drive surge in bookings, while higher freight costs and dollar strength push EV prices up.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/06/ev-demand-in-nepal-is-growing-but-so-is-cost",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/nadaautoshowphoto08232025BT5A3003copy-1775435816.jpg&w=600&height=400"
     }
   ]
 }
