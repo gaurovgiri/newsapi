@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-06T13:27:01.029350",
+  "scraped_at": "2026-04-06T16:58:20.733766",
   "date": "2026-04-06",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -406,6 +406,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/new-debate-on-good-governance-reforms-discussion-on-karki-commission-report-and-government-s-100-point-agenda-26-97.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "State-owned Hetauda Cement industry nears closure amid deepening financial crisis",
+      "summary": "Shortage of raw materials, ageing equipment and mounting liabilities push the industry to the brink, with operations likely to halt within days.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/06/state-owned-hetauda-cement-industry-nears-closure-amid-deepening-financial-crisis",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HetaudaCement-1775481426.jpg&w=300&height=200"
+    },
+    {
+      "title": "UML’s Bhandari elected unopposed as National Assembly vice chair",
+      "summary": "Bhandari secures unanimous backing from major parties in the upper house.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/06/uml-s-bhandari-elected-unopposed-as-national-assembly-vice-chair",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/lilabhandari06420261048261000x0-1775470691.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bird flu outbreaks confirmed in 23 farms across four districts",
+      "summary": "Department of Livestock Services identifies poor biosecurity and contact with wild birds as key causes behind the spread of the H5N1 virus.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/06/bird-flu-outbreaks-confirmed-in-23-farms-across-four-districts",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/kukhura11106420261203031000x0-1775483256.jpg&w=600&height=400"
+    },
+    {
+      "title": "विशिष्ट पदाधिकारी तथा कर्मचारीको इन्धन सुविधामा कटौती",
+      "summary": "अर्थ मन्त्रालयले सरकारी कर्मचारी तथा पदाधिकारीले पाउँदै आएको इन्धन सुविधामा कटौती गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/reduction-in-fuel-allowance-for-distinguished-officials-and-employees-46-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775483573_swarnim-480x320.jpg"
+    },
+    {
+      "title": "पर्यटन क्षेत्रको गुणस्तर बढाउन सबैको प्रतिबद्धता आवश्यक: पर्यटनमन्त्री",
+      "summary": "पश्चिमी न्यून चापिय प्रणाली र स्थानीय वायुको प्रभावका कारण आज काठमाडौं उपत्यकासहित देशका विभिन्न क्षेत्रमा वर्षा भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rain-in-various-parts-of-the-country-including-kathmandu-78-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774086715_rain-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री लक्षित गर्दै सूर्य थापाले भने-फेवाताल अतिक्रमणकारी",
+      "summary": "बागमती प्रदेश सरकारले पूर्वाधार विकास कार्यालयमार्फत ती पुल निर्माणका लागि ठेक्का आह्वान गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/seven-new-concrete-bridge-projects-in-kavre-12-under-construction-70-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775491922_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनीका सांसदहरूसँग प्रधानमन्त्रीको २ घण्टा, यी विषयमा भयो छलफल",
+      "summary": "संस्कृति, पर्यटन तथा नागरिक उड्डयनमन्त्री खड्गराज पौडेलले पर्यटन क्षेत्रमा सुधार आवश्यक रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/tourism-sector-needs-reform-tourism-minister-12-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775491637_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेशको वनमन्त्रीमा भट्ट",
+      "summary": "अर्थ मन्त्रालयले सरकारी कर्मचारी तथा पदाधिकारीले पाउँदै आएको इन्धन सुविधामा कटौती गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/reduction-in-fuel-allowance-for-distinguished-officials-and-employees-46-56.html?click_from=just_in",
       "image_url": ""
     }
   ]
