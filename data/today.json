@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-06T09:17:57.178294",
+  "scraped_at": "2026-04-06T13:27:01.029350",
   "date": "2026-04-06",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-s-commitment-to-the-house-this-five-year-term-is-not-only-a-right-but-also-a-responsibility-26-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "When dissent invites digital lynching. Is Nepali social media growing hostile to differing views?",
+      "summary": "Sociologists say increasing online attacks are creating a chilling effect in society, leading people to self-censorship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/06/when-dissent-invites-digital-lynching-is-nepali-social-media-growing-hostile-to-differing-views",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MAIN-1775467241.jpg&w=300&height=200"
+    },
+    {
+      "title": "Market rebounds with over 83 gain",
+      "summary": "Index fell over 190 points since formation of new government, including a 105-point drop in single day.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/06/market-rebounds-with-over-83-gain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/thumb-1775476574.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुशासन सुधारमा नयाँ बहस: कार्की आयोग प्रतिवेदन र सरकारको १०० बुँदे एजेन्डामाथि छलफल",
+      "summary": "सार्वजनिक सेवा प्रवाहमा पारदर्शिता, उत्तरदायित्व र सुशासन सुनिश्चित गर्नुपर्ने एक कार्यक्रमका वक्ताले बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-debate-on-good-governance-reforms-discussion-on-karki-commission-report-and-government-s-100-point-agenda-26-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775481568_NGO-480x320.jpg"
+    },
+    {
+      "title": "जेन-जी शहीदलाई श्रद्धाञ्जली दिन पुगे गृहमन्त्री गुरुङ",
+      "summary": "युरोपेली सङ्घका प्रमुख एन्टोनियो कोस्टाले युद्धका क्रममा नागरिक पूर्वाधार र प्रतिष्ठानहरूमा आक्रमण गर्नु गैरकानुनी भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/targeting-attacks-on-civilians-against-the-law-81-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774185017_israel iran attack-480x320.jpg"
+    },
+    {
+      "title": "ओली र लेखकको बन्दी प्रत्यक्षीकरण रिटमा सुनुवाइ सकियो",
+      "summary": "बाख्रालाई घाँस काट्न भनी यही चैत १९ गते घरबाट जङ्गल गएका एक जना सोमबार मृत फेला परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/can-decides-to-renew-the-contract-for-the-tribhuvan-university-cricket-ground-56-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "मध्यपूर्वमा रहेका ८८ हजार नेपालीको तथ्यांक संकलन: परराष्ट्रमन्त्री",
+      "summary": "शहीदका परिवारसँग उनले जेन-जी शहीदको बलिदानी खेर जान नदिने र शहीदका सपना पूरा गर्ने प्रतिवद्धता जनाएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-arrives-to-pay-tribute-to-gen-g-martyrs-18-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775480034_Sudan-480x320.jpg"
+    },
+    {
+      "title": "साइबर बुलिङविरुद्ध रामकुमारी झाँक्री साइबर ब्युरोमा",
+      "summary": "सार्वजनिक सेवा प्रवाहमा पारदर्शिता, उत्तरदायित्व र सुशासन सुनिश्चित गर्नुपर्ने एक कार्यक्रमका वक्ताले बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/new-debate-on-good-governance-reforms-discussion-on-karki-commission-report-and-government-s-100-point-agenda-26-97.html?click_from=just_in",
       "image_url": ""
     }
   ]
