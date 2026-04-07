@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-07T05:50:29.496866",
+  "scraped_at": "2026-04-07T09:14:19.103236",
   "date": "2026-04-07",
-  "total_articles": 35,
+  "total_articles": 41,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -287,6 +287,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rainfall-in-chaitra-expected-to-increase-potato-production-31-23.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775538868_aalu-480x320.jpg"
+    },
+    {
+      "title": "Ruling party apologises to Dalits for historical injustice. But communities demand real change",
+      "summary": "The government had promised to deliver a formal apology within 15 days of assuming office, alongside reform programmes for social justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/07/ruling-party-apologises-to-dalits-for-historical-injustice-but-communities-demand-real-change",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dalit-1775520848.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रतिनिधि सभा बैठक बुधबार दिउँसो १ बजे बस्ने",
+      "summary": "सभामुख डोलप्रसाद अर्यालले भोलि (बुधबार) दिउँसो १ बजेसम्मका लागि बैठक स्थगित गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-house-of-representatives-will-meet-at-1-p-m-on-wednesday-95-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774248725_Samsad-480x320.jpg"
+    },
+    {
+      "title": "इन्धन पैठारीमा लाग्दै आएको भन्सार महसुलमा ५० प्रतिशत छुट दिने निर्णय",
+      "summary": "परराष्ट्र मन्त्रालयका अनुसार आज (मंगलबार)शिष्टाचार भेट भएको हो। भेटका क्रममा राजदूतले चिनियाँ परराष्ट्रमन्त्री वाङ यीको तर्फबाट खनाललाई पदभार ग्रहण गरेकोमा शुभकामना सन्देश सुनाएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/foreign-minister-khanal-meets-with-chinese-ambassador-mao-ming-93-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775551726_Khanal China-480x320.jpg"
+    },
+    {
+      "title": "सवारी साधनमा जोर-बिजोर प्रणाली लागू गर्ने सरकारको संकेत",
+      "summary": "आज (मंगलबार)को मन्त्रिपरिषद् बैठकले पेट्रोल, डिजेल र मट्टितेलको पैठारीमा लाग्दै आएको भन्सार महसुल र पूर्वाधार विकास करमा ५० प्रतिशत छुट दिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/decision-to-provide-50-percent-discount-on-customs-duty-on-fuel-imports-43-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771743044_Petrol-480x320.jpg"
+    },
+    {
+      "title": "मंगलबारको मन्त्रिपरिषद बैठककाे निर्णय के-के हुन् ?",
+      "summary": "भारतीय अदालतले कोभिड माहामारीको समयमा हिरासतमा लिएका दुई जनाको हत्या गरेको आरोपमा नौ जना प्रहरीलाई मृत्युदण्डको सजाय सुनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/nine-police-officers-sentenced-to-death-in-india-10-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775550457_New Project-480x320.jpg"
+    },
+    {
+      "title": "फाप्ला क्रिकेट मैदान निर्माण हुन्छ : मन्त्री पोखरेल",
+      "summary": "सभामुख डोलप्रसाद अर्यालले भोलि (बुधबार) दिउँसो १ बजेसम्मका लागि बैठक स्थगित गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-house-of-representatives-will-meet-at-1-p-m-on-wednesday-95-54.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
