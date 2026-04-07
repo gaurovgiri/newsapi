@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-07T09:14:19.103236",
+  "scraped_at": "2026-04-07T13:49:28.483217",
   "date": "2026-04-07",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/the-house-of-representatives-will-meet-at-1-p-m-on-wednesday-95-54.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Cabinet appoints Bhatta planning commission vice-chair, makes other decisions",
+      "summary": "The government could impose odd and even number rules for vehicles if the fuel price continues to soar.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/07/cabinet-appoints-bhatta-planning-commission-vice-chair-makes-other-decisions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/eduminister-1775566518.jpg&w=300&height=200"
+    },
+    {
+      "title": "Women farmers: The heartbeat of Nepal’s food systems",
+      "summary": "The government had promised to deliver a formal apology within 15 days of assuming office, alongside reform programmes for social justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/07/women-farmers-the-heartbeat-of-nepal-s-food-systems",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/photoshutterstock-1775568469.jpg&w=400&height=267"
+    },
+    {
+      "title": "रोशीका अवैध क्रसर तुरुन्त बन्द गर्न गृहमन्त्री गुरुङकाे निर्देशन",
+      "summary": "भदौ २२ देखि यही चैत २० गतेसम्म भ्रमणका लागि पुगेका पर्यटकमध्ये छ पुरुषसहित एक महिलको मृत्यु भएको जिल्ला प्रहरी कार्यालय मुस्ताङले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/seven-people-including-four-foreigners-die-in-eight-months-after-falling-ill-34-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756729847_death-480x320.jpg"
+    },
+    {
+      "title": "जनताको समस्या बुझ्न नियमित अन्तरक्रिया गर्न बिजुक्छेंकाे निर्देशन",
+      "summary": "मंगलबार बसेको मन्त्रिपरिषद बैठकले पेट्रोलियम पदार्थमा लाग्दै आएको करमध्ये पूर्वाधार र भन्सार महसुलमा ५० प्रतिशत छुट दिने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/since-when-is-tax-exemption-on-petroleum-products-55-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775569135_oil-480x320.jpg"
+    },
+    {
+      "title": "प्रतिशोध र पूर्वाग्रह राखेर काम नगर्न सरकारलाई एमाले सांसदकाे सुझाव",
+      "summary": "अमेरिकाले इरानको खार्ग टापु स्थित सैन्य ठेगानाहरूमा आक्रमण गरेको छ। तर, रातिको समयमा गरिएको आक्रमणमा इरानको तेल पूर्वाधारलाई भने निसाना नबनाइएको अमेरिकी अधिकारीहरूले बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-attacks-military-targets-on-iran-s-kharg-island-31-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775567846_kharg-480x320.jpg"
+    },
+    {
+      "title": "पाँच वर्षभित्र हरेक क्षेत्रमा सुधार हुन्छः मन्त्री पोखरेल",
+      "summary": "पहिलेका राजनीतिक दलहरूले ठेक्कापट्टामा सेटिङ मिलाएर अवैध रुपमा सञ्चालन गर्न दिएको र अब यस्तो गतिविधि गर्न आफूले रोक्ने उनले स्पष्ट पारे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-gurung-directs-to-immediately-close-illegal-crushers-in-roshi-41-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775566863_Sudhan gurung-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा : नवनियुक्त उपाध्यक्ष भण्डारीद्वारा पदभार ग्रहण",
+      "summary": "भदौ २२ देखि यही चैत २० गतेसम्म भ्रमणका लागि पुगेका पर्यटकमध्ये छ पुरुषसहित एक महिलको मृत्यु भएको जिल्ला प्रहरी कार्यालय मुस्ताङले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/seven-people-including-four-foreigners-die-in-eight-months-after-falling-ill-34-38.html?click_from=just_in",
       "image_url": ""
     }
   ]
