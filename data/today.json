@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-07T03:20:35.070386",
+  "scraped_at": "2026-04-07T05:50:29.496866",
   "date": "2026-04-07",
-  "total_articles": 34,
+  "total_articles": 36,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/two-indian-drug-traffickers-arrested-45-73.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "मन्त्रिपरिषद्को बैठक बस्दै",
+      "summary": "व्यवसायीहरूले खरिदमा कर तिर्छन्, बिक्रीमा कर असुल गर्छन्। बिक्रीमा असुल गरेको करबाट खरिदमा तिरेको कर कटाएर बाँकी रहेको रकम मात्र सरकारलाई बुझाउँछन्। यदि खरिदमा तिरेको कर बिक्रीमा असुलेको करभन्दा बढी भएमा सो अतिरिक्त रकम करदाताले फिर्ता पाउँछन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/value-addition-tax-89-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775539429_Tax-480x320.jpg"
+    },
+    {
+      "title": "सरकारले भारतसहित ६ देशका राजदूत फिर्ता बोलायो",
+      "summary": "विगत चार वर्षदेखि माथिल्लो क्षेत्रमा मात्र सीमित हिमपात यसपटक गाउँ आसपाससम्म देखिनु सकारात्मक रहेको स्थानीयको भनाइ छ । हाल आलुबाली गोडमेल गरी दाना लाग्ने चरणमा छ । यही समयमा परेको वर्षाले बोटलाई आवश्यक चिस्यान प्रदान गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rainfall-in-chaitra-expected-to-increase-potato-production-31-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775538868_aalu-480x320.jpg"
     }
   ]
 }
