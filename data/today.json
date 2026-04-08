@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-08T03:22:42.335176",
+  "scraped_at": "2026-04-08T05:51:32.417827",
   "date": "2026-04-08",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-holds-group-meeting-with-foreign-ambassadors-today-19-55.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Licence backlog persists despite 100-day delivery plan",
+      "summary": "Government aims to print and deliver millions of licences by mid-July, but delays and system issues continue to slow progress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/licence-backlog-persists-despite-100-day-delivery-plan",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1775623542.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal’s position on China won’t change, foreign minister assures envoy",
+      "summary": "Ambassador Zhang also assures Beijing’s full support to new government, appreciates consistent stance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/nepal-s-position-on-china-won-t-change-foreign-minister-assures-envoy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HFSEJl7a8AATV3Z-1775609198.jpg&w=600&height=400"
+    },
+    {
+      "title": "संविधान संशोधन बहसपत्र तयारी कार्यदलको पहिलो बैठक आज",
+      "summary": "त्यसैगरी, चाँदीको मूल्यमा पनि वृद्धि भएको छ। मंगलबार प्रतितोला चार हजार ८२० रुपैयाँमा कारोबार भएको चाँदी आज पाँच हजार २५ रुपैयाँ पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-price-increases-by-7-200-56-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "कूटनीतिक मर्यादा कायम गर्न प्रधानमन्त्रीलाई रवीन्द्र मिश्रको १३ बुँदे सुझाव",
+      "summary": "नेपाली कांग्रेस, श्रम संस्कृति पार्टी, जनता समाजवादी पार्टी, र लोकतान्त्रिक समाजवादी पार्टीले कार्यदलमा प्रतिनिधित्व गर्ने सदस्य आजै चयन गर्ने अपेक्षा गरिएको प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/first-meeting-of-the-task-force-for-preparing-the-constitutional-amendment-debate-paper-today-13-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775623912_Asim-480x320.jpg"
     }
   ]
 }
