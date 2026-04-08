@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-08T05:51:32.417827",
+  "scraped_at": "2026-04-08T09:13:28.537807",
   "date": "2026-04-08",
-  "total_articles": 37,
+  "total_articles": 43,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/first-meeting-of-the-task-force-for-preparing-the-constitutional-amendment-debate-paper-today-13-50.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775623912_Asim-480x320.jpg"
+    },
+    {
+      "title": "रणीय सभ्यताबारे  सि जिनपिङको विचारमाथि नेपालमा छलफल",
+      "summary": "रणीय सभ्यताबारे  सि जिनपिङको विचारमाथि नेपालमा छलफल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12660",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/chin-1775454634.jpg"
+    },
+    {
+      "title": "सांसद डाँगीले सोधिन्: पास लिएर नेपाल आएका भारतीय नम्बर प्लेटका सवारीको दुरुपयोग कसरी रोक्ने",
+      "summary": "डाँगीले भारतीय नम्बर प्लेटका सवारी साधनको नेपाल प्रवेशसम्बन्धी व्यवस्थाको दुरुपयोग भइरहेको भन्दै सरकारको ध्यानाकर्षण गराएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-dangi-asked-how-to-stop-misuse-of-vehicles-with-indian-number-plates-that-have-entered-nepal-with-passes-58-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775464572_Nisha-480x320.jpg"
+    },
+    {
+      "title": "बागमती प्रदेश: सभामुखमा चार दलको दाबी",
+      "summary": "बागमती प्रदेशसभामा प्रतिनिधित्व गर्ने राजनीतिक दलहरूको संयुक्त बैठकमा सबै दलले सभामुखमा आ-आफ्नो दाबी गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/bagmati-province-four-parties-claim-the-speaker-s-chair-24-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1727095692_1618463910_1609492013_Bagmati Pradesh shabha-480x320.jpg"
+    },
+    {
+      "title": "सिद्धार्थ राजमार्ग स्तरोन्नतिमा ढिलाइ भन्दै सांसद डुम्रेको सरकारलाई ध्यानाकर्षण",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद झविलाल डुम्रेले सिद्धार्थ राजमार्गको दयनीय अवस्थाबारे सरकारको ध्यानाकर्षण गराएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-dumre-draws-government-s-attention-to-delay-in-siddhartha-highway-upgrade-45-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775638388_Dumre-480x320.jpg"
+    },
+    {
+      "title": "सडक दुर्घटना न्यूनीकरणका लागि तत्काल सुधार गर्न सांसद मियाँको माग",
+      "summary": "रास्वपाकी सांसद समिना मियाँले सडक सुरक्षामा देखिएको कमजोरी तत्काल सुधार गर्न सरकारको ध्यानाकर्षण गराएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-miyan-demands-immediate-reforms-to-reduce-road-accidents-78-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775638133_Samina_Miya-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभा बैठकः भ्रष्टाचार नियन्त्रणदेखि मल, बीउको व्यवस्था गर्न माग",
+      "summary": "डाँगीले भारतीय नम्बर प्लेटका सवारी साधनको नेपाल प्रवेशसम्बन्धी व्यवस्थाको दुरुपयोग भइरहेको भन्दै सरकारको ध्यानाकर्षण गराएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-dangi-asked-how-to-stop-misuse-of-vehicles-with-indian-number-plates-that-have-entered-nepal-with-passes-58-94.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
