@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-08T13:52:00.387304",
+  "scraped_at": "2026-04-08T17:14:52.249162",
   "date": "2026-04-08",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -438,6 +438,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-has-the-rent-increased-see-the-list-30-74.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Water crisis worsens for Jajarkot earthquake survivors",
+      "summary": "The earthquake in 2023 damaged 480 water projects across three districts of Karnali province. In Jajarkot alone, 145 drinking water projects were destroyed and 106 damaged.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/water-crisis-worsens-for-jajarkot-earthquake-survivors",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Untitled1-1775664976.jpg&w=300&height=200"
+    },
+    {
+      "title": "राजदूत समक्ष गृहमन्त्रीले भने-नेपाली नेताहरुको कालो धन स्वीस बैंकमा भए फिर्ताको पहल गरिदिनू",
+      "summary": "अष्ट्रेलियाले युवाहरूमा बढ्दो मानसिक स्वास्थ्य सङ्कटलाई सम्बोधन गर्न पहिलो पटक चिकित्सकीय अभ्याससम्बन्धी मार्गदर्शन जारी गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/australia-s-initiative-to-curb-rising-mental-health-problems-among-youth-68-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775666630_health-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधन कार्यदलको पहिलो बैठक सम्पन्न",
+      "summary": "पुरुष क्रिकेटले एकपछि अर्को अन्तर्राष्ट्रिय उचाइ चुमिरहँदा ओझेलमा परेको नेपाली महिला क्रिकेटले अन्ततः आफ्नो हिस्साको उडान भर्ने अवसर पाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepali-women-s-cricket-takes-a-new-flight-can-prioritizes-women-s-cricket-57-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775665922_mahikla-480x320.jpg"
+    },
+    {
+      "title": "‘पार्टीको ह्विप पनि मान्छु, स्वविवेक पनि प्रयोग गर्छु’",
+      "summary": "गृह मन्त्रालयमा बुधबार भएको भेटमा दुई देशबीचको सम्बन्ध र आपसी सहकार्यका विविध विषयमा छलफल भएको हो। भेटका क्रममा राजदूत मैवलीले गृहमन्त्री गुरुङलाई सफल कार्यकालको शुभकामना दिइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-urges-ambassador-to-return-black-money-hidden-in-swiss-banks-89-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775663245_swis-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसको सिट घटे पनि विचार सान्दर्भिक छ, फेरि बलियो बनाउँछौं: सांसद थकाली",
+      "summary": "पहिले जस्तो पैदल हिँडेर बजार जानु पर्दैन । गाडीमा आउजाउ गर्न पाएपछि घरको काम गर्ने समयसमेत बचत भएको उनी बताउँछिन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-villagers-daily-lives-became-easier-after-the-road-arrived-86-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775662691_Road-480x320.jpg"
+    },
+    {
+      "title": "जनताले कुनै दल लक्षित विद्रोह गरेका होइनन्, उनीहरूले केवल सुशासन खोजेका हुन्: सांसद थकाली",
+      "summary": "अष्ट्रेलियाले युवाहरूमा बढ्दो मानसिक स्वास्थ्य सङ्कटलाई सम्बोधन गर्न पहिलो पटक चिकित्सकीय अभ्याससम्बन्धी मार्गदर्शन जारी गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/australia-s-initiative-to-curb-rising-mental-health-problems-among-youth-68-99.html?click_from=just_in",
       "image_url": ""
     }
   ]
