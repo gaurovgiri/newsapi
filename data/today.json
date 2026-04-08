@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-08T09:13:28.537807",
+  "scraped_at": "2026-04-08T13:52:00.387304",
   "date": "2026-04-08",
-  "total_articles": 44,
+  "total_articles": 54,
   "sources": [
-    "News24",
+    "NagarikNews",
     "KathmanduPost",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -358,6 +358,86 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/mp-dangi-asked-how-to-stop-misuse-of-vehicles-with-indian-number-plates-that-have-entered-nepal-with-passes-58-94.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Shyam Kumar missing for 19 years in Bahrain returns home disabled",
+      "summary": "Found unconscious and treated, he was brought back with embassy support; now bedridden, he faces financial hardship.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/shyam-kumar-missing-for-19-years-in-bahrain-returns-home-disabled",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shyamkumar06420260930531000x0-1775651201.jpg&w=300&height=200"
+    },
+    {
+      "title": "Arrest warrants issued against Deuba couple in money laundering probe",
+      "summary": "Authorities move to seek Interpol notice as former prime minister and former foreign minister remain abroad.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/arrest-warrants-issued-against-deuba-couple-in-money-laundering-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1775636941.jpg&w=300&height=200"
+    },
+    {
+      "title": "Supreme Court asks three Rastriya Swatantra Party lawmakers why they should not be suspended",
+      "summary": "They have 15 days to furnish the written clarification.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/08/supreme-court-asks-three-rastriya-swatantra-party-lawmakers-why-they-should-not-be-suspended",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/electionbibad08420260855581000x0-1775644529.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali embassy warns against travelling to Oman on visit visas for work",
+      "summary": "Oman has enforced a regulation since October 31, 2023, barring the conversion of tourist or visit visas into work permits after arrival.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/08/nepali-embassy-warns-against-travelling-to-oman-on-visit-visas-for-work",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/VISITVISATRAVELFILEPHOTO-1775641907.jpg&w=600&height=400"
+    },
+    {
+      "title": "Finland-based Nepali woman harassed online over name mix-up",
+      "summary": "Passenger fares to rise by 16.71 percent, with cargo rates increasing by 21.68 percent on hilly routes and 15.75 percent in the Terai under the automatic pricing system.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/06/finland-based-nepali-woman-harassed-online-over-name-mix-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1775636941.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले सांसद खातुनको चेतावनी- ओलीलाई स-सम्मान रिहा गरियोस्, सरकारले पावरको घमण्ड नदेखाओस्",
+      "summary": "विशेषगरी लामो दुरीमा चल्ने सवारीसाधनकाे भाडा बढेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-has-the-rent-increased-see-the-list-30-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772021429_Tourists Bus-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभाको पौने दुई घण्टा : सरकारका कामको प्रशंसादेखि खबरदारीसम्म",
+      "summary": "नेकपा एमालेकी सांसद साजिदा खातुन सिद्धिकीले पार्टी अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओलीलाई स-सम्मान रिहा गर्न सरकारसँग माग गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-mp-khatun-warns-oli-should-be-released-with-dignity-government-should-not-show-arrogance-of-power-75-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775652687_sajita pic-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुख निर्वाचन शुक्रबार",
+      "summary": "राष्ट्रियसभामा प्रतिपक्षी दलहरूको मात्रै उपस्थित भए पनि मन्त्रिमण्डलको समावेशी चरित्र, सरकारको शासकीय सुधारसम्बन्धी १०० बुँदे कार्यसूचीलगायत वर्तमान सरकारका कतिपय सुरुआती प्रयासबारे प्रशंसा भएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/2-5-hours-of-the-national-assembly-from-praise-for-the-government-s-work-to-warnings-29-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775652075_rastriya sabha-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिले शुक्रबार संसद्को संयुक्त बैठकलाई सम्बोधन गर्ने",
+      "summary": "प्रहरीले सेवाग्राहीले दिएको सम्पर्क नम्बरमा फोन वा एसएमएस गरेर सूचना दिने व्यवस्था लागू गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-information-about-the-progress-of-cases-registered-with-the-police-can-be-received-on-the-phone-of-the-concerned-person-58-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775652280_nepal police-480x320.jpg"
+    },
+    {
+      "title": "नेपालको चुच्चे नक्सा अगाडी प्रधानमन्त्री शाहसँग भारतीय राजदूत",
+      "summary": "विशेषगरी लामो दुरीमा चल्ने सवारीसाधनकाे भाडा बढेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/how-much-has-the-rent-increased-see-the-list-30-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
