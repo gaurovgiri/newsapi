@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-09T05:52:28.127887",
+  "scraped_at": "2026-04-09T09:19:11.623982",
   "date": "2026-04-09",
-  "total_articles": 36,
+  "total_articles": 43,
   "sources": [
     "NagarikNews",
     "News24",
@@ -295,6 +295,62 @@
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/04/09/two-brothers-stabbed-to-death",
       "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=300&height=200"
+    },
+    {
+      "title": "Oli, Lekhak released following court order",
+      "summary": "They must be present before the authorities when required. The investigation is linked to deaths during Gen Z protests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/oli-lekhak-released-following-court-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/olilekhak-1775722543.jpg&w=300&height=200"
+    },
+    {
+      "title": "Israeli strikes pummel Lebanon, killing 250 in deadliest day of war",
+      "summary": "The strikes ​raised questions about regional truce efforts, with Iranian President Masoud Pezeshkian saying a ceasefire in Lebanon was an essential condition of his country’s agreement with the US.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/world/2026/04/09/israeli-strikes-pummel-lebanon-killing-250-in-deadliest-day-of-war",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tel-1775709751.jpg&w=300&height=200"
+    },
+    {
+      "title": "रविजीले स्वयं फोन गरेर मनोनयन दर्ता गराउन भन्नुभएको थियो: ज्ञानेन्द्र शाही",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का संसदीय दलका नेता ज्ञानेन्द्र शाहीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको आग्रहमा नै आफूहरूले उपसभामुख पदमा मनोनयन दर्ता गराएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/raviji-himself-called-and-asked-me-to-register-my-nomination-gyanendra-shahi-92-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775725334_gyanedra sahi-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुखमा उम्मेदवारी दिएपछि रुबीले भनिन्: जिम्मेवारी सम्हाल्न सक्छु, देशको सेवा गर्छु",
+      "summary": "प्रतिनिधिसभाको उपसभामुखमा उम्मेदवारी दिएपछि श्रम संस्कृति पार्टीकी सांसद रुबीकुमारी ठाकुरले आफू जिम्मेवारी सम्हाल्न तयार रहेको बताएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/after-filing-her-candidacy-for-deputy-speaker-ruby-said-i-can-handle-the-responsibility-i-will-serve-the-country-31-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775724820_Ruby kumari Thakur-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुखमा श्रम संस्कृतिकी ठाकुरलाई रास्वपाकाे समर्थन",
+      "summary": "प्रवक्ता मनिष झाले श्रम संस्कृतिकी उम्मेदवार ठाकुरलाई रास्वपाको समर्थन रहने जानकारी गराएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsp-supports-thakur-from-labor-culture-for-deputy-speaker-74-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775724820_Ruby kumari Thakur-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुखमा श्रम संस्कृतिकी ठाकुर र राप्रपाकी लामाको उम्मेद्वारी",
+      "summary": "देशका विभिन्न स्थानबाट लागूऔषधसहित २५ जना पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/25-people-arrested-with-drugs-36-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "१३ दिनपछि रिहा भएका ओलीले भने: परमादेश जारी गर्ने सम्मानित सर्वोच्च अदालतप्रति उच्च सम्मान",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का संसदीय दलका नेता ज्ञानेन्द्र शाहीले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेको आग्रहमा नै आफूहरूले उपसभामुख पदमा मनोनयन दर्ता गराएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/raviji-himself-called-and-asked-me-to-register-my-nomination-gyanendra-shahi-92-28.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
