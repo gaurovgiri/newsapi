@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-09T14:01:20.781871",
+  "scraped_at": "2026-04-09T17:16:25.225608",
   "date": "2026-04-09",
-  "total_articles": 53,
+  "total_articles": 60,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -430,6 +430,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/the-admission-campaign-will-start-on-april-15-and-the-teaching-will-start-on-april-21-31-57.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Copycat Nepali brands face justice as court hearing begins",
+      "summary": "Only two of 11 companies respond to government notice; delays, weak enforcement blamed for rising infringement cases.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/09/copycat-nepali-brands-face-justice-as-court-hearing-begins",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb5-1775743891.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Nepal silences women in public life",
+      "summary": "The harassment of women for public expression in Nepal is not a reaction to any single political wave. It is a pattern, and it has a history.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/speaking-out-brings-backlash-for-nepali-women",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb6-1775747446.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुशासन केहो सोच्नुपर्ने बेला भयो: जुनु श्रेष्ठ",
+      "summary": "१५ शय्याको नगर अस्पतालबाट ५० शय्याको प्रादेशिक अस्पतालमा स्तरोन्नति भएको कटारी अस्पतालले शल्यक्रिया सेवा सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/surgery-service-begins-at-katari-hospital-own-pharmacy-from-april-43-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775750865_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बर्खास्त भएका मन्त्री साहकी पत्नीले भनिन्: यो सुशासन होइन",
+      "summary": "राष्ट्रिय गौरवको आयोजना मदन भण्डारी राजमार्ग विस्तारका लागि सडक सीमाभित्र पर्ने १३ हजार ८३४ वटा रुख कटानको कार्य सम्पन्न भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/madan-bhandari-highway-13-000-trees-felled-17-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775750483_rukh-480x320.jpg"
+    },
+    {
+      "title": "पूर्वाग्रहपूर्ण अभियोग, प्रमाण नपुगेपछि छुटें : ओली",
+      "summary": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलमा मुटुको धड्कन अचानक बन्द हुने अवस्थामा प्राथमिक उपचारका लागि ‘अटोमेटेड एक्सटर्नल डफिब्रुलेटर’ (एईडी) मेसिन जडान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/aed-machine-installed-at-tribhuvan-airport-for-emergency-cardiac-treatment-10-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761397145_tia-480x320.jpg"
+    },
+    {
+      "title": "श्रीमतीको जागिर जोगाउन खोज्दा मन्त्रीको पद चैट !",
+      "summary": "बर्खास्त भएका श्रम, रोजगार तथा सामाजिक सुरक्षामन्त्री दिपक साहकी श्रीमती जुनु श्रेष्ठले सरकारको निर्णयप्रति आपत्ति जनाएकी छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/it-s-time-to-think-about-good-governance-junu-shrestha-27-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775750045_JUNU_Shrestha-480x320.jpg"
+    },
+    {
+      "title": "पर्यटन मन्त्रीलाई भेट्न जाँदै हुनुहुन्छ? पहिला फाराम भर्नुहोस् !",
+      "summary": "१५ शय्याको नगर अस्पतालबाट ५० शय्याको प्रादेशिक अस्पतालमा स्तरोन्नति भएको कटारी अस्पतालले शल्यक्रिया सेवा सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/surgery-service-begins-at-katari-hospital-own-pharmacy-from-april-43-66.html?click_from=just_in",
       "image_url": ""
     }
   ]
