@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-09T09:19:11.623982",
+  "scraped_at": "2026-04-09T14:01:20.781871",
   "date": "2026-04-09",
-  "total_articles": 44,
+  "total_articles": 53,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -358,6 +358,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/raviji-himself-called-and-asked-me-to-register-my-nomination-gyanendra-shahi-92-28.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Two-day weekend at government hospitals from next week sparks alarm for surgery patients",
+      "summary": "Patients and consumer rights activists say the move hits the poor hardest, urge the government to reconsider the decision.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/09/two-day-weekend-at-government-hospitals-from-next-week-sparks-alarm-for-surgery-patients",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/birhospital-1775740165.jpg&w=300&height=200"
+    },
+    {
+      "title": "Can Nepal bring Deubas back through Interpol?",
+      "summary": "From Red Notices to diplomatic channels, a look at the legal routes, limits and hurdles in bringing the Deuba couple back to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/can-nepal-bring-deubas-back-through-interpol",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1775742990.jpg&w=300&height=200"
+    },
+    {
+      "title": "Labour minister Sah sacked over disciplinary breach",
+      "summary": "Prime minister acts on RSP recommendation, citing misuse of office.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/labour-minister-sacked-over-disciplinary-breach",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1775730579.jpg&w=300&height=200"
+    },
+    {
+      "title": "Movie review: A tender story that tries too hard to break your heart",
+      "summary": "From Red Notices to diplomatic channels, a look at the legal routes, limits and hurdles in bringing the Deuba couple back to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/08/a-tender-story-that-tries-too-hard-to-break-your-heart",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Movie-1775732900.jpg&w=400&height=267"
+    },
+    {
+      "title": "बुढीगण्डकी निर्माणलाई गति दिन सभामुखको निर्देशन",
+      "summary": "केन्द्रले भर्ना अभियान वैशाख १५ गतेबाट र पठनपाठन वैशाख २१ गतेबाट सुरु गर्ने बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-admission-campaign-will-start-on-april-15-and-the-teaching-will-start-on-april-21-31-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775742549_sikchya-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय योजना आयोगमा ६ सदस्य नियुक्त",
+      "summary": "आफन्तहरूसँग भेट हुँदा उनले भनेका थिए, 'जसरी पनि बुवालाई निको पारेर घर फर्काउनेछु।' तर त्यो प्रतिज्ञा पूरा हुन नपाउँदै उनी आफैं सधैंका लागि बिदा भए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bhim-bahadur-sets-out-to-treat-his-father-who-has-fallen-ill-during-his-journey-58-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775742524_Jumla nEWS (3)-480x320.jpg"
+    },
+    {
+      "title": "सेवामा कुनै त्रुटी नगर्न स्थानीय तहलाई सभामुख अर्यालको अनुरोध",
+      "summary": "बिरामी बुवाको उपचारका लागि जुम्लाबाट सुर्खेततर्फ जाँदै गरेका एक युवकको कालिकोटमा एम्बुलेन्स दुर्घटनामा परी मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/son-who-set-out-to-save-his-father-dies-on-the-way-56-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775742072_stry-480x320.jpg"
+    },
+    {
+      "title": "नेकपाको केन्द्रीय कार्यसंयोजन बैठक शनिबारसम्म, ३२ जनाले धारणा राखे",
+      "summary": "परिषदका अनुसार यो अस्थायी युद्धविरामले द्वन्द्व न्यूनीकरण र क्षेत्रीय स्थायित्वमा महत्वपूर्ण उपलब्धि हासिल गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-iran-ceasefire-pakistan-s-role-commendable-92-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775740881_usa_iran-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्याल र स्विस राजदूतबिच शिष्टाचार भेटवार्ता",
+      "summary": "केन्द्रले भर्ना अभियान वैशाख १५ गतेबाट र पठनपाठन वैशाख २१ गतेबाट सुरु गर्ने बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/the-admission-campaign-will-start-on-april-15-and-the-teaching-will-start-on-april-21-31-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
