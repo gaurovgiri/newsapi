@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-09T03:17:14.585800",
+  "scraped_at": "2026-04-09T05:52:28.127887",
   "date": "2026-04-09",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ambulance-accident-victims-referred-to-surkhet-br-26-44.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "इभद्वारा नेपालका चालकहरूका लागि २२ लाख बराबरको इन्धन सहयोग घोषणा",
+      "summary": "इभद्वारा नेपालका चालकहरूका लागि २२ लाख बराबरको इन्धन सहयोग घोषणा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12671",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/PICTURE-1775638181.jpg"
+    },
+    {
+      "title": "Paralysis plagues Morang’s Sardar settlement",
+      "summary": "The Tharu village of Bataraitola is home to around 1,100 people, but over 50 including old and young suffer from severe mobility issues.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/paralysis-plagues-morang-s-sardar-settlement-1775700436",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/morang-1775700408.jpg&w=300&height=200"
+    },
+    {
+      "title": "Two brothers stabbed to death",
+      "summary": "Arguments over mistaken phone calls led to the deadly incident at Patan Durbar Square in Lalitpur.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/two-brothers-stabbed-to-death",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg&w=300&height=200"
     }
   ]
 }
