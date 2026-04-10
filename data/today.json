@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-10T03:31:01.799851",
+  "scraped_at": "2026-04-10T06:03:37.065224",
   "date": "2026-04-10",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/madhesh-s-daughter-ruby-s-visit-to-the-deputy-speaker-s-office-br-32-95.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ित २९ जनाविरुद्ध भ्रष्टाचार मुद्दा दायर",
+      "summary": "ित २९ जनाविरुद्ध भ्रष्टाचार मुद्दा दायर",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12683",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/mahara-1775791132.jpg"
+    },
+    {
+      "title": "Fuel prices hiked four times in a month",
+      "summary": "Petrol and diesel prices rise by Rs 17 and Rs 25, respectively. NOC cites a global surge as it incurs around Rs 10.21 billion in fortnightly losses.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/10/fuel-prices-hiked-four-times-in-a-month",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/petrolpumplinephotos030120260733copy01320260455021000x0-1775797003.jpg&w=600&height=400"
+    },
+    {
+      "title": "उपसभामुख निर्वाचनबारे रणनीति बनाउन रास्वपा संसदीय दलको बैठक बस्दै",
+      "summary": "प्रधान सेनापति अशोक राज सिग्देलले शुक्रबार बिहान जंगी अड्डामा आयोजित एक कार्यक्रमका बीच उनीहरूलाई उक्त चिन्ह प्रदान गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/army-chief-confers-rank-insignia-on-two-senior-officers-97-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775800748_Army-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी प्रदेशसभाको बैठक बस्दै, यस्तो छ कार्यसूची",
+      "summary": "सिक्किम, भारतका सर्जक जीवन शर्माको संगीत रहेको नयाँ 'जीवन रहरमै' लोकार्पण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/jeevan-sharma-s-jeevan-raharmai-released-br-59-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775800538_need 687-480x320.jpg"
     }
   ]
 }
