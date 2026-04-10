@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-10T09:18:41.765078",
+  "scraped_at": "2026-04-10T13:40:31.113548",
   "date": "2026-04-10",
-  "total_articles": 44,
+  "total_articles": 51,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -358,6 +358,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/i-believe-i-will-get-justice-ramesh-lekhak-63-53.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal growth outlook dims as global lenders cut projections below 3 percent",
+      "summary": "World Bank, ADB project a sluggish expansion amid unrest, West Asia conflict, and climate shocks; tourism, remittance risks mount.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/10/nepal-growth-outlook-dims-as-global-lenders-cut-projections-below-3-percent",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/1080622IMG9768-1775824829.jpg&w=300&height=200"
+    },
+    {
+      "title": "No action on probe report months after Bardiya father-daughter deaths",
+      "summary": "Investigation had flagged lapses in a citizenship denial case, but disciplinary and legal steps remain pending despite the findings having been submitted to the government.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/province-no-5/2026/04/10/no-action-on-probe-report-months-after-bardiya-father-daughter-deaths",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1775823109.jpg&w=300&height=200"
+    },
+    {
+      "title": "उपसभामुखमा श्रम संस्कृतिकी रुबीकुमारी ठाकुर निर्वाचित",
+      "summary": "संसद्को सबैभन्दा ठुलो दल राष्ट्रिय स्वतन्त्र पार्टीको समर्थनमा उनी निर्वाचित भएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rubi-kumari-thakur-of-labor-culture-elected-as-deputy-speaker-70-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775823836_Ruby-480x320.jpg"
+    },
+    {
+      "title": "नेपालकी कान्छी उपसभामुख रुबीकुमारी ठाकुर",
+      "summary": "समितिका अनुसार पेट्रोलियम पदार्थको मूल्य वृद्धि मुख्य कारणका रूपमा उल्लेख गरिएको छ। यद्यपि विद्युतीय सवारी साधनको भाडादर भने यथावत् राख्ने निर्णय गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/electric-vehicle-fares-will-not-increase-in-kathmandu-valley-br-12-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742776593_Bus park-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुखमा लामाले पाइन् राप्रपाको मात्र मत",
+      "summary": "स्वास्थ्य बिमा बोर्डका जिल्ला संयोजक रमेश धमलाले जिल्लामा आठ वटा प्रथम सेवा विन्दु र पाँच वटा रेफरल केन्द्र सञ्चालनमा रहेको जानकारी दिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/interest-in-health-insurance-growing-in-chitwan-85-percent-of-citizens-are-insured-13-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767420950_Suwasthe bima 52-480x320.jpg"
+    },
+    {
+      "title": "कुर्सी होइन, जिम्मेवारी महत्वपूर्ण : मन्त्री श्रेष्ठ",
+      "summary": "उपसभामुखमा श्रम संस्कृति पार्टीकी रुबीकुमारी ठाकुर निर्वाचित भएकी छन् । मतविभाजन प्रक्रियाबाट राप्रपाकी सरस्वती लामालाई पराजित गर्दै ठाकुर उपसभामुख चयन भइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-s-youngest-deputy-speaker-rubi-kumari-thakur-81-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775823837_RubY_Thakur-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाकी लामाले उपसभामुखमा दिएको उम्मेदवारी बहुमतले अस्वीकृत",
+      "summary": "संसद्को सबैभन्दा ठुलो दल राष्ट्रिय स्वतन्त्र पार्टीको समर्थनमा उनी निर्वाचित भएकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rubi-kumari-thakur-of-labor-culture-elected-as-deputy-speaker-70-49.html?click_from=just_in",
       "image_url": ""
     }
   ]
