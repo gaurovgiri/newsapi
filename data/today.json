@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-10T06:03:37.065224",
+  "scraped_at": "2026-04-10T09:18:41.765078",
   "date": "2026-04-10",
-  "total_articles": 38,
+  "total_articles": 44,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -311,6 +311,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/jeevan-sharma-s-jeevan-raharmai-released-br-59-43.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775800538_need 687-480x320.jpg"
+    },
+    {
+      "title": "Can Nepal bring Deubas back through Interpol?",
+      "summary": "From Red Notices to diplomatic channels, a look at the legal routes, limits and hurdles in bringing the Deuba couple back to Nepal.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/09/can-nepal-bring-deubas-back-through-interpol",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1775742990.jpg&w=300&height=200"
+    },
+    {
+      "title": "मैले न्याय पाउँछु भन्ने विश्वास छ: रमेश लेखक",
+      "summary": "पूर्वगृहमन्त्री तथा नेपाली कांग्रेसका नेता रमेश लेखकले भदौ २३ र २४ गतेको घटनाको प्रतिवेदन अपूर्ण र अप्रमाणित भएको टिप्पणी गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-believe-i-will-get-justice-ramesh-lekhak-63-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774760324_Ramesh-480x320.jpg"
+    },
+    {
+      "title": "पुराना दलले केही गरेनन् भन्ने भाष्य गलत हो: देवेन्द्र पौडेल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका नेता देवेन्द्र पौडेलले पुराना दलले केही गरेनन् भन्ने भाष्य निर्माण भएको भन्दै दु:ख व्यक्त गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-comment-that-the-old-parties-did-nothing-is-wrong-devendra-poudel-33-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775812392_Devendra_Poudel-480x320.jpg"
+    },
+    {
+      "title": "०४६ सालमात्र होइन २००७ सालदेखिकै सम्पत्ति छानविन हुनुपर्छ: झलनाथ खनाल",
+      "summary": "काठमाडौं उपत्यकाको ‘ट्राफिक’ व्यवस्थापनमा केन्द्रित रहेर काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले आज यहाँ जनप्रतिनिधि, प्राविधिक, सुरक्षा निकायका अधिकारी, नागरिक समाज तथा सञ्चारकर्मीकोसहभागितामा छलफल कार्यक्रम गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/discussion-on-traffic-management-in-kathmandu-valley-24-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775812246_traffic-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्र विस्तार गरे मन्त्रिपरिषद्, उद्योगमा गौरीकुमारी र श्रममा रामजी नियुक्त",
+      "summary": "४६ सालदेखिको मात्रै नभई ७ सालदेखि कै सम्पति छनाविन गर्नुपर्ने उनको माग छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/not-just-2046-assets-from-2007-onwards-should-be-investigated-jhalanath-khanal-92-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775811624_JN_Khanal-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुखमा ठाकुरलाई मतदान गर्ने रास्वपा संसदीय दलको निर्णय",
+      "summary": "पूर्वगृहमन्त्री तथा नेपाली कांग्रेसका नेता रमेश लेखकले भदौ २३ र २४ गतेको घटनाको प्रतिवेदन अपूर्ण र अप्रमाणित भएको टिप्पणी गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/i-believe-i-will-get-justice-ramesh-lekhak-63-53.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
