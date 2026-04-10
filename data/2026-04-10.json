@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-10T13:40:31.113548",
+  "scraped_at": "2026-04-10T16:58:06.337756",
   "date": "2026-04-10",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
     "News24",
     "NagarikNews",
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/rubi-kumari-thakur-of-labor-culture-elected-as-deputy-speaker-70-49.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Drug regulator chief transferred as pharma lobby pushes for price hike",
+      "summary": "Without a price hike, supply of medicines could be disrupted, as the cost of drug molecules and other inputs has risen by up to 300 percent, warn drug manufacturers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/10/drug-regulator-chief-transferred-as-pharma-lobby-pushes-for-price-hike",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1775833243.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal and India to prioritise agendas before high-level visits",
+      "summary": "India will send a panel led by Foreign Secretary Vikram Misri after Nepal clarifies its priorities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/10/nepal-and-india-to-prioritise-agendas-before-high-level-visits",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HFiirBHakAIyCVH-1775829164.jpg&w=600&height=400"
+    },
+    {
+      "title": "नयाँ नेतृत्व चयन भएकै कारण अदालतमा जानुको औचित्य छैन : विश्वप्रकाश शर्मा",
+      "summary": "रुसका पूर्व उपरक्षामन्त्री पावेल पोपोभलाई भ्रष्टाचारको आरोपमा १९ वर्षको जेल सजाय सुनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-russian-minister-sentenced-to-19-years-in-prison-67-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775837732_russia-480x320.jpg"
+    },
+    {
+      "title": "संसारभरि ‘पपुलिजम’ र नयाँ मिडियाका कारण पुराना राजनीतिक पार्टी अप्ठ्यारोमा परे : गगन थापा",
+      "summary": "संयुक्त अरब इमिरेट्सको राजधानी अबुधाबीस्थित नेपाली दूतावासले वैदेशिक रोजगारसँग सम्बन्धित समस्या अनलाइन पोर्टलमार्फत दर्ता गराउन आग्रह गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-to-register-foreign-employment-related-problems-through-online-portal-78-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा महत्वपूर्ण भूमिका खेल्ने सुरक्षा निकायलाई मुख्यमन्त्री दिए धन्यवाद",
+      "summary": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री सीता बादीसमक्ष बालबालिका शान्तिक्षेत्र राष्ट्रिय अभियान (सिजप) ले सरकारको आगामी नीति, कार्यक्रम र बजेटमा बालअधिकारसम्बन्धी ३४ बुँदे समावेश गर्न सुझाव दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/34-point-suggestions-to-include-child-rights-issues-in-policies-programs-and-budgets-32-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775837014_czop-480x320.jpg"
+    },
+    {
+      "title": "उपसभामुख ठाकुरले लिइन् पद तथा गोपनीयताको शपथ",
+      "summary": "चितवन राष्ट्रिय निकुञ्जमा आर्मीले आत्मरक्षाका लागि गोली चलाउँदा एउटा गैँडा मरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/rhino-killed-by-army-bullet-50-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775836378_Raino-480x320.jpg"
+    },
+    {
+      "title": "नवनियुक्त दुई मन्त्रीले लिए पद तथा गोपनीयताको शपथ",
+      "summary": "रुसका पूर्व उपरक्षामन्त्री पावेल पोपोभलाई भ्रष्टाचारको आरोपमा १९ वर्षको जेल सजाय सुनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/former-russian-minister-sentenced-to-19-years-in-prison-67-29.html?click_from=just_in",
       "image_url": ""
     }
   ]
