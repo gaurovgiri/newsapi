@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-11T16:48:34.321730",
+  "scraped_at": "2026-04-11T20:43:47.942844",
   "date": "2026-04-11",
-  "total_articles": 53,
+  "total_articles": 55,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -431,6 +431,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/madhav-nepal-told-prachanda-you-won-even-during-the-tsunami-congratulations-41-80.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765453267_Madhav_Nepal-480x320.jpg"
+    },
+    {
+      "title": "Karnali Highway upgrade in limbo, 10 contracts scrapped",
+      "summary": "Four more contractors issued notices as authorities move to blacklist defaulters.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/11/karnali-highway-upgrade-in-limbo-10-contracts-scrapped",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/photokarnalirajmarg1110420260704571000x0-1775922874.jpg&w=600&height=400"
+    },
+    {
+      "title": "नागढुङ्गा–मुग्लिङ सडक सुधारमा ढिलासुस्ती गरे कारबाही गर्ने गृहमन्त्री गुरुङको चेतावनी",
+      "summary": "इन्धनखपत घटाउन विद्युतीय ऊर्जाको प्रयोग बढाउन वातावरणविद्हरूले सुझाव दिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/suggestions-to-increase-the-use-of-electrical-energy-to-reduce-fuel-consumption-87-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773832136_Ev charger-480x320.jpg"
     }
   ]
 }
