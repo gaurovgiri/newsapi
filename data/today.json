@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-11T05:36:13.099550",
+  "scraped_at": "2026-04-11T08:55:01.205240",
   "date": "2026-04-11",
-  "total_articles": 38,
+  "total_articles": 42,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -311,6 +311,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/us-delegation-headed-to-islamabad-for-talks-with-iran-arrives-in-paris-22-22.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775885428_vans-480x320.jpg"
+    },
+    {
+      "title": "Manandhar’s immortal 2:15:03 still stands tallest in Nepali sport",
+      "summary": "Marathon great Baikuntha Manandhar’s South Asian hat-trick and enduring record remain unmatched nearly four decades on.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/11/manandhar-s-immortal-2-15-03-still-stands-tallest-in-nepali-sport",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/baikunthamanandhar11420260443291000x0-1775881081.png&w=300&height=200"
+    },
+    {
+      "title": "Blackbucks in Shuklaphanta and Bardiya to be relocated",
+      "summary": "18 blackbucks to be moved to Tikauli in Barandabhar corridor. Relocation will be complete by mid-May.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/11/blackbucks-in-shuklaphanta-and-bardiya-to-be-relocated",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/blackbuckphoto11420260807531000x0-1775892194.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रतिनिधि सभाको पहिलो अधिवेशन : ६ दिनको बैठकमा तीन अध्यादेश स्वीकृत",
+      "summary": "प्रतिनिधि सभाको पहिलो अधिवेशनले प्रक्रियागत काम पूरा गरेर आगामी अधिवेशनका निम्ति मार्ग प्रशस्त गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/first-session-of-the-house-of-representatives-three-ordinances-approved-in-6-day-meeting-53-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775896666_samsad-480x320.jpg"
+    },
+    {
+      "title": "ग्रामीण पर्यटन आर्थिक समृद्धिको बलियो आधार हो : अध्यक्ष दाहाल",
+      "summary": "सरकारले नेपाल–भारत सिमानामा सुरक्षा व्यवस्था सुदृढ बनाउन जनशक्ति थपेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manpower-has-been-increased-at-the-border-to-patrol-around-the-clock-75-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746619845_sima_naka-480x320.jpg"
     }
   ]
 }
