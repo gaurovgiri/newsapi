@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-11T13:15:44.080803",
+  "scraped_at": "2026-04-11T16:48:34.321730",
   "date": "2026-04-11",
-  "total_articles": 49,
+  "total_articles": 53,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -399,6 +399,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/funeral-of-nembang-brothers-murdered-in-krishna-temple-premises-99-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Riverbed material processing halt affects construction projects in Lumbini Province",
+      "summary": "Ministry directive to close illegal units freezes supply of materials as authorities begin inspections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/11/riverbed-material-processing-halt-affects-construction-projects-in-lumbini-province",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/crusher-1775814044.jpg&w=300&height=200"
+    },
+    {
+      "title": "नेकपा संयुक्तको राष्ट्रिय सम्मेलन मंसिरमा",
+      "summary": "मध्यपूर्वमा जारी युद्ध र तनाव अन्त्यका लागि संयुक्त राज्य अमेरिका र इरानबिच पाकिस्तानको इस्लामावादमा ऐतिहासिक प्रत्यक्ष वार्ता भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/historic-talks-between-us-and-iran-to-end-middle-east-tensions-17-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775922480_pakistan-480x320.jpg"
+    },
+    {
+      "title": "माधव नेपालले प्रचण्डलाई भने: सुनामी चलेका बेला पनि तपाईंले जित निकाल्नुभयो, बधाई",
+      "summary": "नेकपा संयुक्तको राष्ट्रिय सम्मेलन मंसिरमा गर्ने भएको छ । पार्टीको आयोजक कमिटीको बैठकले राष्ट्रिय सम्मेलन ०८३ मंसिरमा आयोजना गर्ने निर्णय गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/national-conference-of-the-cpn-united-in-december-29-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1742653282_Ghanashyam bhusal _ Nagarik-480x320.jpg"
+    },
+    {
+      "title": "‘देशको आर्थिक विकासका निम्ति निजी क्षेत्रलाई समेट्नुपर्छ’",
+      "summary": "नेपाली कम्युनिस्ट पार्टीका सहसंयोजक माधव नेपालले पार्टी संयोजक पुष्पकमल दाहाल प्रचण्डलाई बधाई दिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/madhav-nepal-told-prachanda-you-won-even-during-the-tsunami-congratulations-41-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765453267_Madhav_Nepal-480x320.jpg"
     }
   ]
 }
