@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-11T02:53:59.096924",
+  "scraped_at": "2026-04-11T05:36:13.099550",
   "date": "2026-04-11",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
     "NagarikNews",
     "News24",
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/zero-remaining-file-campaign-being-celebrated-from-chaitra-30-to-baisakh-7-61-51.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "िकसित’बाट ‘विकासशील’ मुलुकमा प्रवेश गर्दा नेपाललाई उल्टो असर !",
+      "summary": "िकसित’बाट ‘विकासशील’ मुलुकमा प्रवेश गर्दा नेपाललाई उल्टो असर !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12685",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/starunnati-nepal-1775791936.jpg"
+    },
+    {
+      "title": "What’s behind Indian media’s fascination with Balendra Shah",
+      "summary": "His youth appeal, Madhesh roots, religiosity, and contrast with old parties have made him a new face of political change and a possible reset in Nepal-India ties, observers say.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/11/what-s-behind-indian-media-s-fascination-with-balendra-shah",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/cfd65340bb9941a3bd17c35b0c324de8-1775869830.jpg&w=300&height=200"
+    },
+    {
+      "title": "EVENTS: April 11 to April 17, 2026",
+      "summary": "Marathon great Baikuntha Manandhar’s South Asian hat-trick and enduring record remain unmatched nearly four decades on.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/11/events-april-11-to-april-17-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/diaries-1775871456.jpg&w=400&height=267"
+    },
+    {
+      "title": "प्रिय उपसभामुखज्यू, कसैलाई तपाईंलाई 'बहिनी' भनेर सम्बोधन गर्न नदिनुहोस् : सुमना श्रेष्ठ",
+      "summary": "अमेरिकी उपराष्ट्रपति जेडी भान्स इरानसँगको शान्ति वार्तामा अमेरिकी प्रतिनिधिमण्डलको नेतृत्व गर्न पाकिस्तान जाँदै छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-delegation-headed-to-islamabad-for-talks-with-iran-arrives-in-paris-22-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775885428_vans-480x320.jpg"
     }
   ]
 }
