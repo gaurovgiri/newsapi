@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-11T08:55:01.205240",
+  "scraped_at": "2026-04-11T13:15:44.080803",
   "date": "2026-04-11",
-  "total_articles": 41,
+  "total_articles": 48,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -335,6 +335,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manpower-has-been-increased-at-the-border-to-patrol-around-the-clock-75-42.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746619845_sima_naka-480x320.jpg"
+    },
+    {
+      "title": "Nepal Medical Association not ready for OPD services on Sundays",
+      "summary": "Doctors’ body warns of protests if the decision is not reconsidered.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/11/nepal-media-association-not-ready-for-opd-services-on-sundays",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/img361007720251003061000x010420261037401000x0-1775904131.jpg&w=300&height=200"
+    },
+    {
+      "title": "Manufacturing, hotel and hydropower stocks lead as Nepse gains over 55 points in a week",
+      "summary": "Daily turnover stays between Rs 8 and 9 billion. Market capitalisation jumps by Rs 94 billion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/11/manufacturing-hotel-and-hydropower-stocks-lead-as-nepse-gains-over-55-points-in-a-week",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/final-1775911683.jpg&w=600&height=400"
+    },
+    {
+      "title": "२००७ सालदेखिकै सम्पत्ति छानबिन गरौं: झलनाथ खनाल",
+      "summary": "तीन दिनअघि पाटनको कृष्णमन्दिर परिसरमा हत्या गरिएका सिर्जन नेम्वाङ र सुमित नेम्वाङको अन्त्यष्टि गरिँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/funeral-of-nembang-brothers-murdered-in-krishna-temple-premises-99-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775912953_Bro-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति छानबिनका लागि तयार छु, सरकारले काम गरेको देखेको छैन: वामदेव",
+      "summary": "जिल्ला प्रहरी कार्यालय, कास्कीले फरार प्रतिवादीलाई धमाधम पक्राउ गर्न थालेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/kaski-police-arresting-fugitive-defendant-38-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "जनतामाझ पुगेर सङ्गठन बलियो बनाए पुनः देशको निर्णायक शक्ति बन्न सकिन्छ: दाहाल",
+      "summary": "नेपाली कम्युनिष्ट पार्टीका नेता झलनाथ खनालले वि.सं. २००७ सालदेखिकै उच्चपदस्थहरूको सम्पत्ति छानबिन हुनुपर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-investigate-assets-from-2007-jhalanath-khanal-13-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762336614_jhalnath_khanal-480x320.jpg"
+    },
+    {
+      "title": "संविधानमाथि छेडखानी भए सडक र सदनबाट प्रतिवाद गर्छौं: दाहाल",
+      "summary": "अमेरिकी पक्षसँग मध्यपूर्व युद्ध अन्त्य गर्न योजनाबद्ध वार्ताका सर्तहरूमा छलफल गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iranian-delegation-meets-pakistani-pm-discusses-terms-of-end-to-war-82-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775892333_islamabad talks-480x320.jpg"
+    },
+    {
+      "title": "‘जुनसुकै पार्टीले जिते पनि हाम्रै जित हो, हामी हारेका छैनाैं’",
+      "summary": "तीन दिनअघि पाटनको कृष्णमन्दिर परिसरमा हत्या गरिएका सिर्जन नेम्वाङ र सुमित नेम्वाङको अन्त्यष्टि गरिँदैछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/funeral-of-nembang-brothers-murdered-in-krishna-temple-premises-99-47.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
