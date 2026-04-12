@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-12T13:18:13.490833",
+  "scraped_at": "2026-04-12T16:50:51.860408",
   "date": "2026-04-12",
-  "total_articles": 52,
+  "total_articles": 59,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -422,6 +422,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/national-rugby-sevens-apf-wins-men-s-title-army-wins-women-s-title-48-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Main opposition Congress stuck in power struggle over parliamentary party leader",
+      "summary": "Party chief Thapa wants Mohan Acharya, while veep Sharma supports Angdembe.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/12/main-opposition-congress-stuck-in-power-struggle-over-parliamentary-party-leader",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb36-1776003851.jpg&w=300&height=200"
+    },
+    {
+      "title": "Prime Minister Shah cites social media as income source",
+      "summary": "Shah has four million followers in Facebook, 1.2 million in YouTube and half million followers in X.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/12/prime-minister-shah-cites-social-media-as-income-source",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pmbalendra12420260359401000x0-1776009978.jpg&w=300&height=200"
+    },
+    {
+      "title": "शिक्षामन्त्री पोखरेलको सम्पत्ति २४ करोडभन्दा बढी",
+      "summary": "नेपाल श्रमशक्ति सर्वेक्षण गर्न उपल्लो डोल्पाको शेफोक्सुण्डो गाउँपालिका-२ जाँदै गर्दा लेक लागेर ‘धो’मा बिरामी भएका कमल डाँगीसहित चार जनाको आज उद्धार गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-employees-who-fell-ill-with-pneumonia-were-rescued-by-helicopter-95-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1738420858_heli-480x320.jpg"
+    },
+    {
+      "title": "स्वास्थ्यमन्त्री निशा मेहताको सम्पत्ति: महोत्तरीमा ८ बिघा पुर्खैली जग्गा र ३० तोला सुन",
+      "summary": "मध्यविन्दु नगरपालिका–१४ राइकोटेस्थित अरुणखोलामा बारुदजन्य पदार्थ प्रयोग गरी माछा मार्ने क्रममा विस्फोट हुँदा दुई जना घाइते भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-injured-in-fishing-gun-explosion-73-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749396795_Fish-480x320.jpg"
+    },
+    {
+      "title": "राजनीतिक उथलपुथल र नयाँपनको सुरुवात",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहलाई सामाजिक सञ्जालमा गालीगलौजपूर्ण अभिव्यक्ति दिएको आरोपमा पक्राउ परेको युवालाई परिवारको जिम्मा लगाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/youtuber-who-insulted-the-prime-minister-handed-over-to-family-35-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769499405_balen pic-480x320.jpg"
+    },
+    {
+      "title": "महिलामन्त्री सीता बादीको सम्पत्ति विवरण: २० कुखुरा, एक कुकुर",
+      "summary": "भारतका लागि नेपाली राजदूत डा शङ्करप्रसाद शर्माले नेपाली श्रमिकहरूले भोगिरहेका कानुनी समस्याहरू समाधानका लागि दूतावासले प्रदान गर्ने सेवा र सहयोगबारे जानकारी गराएको महर्जनले बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/orientation-in-chennai-india-on-labor-awareness-and-anti-human-trafficking-99-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776008295_worker-480x320.jpg"
+    },
+    {
+      "title": "कानुनमन्त्री सोविताको सम्पत्ति: काठमाडौं र चितवनमा घर-जग्गा, १५ तोला सुन र हीरा",
+      "summary": "नेपाल श्रमशक्ति सर्वेक्षण गर्न उपल्लो डोल्पाको शेफोक्सुण्डो गाउँपालिका-२ जाँदै गर्दा लेक लागेर ‘धो’मा बिरामी भएका कमल डाँगीसहित चार जनाको आज उद्धार गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-employees-who-fell-ill-with-pneumonia-were-rescued-by-helicopter-95-93.html?click_from=just_in",
       "image_url": ""
     }
   ]
