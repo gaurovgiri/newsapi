@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-12T05:59:21.265584",
+  "scraped_at": "2026-04-12T08:59:07.579487",
   "date": "2026-04-12",
-  "total_articles": 40,
+  "total_articles": 47,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -327,6 +327,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/baburam-leaves-for-india-57-68.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775971094_baburam-480x320.jpg"
+    },
+    {
+      "title": "End of an era in Indian music: Legendary singer Asha Bhosle dies after critical health battle in Mumbai",
+      "summary": "Asha Bhosle, one of the most iconic voices in Indian cinema, breathed her last at the age of 92 after being admitted to a Mumbai hospital in critical condition. Her passing marks the end of an extraordinary musical journey.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/12/end-of-an-era-in-indian-music-legendary-singer-asha-bhosle-dies-after-critical-health-battle-in-mumbai",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/EndofanerainIndianmusicLegendarysingerAshaBhoslediesaftercriticalhealthbattleinMumbai1-1775979554.png&w=300&height=200"
+    },
+    {
+      "title": "FICTION: ‘You are my university, Aama’",
+      "summary": "Clearing the backlog of driving licences will show the state’s commitment to service delivery.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/12/fiction-you-are-my-university-aama",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/JZQ4YXVKOVMLZEFO2IHFGFBZAI-1775971038.jpg&w=400&height=267"
+    },
+    {
+      "title": "तटस्थ रहेर काम गर्ने सभामुख अर्यालको प्रतिबद्धता",
+      "summary": "नेपाल पत्रकार महासङ्घले आज यहाँ आयोजना गरेको पत्रकार भेटमा उनले कानुन निर्माण र कार्यान्वयन गर्न निष्ठा र निष्पक्षताका साथ लाग्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-s-commitment-to-work-neutrally-35-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775981593_DP aryal savamukh-480x320.jpg"
+    },
+    {
+      "title": "जैविक विविधता र वनस्पति संरक्षण अपरिहार्य : मन्त्री चौधरी",
+      "summary": "गत २४ घण्टामा सगरमाथा बेसक्याम्प पुगेकी बेलायती नागरिकको लेक लागेर मृत्यु भएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-person-dies-two-others-injured-in-catastrophic-incidents-in-24-hours-77-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767236945_1756729847_death-1200x560-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीसँग मरिसस र सिङ्गापुरका मन्त्रीहरूको भेट",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहलाई गालीगलौज गरेको आरोपमा युट्युबर रोशन पोखरेल पक्राउ परेपछि जेनजी अभियन्ताहरूले विरोध जनाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/protest-against-the-arrest-of-youtuber-pokharel-genji-activists-demand-freedom-of-expression-76-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775980992_Gen z-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रियसभाका अध्यक्ष दाहाल टर्की जाने, राष्ट्रपति पौडेललाई गराए जानकारी",
+      "summary": "वीरगन्जमा भइरहेको खेलमा लुम्बिनीले गण्डकीलाई २०८ रनको चुनौती दिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/pm-cup-lumbini-sets-gandaki-a-target-of-208-runs-74-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775980897_Gandaki-480x320.jpg"
+    },
+    {
+      "title": "विद्यार्थी संगठनका घाटी निमोठ्न खोजे सरकारकै जरो उखेलिन्छ : विप्लव",
+      "summary": "नेपाल पत्रकार महासङ्घले आज यहाँ आयोजना गरेको पत्रकार भेटमा उनले कानुन निर्माण र कार्यान्वयन गर्न निष्ठा र निष्पक्षताका साथ लाग्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-s-commitment-to-work-neutrally-35-88.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
