@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-12T03:34:47.028781",
+  "scraped_at": "2026-04-12T05:59:21.265584",
   "date": "2026-04-12",
-  "total_articles": 34,
+  "total_articles": 40,
   "sources": [
-    "KathmanduPost",
     "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/past-and-future-93-47.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "As students leave Nepal to study abroad, billions flow out",
+      "summary": "Rising spending reflects a search for opportunity overseas, while officials lack a clear strategy to bring graduates back or strengthen education at home.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/12/as-students-leave-nepal-to-study-abroad-billions-flow-out",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1775966723.jpg&w=300&height=200"
+    },
+    {
+      "title": "How Nepal Police is misusing urgent warrant of arrest",
+      "summary": "Kantipur’s analysis of arrest procedures of 788 suspects in the Valley in a month shows urgent warrants were used in 80 percent of all arrests.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/12/nepal-police-found-to-be-misusing-urgent-warrant-of-arrest",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/arresr-1775957972.jpg&w=300&height=200"
+    },
+    {
+      "title": "भारत प्रस्थान गरे बाबुराम",
+      "summary": "अदालतको उक्त आदेशपछि महासंघको निर्वाचन समिति र पदाधिकारीहरूबिच छलफल गरी निर्धारित कार्यक्रम स्थगित गरिएको थियो । महासंघले कानुनी प्रक्रियालाई सम्मान गर्दै निर्वाचनलाई पारदर्शी र समावेशी बनाउन आवश्यक पहल गरिने जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/new-date-set-for-fncci-elections-89-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775384908_fncci-480x320.jpg"
+    },
+    {
+      "title": "रङ्गशालाको काम छिटो टुंग्याउन मुख्यमन्त्री कँडेलको निर्देशन",
+      "summary": "उनलाई महानगर प्रहरी बलले नियन्त्रणमा लिएर कारबाहीका लागि टेकुस्थित कारबाही शाखामा बुझाएको महानगरले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jcv-driver-arrested-for-dumping-dirt-on-road-50-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775971646_mahanagar-480x320.jpg"
+    },
+    {
+      "title": "‘बहुपक्षीयताप्रति नेपाल प्रतिबद्ध छ’",
+      "summary": "यो वर्षा यामामा पनि झन् समस्या हुने डिभिजन कर्मचारीहरूले जनाएका छन्। उनीहरूका अनुसार यही अवस्था भए वर्षा यामका धेरै दिन बिपी राजमार्ग अबरुद्ध हुने स्थिति छ। यतिबेला त्यो राजमार्ग भएर यात्रा गर्ने यात्रुले निकै कष्ट भोग्ने गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/bp-highway-may-not-be-ready-before-the-rainy-season-53-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775971306_BP-480x320.jpg"
+    },
+    {
+      "title": "एउटै क्षेत्रबाट आउने कर्मचारीहरूको समूह बनाएर आलोपालो सवारीसाधन प्रयोग गरौँ : कार्यवाहक प्रमुख डंगोल",
+      "summary": "पूर्वप्रधानमन्त्री डा. बाबुराम भट्टराई आज (आइतबार) भारत प्रस्थान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/baburam-leaves-for-india-57-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775971094_baburam-480x320.jpg"
     }
   ]
 }
