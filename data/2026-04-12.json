@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-12T16:50:51.860408",
+  "scraped_at": "2026-04-12T20:46:46.196291",
   "date": "2026-04-12",
-  "total_articles": 58,
+  "total_articles": 59,
   "sources": [
     "KathmanduPost",
     "NagarikNews",
@@ -471,6 +471,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/four-employees-who-fell-ill-with-pneumonia-were-rescued-by-helicopter-95-93.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "निजामती सेवामा हलचल ल्याउने गरी अध्यादेशबाट ऐन ल्याउने तयारीमा सरकार",
+      "summary": "प्रतिनिधि सभा विघटन पछि शून्य अवस्थामा पुगेको संघीय निजामती सेवा ऐनलाई वर्तमान सरकारले अध्यादेशबाट ल्याउने तयारी गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-preparing-to-introduce-an-ordinance-based-act-to-bring-about-a-stir-in-the-civil-service-83-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775549952_Cabinet-480x320.jpg"
     }
   ]
 }
