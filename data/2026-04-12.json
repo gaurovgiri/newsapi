@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-12T08:59:07.579487",
+  "scraped_at": "2026-04-12T13:18:13.490833",
   "date": "2026-04-12",
-  "total_articles": 46,
+  "total_articles": 51,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -374,6 +374,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-s-commitment-to-work-neutrally-35-88.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "अदालततिर होइन महाधिवेशनतिर लागौं : महामन्त्री पौडेल",
+      "summary": "राष्ट्रिय रग्बी सेभेन्स महिला तथा पुरुष च्याम्पियनसिप-२०२६ को उपाधि पुरुषतर्फ सशस्त्र प्रहरीको एपीएफ क्लब र महिलातर्फ त्रिभुवन आर्मी क्लबले जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/national-rugby-sevens-apf-wins-men-s-title-army-wins-women-s-title-48-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775999800_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "लागुऔषध नियन्त्रणमा कडाइका साथ प्रस्तुत हुन गृहमन्त्रीको निर्देशन",
+      "summary": "कार्यविधि तयार नहुन्जेल बिरामीको हितलाई प्राथमिकतामा राख्दै उपलब्ध जनशक्ति र स्रोतका आधारमा सेवा सञ्चालन गर्न अस्पतालहरूलाई अनुरोध गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/ministry-thanks-hospital-for-operating-opd-service-on-sunday-96-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774943172_Swastya-480x320.jpg"
+    },
+    {
+      "title": "लिङ्देनलाई धवल पक्षको अल्टिमेटम- ताजा जनादेशबाहेक राप्रपासँग अर्को विकल्प छैन",
+      "summary": "यो रास्वपा र बालेन्द्र शाहका लागि ठूलो आशा र भरोसाको झोली जनताले बोकाइदिएको अविस्मरणीय क्षण हो। नयाँ सरकारका अगाडि धेरै अवसरहरू रहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/balendra-government-faces-challenges-as-much-as-opportunities-45-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775998610_Balen_art-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङले ‘पिर्के सलामी’ नलिने",
+      "summary": "पेस्कोभले युक्रेनमा जारी युद्धलाई सङ्केत गर्दै भने, ‘सहमति अनुसार इस्टरका लागि भएको युद्धविराम अवधि समाप्त भएपछि विशेष सैन्य अभियान जारी रहनेछ ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/war-will-not-stop-until-zelensky-accepts-ceasefire-terms-kremlin-19-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741054935_putin zelenskii-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाको अध्यक्षबाट लिङदेनलाई हटाउन महामन्त्रीसहित ११ जनाको हस्ताक्षर",
+      "summary": "राष्ट्रिय रग्बी सेभेन्स महिला तथा पुरुष च्याम्पियनसिप-२०२६ को उपाधि पुरुषतर्फ सशस्त्र प्रहरीको एपीएफ क्लब र महिलातर्फ त्रिभुवन आर्मी क्लबले जितेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/national-rugby-sevens-apf-wins-men-s-title-army-wins-women-s-title-48-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
