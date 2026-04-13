@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-13T06:22:45.321812",
+  "scraped_at": "2026-04-13T10:02:34.454108",
   "date": "2026-04-13",
-  "total_articles": 39,
+  "total_articles": 46,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -319,6 +319,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-directs-to-ensure-quality-internet-service-within-singha-durbar-22-95.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775208180_bikram timilsina-480x320.jpg"
+    },
+    {
+      "title": "Nepal weighs ‘infrastructure court’ to fast-track dispute resolution",
+      "summary": "Study panel formed as prolonged litigation stalls development projects and delays contract awards.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/13/nepal-weighs-infrastructure-court-to-fast-track-dispute-resolution",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1776052263.jpg&w=300&height=200"
+    },
+    {
+      "title": "Monkey sterilisation pilot begins in Diktel",
+      "summary": "Six-member expert team begins field study amid complaints over crop damage.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/13/monkey-sterilisation-pilot-begins-in-diktel",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/badarbandakarayan13420260915061000x0-1776069554.jpg&w=600&height=400"
+    },
+    {
+      "title": "बागमतीका सांसदहरूसँग छलफलमा प्रधानमन्त्री",
+      "summary": "आर्टेमिस–२ को महत्व केवल एउटा सफल उडानमा सीमित छैन । यसले भविष्यमा चन्द्रमामा फेरि मानिस उतार्ने योजना, चन्द्रमाको वरिपरि आधार तयार गर्ने लक्ष्य र अझ पछि मङ्गल ग्रहसम्म मानव यात्रा गर्ने दीर्घकालीन सोचलाई बलियो आधार दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/humanity-returning-to-the-moon-25-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776073554_Parsu-480x320.jpg"
+    },
+    {
+      "title": "बाग्मती प्रदेशका सांसदसँग छलफल गर्दै प्रधानमन्त्री",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले बागमती प्रदेशबाट प्रतिनिधित्व गर्ने सांसदहरूसँग क्षेत्रगत समस्या र समाधानका उपायबारे छलफल गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-in-discussion-with-bagmati-mps-27-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776073247_chalfal-480x320.jpg"
+    },
+    {
+      "title": "क्रियाशील सदस्यता खारेज नगरिएको महामन्त्रीद्वयको स्पष्टोक्ति",
+      "summary": "सोमबार कोशी प्रदेशको उद्योग, कृषि तथा सहकारी मन्त्रालयले पत्रकार सम्मेलन गरी साना बचतकर्ताको बचत रकम फिर्ता दिन थालिएको जानकारी दिएको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/koshi-government-begins-refunding-savings-of-troubled-cooperative-savers-79-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776073146_BRT News-480x320.jpg"
+    },
+    {
+      "title": "क्रियाशील सदस्यता कसैले खारेज गर्न सक्दैन : पूर्णबहादुर खड्का",
+      "summary": "प्रधानमन्त्री शाहले बाग्मती प्रदेशबाट प्रतिनिधित्व गर्ने प्रतिनिधि सभा सदस्यहरूसँग छलफल गरिरहेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-discussing-with-bagmati-province-mps-br-73-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776072752_Bagmati-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति विवरणभन्दा करका कागजात भरपर्दो: पूर्वअर्थमन्त्री खनाल",
+      "summary": "आर्टेमिस–२ को महत्व केवल एउटा सफल उडानमा सीमित छैन । यसले भविष्यमा चन्द्रमामा फेरि मानिस उतार्ने योजना, चन्द्रमाको वरिपरि आधार तयार गर्ने लक्ष्य र अझ पछि मङ्गल ग्रहसम्म मानव यात्रा गर्ने दीर्घकालीन सोचलाई बलियो आधार दिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/technology/humanity-returning-to-the-moon-25-77.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
