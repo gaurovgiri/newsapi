@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-13T10:02:34.454108",
+  "scraped_at": "2026-04-13T13:59:54.078484",
   "date": "2026-04-13",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/technology/humanity-returning-to-the-moon-25-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Education ministry asks local units to act against schools failing to provide scholarships",
+      "summary": "Private schools have either been reluctant to provide scholarships or failed to ensure transparency in their distribution.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/13/education-ministry-asks-local-units-to-act-against-schools-failing-to-provide-scholarships",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SCHOLARSHIPBILL-1776082024.jpg&w=300&height=200"
+    },
+    {
+      "title": "Why is Nepal’s private press covered in question marks today?",
+      "summary": "Dozens of newspapers are blanking out their front pages to fight a new government rule that pulls state ads from private media.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/13/why-is-nepal-s-private-press-covered-in-question-marks-today",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/paper-1776055005.jpg&w=300&height=200"
+    },
+    {
+      "title": "स्वकीय सचिवको योग्यता निर्धारण गरिने",
+      "summary": "संघीय संसद सचिवालय सञ्चालन तथा व्यवस्थापन समितिको बैठकले प्रक्रिया अघि बढाउन सरकारलाई सिफारिस गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/qualifications-of-personal-secretary-to-be-determined-80-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776087977_samsad news-480x320.jpg"
+    },
+    {
+      "title": "ऊर्जामन्त्रीका दुई साता: शतप्रतिशत गुनासो सम्बोधन, अलपत्र आयोजनामा ‘एक्सन’",
+      "summary": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराज भक्त श्रेष्ठले पदभार ग्रहण गरेको पहिलो दुई सातामै सुशासन, सेवा प्रवाह र नीतिगत सुधारमा नतिजामुखी सुरुवात गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/energy-minister-shrestha-s-two-weeks-100-complaints-addressed-br-64-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776088234_biraj-480x320.jpg"
+    },
+    {
+      "title": "डिजिटलाइजेशन तथा ई–पार्लियामेन्ट निर्माणमा सभामुख अर्यालको विशेष चासो",
+      "summary": "सभामुख अर्यालले महिला सांसदहरूको क्षमता विकासका लागि सहकार्य आवश्यक रहेको बताउँदै उपयुक्त मोडालिटी तय गर्नुपर्नेमा जोड दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-s-special-interest-in-digitalization-and-e-parliament-building-27-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776087264_DP Aryal-480x320.jpg"
+    },
+    {
+      "title": "२०८२ राजनीतिक ‘सुनामी’को वर्ष",
+      "summary": "प्रहरी जवान चौरसियाको हत्या विवाहेत्तर प्रेम सम्बन्धका कारण भएको प्रहरीको प्रारम्भिक निष्कर्ष रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/policeman-killed-by-girlfriend-s-husband-after-calling-to-meet-him-97-52.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776086459_news birjung-480x320.jpg"
+    },
+    {
+      "title": "संसद्का संयुक्त समितिले पाए पूर्णता",
+      "summary": "संघीय संसद सचिवालय सञ्चालन तथा व्यवस्थापन समितिको बैठकले प्रक्रिया अघि बढाउन सरकारलाई सिफारिस गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/qualifications-of-personal-secretary-to-be-determined-80-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
