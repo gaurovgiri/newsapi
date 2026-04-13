@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-13T03:41:15.115553",
+  "scraped_at": "2026-04-13T06:22:45.321812",
   "date": "2026-04-13",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -279,6 +279,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/saying-that-the-source-was-not-disclosed-the-uml-leader-said-congratulations-on-estimating-future-earnings-now-64-82.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Cost of Supreme Court verdict on Lumbini: Rs70 billion investment, 10,000 jobs",
+      "summary": "Environmentalists contend the polluting factories in question are a big threat to the historical legacy of the Buddha’s birthplace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/12/cost-of-supreme-court-verdict-on-lumbini-rs70-billion-investment-10-000-jobs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/lumbini-1776043437.jpg&w=600&height=400"
+    },
+    {
+      "title": "Can PM Shah redefine Nepal-India ties?",
+      "summary": "Environmentalists contend the polluting factories in question are a big threat to the historical legacy of the Buddha’s birthplace.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/04/12/pm-shah-s-diplomatic-journey-to-redefine-nepal-india-relations",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/BU53UWELKVCNRA5NYLG762SVKY-1776057901.jpg&w=400&height=267"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओलीको पित्तथैलीको शल्यक्रिया हुँदै",
+      "summary": "जेनजी आन्दोलन जाँचबुझ प्रतिवेदनको सिफारिस बमोजिम प्रहरीले चैत १३ गते ओलीलाई भक्तपुरको गुण्डुस्थित निवासबाट पक्राउ गरेको थियो। सोही दिन स्वास्थ्यमा समस्या देखिएपछि उनलाई अस्पताल भर्ना गरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-undergoes-gallbladder-surgery-39-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774669913_KP OLI 2-480x320.jpg"
+    },
+    {
+      "title": "गरिब जनतासँग तरकारीमा लाउने लसुन छैन, नेताहरूसँग सुन नै सुन : सांसद साम्पाङ",
+      "summary": "'गरिब जनतासँग तरकारीमा लाउने लसुन छैन! नेताहरूसँग सुन नै सुन! के गर्नु हौ त्यो सुन? म खान मिल्ने,' उनले सामाजिक सञ्जालमा लेखे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/poor-people-don-t-have-garlic-to-add-to-their-vegetables-leaders-have-gold-mp-sampang-13-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774751660_harka sampang-480x320.jpg"
+    },
+    {
+      "title": "सिंहदरबारभित्र गुणस्तरीय इन्टरनेट सेवा सुनिश्चित गर्न सञ्चारमन्त्रीको निर्देशन",
+      "summary": "उनले इन्टरनेट सेवा कुनै पनि अवस्थामा अवरुद्ध हुन नहुने स्पष्ट पार्दै सेवा प्रदायक र सम्बन्धित निकायहरूलाई उच्च सतर्कता अपनाउन निर्देशन दिए। सेवामा अवरोध आउन सक्ने सम्भावित कारणहरूको पहिचान गरी त्यसलाई समयमै समाधान गर्नुपर्नेमा उनको विशेष जोड थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-directs-to-ensure-quality-internet-service-within-singha-durbar-22-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775208180_bikram timilsina-480x320.jpg"
     }
   ]
 }
