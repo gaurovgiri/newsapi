@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-14T09:27:04.036040",
+  "scraped_at": "2026-04-14T14:03:36.848359",
   "date": "2026-04-14",
-  "total_articles": 46,
+  "total_articles": 52,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -374,6 +374,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/khanal-calls-for-moving-towards-socialist-transformation-in-the-new-year-2083-26-90.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Government unveils 18-point national commitment draft",
+      "summary": "The draft is prepared from parties’ election pledges as part of implementing the government’s 100-point governance plan.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/14/government-unveils-18-point-national-commitment-draft",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/cabinet14420261056561000x0-1776164184.jpg&w=300&height=200"
+    },
+    {
+      "title": "पाँच वर्षमा २५ प्रतिशत नयाँ जनशक्ति थप्ने सरकारको योजना",
+      "summary": "सिंहदरबार, नारायणहिटी दरबार, दशरथ रङ्गशालालगायत स्थलका संरचनाको वास्तु नमिलेकाले देशमा समस्या आउने दाबी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2083-is-auspicious-for-nepal-65-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776175195_Barsa 2083-480x320.jpg"
+    },
+    {
+      "title": "एमालेले ल्याएको ‘सगरमाथा संवाद’लाई बालेन सरकारको निरन्तरता",
+      "summary": "सरकारले आगामी पाँच वर्षभित्र सरकारी सेवामा २५ प्रतिशत नयाँ र सक्षम जनशक्ति भित्र्याउने महत्वाकांक्षी योजना अघि सारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-plans-to-add-25-percent-new-manpower-in-five-years-23-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774842211_1774608134_Cabinate-1200x560-480x320.jpg"
+    },
+    {
+      "title": "निजी स्वार्थ त्यागेर कम्युनिस्ट पुनर्गठनमा जुटौँ: नारायणकाजी",
+      "summary": "मंगलबार भएको खेलमा फोर ब्रदर्स एफसीका कप्तान नवीन महत्तो एक्लैले ४ गोल गर्दै टिमलाई सेमिफाइनलमा पुर्‍याएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/four-brothers-fc-advances-to-semi-finals-of-first-khajura-gold-cup-34-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776174574_Khajuri Goldcup-480x320.jpg"
+    },
+    {
+      "title": "दिल्ली पुगेर बाबुरामले भने: जेन-जीको शक्तिले नेपालमा नयाँ राजनीतिक युग सुरु भयो",
+      "summary": "पतिले आफ्नी पत्नीको चोलीमा आफैंले बनाएका नौवटा गाँठो भएको पहेँलो रङको तागा बनाएर पूजा–पाठ गरी झुन्ड्याइने गरिन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/tage-sankranti-celebrates-love-between-husband-and-wife-90-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/photos/1776174152_Tage Mela (1)-480x320-wm.jpg"
+    },
+    {
+      "title": "नागरिक उड्डयन प्राधिकरण टुक्रयाइने, ५ वर्षमा पर्यटकको खर्च दोब्बर पारिने",
+      "summary": "सिंहदरबार, नारायणहिटी दरबार, दशरथ रङ्गशालालगायत स्थलका संरचनाको वास्तु नमिलेकाले देशमा समस्या आउने दाबी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2083-is-auspicious-for-nepal-65-55.html?click_from=just_in",
       "image_url": ""
     }
   ]
