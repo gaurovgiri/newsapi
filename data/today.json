@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-14T14:03:36.848359",
+  "scraped_at": "2026-04-14T17:18:48.496885",
   "date": "2026-04-14",
-  "total_articles": 53,
+  "total_articles": 59,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -430,6 +430,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2083-is-auspicious-for-nepal-65-55.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal Police is shooting drug suspects more often. It isn’t reducing drug crime.",
+      "summary": "Nepali police have opened fire in 17 drug operations in three years. Officers say the shootings are necessary. The evidence says otherwise.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/14/nepal-police-is-shooting-drug-suspects-more-often-it-isn-t-reducing-drug-crime",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/POLICE-1776180538.jpg&w=300&height=200"
+    },
+    {
+      "title": "विभेदप्रति राज्यले औपचारिक क्षमायाचना गर्ने, सबै सरकारी निकायमा ‘समावेशी अडिट’ हुने",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले विगतका राज्यसत्ता र सामाजिक संरचनाले गरेका ऐतिहासिक विभेद, अन्याय र बहिष्करणप्रति राज्यका तर्फबाट औपचारिक क्षमायाचना गर्ने नीति अघि सारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-state-will-formally-apologize-for-discrimination-and-a-comprehensive-audit-will-be-conducted-in-all-government-agencies-50-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776180588_equ-480x320.jpg"
+    },
+    {
+      "title": "विपद् व्यवस्थापनमा ‘एआई’ प्रविधि प्रयोग गरिने",
+      "summary": "नयाँ वर्ष २०८३ को स्वागतसँगै पर्यटकीय राजधानी पोखरा यतिबेला मस्त झुमिरहेको छ",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pokhara-celebrates-the-new-year-with-great-enthusiasm-94-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776182750_Pokhara-480x320.jpg"
+    },
+    {
+      "title": "सहकारी र लघुवित्तलाई राष्ट्र बैंकको नियमनमा ल्याइने, बचत डुब्न नदिन ‘बचत सुरक्षा कोष’ स्थापना गरिने",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले बाढी, पहिरो तथा प्राकृतिक विपद्बाट हुने जनधनको क्षति रोक्न पूर्वसूचना प्रणालीमा कृत्रिम बुद्धिमत्ता ‘एआई’ प्रविधि प्रयोग गर्ने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ai-technology-to-be-used-in-disaster-management-43-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776181579_flood-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले गणतन्त्रलाई खीलको रुपमा लिन खोजेको हो ?’",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले सहकारी र लघुवित्त क्षेत्रमा देखिएको विकृति र अराजकता अन्त्य गर्न यसलाई नेपाल राष्ट्र बैंकको प्रत्यक्ष नियमनमा ल्याउने घोषणा गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cooperatives-and-microfinance-will-be-brought-under-the-regulation-of-the-national-bank-and-a-savings-protection-fund-will-be-established-to-prevent-savings-from-sinking-61-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776181926_sahakari-480x320.jpg"
+    },
+    {
+      "title": "चुरेको दोहन रोक्न ‘चुरे संरक्षण प्राधिकरण’ गठन गरिने",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारले विगतका राज्यसत्ता र सामाजिक संरचनाले गरेका ऐतिहासिक विभेद, अन्याय र बहिष्करणप्रति राज्यका तर्फबाट औपचारिक क्षमायाचना गर्ने नीति अघि सारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-state-will-formally-apologize-for-discrimination-and-a-comprehensive-audit-will-be-conducted-in-all-government-agencies-50-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
