@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-14T03:30:55.184835",
+  "scraped_at": "2026-04-14T06:05:36.288704",
   "date": "2026-04-14",
-  "total_articles": 33,
+  "total_articles": 39,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -270,6 +270,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/the-price-of-eggs-has-increased-again-how-much-do-they-cost-now-21-42.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "4G keeps growing fast in Nepal, while users still face slow speeds and patchy coverage",
+      "summary": "With 26.58 million users and rising penetration, 4G dominates Nepal’s internet market amid uneven service quality and limited progress on next-generation networks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/science-technology/2026/04/14/4g-keeps-growing-fast-in-nepal-while-users-still-face-slow-speeds-and-patchy-coverage",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Gemini_Generated_Image_5txoud5txoud5txo.png&w=300&height=200"
+    },
+    {
+      "title": "Phewa demolitions, now halted, expose buffer dispute, selective enforcement",
+      "summary": "Residents and landowners allege that boundaries are unclear, enforcement is selective, and the 65-metre buffer rule does not have a scientific basis.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/14/phewa-demolitions-now-halted-expose-buffer-dispute-selective-enforcement",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/pokhara11774918946-1776128530.jpg&w=300&height=200"
+    },
+    {
+      "title": "नारायणगढ-बुटवल सडक निर्माण कार्य समयमै सकाउन गृहमन्त्रीको निर्देशन",
+      "summary": "जारी इन्डियन प्रिमियर लिग (आईपिएल )अन्तर्गत आज चेन्नई सुपर किंग्स र कोलकाता नाइट राइडर्सबीच प्रतिस्पर्धा हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-chennai-and-kolkata-competing-85-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776145743_ipl-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभाका अध्यक्ष इस्तानबुल प्रस्थान",
+      "summary": "आगलागीबाट दुवै उद्योगका कच्चा पदार्थ, तयारी सामग्री तथा मेसिनरी सामान जलेर नष्ट हुँदा करिब एक करोड मूल्य बराबरको क्षति भएको प्रहरीले प्रारम्भिक अनुमान गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/fire-in-two-industries-in-jhapa-damage-worth-rs-10-million-34-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765371266_aago-480x320.jpg"
+    },
+    {
+      "title": "‘आगामी दिनलाई अझ उज्यालो, न्यायपूर्ण र समृद्ध बनाउन सफलता मिलोस्’",
+      "summary": "सयौँको संख्यामा रहेका प्रदर्शनकारीले सुरुमा सिनेटका डेमोक्र्याटिक नेता चक शुमर र सिनेटर कर्स्टन गिलिब्रान्डको कार्यालय घेर्ने प्रयास गरेका थिए। उनीहरूले गिलिब्रान्डमाथि लेबनानमा इजरायली आक्रमण र इरान विरुद्धको युद्धलाई उक्साएको आरोप लगाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/more-than-90-protesters-arrested-in-new-york-against-iran-war-37-94.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776144914_Arrested-480x320.jpg"
+    },
+    {
+      "title": "हदबन्दीभन्दा बढी जग्गा देखिए के हुन्छ ?",
+      "summary": "जारी इन्डियन प्रिमियर लिग (आईपिएल )अन्तर्गत आज चेन्नई सुपर किंग्स र कोलकाता नाइट राइडर्सबीच प्रतिस्पर्धा हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-chennai-and-kolkata-competing-85-11.html?click_from=just_in",
       "image_url": ""
     }
   ]
