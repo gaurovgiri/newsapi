@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-14T06:05:36.288704",
+  "scraped_at": "2026-04-14T09:27:04.036040",
   "date": "2026-04-14",
-  "total_articles": 40,
+  "total_articles": 47,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -326,6 +326,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-chennai-and-kolkata-competing-85-11.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "FIFA, AFC press NSC to lift ANFA suspension, resume election process",
+      "summary": "World football bodies warn of possible suspension if interference persists, reject call for tier-based polls.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/04/14/fifa-afc-press-nsc-to-lift-anfa-suspension-resume-election-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/257PJNLUXJMLNG72S76IM5252U-1776151420.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ink that speaks—and what it forgets",
+      "summary": "As tattoo culture grows and stigma fades, the International Nepal Tattoo Convention highlights global artistry while also drawing attention to the declining presence of indigenous tattoo traditions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/14/ink-that-speaks-and-what-it-forgets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Main13-1776130593.jpg&w=600&height=400"
+    },
+    {
+      "title": "नयाँ वर्ष २०८३ मा समाजवादी रूपान्तरणतर्फ अग्रसर हुन खनालको आह्वान",
+      "summary": "पूर्वप्रधानमन्त्री तथा नेपाली कम्युनिस्ट आन्दोलनका वरिष्ठ नेता झलनाथ खनालले नयाँ वर्ष २०८३ को अवसरमा सम्पूर्ण नेपालीहरूलाई शुभकामना व्यक्त गर्दै देशलाई समाजवादी रूपान्तरणतर्फ अघि बढाउन आह्वान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/khanal-calls-for-moving-towards-socialist-transformation-in-the-new-year-2083-26-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775811624_JN_Khanal-480x320.jpg"
+    },
+    {
+      "title": "सदस्यता नवीकरण नगरे कांग्रेसको क्रियाशील सदस्य नै हुँदैन: गगन थापा",
+      "summary": "अमेरिका र इजरायलको इरानसँगको जारी युद्धले एसियाको अर्थतन्त्रलाई सयौं अर्ब डलरको क्षति पुर्‍याउने संयुक्त राष्ट्रसंघको एक प्रतिवेदनमा देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-iran-war-asia-s-losses-expected-to-range-from-97-to-299-billion-74-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776157569_gas shortage india-480x320.jpg"
+    },
+    {
+      "title": "के हो कांग्रेसको जरा अभियान ?",
+      "summary": "नेपाली कांग्रेसका सभापति गगन थापाले पार्टीको क्रियाशील सदस्यले अनिवार्य सदस्यता नवीकरण गराउनुपर्ने बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/if-you-don-t-renew-your-membership-you-won-t-be-an-active-member-of-the-congress-gagan-thapa-92-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774342783_Gagan-Thapa1-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले चलायो क्रियाशील सदस्यताको अद्यावधिक अभियान",
+      "summary": "नयाँ वर्षको सुरुवातसँगै पार्टी सभापति गगन थापाले काठमाडौं महानगरपालिका वडा नं. ३० मा क्रियाशील सदस्यता अद्यावधिक गर्दै अभियानको सुरुवात गरेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/what-is-congress-s-root-campaign-97-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776156905_Jara Abhiyan-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक रोगको रूपमा झाँगिएको भ्रष्टाचारको अन्त्य गर्नैपर्छ : धवलशम्सेर राणा",
+      "summary": "पूर्वप्रधानमन्त्री तथा नेपाली कम्युनिस्ट आन्दोलनका वरिष्ठ नेता झलनाथ खनालले नयाँ वर्ष २०८३ को अवसरमा सम्पूर्ण नेपालीहरूलाई शुभकामना व्यक्त गर्दै देशलाई समाजवादी रूपान्तरणतर्फ अघि बढाउन आह्वान गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/khanal-calls-for-moving-towards-socialist-transformation-in-the-new-year-2083-26-90.html?click_from=just_in",
       "image_url": ""
     }
   ]
