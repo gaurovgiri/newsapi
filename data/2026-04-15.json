@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-15T06:05:11.522219",
+  "scraped_at": "2026-04-15T09:43:06.406409",
   "date": "2026-04-15",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/disaster-responders-ready-in-all-wards-of-pokhara-metropolis-32-84.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776230485_pokhara-480x320.jpg"
+    },
+    {
+      "title": "How a wrong number led to a deadly street clash in Lalitpur",
+      "summary": "A misdialled call escalated into insults, a face-to-face meeting and a sudden street fight in Mangalbazar that ended with two brothers being killed.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/lalitpur/2026/04/15/how-a-wrong-number-led-to-a-deadly-street-clash-in-lalitpur",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/fights14420260452531000x0-1776233648.jpg&w=300&height=200"
+    },
+    {
+      "title": "Residences of Agrawal, Bhatta raided in money laundering probe",
+      "summary": "Sulav Agrawal and Deepak Bhatta face allegations of manipulating public contracts, licenses, and taxes. Authorities investigate suspicious transactions between Shanker Group and Infinity Holdings.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/residences-of-agrawal-bhatta-raided-in-money-laundering-probe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/whatsappimage20260415at13173115420260943451000x0-1776242258.jpg&w=300&height=200"
+    },
+    {
+      "title": "Trout farming grows in Jumla as farmers chase local livelihoods",
+      "summary": "Cold-climate aquaculture draws investment and returnee workers, but lack of technical expertise continues to constrain expansion.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/trout-farming-grows-in-jumla-as-farmers-chase-local-livelihoods",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/shutterstock2709407873-1776240105.jpg&w=600&height=400"
+    },
+    {
+      "title": "पूर्वउपसभापति खड्कालाई स्पष्टीकरण सोध्ने कांग्रेसको निर्णय",
+      "summary": "इरानी राष्ट्रपति मसूद पेजेश्कियानले अमेरिका वा इजरायलले इरानलाई झुकाउने प्रयास असफल हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-iranian-president-say-amid-the-possibility-of-a-second-round-of-talks-with-the-us-28-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776245786_IRAN PRES-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री नबनाएपछि सांसदबाट राजीनामा",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इरानसँगको सम्भावित वार्ताको बारेमा बोलेका छन‍्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/will-talks-with-the-us-resume-15-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776245354_iran barta-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई रक्षाको सुझाव: आफूलाई असीमित ठान्ने भूल नदोहोर्‍याउनुहोला",
+      "summary": "औषधि व्यवस्था विभागको निमित्त महानिर्देशकमा शिवानी खड्गी नियुक्त भएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/shivani-khadgi-appointed-as-acting-director-general-of-the-department-of-drug-management-31-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776244421_siwani-480x320.jpg"
+    },
+    {
+      "title": "गण्डकीमा मन्त्रिमण्डल पुनर्गठन: सबै पुराना मन्त्री बिदा, आठ नयाँ अनुहारले लिए शपथ",
+      "summary": "जय ट्रफी मेन्स एलिट कप प्रतियोगिता खेल्ने ६ वटै टोलीको टुंगो लागेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/all-6-teams-to-play-in-the-jay-trophy-have-been-finalized-35-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776243865_jay trophy-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा : समिति सभापतिका लागि शुक्रबार निर्वाचन हुने",
+      "summary": "इरानी राष्ट्रपति मसूद पेजेश्कियानले अमेरिका वा इजरायलले इरानलाई झुकाउने प्रयास असफल हुने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-iranian-president-say-amid-the-possibility-of-a-second-round-of-talks-with-the-us-28-31.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
