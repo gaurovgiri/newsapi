@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-15T13:56:23.655723",
+  "scraped_at": "2026-04-15T17:15:23.549013",
   "date": "2026-04-15",
-  "total_articles": 54,
+  "total_articles": 61,
   "sources": [
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -438,6 +438,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-decisions-of-the-council-of-ministers-meeting-58-99.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Poor infrastructure and tardy legal processes push children in correction centres into deeper distress",
+      "summary": "Law requires that such children be kept under supervision while ensuring their educational, intellectual and psychological development, including the right to study, play and recreation",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/poor-infrastructure-and-tardy-legal-processes-push-children-in-correction-centres-into-deeper-distress",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/bhaktapur22820230437001000x0-1776254437.jpg&w=300&height=200"
+    },
+    {
+      "title": "High-altitude chauri festival draws crowds despite harsh conditions",
+      "summary": "The festival in remote Panchthar overcomes poor weather and access challenges, attracting record visitors and boosting local livelihoods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/high-altitude-chauri-festival-draws-crowds-despite-harsh-conditions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/chhauri-1776269193.jpg&w=600&height=400"
+    },
+    {
+      "title": "कांग्रेस विवाद विभाजन उन्मुख",
+      "summary": "तनहुँको आँबुखैरनी गाउँपालिका–१ बरादीस्थित अकला मन्दिर नजिक मर्स्याङ्दी नदीको ड्याममा नुहाउने क्रममा बेपत्ता भएका पुरुषको शव फेला परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-missing-man-found-while-bathing-15-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "समानुपातिक सांसदलाई प्रधानमन्त्रीको निर्देशन : कुनै एउटा क्षेत्र विशेषमा मात्र सीमित नरहनू",
+      "summary": "गत पुसमा भएको विशेष महाधिवेशनसँगै बढ्दै गएको नेपाली कांग्रेसभित्रको आन्तरिक विवाद चुलिन पुगेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-controversy-oriented-division-80-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774711544_congress-480x320.jpg"
+    },
+    {
+      "title": "आईजीपी बन्न आरजुलाई ७ करोड बुझाएको भए म अहिले सांसद हुने थिइनँ: विश्वराज",
+      "summary": "जन्म दर्ता, विवाह दर्ता, सम्बन्धबिच्छेद दर्तालगायतका पञ्जीकरणका सूचना एकीकृत प्रणालीमा आबद्ध गर्ने प्रक्रिया थालिएको सूचना प्रविधि विभागका महानिर्देशक श्रीचन्द्र साहले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/now-registration-certificates-are-also-available-on-the-citizen-app-20-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762266036_nagarik app-480x320.jpg"
+    },
+    {
+      "title": "सरकारी दस्ताबेजहरूमा भाषिक प्रयोगहरूमा पर्याप्त सावधानी आवश्यक छ : प्रदीप ज्ञवाली",
+      "summary": "इरानले नियन्त्रणमा लिएका नेपाली युवा अमृत झा रिहा भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepali-youth-amrit-jha-held-by-iran-released-63-66.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776268080_amrit-480x320.jpg"
+    },
+    {
+      "title": "हामीले पनि डेलिभरी दिन सकेनौं भने देशमा राजनीतिक वितृष्णा चुलिन्छ: पोखरेल",
+      "summary": "तनहुँको आँबुखैरनी गाउँपालिका–१ बरादीस्थित अकला मन्दिर नजिक मर्स्याङ्दी नदीको ड्याममा नुहाउने क्रममा बेपत्ता भएका पुरुषको शव फेला परेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/body-of-missing-man-found-while-bathing-15-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
