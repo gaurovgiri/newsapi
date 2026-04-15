@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-15T09:43:06.406409",
+  "scraped_at": "2026-04-15T13:56:23.655723",
   "date": "2026-04-15",
-  "total_articles": 46,
+  "total_articles": 54,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-the-iranian-president-say-amid-the-possibility-of-a-second-round-of-talks-with-the-us-28-31.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepali media is fighting for survival. Its journalists are fighting for their paychecks",
+      "summary": "As the industry faces an existential threat, newsroom staff are going months without pay, with little recourse and nowhere else to go.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/15/nepali-media-is-fighting-for-survival-its-journalists-are-fighting-for-their-paychecks",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shutterstock286380281-1776236010.jpg&w=300&height=200"
+    },
+    {
+      "title": "Office dispute forces costly administrative trips in Bajhang",
+      "summary": "Row over location leaves half the district's population without easy access to administrative services.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/office-dispute-forces-costly-administrative-trips-in-bajhang",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/deurabazar-1776254971.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bullion prices rebound after early-week dip",
+      "summary": "Gold and silver recover from sharp declines to close the week higher.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/15/bullion-prices-rebound-after-early-week-dip",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/fina-1776252215.jpg&w=600&height=400"
+    },
+    {
+      "title": "यस्ता छन् मन्त्रिपरिषद् बैठकका निर्णयहरू",
+      "summary": "सरकारले वि.सं. २०६२ देखि हालसम्म सार्वजनिक पद धारणा गरेका प्रमुख राजनीतिक व्यक्तित्व र उच्चपदस्थ कर्मचारीहरूको सम्पत्ति छानबिन गर्न उच्चस्तरीय आयोग गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-decisions-of-the-council-of-ministers-meeting-58-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776253989_cabinet new-480x320.jpg"
+    },
+    {
+      "title": "स्विट्जरल्याण्डबाट १५ करोड अनुदान लिने सरकारको निर्णय",
+      "summary": "अवैध रूपमा भित्र्याइएका बैखी जातका साढे दुई क्विन्टल बढी माछा कपिलवस्तुको शिवराज नगरपालिका–६ गडगैडामा बरामद गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/two-and-a-half-quintals-of-illegal-fish-seized-86-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776259669_machha-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक: ६२ सालपछिका उच्च पदस्थको सम्पत्ति छानबिन गर्न आयोग गठन",
+      "summary": "सरकारले भोलि(बिहीबार)सम्ममा सबै मन्त्रालय र विभागमा रहेका सवारीसाधनको विवरण पेश गर्न निर्देशन दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/instructions-to-submit-details-of-vehicles-in-all-ministries-and-departments-62-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776259623_Pradhanmantri-480x320.jpg"
+    },
+    {
+      "title": "दलहरूसँग संवाद गर्न केसीको संयोजकत्वमा वार्ता टोली गठन, महाधिवेशनको जिम्मेवारी गगनलाई",
+      "summary": "सरकारले बेपत्ता पारिएका व्यक्तिको छानबिन तथा सत्य निरूपण कोषका लागि स्विट्जरल्याण्ड सरकारबाट प्राप्त हुने करिब १५ करोड रुपैयाँ अनुदान सहायता स्वीकार गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-decision-to-receive-a-grant-of-150-million-from-switzerland-br-73-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776258672_sarkar-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक सुरु",
+      "summary": "सरकारले वि.सं. २०६२ देखि हालसम्म सार्वजनिक पद धारणा गरेका प्रमुख राजनीतिक व्यक्तित्व र उच्चपदस्थ कर्मचारीहरूको सम्पत्ति छानबिन गर्न उच्चस्तरीय आयोग गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/these-are-the-decisions-of-the-council-of-ministers-meeting-58-99.html?click_from=just_in",
       "image_url": ""
     }
   ]
