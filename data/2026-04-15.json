@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-15T03:29:38.344225",
+  "scraped_at": "2026-04-15T06:05:11.522219",
   "date": "2026-04-15",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/chief-minister-shah-leaves-for-delhi-for-treatment-56-68.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Tribhuvan University says it will reclaim encroached land. No action has followed the decision",
+      "summary": "Recovery effort stalls despite official decision, with unions, staff and procedural delays slowing implementation of probe-backed reclamation drive.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/tribhuvan-university-says-it-will-reclaim-encroached-land-no-action-has-followed-the-decision",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1776226127.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ex-minister Deepak Khadka faces probe over corruption and tax evasion allegations",
+      "summary": "Khadka is under investigation after authorities refer corruption and tax evasion allegations to CIAA and Department of Revenue Investigation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/15/ex-minister-deepak-khadka-faces-probe-over-corruption-and-tax-evasion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1776228855.jpg&w=300&height=200"
+    },
+    {
+      "title": "परराष्ट्र नीतिमा ‘बफर स्टेट’ शब्द प्रयोग गरेकोमा ज्ञवालीको आपत्ति",
+      "summary": "उनलाई प्रहरीको केन्द्रीय अनुसन्धान ब्युरो (सीआईबी)ले गत १९ चैतमा नियन्त्रणमा लिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/raid-on-deepak-bhatt-s-residence-for-money-laundering-47-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775122765_Dipak_Bhatta-480x320.jpg"
+    },
+    {
+      "title": "सरकारको ‘राष्ट्रिय प्रतिबद्धता’ डेन्टिङ पेन्टिङ गरिएको ‘नयाँवाद’ : गोकुल बास्कोटा",
+      "summary": "पोखरा–९ शान्तिवनस्थित दमकल कार्यालयमा परिसरमा केन्द्र रहेको छ । महानगरले रु पाँच करोड २१ लाख लागतमा महानगर प्रहरी कार्यालय र केन्द्रको भवन निर्माण गरेको हो । केन्द्र नयाँ वर्षको दिन मंगलबारदेखि सञ्चालनमा ल्याइएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/disaster-responders-ready-in-all-wards-of-pokhara-metropolis-32-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776230485_pokhara-480x320.jpg"
     }
   ]
 }
