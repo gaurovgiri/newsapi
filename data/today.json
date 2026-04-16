@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-16T09:26:40.107904",
+  "scraped_at": "2026-04-16T14:05:21.596441",
   "date": "2026-04-16",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/education/ministry-of-education-s-special-program-targeting-students-who-have-passed-see-br-89-87.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal stops unauthorised IVF consultation camp by Indian doctors",
+      "summary": "Two Indian doctors apologise for planning the camp without prior approval from Nepal Medical Council.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/16/nepal-stops-unauthorised-ivf-consultation-camp-by-indian-doctors",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1776343066.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kantipur Media Group appoints Gokarna Raj Awasthi as Editor-in-Chief of Kantipur Daily",
+      "summary": "Awasthi’s appointment follows the departure of Umesh Chauhan, who served since May 2023.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/16/kantipur-media-group-appoints-gokarna-raj-awasthi-as-editor-in-chief-of-kantipur-daily",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Gokarna-1776334169.jpg&w=300&height=200"
+    },
+    {
+      "title": "बागलुङमा साढे दुई करोडको लागतमा स्वास्थ्य चौकी भवन बन्ने",
+      "summary": "भारत सरकारको सहयोगमा बागलुङको बडिगाड गाउँपालिका–७ को भिमगिठे स्वास्थ्य चौकी भवन निर्माण हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/health-post-building-to-be-constructed-in-baglung-at-a-cost-of-rs-25-million-40-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776348182_Building-480x320.jpg"
+    },
+    {
+      "title": "काठमाडौंलाई सडक आश्रित मानवमुक्त बनाउन महानगर सक्रिय",
+      "summary": "शिक्षा प्रणालीमा देखिएका संरचनात्मक, नीतिगत तथा गुणस्तरीय समस्या समाधान गर्न ‘शिक्षाको समग्र सुधारका लागि सुझाव पत्र २०८३’ सरकारसमक्ष सुझावस्वरूप बुझाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/suggestions-to-the-minister-of-education-for-educational-reforms-96-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776331287_Sasmit pokhrel-480x320.jpg"
+    },
+    {
+      "title": "‘टाइम्स १००’ मा सूचीकृत भएकोमा प्रधानमन्त्रीलाई रास्वपाको बधाई",
+      "summary": "सर्वोच्च अदालतलेसम्पत्ति शुद्धीकरणसम्बन्धी कसुरमा पक्राउ परेका पूर्वमन्त्री एवं कांग्रेस नेता दीपक खड्कालाई थुनामुक्त गर्न आदेश दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/supreme-court-orders-release-of-deepak-khadka-12-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762938941_dipak_khadka-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसकाे नेतृत्व विवादसम्बन्धी मुद्दा हेर्दाहेर्दैमा",
+      "summary": "काठमाडौं महानगरपालिकाले महानगरलाई सडक आश्रित सहयोगापेक्षीमुक्त सहर बनाउने अभियानअन्तर्गत पशुपति क्षेत्रबाट उद्धार कार्य सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/metropolitan-city-s-active-efforts-to-make-kathmandu-free-of-road-dependent-people-49-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776345160_sunita udar-480x320.jpg"
+    },
+    {
+      "title": "संविधान कार्यान्वयनप्रति सरकार पूर्ण प्रतिबद्ध छ : मन्त्री डा.वाग्ले",
+      "summary": "भारत सरकारको सहयोगमा बागलुङको बडिगाड गाउँपालिका–७ को भिमगिठे स्वास्थ्य चौकी भवन निर्माण हुने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/health-post-building-to-be-constructed-in-baglung-at-a-cost-of-rs-25-million-40-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
