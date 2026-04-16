@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-16T14:05:21.596441",
+  "scraped_at": "2026-04-16T17:23:20.178541",
   "date": "2026-04-16",
-  "total_articles": 51,
+  "total_articles": 59,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -414,6 +414,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/health-post-building-to-be-constructed-in-baglung-at-a-cost-of-rs-25-million-40-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Interim standards in the works as law to regulate ride-hailing sector is delayed",
+      "summary": "Draft guidelines aim to regulate the booming sector amid years of legal delays and court pressure.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/16/interim-standards-in-the-works-as-law-to-regulate-ride-hailing-sector-is-delayed",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1776344728.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kantipur Half Marathon draws record 4,000 runners",
+      "summary": "Record turnout marks growing running culture, KMG says.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/16/kantipur-half-marathon-draws-record-4-000-runners",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/1774451406f6219e79d6cf175ce2fa-1776353954.jpg&w=300&height=200"
+    },
+    {
+      "title": "In candid discussion, chief ministers urge PM to empower provinces",
+      "summary": "Provincial leaders cite gaps in laws, fiscal transfers and policing authority, as prime minister pledges to strengthen federalism.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/16/in-candid-discussion-chief-ministers-urge-pm-to-empower-provinces",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/AMP00013.jpg&w=600&height=400"
+    },
+    {
+      "title": "करका दर कम गरेर पेट्रोलियम पदार्थको मूल्य घटाउन कांग्रेसको माग",
+      "summary": "भान्साको माथिल्लो तलाबाट खसेर सुदूरपश्चिम प्रदेश प्रहरी गण कार्यालय धनगढीमा कार्यरत एक कार्यालय सहयोगीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-office-assistant-dies-after-falling-from-roof-38-54.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "यी हुन् कांग्रेस केन्द्रीय कार्यसम्पादन समिति बैठकका ८ निर्णय",
+      "summary": "२५औं आइटिएफ तेक्वान्दो राष्ट्रिय प्रतियोगिता तथा दोस्रो यु-१५ आइटिएफ प्रतियोगिता शुक्रबारदेखि काठमाडौंमा आयोजना हुने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/the-25th-itf-taekwondo-national-and-2nd-u-15-itf-taekwondo-championships-will-be-held-50-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776355798_eeesfasdfsad-480x320.jpg"
+    },
+    {
+      "title": "कर्मचारीलाई अर्थमन्त्रीले भने- मन्त्री नै बर्खास्त भएका छन्, दायाँबायाँ गर्ने छुट कसैलाई छैन",
+      "summary": "देशकै जेठो वीर अस्पतालले १४ बुँदे सुधार कार्यविधि लागू गरेसँगै बिरामीको सेवा प्रवाहमा व्यापक सुधार आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/extensive-improvements-in-service-delivery-at-bir-hospital-br-29-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776355253_bir-480x320.jpg"
+    },
+    {
+      "title": "बालेन बाहिर हल्ला गरिएजस्तो हुनुहुन्न, असाध्यै सहज हुनुहुन्छ: मुख्यमन्त्री बानियाँ",
+      "summary": "नेपाली कांग्रेसले पेट्रोलियम पदार्थको बढ्दो मूल्यका कारण जनजीवनमा परेको असरलाई मध्यनजर गर्दै करका दर घटाएर पेट्रोलियम पदार्थको मूल्य नियन्त्रण गर्न सरकारसँग माग गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-demands-to-reduce-petroleum-product-prices-by-reducing-tax-rates-56-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771743044_Petrol-480x320.jpg"
+    },
+    {
+      "title": "सामाजिक सञ्जालबाटै भ्रमपूर्ण एजेण्डा सेटिङ भयो: शंकर पोखरेल",
+      "summary": "भान्साको माथिल्लो तलाबाट खसेर सुदूरपश्चिम प्रदेश प्रहरी गण कार्यालय धनगढीमा कार्यरत एक कार्यालय सहयोगीको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-office-assistant-dies-after-falling-from-roof-38-54.html?click_from=just_in",
       "image_url": ""
     }
   ]
