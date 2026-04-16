@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-16T03:36:37.087785",
+  "scraped_at": "2026-04-16T06:08:13.856410",
   "date": "2026-04-16",
-  "total_articles": 34,
+  "total_articles": 37,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -279,6 +279,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/blood-demand-increases-donors-decrease-patients-in-trouble-br-30-25.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Petroleum prices increased for fifth time in 31 days",
+      "summary": "Diseal, kerosene and aviation fuel prices increase by Rs 30 and Rs 5 per litre, respectively. NOC cites rising global oil prices and West Asia tensions behind repeated adjustments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/16/petroleum-prices-increased-for-fifth-time-in-31-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb3-1776317256.jpg&w=600&height=400"
+    },
+    {
+      "title": "प्रधानमन्त्री आज सातै प्रदेशका मुख्यमन्त्रीसँग छलफल गर्दै",
+      "summary": "जारी इन्डियन प्रिमियर लिग (आईपिएल)मा आज पञ्जाब किंग्स र मुम्बई इन्डियन्स बीच प्रतिस्पर्धा हुँदैछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-punjab-and-mumbai-clash-br-91-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776319317_vidoi 56-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा बेहोरेको पराजयपछि समीक्षामा एमाले, पुनर्गठनको तयारी",
+      "summary": "मुस्ताङको स्याउ बगैँचा सेताम्मे भएका छन्। बगैँचाभित्रको स्याउका बोटहरू फुलेर सेताम्मे हुँदै जान थालेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/apple-trees-are-white-br-94-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776318654_cvu 52-480x320.jpg"
     }
   ]
 }
