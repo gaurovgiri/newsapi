@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-16T06:08:13.856410",
+  "scraped_at": "2026-04-16T09:26:40.107904",
   "date": "2026-04-16",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/apple-trees-are-white-br-94-28.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776318654_cvu 52-480x320.jpg"
+    },
+    {
+      "title": "लेन्द्र सम्बन्धबारे अमेरिकी रिपोर्टः बीआरआई, एमसीसीदेखि तिब्बती शरणार्थीबारे खास चर्चा !",
+      "summary": "लेन्द्र सम्बन्धबारे अमेरिकी रिपोर्टः बीआरआई, एमसीसीदेखि तिब्बती शरणार्थीबारे खास चर्चा !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12713",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Americi_Report_Desk-1776222845.jpg"
+    },
+    {
+      "title": "46 more Nepalis rescued from scam jobs in Cambodia",
+      "summary": "Victims trafficked under false promises and forced into online fraud have been repatriated. The embassy urges labour permits and warns of illegal channels.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/16/46-more-nepalis-rescued-from-scam-jobs-in-cambodia",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/combodia08420260549261000x0-1776325702.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government calls Nepal a ‘buffer state’. Foreign policy experts disagree",
+      "summary": "The label used in a draft government paper raises questions about its relevance in the current geopolitical context.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/16/government-calls-nepal-a-buffer-state-foreign-policy-experts-disagree",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/WhatsAppImage20260416at073026-1776304106.jpg&w=300&height=200"
+    },
+    {
+      "title": "राहदानी र लाइसेन्स अब नागरिकको घरमै",
+      "summary": "मन्त्री पोखरेलले यी सामग्रीले विद्यार्थीलाई भविष्यको मार्गचित्र कोर्न र नयाँ सम्भावनाहरू खोज्न थप ऊर्जा दिने विश्वास लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/ministry-of-education-s-special-program-targeting-students-who-have-passed-see-br-89-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776331287_Sasmit pokhrel-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्तिबारे गृहमन्त्रीको जवाफ: हजुरबुवाको अंशवण्डा नहुँदैको हो, अनावश्यक भ्रम नफैलाऔँ",
+      "summary": "नागरिकलाई सहज, छरितो र प्रभावकारी सेवा उपलब्ध गराउने उद्देश्यका साथ सरकारले अघि सारेको रूपान्तरणकारी पहल अब व्यवहारमा देखिन थालेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/passports-and-licenses-now-at-citizens-homes-55-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776331158_licence-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले लेखा समितिको सभापति भरत खड्कालाई बनाउने",
+      "summary": "लागूऔषध सहित देशका विभिन्न स्थानबाट प्रहरीले १३ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/13-people-arrested-from-various-locations-with-drugs-70-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "देशलाई अफ्ठ्यारो पर्दा महिलाको भूमिका अग्रभागमा हुन्छ: विद्या भण्डारी",
+      "summary": "गृहमन्त्री सुधन गुरुङले आफूले सार्वजनिक गरेको सम्पत्तिका बारेमा अनावश्यक भ्रम नफैलाउन आग्रह गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/home-minister-s-response-on-property-grandfather-s-share-is-not-yet-distributed-let-s-not-spread-unnecessary-confusion-94-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775435196_Sudhan-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्याल र विपक्षी दलका सांसदबीच छलफल",
+      "summary": "मन्त्री पोखरेलले यी सामग्रीले विद्यार्थीलाई भविष्यको मार्गचित्र कोर्न र नयाँ सम्भावनाहरू खोज्न थप ऊर्जा दिने विश्वास लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/ministry-of-education-s-special-program-targeting-students-who-have-passed-see-br-89-87.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
