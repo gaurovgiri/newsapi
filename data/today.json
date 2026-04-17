@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-17T13:48:06.483177",
+  "scraped_at": "2026-04-17T17:00:46.323160",
   "date": "2026-04-17",
-  "total_articles": 56,
+  "total_articles": 63,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -454,6 +454,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-legitimacy-dispute-debate-ends-in-supreme-court-leaders-await-verdict-55-48.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Taplenjung Chauri farmers demand resumption of trade with Tibet",
+      "summary": "Livestock exports remain stalled since the Covid pandemic five years ago. Over 180 herders in Taplejung are left with thousands of unsold animals and shrinking incomes.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/17/taplenjung-chauri-farmers-demand-resumption-of-trade-with-tibet",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Mahotsawmachauree-1776429923.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepali embassy warns against travelling to Oman on visit visas for work",
+      "summary": "After decades of challenging discriminatory laws, Malla now leads Nepal's Supreme Court and is poised to become its next Chief Justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/08/nepali-embassy-warns-against-travelling-to-oman-on-visit-visas-for-work",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/67000793721744691299675662290503638713873140n-1776402143.jpg&w=400&height=267"
+    },
+    {
+      "title": "किन स्थगित भए एमालेले घोषणा गरेका आन्दोलन ?",
+      "summary": "नेकपा एमाले केन्द्रीय कार्यालयको आजको बैठकले यसअघि घोषणा गरिएका आन्दोलनका कार्यक्रमलाई स्थगन गर्दै पार्टी स्थापना दिवस विभिन्न रचनात्मक कार्यक्रम आयोजना गरी मनाउने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-was-the-protest-announced-by-uml-postponed-69-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775226781_UML1-480x320.jpg"
+    },
+    {
+      "title": "पालिका संख्या फेरबदल गर्दै सरकार",
+      "summary": "सहसचिव दाहालका अनुसार मन्त्रालयले ‘गाउँपालिका तथा नगरपालिका र वडाको संख्या तथा सिमाना हेरफेर, एकआपसमा गाभिन र नगरपालिका वर्गीकरण पुनरावलोकनसम्बन्धी मापदण्ड–२०८३’ को मस्यौदा तयार गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-changing-the-number-of-municipalities-51-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776441187_Goc-480x320.jpg"
+    },
+    {
+      "title": "सरकारलाई हर्क साम्पाङको खुला पत्र: स्थायी जागिर हटाएर करार प्रणाली लागू गर्न माग",
+      "summary": "शुक्रबारदेखि सुरु भएको प्रतियोगितामा जुनियर पुरुष २०–२५ केजी तौलसमूहमा कर्णालीका निशान र २५ देखि ३० केजी तौलसमूहमा लुम्बिनीका विजयले स्वर्ण जिते ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nishan-and-vijay-win-gold-in-national-itf-taekwondo-86-36.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776441085_Sports News-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस आधिकारिकता गगन पक्षले पाउने केसीको दाबी",
+      "summary": "स्थायी नियुक्ति व्यवस्था खारेज गरी करार प्रणाली लागू हुनेगरी कानुन संशोधन गर्न सरकारसँग आग्रह गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-s-open-letter-to-the-government-demand-to-eliminate-permanent-jobs-and-implement-a-contract-system-35-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776440404_Harka_Sangpang-480x320.jpg"
+    },
+    {
+      "title": "सीमापार तस्करी नियन्त्रणमा गृहमन्त्री गुरुङले मागे सांसदहरूको सुझाव",
+      "summary": "नेकपा एमाले केन्द्रीय कार्यालयको आजको बैठकले यसअघि घोषणा गरिएका आन्दोलनका कार्यक्रमलाई स्थगन गर्दै पार्टी स्थापना दिवस विभिन्न रचनात्मक कार्यक्रम आयोजना गरी मनाउने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/why-was-the-protest-announced-by-uml-postponed-69-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
