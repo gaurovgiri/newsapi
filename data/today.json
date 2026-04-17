@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-17T06:08:59.682857",
+  "scraped_at": "2026-04-17T09:26:01.435984",
   "date": "2026-04-17",
-  "total_articles": 41,
+  "total_articles": 50,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/hearing-underway-on-case-related-to-congress-leadership-dispute-44-57.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "श्चिममा रनपुतलाको उत्सव, छोरीचेलीका पीडा देखाइदै",
+      "summary": "श्चिममा रनपुतलाको उत्सव, छोरीचेलीका पीडा देखाइदै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12727",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Ranputala-Nachako-Raunak--1776395522.jpg"
+    },
+    {
+      "title": "Airee to lead Nepal T20Is, Paudel retains ODI captaincy",
+      "summary": "CAN split leadership roles for UAE T20Is and League 2 tri-series against UAE and Oman.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/04/17/airee-to-lead-nepal-t20is-paudel-retains-odi-captaincy",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Captain-1776411817.jpg&w=300&height=200"
+    },
+    {
+      "title": "Invoking what has long been silenced",
+      "summary": "The government should try to listen to the broadest possible section of the population.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/17/invoking-what-has-long-been-silenced",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/KDEJXPGZXNPZJDDEVN3JBYD35A-1776403656.jpg&w=400&height=267"
+    },
+    {
+      "title": "How pollution is ageing your skin faster",
+      "summary": "After decades of challenging discriminatory laws, Malla now leads Nepal's Supreme Court and is poised to become its next Chief Justice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/16/how-pollution-is-ageing-your-skin-faster",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/67000793721744691299675662290503638713873140n-1776402143.jpg&w=400&height=267"
+    },
+    {
+      "title": "शिक्षा समितिको सभापतिमा ओजश्वी शेरचन विजयी",
+      "summary": "त्रिभुवन आर्मी क्लबले प्रधानमन्त्री क्रिकेट प्रतियोगिता (पिएम) कपमा अपराजित रहँदै उपाधि हात पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/army-wins-prime-minister-s-cup-title-remaining-undefeated-32-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776417633_army-480x320.jpg"
+    },
+    {
+      "title": "पूर्वप्रधानमन्त्री केपी शर्मा ओलीको पनि सम्पत्ति छानविन हुने, ओली नेतृत्वको मन्त्रिमण्डलमा को-को थिए ?",
+      "summary": "प्रतिनिधि सभाको शिक्षा, स्वास्थ्य तथा सूचना प्रविधि समितिको सभापतिमा रास्वपाकी ओजश्वी शेरचन विजयी भएकी छिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ojaswi-sherchan-elected-as-education-committee-chairman-64-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776417084_ojasbi sherchan-480x320.jpg"
+    },
+    {
+      "title": "संविधान र कानुन पालना गरी विधेयक निर्माण अघि बढाइनेछः सभामुख अर्याल",
+      "summary": "गत भदौ २४ गतेको ‘जेनजी’ आन्दोलनका क्रममा रौतहट कारागारबाट भागेका कैदी ३० वर्षीय केदार परियारलाई कास्की प्रहरीले पोखराबाट पक्राउ गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/prisoner-who-escaped-from-rautahat-prison-during-genji-movement-arrested-in-pokhara-88-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति छानबिनको दायरामा पुष्पकमल दाहाल : तत्कालीन मन्त्रिमण्डलमा को थिए ?",
+      "summary": "केपी शर्मा ओली, शेरबहादुर देउवा, सुशीला कार्की, बालेन्द्र शाह (वर्तमान सरकार प्रमुख) र मन्त्रीको सम्पत्ति छानबिन हुने छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/former-prime-minister-kp-sharma-oli-s-assets-will-also-be-investigated-who-was-in-the-oli-led-cabinet-25-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1769251884_KP_Oli-480x320.jpg"
+    },
+    {
+      "title": "छानबिनको दायरामा गिरिजाप्रसाद कोइरालाको सम्पत्ति पनि, को थिए तत्कालीन मन्त्रिमण्डलमा ?",
+      "summary": "त्रिभुवन आर्मी क्लबले प्रधानमन्त्री क्रिकेट प्रतियोगिता (पिएम) कपमा अपराजित रहँदै उपाधि हात पारेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/army-wins-prime-minister-s-cup-title-remaining-undefeated-32-27.html?click_from=just_in",
       "image_url": ""
     }
   ]
