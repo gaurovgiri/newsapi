@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-17T17:00:46.323160",
+  "scraped_at": "2026-04-17T20:56:00.841800",
   "date": "2026-04-17",
-  "total_articles": 62,
+  "total_articles": 63,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -503,6 +503,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/why-was-the-protest-announced-by-uml-postponed-69-64.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "थापा नेतृत्वको समूह नै कांग्रेसको आधिकारिक",
+      "summary": "सर्वोच्च अदालतले गगनकुमार थापा नेतृत्वको समूहलाई नेपाली कांग्रेसको आधिकारिकता दिने निर्वाचन आयोगको निर्णय सदर गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-thapa-led-group-is-the-official-party-of-the-congress-76-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1773660553_Gagan_Sher-480x320.jpg"
     }
   ]
 }
