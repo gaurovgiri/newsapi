@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-17T09:26:01.435984",
+  "scraped_at": "2026-04-17T13:48:06.483177",
   "date": "2026-04-17",
-  "total_articles": 50,
+  "total_articles": 56,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -406,6 +406,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/army-wins-prime-minister-s-cup-title-remaining-undefeated-32-27.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Improving ambassador appointments",
+      "summary": "The nationwide celebration of a young Madheshi woman as Deputy Speaker of HoR offers hope.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/16/ameliorating-ambassadorial-appointments",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Captain-1776411817.jpg&w=400&height=267"
+    },
+    {
+      "title": "कांग्रेसको आधिकारिकता विवाद : सर्वोच्चमा बहस सकियो, फैसलाको पर्खाइमा नेताहरू",
+      "summary": "लामो समयदेखि चर्चामा रहेको यो विवाद अब अदालतको निर्णयतर्फ प्रवेश गरेको छ, जसले कांग्रेसभित्रको आन्तरिक शक्ति संघर्षलाई थप चासोको केन्द्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-legitimacy-dispute-debate-ends-in-supreme-court-leaders-await-verdict-55-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768409465_sher_gagan-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस विधान पढाउँदै बामपन्थी खेमाका वकिल",
+      "summary": "बिस्केट जात्राको क्रममा अरु दिन एउटा टोलमा मात्रै जात्रा चल्ने भए पनि यो दिन भने नगरभरि सबैतिर जात्रा चल्ने हुन्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/a-shadowy-bishkek-jatra-in-bhaktapur-11-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776432009_biska jatra  (1)-480x320.jpg"
+    },
+    {
+      "title": "पूर्ण भए सरकार र संसद्",
+      "summary": "समितिका सूचना अधिकारी नवीन निरौलाका अनुसार करिब २६ महिनाको अवधिमा सङ्कलित ६७ तोला सुन र ४३ किलोग्राम चाँदी रिफाइन गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-gold-offered-at-pathibhara-alone-is-50-tolas-18-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775728255_Pathibhara_1-480x320.jpg"
+    },
+    {
+      "title": "नवनिर्वाचित सभापतिहरूले लिए पद तथा गोपनीयताको सपथ",
+      "summary": "शुक्रबार नेपाल क्रिकेट संघ (क्यान)ले घरेलु मैदानमा हुने आईसीसी लिग–२ का लागि घोषणा गरेको १५ सदस्यीय टोलीमा अर्जुनको नाम पनि समावेश गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/arjun-flying-high-in-the-senior-national-team-80-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776431261_Arjun Kumal (1)-480x320.jpg"
+    },
+    {
+      "title": "एमाले सचिव ढकालसहित स‌ंगठन संयन्त्रसँग पूर्वराष्ट्रपतिको छलफल",
+      "summary": "लामो समयदेखि चर्चामा रहेको यो विवाद अब अदालतको निर्णयतर्फ प्रवेश गरेको छ, जसले कांग्रेसभित्रको आन्तरिक शक्ति संघर्षलाई थप चासोको केन्द्र बनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-s-legitimacy-dispute-debate-ends-in-supreme-court-leaders-await-verdict-55-48.html?click_from=just_in",
       "image_url": ""
     }
   ]
