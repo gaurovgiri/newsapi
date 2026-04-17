@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-17T03:32:40.095092",
+  "scraped_at": "2026-04-17T06:08:59.682857",
   "date": "2026-04-17",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/no-mother-should-suffer-from-her-children-acting-chief-dangol-27-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Loans are cheaper than ever. Borrowers are still holding back",
+      "summary": "With banks flush with funds but credit demand subdued, mounting excess liquidity points to deeper signs of a liquidity trap in Nepal’s economy.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/17/loans-are-cheaper-than-ever-borrowers-are-still-holding-back",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1776399328.jpg&w=300&height=200"
+    },
+    {
+      "title": "The woman rewriting the rules",
+      "summary": "Sapana Pradhan Malla’s family named her as a lament for the son they didn’t get. Today she is the most powerful judge in the country.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/profiles/2026/04/16/the-woman-rewriting-the-rules",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sapanapradhanmalla-1776352814.jpg&w=300&height=200"
+    },
+    {
+      "title": "कांग्रेसकाे नेतृत्व विवादसम्बन्धी मुद्दामा सुनुवाइ हुँदै",
+      "summary": "सर्वोच्चले यसअघि अन्तरिम आदेश दिन अस्वीकार गर्दै दुवै पक्षसँग स्पष्टीकरण मागेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hearing-underway-on-case-related-to-congress-leadership-dispute-44-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768229853_Congress1-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीसँग खाडी क्षेत्रका तीन देशका राजदूतको शिष्टाचार भेट",
+      "summary": "अछामको तुर्माखाँद गाउँपालिका–३ भैरवस्थानस्थित कर्णाली नदीमा डुङ्गा पल्टिँदा दुई जना बेपत्ता भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/father-and-son-go-missing-after-boat-capsizes-in-karnali-river-82-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1746789788_Karnali NADI-480x320.jpg"
+    },
+    {
+      "title": "आज संसदीय समितिका १२ सभापति चयन हुँदै, यस्तो छ मनोनयन सूची",
+      "summary": "जुम्लामा पछिल्लो समय माछा पालनबाट आत्मनिर्भर बन्ने किसानको संख्या बढ्दो छ। आवश्यक प्राविधिक ज्ञान हासिल गर्दै उनीहरू व्यावसायिक रूपमा यस क्षेत्रमा लागिपरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jumla-youth-becoming-self-reliant-through-trout-fishing-11-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776404714_traut machha-480x320.jpg"
+    },
+    {
+      "title": "संसदीय समितिमा रास्वपाको वर्चस्व",
+      "summary": "परराष्ट्रमन्त्री शिशिर खनालसँग नेपालका लागि साउदी अरब , संयुक्त अरब इमिरेट्स (युएई) र कतारका राजदूतले बेग्लाबेग्लै शिष्टाचार भेट गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/discussions-with-the-foreign-minister-on-expanding-cooperation-between-saudi-arabia-and-the-uae-97-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776405552_Gulf -480x320.jpg"
+    },
+    {
+      "title": "नेपाल–कतार सम्बन्ध सुदृढीकरणमा जोड",
+      "summary": "सर्वोच्चले यसअघि अन्तरिम आदेश दिन अस्वीकार गर्दै दुवै पक्षसँग स्पष्टीकरण मागेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hearing-underway-on-case-related-to-congress-leadership-dispute-44-57.html?click_from=just_in",
       "image_url": ""
     }
   ]
