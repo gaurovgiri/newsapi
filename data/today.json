@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-18T05:45:21.692680",
+  "scraped_at": "2026-04-18T09:00:09.216068",
   "date": "2026-04-18",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/federation-increases-price-of-drinking-water-33-67.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776489230_1727658443_Jar pani ww-1200x560-480x320.jpg"
+    },
+    {
+      "title": "Government moves to probe assets. Questions linger over panel’s mandate and impact",
+      "summary": "Ex-justice-led panel will examine wealth of public office holders between 2006 and 2026.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/18/government-moves-to-probe-assets-questions-linger-over-panel-s-mandate-and-impact",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/page-1776477144.jpg&w=300&height=200"
+    },
+    {
+      "title": "Rokaya and Shrestha win Kantipur Half Marathon titles",
+      "summary": "The 14th edition of the racing event drew a record turnout of around 4,000 participants across multiple categories.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/18/rokaya-and-shrestha-win-kantipur-half-marathon-titles",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/sports/main-1776495449.jpg&w=300&height=200"
+    },
+    {
+      "title": "Selective buying lifts market amid flat benchmark",
+      "summary": "Hotel sector gains 5.13 percent on seasonal optimism linked to New Year demand and two-day weekend impact.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/18/selective-buying-lifts-market-amid-flat-benchmark",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepsebar-1776487665.jpg&w=600&height=400"
+    },
+    {
+      "title": "एक साताभित्र इन्धनको मूल्यवृद्धि फिर्ता नभए आन्दोलन सुरु गर्ने दुर्गा प्रसाईंको चेतावनी",
+      "summary": "राष्ट्र, राष्ट्रियता, धर्म, संस्कृति तथा नागरिक बचाउ महाअभियानका संयोजक दुर्गा प्रसाईंले वृद्धि भएको इन्धनको मूल्य फिर्ता नलिए आन्दोलन गर्ने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-warns-of-starting-agitation-if-fuel-price-hike-is-not-withdrawn-within-a-week-73-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762682333_durga-480x320.jpg"
+    },
+    {
+      "title": "निर्वाचनमा हार-जित जे भए पनि हामी भक्तपुरवासीको सेवक भएर उभिरहनेछौं : महेश बस्नेत",
+      "summary": "जे भए पनि आमाकाे ममताकाे तुलना संसारमा कसैसँग गर्न सकिदैन चाहे पशु हाेस् वा अरू काेही।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/motherly-affection-br-57-88.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776498901_dekxa 67-480x320.jpg"
+    },
+    {
+      "title": "नेतृत्व वरिपरि रहनेहरूको जी-हजुरीमा रमाउने प्रवृत्तिले जीवन्त पार्टीलाई कमजोर बनाउँछ : रिजाल",
+      "summary": "नेकपा एमालेका सचिव महेश बस्नेतले आफू भक्तपुरवासीको सेवामा सदैव उभिरहने बताएका छन‍्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/regardless-of-victory-or-defeat-in-the-election-we-will-continue-to-serve-the-people-of-bhaktapur-mahesh-basnet-76-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756353690_mahesh_Basnet-480x320.jpg"
+    },
+    {
+      "title": "सर्वोच्चको फैसलापछि सभापति थापाको आह्वान: पार्टी एकता र पुनर्जागरणको यात्रामा लागौँ",
+      "summary": "गुल्मीको रेसुङ्गा विमानस्थलबाट शनिबारदेखि सातामा चार पटक हवाई उडान सञ्चालन हुने भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-airlines-to-operate-four-flights-a-week-to-gulmi-91-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776497249_resunga airport gulmi nepal airlines-480x320.jpg"
+    },
+    {
+      "title": "पार्टी एकतामा केन्द्रित हुन अर्जुननरसिंह केसीको आग्रह",
+      "summary": "राष्ट्र, राष्ट्रियता, धर्म, संस्कृति तथा नागरिक बचाउ महाअभियानका संयोजक दुर्गा प्रसाईंले वृद्धि भएको इन्धनको मूल्य फिर्ता नलिए आन्दोलन गर्ने चेतावनी दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-warns-of-starting-agitation-if-fuel-price-hike-is-not-withdrawn-within-a-week-73-83.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
