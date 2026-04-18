@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-18T09:00:09.216068",
+  "scraped_at": "2026-04-18T13:18:48.222518",
   "date": "2026-04-18",
-  "total_articles": 45,
+  "total_articles": 50,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -366,6 +366,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/durga-prasai-warns-of-starting-agitation-if-fuel-price-hike-is-not-withdrawn-within-a-week-73-83.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "‘सर्वोच्चको फैसलामा हाम्रा असहमति छन् तर स्वीकार गर्छौं’",
+      "summary": "बलिउड फिल्म फिर हेरा फेरी-३ तत्काल नबन्ने भएको छ । अभिनेता अक्षय कुमारले विभिन्न कारण देखाउँदै चाँडै फिल्म नबन्ने उल्लेख गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/why-was-phir-hera-phiri-3-stopped-what-does-akshay-kumar-say-11-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776516848_Akshya_Kumar-480x320.jpg"
+    },
+    {
+      "title": "सर्वोच्चको फैसलापछि पूर्णबहादुर समूह छलफलमा",
+      "summary": "नेपाली कांग्रेसका नेता मीन विश्वकर्माले सर्वोच्च अदालतको फैसलामा आफ्ना समूहका केही असहमति र विरोधाभासपूर्ण बुँदाहरू रहे पनि विधिको शासनलाई सम्मान गर्दै त्यसलाई स्वीकार गर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-disagree-with-the-supreme-court-s-decision-but-we-accept-it-95-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776516291_purna-480x320.jpg"
+    },
+    {
+      "title": "एकद्वार सेवा प्रणाली लागू गर्न गृह मन्त्रालयको निर्देशन",
+      "summary": "नेपालस्थित विभिन्न देशका राजदूतहरूले नेपालको स्वच्छ हावापानी र स्वस्थ्य जीवन शैलीको प्रशंसा गर्दै दक्षिणकाली नगरपालिका–३ मा शनिबार पैदलयात्रा गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/ambassadors-conduct-health-walk-in-hattivan-champadevi-78-14.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776516370_hiking-480x320.jpg"
+    },
+    {
+      "title": "सरसफाइलाई मन र तनको शुद्धतासँग जोड्नुपर्छ: हर्क",
+      "summary": "ओझेलमा परेको कपिलवस्तुको ऐतिहासिक तथा पर्यटकीय स्थलहरूको प्रचारप्रसार गर्ने उद्देश्यले कपिलवस्तुको तौलिहवामा १०औँ प्राचीन कपिलवस्तु महोत्सव सुरु गरिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/commitment-to-have-tilaurakot-listed-on-the-world-heritage-list-30-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776515649_Kapilbastu1-480x320.jpg"
+    },
+    {
+      "title": "‘सरकार र्‍याप र भाषणमा सीमित भो, भुइँतहका जनता भोकै छन्’",
+      "summary": "बलिउड फिल्म फिर हेरा फेरी-३ तत्काल नबन्ने भएको छ । अभिनेता अक्षय कुमारले विभिन्न कारण देखाउँदै चाँडै फिल्म नबन्ने उल्लेख गरेका हुन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/why-was-phir-hera-phiri-3-stopped-what-does-akshay-kumar-say-11-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
