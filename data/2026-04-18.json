@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-18T03:20:23.908741",
+  "scraped_at": "2026-04-18T05:45:21.692680",
   "date": "2026-04-18",
-  "total_articles": 33,
+  "total_articles": 36,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -271,6 +271,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/identity-of-deceased-in-motorcycle-accident-in-hetauda-56-65.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Kantipur Half Marathon kicks off with record participation",
+      "summary": "Around 4,000 runners take part in 14th edition as organisers introduce timing chips and ensure equal prize money for winners.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/18/kantipur-half-marathon-kicks-off-with-record-participation",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/1-1776482930.jpg&w=600&height=400"
+    },
+    {
+      "title": "पर्यटनमन्त्री पौडेलसँग तीन देशका राजदूतको भेटवार्ता",
+      "summary": "तराईका जिल्लामा बर्डफ्लु देखा पर्न थालेपछि ताप्लेजुङमा पनि सतर्कताका अभियान सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/precautionary-measures-against-bird-flu-in-taplejung-collection-of-samples-of-poultry-products-in-phungling-16-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776490410_birdflue-480x320.jpg"
+    },
+    {
+      "title": "निजी सञ्चार माध्यमलाई सरकारी विज्ञापन नदिने केन्द्र सरकारको निर्णय कर्णाली सरकारले नमान्ने",
+      "summary": "नेपाल पानी उद्योग महासंघले प्रशोधित पिउने पानीको मूल्य समायोजन गर्ने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/federation-increases-price-of-drinking-water-33-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776489230_1727658443_Jar pani ww-1200x560-480x320.jpg"
     }
   ]
 }
