@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-18T13:18:48.222518",
+  "scraped_at": "2026-04-18T16:52:31.155792",
   "date": "2026-04-18",
-  "total_articles": 49,
+  "total_articles": 56,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -398,6 +398,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/why-was-phir-hera-phiri-3-stopped-what-does-akshay-kumar-say-11-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Santoshi Shrestha rebounds from defeat to break record, retain Kantipur Half-Marathon title",
+      "summary": "A month after her first domestic loss in years, Shrestha overcomes doubt and fatigue with a tactical run to reclaim her crown in record time.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/18/santoshi-shrestha-rebounds-from-defeat-to-break-record-retain-kantipur-half-marathon-title",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/winnershalfmarathon2026041812018420260105281000x0-1776525221.jpg&w=600&height=400"
+    },
+    {
+      "title": "Celebrating Tsuneyo Kaneda’s artistic legacy at Arniko Art Gallery",
+      "summary": "The government should try to listen to the broadest possible section of the population.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/18/celebrating-tsuneyo-kaneda-s-artistic-legacy-at-arniko-art-gallery",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/jillahospitalsalyan318420260932211000x0-1776524004.jpg&w=400&height=267"
+    },
+    {
+      "title": "स्थानीय तहका प्रमुख प्रशासकीय अधिकृत प्रदेश मातहत राख्नुपर्छः मुख्यमन्त्री कँडेल",
+      "summary": "प्लानिङ ब्वाइज युनाइटेड काठमाडौं इटहरीमा जारी १६ औं संस्करणको अन्तर्राष्ट्रिय आमन्त्रण इटहरी गोल्डकप फुटबल प्रतियोगिताको फाइनलमा पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/itahari-gold-cup-planning-and-yuva-samaj-morang-to-clash-for-the-title-43-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776528344_foot-480x320.jpg"
+    },
+    {
+      "title": "आयल निगमलाई जेनजीको २४ घण्टे अल्टिमेटम",
+      "summary": "सडक विस्तारका क्रममा तार काटिएपछि लहानका चार सयभन्दा बढी सेवाग्राही करिब १२ घण्टादेखि टेलिफोन र इन्टरनेट सेवाबाट वञ्चित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/internet-and-telephone-services-disrupted-for-over-400-service-recipients-in-lahan-50-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "समृद्धिका लागि सरकारले काम गरिरहेको छ: परराष्ट्रमन्त्री",
+      "summary": "कर्णाली प्रदेशका मुख्यमन्त्री यामलाल कँडेलले स्थानीय तहमा खटाइने प्रमुख प्रशासकीय अधिकृत प्रदेश मातहतमा राख्नुपर्नेमा जोड दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/local-level-chief-administrative-officers-should-be-placed-under-the-province-chief-minister-kandel-90-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1762858543_Yamlal Kandel-480x320.jpg"
+    },
+    {
+      "title": "एमाले अध्यक्ष ओली अस्पतालबाट डिस्चार्ज",
+      "summary": "जेनजी आन्दोलनका क्रममा नख्खु कारागारबाट फरार एक कैदीबन्दीलाई प्रहरीले आज पक्राउ गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/prisoner-who-escaped-from-nakkhu-during-genji-movement-arrested-in-sanepa-91-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "रविले बोलाए रास्वपा सचिवालय बैठक, यस्तो छ कार्यसूची",
+      "summary": "प्लानिङ ब्वाइज युनाइटेड काठमाडौं इटहरीमा जारी १६ औं संस्करणको अन्तर्राष्ट्रिय आमन्त्रण इटहरी गोल्डकप फुटबल प्रतियोगिताको फाइनलमा पुगेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/itahari-gold-cup-planning-and-yuva-samaj-morang-to-clash-for-the-title-43-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
