@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-19T06:03:49.164256",
+  "scraped_at": "2026-04-19T09:01:45.585830",
   "date": "2026-04-19",
-  "total_articles": 39,
+  "total_articles": 49,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -319,6 +319,86 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/honeydew-disease-on-mango-fruits-in-banke-farmers-worried-51-29.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776576402_madhuwa rog-480x320.jpg"
+    },
+    {
+      "title": "ेस सभापति गगनलाई नेविसंघ अध्यक्ष दुजाङको कटाक्षमिश्रित शुभकामना",
+      "summary": "ेस सभापति गगनलाई नेविसंघ अध्यक्ष दुजाङको कटाक्षमिश्रित शुभकामना",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12737",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ala-1776568538.jpg"
+    },
+    {
+      "title": "Doing away with exams, ushering in assessments",
+      "summary": "The federal ministry will start the process as per the provision of revisiting existing set-up before every local elections.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/19/moving-beyond-traditional-examinations-for-a-better-future",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/TKLOORRS7JL37EJFOLJVM6ID2A-1776586446.jpg&w=400&height=267"
+    },
+    {
+      "title": "FICTION: Sameer vs the system",
+      "summary": "The talks in Pakistan aim not for peace but to buy time and weaken Iran permanently.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/19/fiction-sameer-vs-the-system",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/QDD3CU2XRBL4DHWURJ7FMW66YU-1776576798.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Matka King’: Nagraj Manjule’s series falls into familiar traps",
+      "summary": "The 18-year-old has been the most prolific batter for five-time champions Chennai, who dropped to seventh place in the 10-team league after Saturday’s defeat by Sunrisers Hyderabad.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/19/matka-king-nagraj-manjule-s-series-falls-into-familiar-traps",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/img2025021713562619420260651321000x0-1776575635.jpg&w=400&height=267"
+    },
+    {
+      "title": "EVENTS: April 18 to April 24, 2026",
+      "summary": "District forest office accelerates preparedness as rising heat and wind increase wildfire risks; 82 hectares already gutted.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/18/events-april-18-to-april-24-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalpolice19420260239591000x0-1776572011.jpg&w=400&height=267"
+    },
+    {
+      "title": "देउवा समूह रक्षात्मक, आगामी रणनीति तय गर्न धुम्बाराहीमा भेला (तस्बिरहरु)",
+      "summary": "नेपाली कांग्रेसको आधिकारिकता विशेष महाधिवेशनबाट निर्वाचित सभापति गगनकुमार थापाले पाएसँगै निवर्तमान सभापति शेरबहादुर देउवा समूह रक्षात्मक बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-group-meets-in-dhumbarahi-to-decide-on-defensive-future-strategy-photos-br-15-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776586297_purna-480x320.jpg"
+    },
+    {
+      "title": "संविधान संशोधनका लागि कांग्रेसले बनाएको विज्ञ समितिले पूर्णता पायो (नामसहित)",
+      "summary": "वाम्बुले (ओम्बुले) राई साहित्य प्रकाशनले २०८२ सालको ‘लिब्जु–भुम्जु पुरस्कार’ ऋषिबहादुर राई र कमल किरातीलाई संयुक्त रूपमा प्रदान गरिने निर्णय गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/libju-bhumju-award-to-rishi-and-kamal-br-36-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776586439_kid 52-480x320.jpg"
+    },
+    {
+      "title": "पेरिसडाँडामा भुवन सि‌ह विष्टको अनसन: पार्टीमा ६० प्रतिशत युवा उपस्थिति माग",
+      "summary": "समितिका मुख्य कामहरूमा संविधान कार्यान्वयनमा देखिएका समस्या र चुनौतीको अध्ययन गर्ने, संघीयता र समावेशितालाई बलियो बनाउन सरोकारवालासँग संवाद गर्ने, जेनजी पुस्ताको विद्रोह र निर्वाचनमा पार्टीले गरेका प्रतिज्ञालाई सम्बोधन गर्ने र पहिचान र सुशासनका मागहरूलाई अध्ययन गरी सुझाव दिनेलगायत रहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/the-expert-committee-formed-by-the-nepali-congress-to-amend-the-constitution-has-been-completed-with-names-17-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776586363_1771854802_pushpa-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासीको उठिबास र विद्यार्थी संगठनमाथिको प्रतिबन्धप्रति नेकपाको आपत्ति",
+      "summary": "पहिलो सिम प्रयोगकर्ताहरूले डिजिटल वालेट खल्तीमा पनि निःशुल्क पाउँछन्, जसको मतलब ग्राहकले खल्ती प्रयोग गर्दा कुनै डाटा शुल्क लाग्दैन ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/ncell-s-first-sim-offers-free-online-learning-and-gaming-facilities-for-see-students-93-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776585912_Ncell-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको केन्द्रीय समिति बैठक सोमबार बस्ने",
+      "summary": "नेपाली कांग्रेसको आधिकारिकता विशेष महाधिवेशनबाट निर्वाचित सभापति गगनकुमार थापाले पाएसँगै निवर्तमान सभापति शेरबहादुर देउवा समूह रक्षात्मक बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-group-meets-in-dhumbarahi-to-decide-on-defensive-future-strategy-photos-br-15-86.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
