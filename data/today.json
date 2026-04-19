@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-19T09:01:45.585830",
+  "scraped_at": "2026-04-19T13:18:58.824396",
   "date": "2026-04-19",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/deuba-group-meets-in-dhumbarahi-to-decide-on-defensive-future-strategy-photos-br-15-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रातल श्रेष्ठद्वारा लायन भाइस डिष्ट्रिक्ट गभर्नर पदमा उम्मेदवारी घोषणा",
+      "summary": "रातल श्रेष्ठद्वारा लायन भाइस डिष्ट्रिक्ट गभर्नर पदमा उम्मेदवारी घोषणा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12740",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/lala-1776586289.jpeg"
+    },
+    {
+      "title": "हर्क भन्छन्- म एक दिन प्रधानमन्त्री हुनसक्छु, मलाई प्रश्न सोध्न पाउनुहुन्छ",
+      "summary": "प्रहरीले देशका विभिन्न स्थानबाट अवैध लागूऔषध २४ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/24-people-arrested-from-various-locations-with-drugs-50-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "शिक्षामा ३ दिन पुस्तक र ४ दिन श्रम अनिवार्य हुनुपर्छ: साम्पाङ",
+      "summary": "कपिलवस्तुमा २ वर्षभित्र ८ हजार ३ सय ९६ जना गाउँ ब्लक पीडितलाई लालपुर्जा वितरण गरिएको नापी कार्यालय कपिलवस्तुका प्रमुख जनक बहादुर भण्डारीले बताए",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/over-8-000-people-who-had-been-without-id-cards-for-decades-have-received-id-cards-21-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776602916_Kapilbastu News-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको प्रवास विभाग प्रमुखमा दीपक बोहरा नियुक्त",
+      "summary": "उनले सुदूरपश्चिममा पर्यटनको अथाह सम्भावना रहेकाले पर्यटन प्रवर्द्धन गर्ने र रोजगारी सिर्जना गर्ने उद्देश्यले यस क्षेत्रमा आफूले लगानी गरेको बताए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/there-is-potential-wherever-you-look-in-the-far-west-chairman-dhakal-90-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776602709_chandra dhakal-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस संसदीय दलको नेता छान्न मंगलबार निर्वाचन",
+      "summary": "तुर्माखाँद गाउँपालिका–३ भैरवस्थानस्थित बल्दे नजिकै कर्णाली नदीमा बेपत्ता बावुछोरा मृत भेटिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bodies-of-missing-father-and-son-found-in-karnali-river-71-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776161883_Karnali-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाले प्रत्यक्ष नजितेका क्षेत्रमा समानुपातिक सांसद खटाउने",
+      "summary": "प्रहरीले देशका विभिन्न स्थानबाट अवैध लागूऔषध २४ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/24-people-arrested-from-various-locations-with-drugs-50-89.html?click_from=just_in",
       "image_url": ""
     }
   ]
