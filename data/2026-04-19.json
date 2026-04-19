@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-19T13:18:58.824396",
+  "scraped_at": "2026-04-19T16:52:35.782327",
   "date": "2026-04-19",
-  "total_articles": 54,
+  "total_articles": 62,
   "sources": [
     "News24",
     "NagarikNews",
@@ -438,6 +438,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/24-people-arrested-from-various-locations-with-drugs-50-89.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "One in five Nepalis aged over 30 found hypertensive and obese",
+      "summary": "A nationwide screening of non-communicable diseases conducted in February-March shows around nine percent of the population in the age group is diabetic, and over three percent have renal diseases.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/19/one-in-five-nepalis-aged-over-30-found-hypertensive-and-obese",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/HYPERTENSION-1776607859.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police to enter Nepal colleges to remove student union offices, banners",
+      "summary": "Move aims to dismantle political wings in educational institutions and replace them with student councils. Unions call it ‘undemocratic’.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/19/government-plans-campus-security-deployment-to-remove-party-affiliated-student-unions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/saraswoticampus19420260924591000x0-1776594022.jpg&w=300&height=200"
+    },
+    {
+      "title": "AI: Modern-day Prometheus or monster?",
+      "summary": "The Department of Tourism has issued Everest climbing permits to 360 individuals as of Friday, compared with 331 during the same period last year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/19/ai-modern-day-prometheus-or-monster",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/Bhairahawa-1776614806.jpg&w=400&height=267"
+    },
+    {
+      "title": "अब सरकारी कर्मचारीलाई १५/१५ दिनमै तलब",
+      "summary": "सरकारले राष्ट्रसेवक सरकारी कर्मचारीहरूको तलबभत्ता अबदेखि हरेक १५/१५ दिनमै उपलब्ध गराउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/now-government-employees-will-be-paid-within-15-days-92-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776615122_kar-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसमा बृहत् एकताको पहल: सभापति थापा रखड्काबीच भेटवार्ता",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले पार्टीभित्र बृहत्तर एकता कायम गर्ने उद्देश्यसहित शीर्ष नेताहरूसँगको राजनीतिक संवाद थालनी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/initiative-for-broad-unity-in-congress-meeting-between-president-thapa-and-khadka-22-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776614431_gagan purna-480x320.jpg"
+    },
+    {
+      "title": "हाम्रो नालायकीपनलाई जनताले दण्डित गरे: झाँक्री",
+      "summary": "अन्नपूर्ण गाउँपालिकाको केन्द्र पोखरेबगरबाट म्याग्दीको प्रमुख पर्यटकीयस्थल घोडेपानी जोड्ने सडकको हल्लेखर्क खण्डको श्रमदानमार्फत मर्मत सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/hallekharka-section-of-pokharebgar-ghodepani-road-repaired-through-shramdan-75-85.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776613982_sramdan-480x320.jpg"
+    },
+    {
+      "title": "रामकुमारी झाक्री भन्छन्: विद्यार्थी संगठनमाथि प्रतिबन्ध असम्भव",
+      "summary": "भारतको दक्षिणी क्षेत्रमा रहेको एक पटाका कारखानामा आइतबार भएको आगलागीमा परी कम्तीमा २० व्यक्तिको मृत्यु हुनुको साथै अन्य छ जना घाइते भएका प्रहरीले जनाएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/fire-at-firecracker-factory-in-india-20-dead-42-13.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776613487_Pataka-480x320.jpg"
+    },
+    {
+      "title": "घरायसी प्रयोजनका लागि ल्याइने सामानमा भन्सार छुट दिन्छाैं: बुर्लाकोटी",
+      "summary": "सरकारले राष्ट्रसेवक सरकारी कर्मचारीहरूको तलबभत्ता अबदेखि हरेक १५/१५ दिनमै उपलब्ध गराउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/now-government-employees-will-be-paid-within-15-days-92-13.html?click_from=just_in",
       "image_url": ""
     }
   ]
