@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-19T03:39:21.681335",
+  "scraped_at": "2026-04-19T06:03:49.164256",
   "date": "2026-04-19",
-  "total_articles": 33,
+  "total_articles": 38,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -271,6 +271,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bp-highway-blocked-after-unseasonal-rains-wash-away-roshi-river-s-diversion-24-78.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Despite surging costs, Everest still draws climbers as China’s north side stays shut",
+      "summary": "The Department of Tourism has issued Everest climbing permits to 360 individuals as of Friday, compared with 331 during the same period last year.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/18/despite-surging-costs-everest-still-draws-climbers-as-china-s-north-side-stays-shut",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/everestshutterstock-1776523638.jpg&w=300&height=200"
+    },
+    {
+      "title": "राप्रपा सिद्धिन्छ, सकिन्छ वा सिध्याइन्छ भन्ने सपना कसैले नदेखे हुन्छ : अध्यक्ष लिङ्देन",
+      "summary": "राप्रपाका अध्यक्ष राजेन्द्र लिङ्देनले राप्रपा आफ्नो सारा गल्ती तथा कमीकमजोरीहरू सच्याएर पुनर्गठित भएर उठ्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/no-one-dreams-of-the-rpp-being-finished-being-finished-or-being-finished-chairman-lingden-87-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1765278652_rajendra_lingdel-480x320.jpg"
+    },
+    {
+      "title": "बोलेर होइन, काम गरेर देखाउने हाम्रो लक्ष्य हो : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "गत वर्ष पहिलो पटक आयोजना गरिएको यस प्रतियोगितामा विजेता रोबोटले २ घण्टा ४० मिनेट ४२ सेकेन्डमा दूरी पार गरेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/robot-breaks-human-record-78-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776577681_robot-480x320.jpg"
+    },
+    {
+      "title": "मुस्ताङको युरेनियम उत्खननबारे सरकारले तत्काल स्पष्ट गरोस् : भीम रावल",
+      "summary": "विश्वसम्पदा सूचीमा सूचीकृत पशुपति क्षेत्रस्थित जयवागेश्वरीको ‘कलेवर’ फेर्ने काम धमाधम भइरहेको छ। त्यस क्रममा जयवागेश्वरी, गणेश र भैरवको माटाको नयाँ मूर्ति बनाउने काम भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-sculpture-of-jayawageshwari-temple-is-changing-35-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776576964_jaybageshwori-480x320.jpg"
+    },
+    {
+      "title": "पूर्वराजा ज्ञानेन्द्र शाह पोखरा जाँदै",
+      "summary": "बाँकेमा आँपको फल लाग्ने बेला यस वर्ष मधुवा रोगको समस्या देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/honeydew-disease-on-mango-fruits-in-banke-farmers-worried-51-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776576402_madhuwa rog-480x320.jpg"
     }
   ]
 }
