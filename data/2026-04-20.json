@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-20T17:14:50.770185",
+  "scraped_at": "2026-04-20T20:57:08.109306",
   "date": "2026-04-20",
-  "total_articles": 57,
+  "total_articles": 58,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -463,6 +463,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-is-the-first-country-in-south-asia-to-pay-salaries-within-15-days-84-61.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775549952_Cabinet-480x320.jpg"
+    },
+    {
+      "title": "AI is transforming Nepal’s workplaces. Its classrooms haven’t caught up",
+      "summary": "While Nepal’s software companies are retraining staff, rewriting job descriptions, and racing to stay competitive, top universities are still debating whether to let students use the tools at all.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/20/ai-is-transforming-nepal-s-workplaces-its-classrooms-haven-t-caught-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ITCLASSROOM-1776690951.jpg&w=300&height=200"
     }
   ]
 }
