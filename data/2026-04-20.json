@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-20T06:22:58.097452",
+  "scraped_at": "2026-04-20T10:05:43.569635",
   "date": "2026-04-20",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -335,6 +335,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/did-balendra-forget-gangamaya-br-32-56.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776661936_nagin 78-480x320.jpg"
+    },
+    {
+      "title": "नेप्सेमा १३ अंकको गिरावट, कारोबार ५ अर्बमा खुम्चियो",
+      "summary": "साताको पहिलो कारोबार दिन सोमबार नेपाल स्टक एक्सचेन्ज (नेप्से) परिसूचक १३.१७ अंकले घटेको छ। अघिल्लो कारोबार दिन सामान्य सुधार देखिएको बजारमा यस दिन परिसूचकसँगै कारोबार रकममा पनि उल्लेख्य गिरावट आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepse-falls-13-points-turnover-shrinks-to-5-billion-br-14-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736676323_nepse2-480x320.jpg"
+    },
+    {
+      "title": "समिति बैठकमा दलको प्रभाव नदेखाउन सभापतिहरूलाई सभामुख अर्यालको निर्देशन",
+      "summary": "भेटमा प्रतिनिधि सभाका १० र संयुक्त २ गरि १२ वटा समितिका सभापतिहरुको उपस्थिति रहेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/speaker-aryal-instructs-chairpersons-not-to-show-party-influence-in-committee-meetings-53-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776678297_Samsadiya Samiti -480x320.jpg"
+    },
+    {
+      "title": "मुस्लिम आयोग गण्डकीद्वारा गण्डकी प्रदेश प्रमुख भट्टसमक्ष वार्षिक प्रतिवेदन पेस",
+      "summary": "हिँड्डुल गर्न नसकेपछि उनले प्रतिलिपि लिन सकेका थिएनन्। सोमबार पहिलो पटक आँगनमै नागरिकताको प्रतिलिपि प्राप्त गरे।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-joy-of-receiving-citizenship-in-the-courtyard-33-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776678855_nagariktapic-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीको सेयर विवादमा स्वतन्त्र छानबिन हुनुपर्छ: ज्ञानेन्द्र शाही",
+      "summary": "मुस्लिम आयोग गण्डकीले गण्डकी प्रदेश प्रमुखसमक्ष वार्षिक प्रतिवेदन पेस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/muslim-commission-gandaki-submits-annual-report-to-gandaki-province-chief-bhatta-37-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776677915_pratibedan-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीको राजीनामा माग्दै फोर्सले भन्यो : जनताको विश्वासमाथि खेलबाड गर्ने अधिकार कसैलाई छैन",
+      "summary": "साताको पहिलो कारोबार दिन सोमबार नेपाल स्टक एक्सचेन्ज (नेप्से) परिसूचक १३.१७ अंकले घटेको छ। अघिल्लो कारोबार दिन सामान्य सुधार देखिएको बजारमा यस दिन परिसूचकसँगै कारोबार रकममा पनि उल्लेख्य गिरावट आएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepse-falls-13-points-turnover-shrinks-to-5-billion-br-14-70.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
