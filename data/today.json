@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-20T10:05:43.569635",
+  "scraped_at": "2026-04-20T14:02:32.607078",
   "date": "2026-04-20",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/nepse-falls-13-points-turnover-shrinks-to-5-billion-br-14-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Labour permits reopened for 12 countries, including Gulf states",
+      "summary": "Department of Foreign Employment resumes new work approvals after March suspension linked to West Asia tensions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/20/labour-permits-reopened-for-12-countries-including-gulf-states",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/foreignemployment-1776689328.jpg&w=300&height=200"
+    },
+    {
+      "title": "Violence as development, from Mukkumlung to Bojheni",
+      "summary": "Basmati rice shows higher contamination levels as banned pesticides continue to circulate, pointing to weak monitoring.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/20/violence-as-development-from-mukkumlung-to-bojheni",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ITCLASSROOM-1776690951.jpg&w=400&height=267"
+    },
+    {
+      "title": "कार्की आयोगको प्रतिवेदन अपूरो र पूर्वाग्राही: गगन",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले गत भदौ २३ र २४ को जेनजी आन्दोलनको छानबिनका लागि गठित कार्की आयोगको प्रतिवेदन अपूरो र पूर्वाग्राही भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-commission-report-incomplete-and-biased-gagan-36-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774342679_gagan thapa-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले सोध्यो कान्छाराम तामाङलाई स्पष्टीकरण, तीन दिनभित्र पेस गर्न निर्देशन",
+      "summary": "सोमबार बसेको अनुशासन समितिको बैठकले तामाङको हालैका अभिव्यक्तिलाई अनुशासन उल्लंघनको रूपमा लिँदै स्पष्टिकरण माग गर्ने निर्णय गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/congress-asks-kanchharam-tamang-for-clarification-directs-him-to-submit-it-within-three-days-71-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776692872_Kancharam Tamang-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीको विवादबारे मनिष झा- पारदर्शी हुनु भनेको नाङ्गिनु होइन",
+      "summary": "अंक तालिकाको पुछारमा रहेको मुम्बइ र छैठौं स्थानमा रहेको गुजरात बीचको खेल ७ः४५ बजे अहमदावादमा हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-bottom-placed-mumbai-face-gujarat-67-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776691761_IPL (1)-480x320.jpg"
+    },
+    {
+      "title": "राजदूतहरुले राष्ट्रपतिसमक्ष पेस गरे ओहोदाको प्रमाणपत्र",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का प्रवक्ता मनिष झाले सोमबार सम्पन्न केन्द्रीय समितिको बैठकमा गृहमन्त्री सुदन गुरुङको विवादित सेयरका बिषयमा कुनै छलफल नभएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/manish-jha-on-home-minister-s-controversy-being-transparent-does-not-mean-being-naked-77-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776691851_sudan-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको सचिवालय विस्तार (सूचीसहित)",
+      "summary": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले गत भदौ २३ र २४ को जेनजी आन्दोलनको छानबिनका लागि गठित कार्की आयोगको प्रतिवेदन अपूरो र पूर्वाग्राही भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-commission-report-incomplete-and-biased-gagan-36-90.html?click_from=just_in",
       "image_url": ""
     }
   ]
