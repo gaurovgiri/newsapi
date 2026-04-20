@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-20T03:40:50.684209",
+  "scraped_at": "2026-04-20T06:22:58.097452",
   "date": "2026-04-20",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
     "KathmanduPost",
     "News24",
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-for-today-72-58.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ो ‘पहिलो सिम’मा एसईई विद्यार्थीका लागि निःशुल्क अनलाइन लर्निङ र गेमिङ सहितका सुविधा",
+      "summary": "ो ‘पहिलो सिम’मा एसईई विद्यार्थीका लागि निःशुल्क अनलाइन लर्निङ र गेमिङ सहितका सुविधा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12741",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/ncell-1776590139.jpg"
+    },
+    {
+      "title": "Rs100 tax rule aimed at curbing small-scale smuggling hits daily shoppers at Nepal-India border",
+      "summary": "Strict checks on goods valued above Rs100 at Nepal-India crossings draw anger and complaints in border districts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/19/rs100-tax-rule-aimed-at-curbing-small-scale-smuggling-hits-daily-shoppers-at-nepal-india-border",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/gaddachauki-1776649885.jpg&w=300&height=200"
+    },
+    {
+      "title": "Seven bodies from September 9 fire remain unidentified as DNA profiling stalls",
+      "summary": "Authorities struggle to extract samples from severely burnt remains, delaying identification of the deceased.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/20/seven-bodies-from-september-9-fire-remain-unidentified-as-dna-profiling-stalls",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bhatbhateni-1776658483.jpg&w=300&height=200"
+    },
+    {
+      "title": "Study finds pesticide traces in Kathmandu rice, 11 chemicals detected",
+      "summary": "Basmati rice shows higher contamination levels as banned pesticides continue to circulate, pointing to weak monitoring.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/20/study-finds-pesticide-traces-in-kathmandu-rice-11-chemicals-detected",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1776657613.jpg&w=300&height=200"
+    },
+    {
+      "title": "काठमाडौं पुगे अमेरिकी सहायक विदेशमन्त्री पल कपुर",
+      "summary": "वसुन्धरा–मान प्रज्ञाप्रतिष्ठानले यस वर्षको वसुन्धराश्री पुरस्कार वरिष्ठ साहित्यकार लोकेन्द्रबहादुर चन्दलाई प्रदान गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/vasundharashri-award-litterateur-chander-manashree-award-anand-arunlai-36-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776664197_dfu 76-480x320.jpg"
+    },
+    {
+      "title": "कर्णाली पुगेर कुलमानले भने : पेट्रोलियम पदार्थमा गरिएको मूल्य वृद्धि फिर्ता लिनुपर्छ",
+      "summary": "नेपालमा बालेन्द्र शाह नेतृत्वको सरकार बनेसँग सम्बन्ध विस्तार गर्ने उद्देश्यसहित उनी काठमाडौं आइपुगेका हुन्। नेपाल भ्रमणमा रहँदा उनले उच्चस्तरीय भेटघाट गर्ने र सरकारका केही मन्त्रीहरूलाई पनि भेट्ने कार्यक्रम रहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/us-assistant-secretary-of-state-sameer-paul-kapoor-in-kathmandu-17-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776664300_USA (1)-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री शाहलाई सिंगापुरका पूर्वप्रधानमन्त्री ली क्वान यू जस्तै ‘दृढ’ बन्न वरिष्ठ उपाध्यक्ष मिश्रको सुझाव",
+      "summary": "नेपालले तत्कालीन विश्वको शक्तिशाली अङ्ग्रेज सेनालाई पराजित गरेको आज वैशाख ७ गते गौरवपूर्ण दिन हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jitgadhi-victory-festival-a-day-that-created-history-in-national-pride-br-32-33.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776662959_gadhi 67-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी प्रदेशसभाको बैठक बस्दै",
+      "summary": "द्वन्द्वकालीन हिंसाले हजारौं नेपालीलाई पीडित बनायो तर न्याय प्रक्रिया दुई दशकसम्म प्रभावहीन रह्यो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/opinion/did-balendra-forget-gangamaya-br-32-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776661936_nagin 78-480x320.jpg"
     }
   ]
 }
