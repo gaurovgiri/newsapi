@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-20T14:02:32.607078",
+  "scraped_at": "2026-04-20T17:14:50.770185",
   "date": "2026-04-20",
-  "total_articles": 53,
+  "total_articles": 57,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -431,6 +431,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/karki-commission-report-incomplete-and-biased-gagan-36-90.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "मिडिया ट्रायल र प्रायोजित हल्ला भ्रष्टाचार गर्नेहरूको छटपटी हो: गृहमन्त्री गुरुङ",
+      "summary": "गृहमन्त्री सुधन गुरुङले आफूमाथि लागेका आरोप र सञ्चारमाध्यममा आएका समाचारहरू प्रायोजित हल्ला भएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/media-trials-and-sponsored-rumors-are-a-distraction-for-corrupt-people-home-minister-gurung-97-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776002151_sudan-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधिसभा नियमावली मस्यौदा: कार्यपालिकालाई ३० दिनभित्र प्रगति विवरण बुझाउनुपर्ने",
+      "summary": "‘नेपालमा केही गर्न सकिँदैन, विदेश जानुपर्छ’ भन्ने मनोविज्ञानले यतिबेला धेरै युवालाई वैदेशिक रोजगारीतर्फ धकेलिरहेको छ। तर, भोजपुरका ३६ वर्षीय राज कार्की भने वैदेशिक यात्राको उल्टो धारमा हिँडिरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/not-the-fascination-of-foreign-countries-but-the-pride-of-one-s-own-country-71-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776701981_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "अभावको बहानामा मूल्य वृद्धि गर्नु हुँदैन: कृषिमन्त्री चौधरी",
+      "summary": "बजारमा मागको तुलनामा आपूर्ति कम भएपछि केराको मूल्यमा अस्वाभाविक वृद्धि भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/banana-prices-soar-as-imports-halted-up-to-rs-350-per-dozen-in-retail-market-17-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776699892_kera-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङ पारदर्शी भएको कि नाङ्गिएको ?",
+      "summary": "सरकारी कर्मचारीलाई प्रत्येक १५/१५ दिनमा तलब दिने प्रणाली सुरु गर्ने देशमा नेपाल दक्षिण एसियाकै पहिलो भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-is-the-first-country-in-south-asia-to-pay-salaries-within-15-days-84-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775549952_Cabinet-480x320.jpg"
     }
   ]
 }
