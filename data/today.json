@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-21T03:33:47.873105",
+  "scraped_at": "2026-04-21T06:08:39.017166",
   "date": "2026-04-21",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -278,6 +278,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-levels-strengthening-access-to-justice-79-68.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "AI is transforming Nepal’s workplaces. Its classrooms haven’t caught up",
+      "summary": "While Nepal’s software companies are retraining staff, rewriting job descriptions, and racing to stay competitive, top universities are still debating whether to let students use the tools at all.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/20/ai-is-transforming-nepal-s-workplaces-its-classrooms-haven-t-caught-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ITCLASSROOM-1776690951.jpg&w=300&height=200"
+    },
+    {
+      "title": "Insurance push brings new hope to disaster-hit Bajhang farmers",
+      "summary": "Subsidised scheme targets crop, livestock and herb losses as new diseases and climate risks rise in the remote mountain district.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/21/insurance-push-brings-new-hope-to-disaster-hit-bajhang-farmers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/bajhang-1776733786.jpg&w=600&height=400"
+    },
+    {
+      "title": "विद्यार्थी संगठनकै कारण शिक्षा सुधार हुन सकेन भन्दै प्रचार गर्नु गलत : रिजाल",
+      "summary": "उनले स्ववियु निर्वाचनका लागि २८ वर्षको उमेर सीमा लागू भइसकेको र लामो समयसम्म क्याम्पसमा भर्ना भइरहने प्रवृत्तिमा विश्वविद्यालयहरूले सुधार ल्याउँदै गएको उल्लेख गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/propaganda-claiming-that-education-cannot-be-improved-due-to-student-organizations-is-wrong-rijal-10-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749704386_bishnu rijal-480x320.jpg"
+    },
+    {
+      "title": "गोकुल बास्कोटा भन्छन् : रास्वपामा अब फाइनल ‘हाइज्याक’ हुन बाँकी जस्तो देखियो",
+      "summary": "निकुञ्ज कार्यालय, नेपाली सेना तथा राष्ट्रिय प्रकृति संरक्षण कोषलगायतका साझेदार संस्थाको संयुक्त सहभागितामा गणना सुरु गरिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/counting-of-bison-begins-in-shuklaphanta-national-park-84-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776748344_barhashinge-480x320.jpg"
+    },
+    {
+      "title": "ममाथि देखाएको विश्वास, माया र भरोसाले मलाई अझ जिम्मेवार र प्रतिबद्ध बनाएको छ : महामन्त्री शाह",
+      "summary": "नवलपरासी (बर्दघाट सुस्ता पूर्व) नवलपुरको पहाडी क्षेत्रमा विद्युत्का तार र पोल पुगे पनि अझै बिजुली पुग्न सकेको छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-electric-wires-and-poles-were-enough-but-the-electricity-was-not-enough-41-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776747433_pic-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्रीलाई पक्राउ गरी निष्पक्ष अनुसन्धान अघि बढाउन माग गर्दै प्रहरीमा निवेदन",
+      "summary": "उता, आज चाँदीको मूल्य भने घटेको छ। चाँदी ३० रुपैयाँले घटेर पाँच हजार १६० रुपैयाँमा कारोबार भइरहेको छ। यसअघि चाँदी पाँच हजार १९० रुपैयाँ पुगेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Bazar/gold-prices-rose-19-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767767009_Gold-480x320.jpg"
+    },
+    {
+      "title": "सत्तामा हुँदा गुमेको विश्वास, पिंढीमा बसेर गरिने गफले फर्किँदैन : चन्द्र भण्डारी",
+      "summary": "उनले स्ववियु निर्वाचनका लागि २८ वर्षको उमेर सीमा लागू भइसकेको र लामो समयसम्म क्याम्पसमा भर्ना भइरहने प्रवृत्तिमा विश्वविद्यालयहरूले सुधार ल्याउँदै गएको उल्लेख गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/propaganda-claiming-that-education-cannot-be-improved-due-to-student-organizations-is-wrong-rijal-10-67.html?click_from=just_in",
       "image_url": ""
     }
   ]
