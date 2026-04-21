@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-21T09:45:59.572770",
+  "scraped_at": "2026-04-21T14:01:19.285558",
   "date": "2026-04-21",
-  "total_articles": 48,
+  "total_articles": 53,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-from-the-department-to-obtain-a-license-from-the-office-where-you-applied-54-68.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "समस्याग्रस्त सहकारीलाई ऋण तिर्न सरकारको समयसीमा, सम्पत्ति लिलामसम्मको चेतावनी",
+      "summary": "संयुक्त अरब इमिरेट्स (युएई) ले दिएको १२९ रनको लक्ष्य पछ्याइरहेको नेपालका लागि ओपनर कुशल भुर्तेलले सानदार अर्धशतक पूरा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/kusal-bhurtel-s-brilliant-half-century-12-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776779605_bhur-480x320.jpg"
+    },
+    {
+      "title": "खड्काले स्वीकारे आफूलाई कांग्रेसकाे निवर्तमान कार्यवाहक सभापति",
+      "summary": "संयुक्त अरब इमिरेट्स (युएई) ले दिएको १२९ रनको लक्ष्य पछ्याइरहेको नेपालले दोस्रो विकेट गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/santosh-returns-to-the-pavilion-after-scoring-1-run-in-his-debut-match-56-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776779285_stump-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रालयबीच समन्वय अभाव स्वीकार्य छैन : प्रधानमन्त्री शाह",
+      "summary": "साथै १५ दिनभित्र ऋण फरफारक नगरेमा ऋणी, निजको परिवार र जमानीको नाम नामेसीसहितको विवरण सार्वजनिक गर्ने तथा उनीहरूको नाममा रहेको सम्पत्ति र खाता रोक्का गर्ने जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-gives-troubled-cooperatives-deadline-to-pay-off-loans-warns-of-property-auction-53-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776779328_Pratibha Rawal-480x320.jpg"
+    },
+    {
+      "title": "अर्थमन्त्री डा. वाग्ले र अमेरिकी सहायक विदेश मन्त्रीबीच सहकार्य र लगानीबारे छलफल",
+      "summary": "संयुक्त अरब इमिरेट्स (युएई) ले दिएको १२९ रनको लक्ष्य पछ्याइरहेको नेपालले पहिलो विकेट गुमाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/excellent-partnership-broken-kusal-malla-out-37-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776778875_e-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठकका निर्णय : तीन विधेयक संसद्‍मा लैजानेदेखि केही नियुक्तिसम्म",
+      "summary": "संयुक्त अरब इमिरेट्स (युएई) ले दिएको १२९ रनको लक्ष्य पछ्याइरहेको नेपालका लागि ओपनर कुशल भुर्तेलले सानदार अर्धशतक पूरा गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/kusal-bhurtel-s-brilliant-half-century-12-76.html?click_from=just_in",
       "image_url": ""
     }
   ]
