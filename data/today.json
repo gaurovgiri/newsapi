@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-21T14:01:19.285558",
+  "scraped_at": "2026-04-21T17:12:14.374562",
   "date": "2026-04-21",
-  "total_articles": 54,
+  "total_articles": 60,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -439,6 +439,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/kusal-bhurtel-s-brilliant-half-century-12-76.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "What we know—and don’t know—about Home Minister’s financial conduct",
+      "summary": "New documents obtained by Kantipur linked to Sudan Gurung show previously undisclosed facts and raise new questions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/21/what-we-know-and-don-t-know-about-home-minister-s-financial-conduct",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/GURUNG2-1776786905.jpg&w=300&height=200"
+    },
+    {
+      "title": "Visiting US official seeks better climate for US investment in Nepal",
+      "summary": "In Kathmandu, the US assistant secretary meets the Tibetan community, urges the new government to offer them more support.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/21/visiting-us-official-seeks-better-climate-for-us-investment-in-nepal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/swarnimkapur-1776787471.jpg&w=300&height=200"
+    },
+    {
+      "title": "Riverbeds turn lifeline for freed Kamaiyas in Kanchanpur",
+      "summary": "Farmers turn sandy riverbeds into productive fields. They earn a living from growing vegetables, but rely on risky roadside trade without market.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/21/riverbeds-turn-lifeline-for-freed-kamaiyas-in-kanchanpur",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/IMG20260409154455-1776777603.jpg&w=300&height=200"
+    },
+    {
+      "title": "संसद्‌मा तोडफोड भए सांसदबाटै क्षतिपूर्ति",
+      "summary": "प्रतिनिधिसभामा सांसदहरूले ध्वंसात्मक गतिविधि गरी भौतिक क्षति पु¥याए उनीहरूबाटै क्षतिपूर्ति असुल्ने व्यवस्था प्रस्ताव गरिएको छ। प्रतिनिधिसभा नियमावली मस्यौदा समितिले यस्तो प्रस्ताव गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mps-to-compensate-for-vandalism-in-parliament-br-78-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776788261_samad-480x320.jpg"
+    },
+    {
+      "title": "युवाले रोजगारी खोज्ने होइन, सिर्जना गर्ने होः मन्त्री पोखरेल",
+      "summary": "जिल्ला प्रहरी कार्यालय सुनसरीका अनुसार सदरुल अपहरणमा परेको भन्दै सोमबार साँझ प्रहरीलाई सूचना आएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/parents-and-brother-arrested-on-kidnapping-charges-50-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1737276275_pakrau-480x320.jpg"
+    },
+    {
+      "title": "वर्षा समयमै होस्, अन्नबाली समृद्ध होस्, संसारमा शान्ति र कल्याण फैलियोस्: प्रधानमन्त्री",
+      "summary": "तिथिअनुसार मंगलबार पुलचोकबाट रथ तानेर गाबल पुर्‍याइएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/rato-machhindranath-s-procession-begins-taken-to-gabal-59-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776786342_Rato Machhindranath-480x320.jpg"
     }
   ]
 }
