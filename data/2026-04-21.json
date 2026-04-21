@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-21T06:08:39.017166",
+  "scraped_at": "2026-04-21T09:45:59.572770",
   "date": "2026-04-21",
-  "total_articles": 40,
+  "total_articles": 48,
   "sources": [
+    "KathmanduPost",
     "News24",
-    "NagarikNews",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -326,6 +326,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/propaganda-claiming-that-education-cannot-be-improved-due-to-student-organizations-is-wrong-rijal-10-67.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "West Asia tensions hit Nepal’s tourism hard as bookings tumble",
+      "summary": "Hotels across Pokhara, Chitwan and Lumbini report sharp cancellations from Western travellers, with Indian and domestic tourists now keeping the sector afloat amid rising uncertainty.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/21/west-asia-tensions-hit-nepal-s-tourism-hard-as-bookings-tumble",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/pokhara-1776745756.jpg&w=300&height=200"
+    },
+    {
+      "title": "Garbage collection disrupted in Siddharthanagar after court order",
+      "summary": "Dumping waste along Danda Khola polluted environment and affected residents and travellers.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/21/garbage-collection-disrupted-in-siddharthanagar-after-court-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/7668521420260824491000x0-1776756582.jpg&w=300&height=200"
+    },
+    {
+      "title": "US Assistant Secretary Kapur calls on Foreign Minister Khanal, discusses trade and investment",
+      "summary": "Talks focus on strengthening Nepal–US ties, with emphasis on trade and investment, says foreign ministry.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/21/us-assistant-secretary-kapur-calls-on-foreign-minister-khanal-discusses-trade-and-investment",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HGZ4RiqbUAABdlo-1776751329.jpg&w=600&height=400"
+    },
+    {
+      "title": "योजना आयोग र नीति अनुसन्धान प्रतिष्ठानका पदाधिकारीसँगकाे छलफलमा प्रधानमन्त्री",
+      "summary": "विभागले लामो समयदेखि छपाइको पर्खाइमा रहेका लाइसेन्स सम्बन्धित यातायात कार्यालयहरूमा पठाउन सुरु गरेको जानकारी गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-from-the-department-to-obtain-a-license-from-the-office-where-you-applied-54-68.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776762549_Liscense-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङले सार्वजनिक गरे ३३ बुँदे प्रतिबद्धता (पत्रसहित)",
+      "summary": "प्राचीन समयमा व्यापारिक नाकाका रुपमा पहिचान बनाएको बन्दीपुर अहिले भने पर्यटकीय गन्तव्यका रुपमा विकास भएको छ ।यस वर्ष ग्रामीण पर्यटन बन्दीपुर भ्रमण वर्ष २०२६ मा सात लाख पर्यटक भित्र्याउने लक्ष्य राखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/bandipur-aims-to-attract-700-000-tourists-90-50.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764139357_1752131277_bandipur-1200x560-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीले बाेलाए मन्त्रिपरिषदको बैठक",
+      "summary": "बैठकमा सरकारको राष्ट्रिय प्राथमिकता, यी निकायहरूको जिम्मेवारी, कार्यक्रम र बजेटबारे छलफल भइरहेकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-in-discussion-with-officials-of-the-planning-commission-and-policy-research-institute-11-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776760520_pm-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङले राजीनामा दिए राम्रो : सांसद साम्पाङ",
+      "summary": "साफ महिला च्याम्पियनसिपको लागि अखिल नेपाल फुटबल संघ (एन्फा)ले ३५ खेलाडीलाई बन्द प्रशिक्षणमा बोलाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/saff-women-s-championship-anfa-calls-35-players-for-closed-training-21-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776760557_women football-480x320.jpg"
+    },
+    {
+      "title": "रास्वापाले प्रत्यक्ष नजितेका क्षेत्रमा समानुपातिक सांसदलाई तोक्यो जिम्मेवारी",
+      "summary": "विभागले लामो समयदेखि छपाइको पर्खाइमा रहेका लाइसेन्स सम्बन्धित यातायात कार्यालयहरूमा पठाउन सुरु गरेको जानकारी गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/request-from-the-department-to-obtain-a-license-from-the-office-where-you-applied-54-68.html?click_from=just_in",
       "image_url": ""
     }
   ]
