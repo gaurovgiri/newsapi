@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-22T14:01:19.827692",
+  "scraped_at": "2026-04-22T17:10:26.522946",
   "date": "2026-04-22",
-  "total_articles": 53,
+  "total_articles": 61,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -430,6 +430,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/ilam-gold-cup-machhindra-enters-finals-72-44.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Legal but not safe",
+      "summary": "Women continue to die from abortion-related complications over two decades after the procedure was legalised. Experts say over-the-counter abortion kits are fuelling unsafe practices.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/22/legal-but-not-safe",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/abortion-1776872803.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tourism regains momentum in Sukute",
+      "summary": "As temperatures rise, hotels and resorts along the Sunkoshi and Bhotekoshi rivers report a surge in domestic and international visitors.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/22/tourism-regains-momentum-in-sukute",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/rafting-1776853866.jpg&w=300&height=200"
+    },
+    {
+      "title": "Costly fuel adds to farmers’ woes",
+      "summary": "Sky-high diesel prices amid global supply constraints raise farming costs, giving rise to worries over food prices and rural livelihoods.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/22/costly-fuel-adds-to-farmers-woes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tillerfilephoto-1776871720.jpg&w=600&height=400"
+    },
+    {
+      "title": "कानुनमन्त्री गौतम र यूएन आवासीय संयोजक याहियाबीच शिष्टाचार भेट",
+      "summary": "कानुन, न्याय तथा संसदीय मामिलामन्त्री सोविता गौतमसँग संयुक्त राष्ट्रसंघ (यूएन) की नेपालस्थित आवासीय संयोजक लिला पिटर्स याहियाले आज शिष्टाचार भेटघाट गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/courtesy-meeting-between-law-minister-gautam-and-un-resident-coordinator-yahia-13-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776875148_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङको फेसबुक पेज फिर्ता",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले आफ्नो सांगीतिक यात्राका क्रममा प्रयोग गरेको चर्चित गीत ‘गरिबको चमेली बोल्दिने कोही छैन...’ का स्रष्टा एवं जनगायक रामेश्वर श्रेष्ठ (रामेश) ले उक्त गीत अनुमतिबिनै प्रयोग गरिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/balen-sang-garibko-chameli-without-permission-folk-singer-ramesh-says-may-the-essence-of-the-song-not-be-lost-91-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776873686_2323-480x320.jpg"
+    },
+    {
+      "title": "कोशी प्रदेश सरकार फेरबदल हुनसक्ने कांग्रेस सभापति थापाको संकेत",
+      "summary": "अर्थमन्त्री डा स्वर्णीम वाग्लेले कुनै पनि छिमेकीविरुद्ध नेपाली भूमि दुरुपयोग हुन नदिने प्रतिबद्धता व्यक्त गर्दै विकासको विश्वासिलो साझेदार चीनसँगको मैत्रीलाई सरकारले उच्च प्राथमिकता दिएको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/we-will-not-allow-nepali-land-to-be-misused-against-neighbors-finance-minister-74-65.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763457108_swarnim_wagle-480x320.jpg"
+    },
+    {
+      "title": "सञ्चार मन्त्रालयले भन्यो- हचुवामा समाचार प्रकाशन गरे कडा कारबाही गर्छाैं",
+      "summary": "नेपालका सुप्रसिद्ध जनवादी गायक रामेश्वर श्रेष्ठ (रामेश) ले क्रान्तिकारी गीतहरू गाएर सत्ताको भर्‍याङ चढेका राजनीतिक दल र नेताहरूले गरिब तथा सीमान्तकृत वर्गलाई धोका दिएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/even-today-no-one-speaks-chameli-70-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776873259_ramesh-480x320.jpg"
+    },
+    {
+      "title": "रास्वपाको प्रवास अभियान: विदेशमा १० लाख सदस्य बनाउने, मतदानको अधिकार दिने",
+      "summary": "कानुन, न्याय तथा संसदीय मामिलामन्त्री सोविता गौतमसँग संयुक्त राष्ट्रसंघ (यूएन) की नेपालस्थित आवासीय संयोजक लिला पिटर्स याहियाले आज शिष्टाचार भेटघाट गरेकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/courtesy-meeting-between-law-minister-gautam-and-un-resident-coordinator-yahia-13-41.html?click_from=just_in",
       "image_url": ""
     }
   ]
