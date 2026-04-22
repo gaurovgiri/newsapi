@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-22T09:43:41.848376",
+  "scraped_at": "2026-04-22T14:01:19.827692",
   "date": "2026-04-22",
-  "total_articles": 46,
+  "total_articles": 53,
   "sources": [
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -374,6 +374,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/police-raid-birgunj-hotel-indian-youth-arrested-with-30-000-tramadol-51-98.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Agrawal, Bhatta remanded in custody for additional seven days",
+      "summary": "Both are in police custody in connection with money laundering allegations.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/22/agrawal-bhatta-remanded-in-custody-for-additional-seven-days",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/bhattaagrawal21420260534271000x0-1776861416.jpg&w=300&height=200"
+    },
+    {
+      "title": "Bullion market this week",
+      "summary": "The market fluctuated during the week, with gold peaking at Rs 302,800 and dipping to Rs 299,700 before ending lower overall.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/22/bullion-market-this-week",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/save-1776853125.jpg&w=600&height=400"
+    },
+    {
+      "title": "सहकारी पीडितको बचत फिर्ता गराउन सरकार सक्रिय",
+      "summary": "ठूलो टुँडिखेलमा भएको पहिलो सेमिफाइनलमा मछिन्द्रले ५–२ को फराकिलो गोलान्तरले पथरीलाई पाखा लगायो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ilam-gold-cup-machhindra-enters-finals-72-44.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776865979_m VS P-480x320.jpg"
+    },
+    {
+      "title": "गुरुङको राजीनामा स्वीकृत, अब गृह पनि प्रधानमन्त्रीले सम्हाल्ने",
+      "summary": "सरकारी कार्यालयभित्रका कोठाहरूमा पुगेर काम गरिरहेको पाइएपछि कारबाही गर्नुपरेको प्रहरीले जनाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/11-arrested-from-bhaktapur-land-revenue-office-services-suspended-due-to-audit-36-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1776865697_Bhumi Byawastha -480x320-wm.jpg"
+    },
+    {
+      "title": "संसद्को वर्षे अधिवेशन वैशाख १७ गतेदेखि",
+      "summary": "दुबै पालिकाले १३ वटा खोपको पहुँच पालिकामा रहेका ५ वर्ष मुनिका सबै बालबालिकामा पुगेको प्रतिवेदन समेत प्रस्तुत गरेका थिए ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/two-municipalities-declared-fully-vaccinated-and-sustainable-on-the-same-day-35-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776865344_Kapilbastu news -480x320.jpg"
+    },
+    {
+      "title": "आफू निकटका नेतासँग छलफल गर्दै देउवा पक्ष: नयाँ रणनीति बनाउने",
+      "summary": "सुशासनको नारासहित प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको सरकारमा शक्तिशाली गृह मन्त्रालयको कमान्ड सम्हालेका सुधन गुरुङको सत्ता-यात्रा नाटकीय रूपमा टुङ्गिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/sudhan-gurung-s-27-day-journey-to-power-38-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776866243_001-480x320.jpg"
+    },
+    {
+      "title": "आन्दोलनलाई सफलताको उचाईमा पुर्‍याउँन एकजुट होऔँ: केपी ओली",
+      "summary": "ठूलो टुँडिखेलमा भएको पहिलो सेमिफाइनलमा मछिन्द्रले ५–२ को फराकिलो गोलान्तरले पथरीलाई पाखा लगायो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ilam-gold-cup-machhindra-enters-finals-72-44.html?click_from=just_in",
       "image_url": ""
     }
   ]
