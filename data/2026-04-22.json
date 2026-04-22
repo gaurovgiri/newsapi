@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-22T06:05:58.615174",
+  "scraped_at": "2026-04-22T09:43:41.848376",
   "date": "2026-04-22",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
-    "KathmanduPost",
+    "NagarikNews",
     "News24",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-rajasthan-and-lucknow-clash-36-57.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776837226_rr lsg-480x320.jpg"
+    },
+    {
+      "title": "Weakened, Nepal’s old guard turns inward",
+      "summary": "Congress, UML and other forces scramble to rebuild organisations, review leadership and prepare for local and provincial polls as new political order takes shape.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/22/weakened-nepal-s-old-guard-turns-inward",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/oldparties-1776835073.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal drawn with Sri Lanka and Bhutan in SAFF Women’s Championship",
+      "summary": "Defending champions Bangladesh placed with hosts India in Group B.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/football/2026/04/22/nepal-drawn-with-sri-lanka-and-bhutan-in-women-s-saff-championship",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/nepalwomensfootballcopy-1776819569.jpg&w=300&height=200"
+    },
+    {
+      "title": "US assistant secretary wraps up Nepal visit with focus on investment and tech ties",
+      "summary": "Samir Paul Kapur meets top leaders, pushes for stronger investment climate and expands talks on trade, ICT and policy reforms.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/22/us-assistant-secretary-wraps-up-nepal-visit-with-focus-on-investment-and-tech-ties",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HGcNqKXYAAqQJD-1776837985.jpg&w=600&height=400"
+    },
+    {
+      "title": "गृहमन्त्रालय तत्काललाई प्रधानमन्त्री शाहले आफैं सम्हाल्ने",
+      "summary": "प्रतिबन्धित लागू औषध करिब ३० हजार ट्रमाडोल ट्याबलेटसहित भारतको बिहार भेलाही निवासी २० वर्षीय सागर कुमार पटेललाई पर्सा प्रहरीले पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/police-raid-birgunj-hotel-indian-youth-arrested-with-30-000-tramadol-51-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756828601_pakrau-480x320.jpg"
+    },
+    {
+      "title": "सरकार गठनको एक महिना नबित्दै दुई मन्त्रीको राजीनामा",
+      "summary": "इरानले स्ट्रेट अफ होर्मुजमा एक कन्टेनर जहाजमाथि गोली प्रहार गरेपछि मध्यपूर्वमा जारी कूटनीतिक प्रयासहरू झनै जटिल बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/us-iran-talks-in-crisis-after-hormuz-shooting-90-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774248191_hormuz-480x320.jpg"
+    },
+    {
+      "title": "७७ वर्षे इतिहास समीक्षा हुनुपर्छ: माधव नेपाल",
+      "summary": "मन्त्री सुदन गुरुङले पदबाट राजीनामा दिएपछि प्रधानमन्त्री शाहले गृह पनि आफूसँगै राखेका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-will-personally-handle-the-home-ministry-for-the-time-being-90-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776849760_Balen Sudan-480x320.jpg"
+    },
+    {
+      "title": "गृहमन्त्री गुरुङले दिए पदबाट राजीनामा",
+      "summary": "दुई तिहाइ नजिकको बहुमतसहित सरकार गठन भएको एक महिना पुगेको छैन । अर्थात बालेन्द्र शाह (बालेन)को नेतृत्वमा बनेको सरकारले महिनादिन नपुग्दै विवादका कारण दुई मन्त्रीले राजीनामा गर्नु परेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/two-ministers-resign-less-than-a-month-after-government-formation-77-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776849118_Balen-480x320.jpg"
+    },
+    {
+      "title": "कूटनीतिक राहदानीको दुरुपयोग राेक्न कडाइ : तोकिएको प्रयोजनबाहेक राहदानी प्रयोग गर्न नहुनेमा जाेड",
+      "summary": "प्रतिबन्धित लागू औषध करिब ३० हजार ट्रमाडोल ट्याबलेटसहित भारतको बिहार भेलाही निवासी २० वर्षीय सागर कुमार पटेललाई पर्सा प्रहरीले पक्राउ गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/police-raid-birgunj-hotel-indian-youth-arrested-with-30-000-tramadol-51-98.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
