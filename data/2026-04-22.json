@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-22T03:31:35.084202",
+  "scraped_at": "2026-04-22T06:05:58.615174",
   "date": "2026-04-22",
-  "total_articles": 33,
+  "total_articles": 37,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -271,6 +271,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/three-middlemen-arrested-for-harassing-service-recipients-48-84.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "जमा अतिक्रमित सडकमा बल्ल चल्यो डोजर, अगुवाहरुले गरे स्वागत",
+      "summary": "जमा अतिक्रमित सडकमा बल्ल चल्यो डोजर, अगुवाहरुले गरे स्वागत",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12747",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sadak-Bistar---1776657199.jpg"
+    },
+    {
+      "title": "Nagdhunga–Sisnekhola tunnel road near completion, opening hinges on operation deal",
+      "summary": "With 98 percent of work done, authorities expect full operations within three months as staffing, safety systems and toll infrastructure are finalised.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/22/nagdhunga-sisnekhola-tunnel-road-near-completion-opening-hinges-on-operator-deal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1776833235.jpg&w=300&height=200"
+    },
+    {
+      "title": "The man who mastered Nepali politics couldn’t master himself",
+      "summary": "For six decades, Sher Bahadur Deuba outlasted rivals, outwitted kings, and came back from every political near-death. His final undoing was of his own making.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/politics/2026/04/21/the-man-who-mastered-nepali-politics-couldn-t-master-himself",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DEUBACAPOFF-1776786296.jpg&w=300&height=200"
+    },
+    {
+      "title": "चार वर्षमा उच्च तहका १३४ कर्मचारीविरुद्ध भ्रष्टाचार मुद्दा",
+      "summary": "यस मैदानमा यी दुई टोली दोस्रो पटक आमनेसामने हुन लागेका हुन्। यसअघि २०२४ मा भएको खेलमा राजस्थानले जित हात पारेको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-rajasthan-and-lucknow-clash-36-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776837226_rr lsg-480x320.jpg"
     }
   ]
 }
