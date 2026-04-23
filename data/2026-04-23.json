@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-23T14:03:23.434283",
+  "scraped_at": "2026-04-23T17:39:20.553736",
   "date": "2026-04-23",
-  "total_articles": 52,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -423,6 +423,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/third-mayor-s-cup-cricket-to-be-held-in-itahari-from-april-15-57-71.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Industrialist Golchha arrested in Kathmandu",
+      "summary": "Securities Board’s report linked him as a facilitator in a controversial share trading case.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/businessman-golchha-arrested-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/shekhargolchha090420170819171000x023420260248071000x0-1776949535.jpg&w=300&height=200"
+    },
+    {
+      "title": "KMG Managing Director Sambhav Sirohiya steps down",
+      "summary": "In his resignation note, Sirohiya said he had serious disagreements with the group’s recent reporting—particularly stories published about then Home Minister Sudan Gurung.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/kmg-managing-director-sambhav-sirohiya-steps-down",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/sambhavsirohiya-1776965323.jpg&w=300&height=200"
+    },
+    {
+      "title": "विज्ञको सुझाव समेटेर संविधान संशोधनको बहसपत्र तयार पार्ने कार्यदलको निर्णय",
+      "summary": "सिरहाको चोहर्वा-सिरहा सडकखण्ड अन्तर्गत नरहा गाउँपालिका-३ खोरिया टोलमा आज मोटरसाइकलले ठक्कर दिँदा पाँच वर्षीया बालिका खजिजा खातुनको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/five-year-old-girl-dies-after-being-hit-by-motorcycle-75-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "रमाना नबुझ्ने प्रमुख प्रशासकीय अधिकृतलाई सरकारकाे अल्टिमेटम",
+      "summary": "विवादित व्यापारी दीपक भट्टको कम्पनीमा सेयर लगानी विवादमा तानिएका गृहमन्त्री सुधन गुरुङले बुधबार पदबाट राजीनामा दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/a-successful-24-hours-for-the-former-home-minister-br-78-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776002151_sudan-480x320.jpg"
     }
   ]
 }
