@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-23T06:11:49.975289",
+  "scraped_at": "2026-04-23T09:51:23.684994",
   "date": "2026-04-23",
-  "total_articles": 37,
+  "total_articles": 45,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -303,6 +303,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/prime-minister-shah-calls-cabinet-meeting-89-79.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775644453_balen-480x320.jpg"
+    },
+    {
+      "title": "थानीय तहमा सहजीकरण समिति गठन गरिने",
+      "summary": "थानीय तहमा सहजीकरण समिति गठन गरिने",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12761",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Dalit-Adhikar-Bidheyak--Rupandehi-1776910844.jpg"
+    },
+    {
+      "title": "Concerns over RSP intent to make House rules stronger than federal law",
+      "summary": "Draft states the tenure and privileges of lawmakers, irrespective of their presence in House, cannot be curtailed by laws.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/concerns-over-rsp-intent-to-make-house-rules-stronger-than-federal-law",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/OathNewMPSinghdurbar70-1776909628.jpg&w=300&height=200"
+    },
+    {
+      "title": "US, China push competing priorities in Kathmandu",
+      "summary": "As Samir Kapur raises Tibetan refugee issues, Cao Jing warns against US State Partnership Program, Starlink, and Nepal’s participation in a May 27 Dharamshala event.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/us-china-push-competing-priorities-in-kathmandu",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1776908471.jpg&w=300&height=200"
+    },
+    {
+      "title": "सामाजिक सञ्जाल नेपालमा दर्ता नहुँदा अनुसन्धान प्रभावित !",
+      "summary": "कार्कीले नेपालमा सामाजिक सञ्जाल प्लेटफर्म दर्ता नहुँदा साइबर अपराध अनुसन्धान र नियन्त्रणमा गम्भीर समस्या भइरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/research-is-affected-by-the-lack-of-registration-of-social-media-in-nepal-25-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774103942_dan bahadur karki-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् निर्णयः प्रहरी प्रतिष्ठान स्थानान्तरण नहुने",
+      "summary": "प्रहरी महानिरीक्षक दानबहादुर कार्कीले सामाजिक सञ्जालका प्लेटफर्महरू नेपालमा दर्ता नभएका कारण आपराधिक अनुसन्धानका क्रममा सूचना प्राप्त गर्न व्यक्तिगत सम्बन्ध र ‘नेटवर्किङ’ को भर पर्नुपर्ने बाध्यात्मक अवस्था रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/requesting-information-from-facebook-requires-relying-on-personal-relationships-inspector-general-karki-br-53-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774103942_dan bahadur karki-480x320.jpg"
+    },
+    {
+      "title": "नियमावली पारित गर्दा संवैधानिक सीमा र स्थापित संसदीय अभ्यासलाई ध्यान दिनुपर्छ: महेश बर्तौला",
+      "summary": "सङ्घीय मामिला तथा सामान्य प्रशासन मन्त्रालयले देशभरका कर्मचारीका लागि विद्युतीय हाजिरी अनिवार्य रूपमा लागू गर्न निर्देशन दिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/government-directive-to-make-electronic-attendance-mandatory-for-all-employees-42-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775393016_Sanghiya-480x320.jpg"
+    },
+    {
+      "title": "हर्क साम्पाङ प्रत्यक्ष निर्वाचित कार्यकारी राष्ट्रपतीय प्रणालीको पक्षमा",
+      "summary": "प्यूठानमा तीर्थयात्री सवार जिप दुर्घटना भएको छ। थप विवरण आउँन बाँकी छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/pilgrims-in-jeep-accident-in-pyuthan-rescue-underway-80-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771124570_1764911820_1649837678_accident-1200x560-1200x560 (1)-480x320.jpg"
+    },
+    {
+      "title": "प्रवक्ता पोखरेलले भने : सुकुम्बासी बस्ती हटाउनेबारे मन्त्रिपरिषद्‍बाट निर्णय भएको छैन",
+      "summary": "कार्कीले नेपालमा सामाजिक सञ्जाल प्लेटफर्म दर्ता नहुँदा साइबर अपराध अनुसन्धान र नियन्त्रणमा गम्भीर समस्या भइरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/research-is-affected-by-the-lack-of-registration-of-social-media-in-nepal-25-48.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
