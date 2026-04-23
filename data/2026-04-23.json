@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-23T09:51:23.684994",
+  "scraped_at": "2026-04-23T14:03:23.434283",
   "date": "2026-04-23",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
     "NagarikNews",
     "KathmanduPost",
@@ -366,6 +366,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/research-is-affected-by-the-lack-of-registration-of-social-media-in-nepal-25-48.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Securities Board names top businesspersons in alleged share-rigging",
+      "summary": "Regulatory report names five accused and several facilitators in the alleged scam involving credit trading, price manipulation, and unsettled transactions.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/security-board-names-top-businesspersons-in-alleged-share-rigging",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1776932081.jpg&w=300&height=200"
+    },
+    {
+      "title": "53 Nepali workers stranded in Saudi Arabia without work",
+      "summary": "Workers, unpaid for up to five months, say the employer stopped meals and failed to provide tickets despite issuing exit visas.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/23/53-nepali-workers-stranded-in-saudi-arabia-without-work",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/nepalistrandedinSaudi-1776942361.jpg&w=600&height=400"
+    },
+    {
+      "title": "स्थानीय निर्वाचन : उम्मेदवार छनोट गर्न रास्वपामा समिति गठन",
+      "summary": "वैशाख १५ गतेदेखि इटहरीमा तेस्रो मेयर कप अन्तरपालिका स्तरीय क्रिकेट प्रतियोगिता हुने भएको छ । प्रतियोगिता २१ गतेसम्म सञ्चालन हुनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/third-mayor-s-cup-cricket-to-be-held-in-itahari-from-april-15-57-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776952630_Press_Meet-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तहलाई अधिकार हस्तान्तरणको तयारीमा सरकार, भूमि सेवा प्रवाह गर्न मन्त्रालयको आह्वान",
+      "summary": "२७ केजी गाँजासहित उदयपुरमा एक अटो चालक पक्राउ परेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/auto-driver-arrested-with-27-kg-of-marijuana-30-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776952013_gaja-480x320.jpg"
+    },
+    {
+      "title": "सञ्चारमन्त्री र पत्रकार महासङ्घबीच के भयो छलफल ?",
+      "summary": "भक्तपुर मालपोत कार्यालय आसपासका लेखापढी व्यवसायीहरूले बिहीबार पनि आफ्ना सम्पूर्ण सेवा बन्द गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/accounting-services-suspended-near-bhaktapur-land-revenue-office-two-more-arrested-22-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776951605_Lekhapadi-480x320.jpg"
+    },
+    {
+      "title": "हिमाली क्षेत्रमा शैक्षिकसत्रको समय परिवर्तन गर्न सांसदको माग",
+      "summary": "रास्वपाले स्थानीय तहको निर्वाचनका लागि उम्मेदवार छनोट गर्न समिति गठन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/local-elections-committee-formed-in-rsp-to-select-candidates-89-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776951175_Rasopa final-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद्को सिफारिसमा संसद् अधिवेशन स्थगित",
+      "summary": "वैशाख १५ गतेदेखि इटहरीमा तेस्रो मेयर कप अन्तरपालिका स्तरीय क्रिकेट प्रतियोगिता हुने भएको छ । प्रतियोगिता २१ गतेसम्म सञ्चालन हुनेछ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/third-mayor-s-cup-cricket-to-be-held-in-itahari-from-april-15-57-71.html?click_from=just_in",
       "image_url": ""
     }
   ]
