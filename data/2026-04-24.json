@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-24T03:37:06.143271",
+  "scraped_at": "2026-04-24T06:16:13.964955",
   "date": "2026-04-24",
-  "total_articles": 33,
+  "total_articles": 40,
   "sources": [
+    "KathmanduPost",
     "NagarikNews",
-    "News24",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -271,6 +271,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-not-forget-that-the-government-is-also-responsible-for-protecting-the-homeless-lingden-71-42.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "परिकारको संरक्षण र प्रवद्र्धनमा जुटे सिन्धुपाल्चोकका युवा",
+      "summary": "परिकारको संरक्षण र प्रवद्र्धनमा जुटे सिन्धुपाल्चोकका युवा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12770",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/raithane-bali__-1777003379.jpg"
+    },
+    {
+      "title": "भरेज एण्ड हस्पिटालिटी एक्स्पोमा ३०० भन्दा बढि स्टल",
+      "summary": "भरेज एण्ड हस्पिटालिटी एक्स्पोमा ३०० भन्दा बढि स्टल",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12768",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/food-expo___-1777002622.jpg"
+    },
+    {
+      "title": "अस्टिन नेपाली सोसाइटीको निर्वाचन मे २४ मा, पदम ठकुराठी नेतृत्वको प्यानल चुनावी मैदानमा",
+      "summary": "अस्टिन नेपाली सोसाइटीको निर्वाचन मे २४ मा, पदम ठकुराठी नेतृत्वको प्यानल चुनावी मैदानमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12764",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Gans-1776951099.JPG"
+    },
+    {
+      "title": "सीडीओ कार्यालय अगाडि रास्वपा सांसदको धर्नाबारे महेशले भने : नौटंकी बन्द गर सरकार",
+      "summary": "मुलुकको राजनीतिक परिवर्तनमा एउटा गीत जबर्जस्त सन्देश लिएर आयो– ‘गरिबको चमेली बोल्दिने कोही छैन।’ यो ‘राल्फा’को नाममा २०२३ सालमा जन्मिएको एउटा सांगीतिक समूहको चर्चित गीत थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/poor-man-s-jasmine-41-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777010797_gariba-480x320.jpg"
+    },
+    {
+      "title": "सुशासनको जग बसाल्न 'रुल अफ ल'को जगेर्ना गरौँ : पूर्वगृहमन्त्री अर्याल",
+      "summary": "कास्की प्रहरीले बिहीबार सञ्चालन गरेको दोस्रो दिनको स्वीप अप्रेसनमा थप ६१ जना पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/61-arrested-on-second-day-of-sweep-operation-91-32.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767683851_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "आह्वान भएको २४ घण्टा नबित्दै संसद् अधिवेशन अन्त्य गरिनुले गम्भीर प्रश्नहरू उब्जायो : महामन्त्री पौडेल",
+      "summary": "लुम्बिनी प्रदेशका तराईका जिल्लामा चैते धानखेतीमा किसानको आकर्षण क्रमशः घट्दो अवस्थामा पुगेको छ। तराईका जिल्लाको तुलनामा पहाडी जिल्लामा भने चैते धानखेती विस्तार भए पनि सन्तोषजनक छैन।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/chaite-paddy-cultivation-area-decreasing-in-lumbini-province-13-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756975296_dhan-480x320.jpg"
+    },
+    {
+      "title": "लोकतन्त्रका उपलब्धिको अनुभूति जनजीवनमा हुनुपर्छ : सभापति थापा",
+      "summary": "नेपालमा मधेसी अधिकारका आवाजहरू २००७ सालको खुला राजनीतिक वातावरणसँगै सार्वजनिक हुन थालेको पाइन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/madhesh-in-the-struggle-for-rights-85-75.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777009699_adhikar-480x320.jpg"
     }
   ]
 }
