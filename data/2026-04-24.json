@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-24T06:16:13.964955",
+  "scraped_at": "2026-04-24T09:51:02.172637",
   "date": "2026-04-24",
-  "total_articles": 40,
+  "total_articles": 47,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -327,6 +327,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/madhesh-in-the-struggle-for-rights-85-75.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777009699_adhikar-480x320.jpg"
+    },
+    {
+      "title": "No place to play for Kathmandu kids",
+      "summary": "A generation of children is growing up in a city that has no designated place for them—hemmed in by construction, scolded out of lanes, and handed a phone in place of the space their bodies and minds need.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/24/no-place-to-play-for-kathmandu-kids",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/finalIMG20260423WA0001copy-1776993514.jpg&w=300&height=200"
+    },
+    {
+      "title": "Administrative error forces Baitadi residents to travel to Dadeldhura to pay land taxes",
+      "summary": "Over 400 families in Melauli have crossed district lines for five decades to settle land revenue due to a mapping error in the 1970s.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/24/administrative-error-forces-baitadi-residents-to-travel-to-dadeldhura-to-pay-land-taxes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/baitadidadeldhura-1777019036.jpg&w=600&height=400"
+    },
+    {
+      "title": "जेनजी विद्रोह: आक्रोशबाट आशातर्फको यात्रा",
+      "summary": "केही स्वार्थी तथा टाठाबाठा व्यक्तिले वास्तविक सुकुम्वासीको नाम र हकअधिकारको दुरुपयोग गर्दै अनुचित लाभ लिने प्रयास गरिरहेको भन्दै यसमा सचेत हुन आग्रह गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-say-provide-information-about-fake-squatters-75-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1768021420_Nepal Police-480x320.jpg"
+    },
+    {
+      "title": "क्रान्तिपछि शान्ति सम्भव छ ?",
+      "summary": "सत्यको बाटोमा हिँड्नेलाई संसारले नै छोडे पनि, अन्ततः प्रकृतिले न्याय गर्छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/interview/those-who-have-won-should-not-be-discouraged-those-who-have-lost-should-not-be-discouraged-47-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1771134229_PM sushila-480x320.jpg"
+    },
+    {
+      "title": "कर्मचारीलाई वैदेशिक भ्रमणमा मनोनयन नगर्न सरकारको निर्देशन",
+      "summary": "रिटमा प्रधानमन्त्री तथा मन्त्रिपरिषद् कार्यालय, गृह मन्त्रालय, प्रहरी मुख्यालय र काठमाडौं महानगरपालिकासहितका निकायलाई विपक्षी बनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/writ-filed-in-supreme-court-against-decision-to-evict-squatters-interim-order-sought-65-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1777022721_Sukumbasi News 1-480x320-wm.jpg"
+    },
+    {
+      "title": "क्रान्ति र शान्तिको शृंखला: कोतको रगतदेखि पुस १ को ‘कू’सम्म",
+      "summary": "केही दिनयता वर्षा नहुँदा तापक्रम बढ्नुका साथै सुक्खा अवस्था बढेकाले डढेलो र प्रदूषण दुवैमा वृद्धि देखिएको सम्बन्धित निकायको तथ्याङ्कले देखाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/air-pollution-also-increases-with-wildfires-kathmandu-is-the-most-polluted-city-78-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1741512065_Kathmandu-480x320.jpg"
+    },
+    {
+      "title": "मधेस आन्दोलनको आयाम",
+      "summary": "केही स्वार्थी तथा टाठाबाठा व्यक्तिले वास्तविक सुकुम्वासीको नाम र हकअधिकारको दुरुपयोग गर्दै अनुचित लाभ लिने प्रयास गरिरहेको भन्दै यसमा सचेत हुन आग्रह गरेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-say-provide-information-about-fake-squatters-75-51.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
