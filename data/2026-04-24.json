@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-24T09:51:02.172637",
+  "scraped_at": "2026-04-24T13:57:18.843986",
   "date": "2026-04-24",
-  "total_articles": 47,
+  "total_articles": 55,
   "sources": [
-    "News24",
     "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -382,6 +382,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/police-say-provide-information-about-fake-squatters-75-51.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal moves to regulate ride-sharing, ride-hailing after nearly a decade",
+      "summary": "Draft digital mobility standard defines services, sets fares, safety rules and licensing, but operators say gaps remain.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/24/nepal-moves-to-regulate-ride-sharing-ride-hailing-after-nearly-a-decade",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777035845.jpg&w=300&height=200"
+    },
+    {
+      "title": "Tightened Bhairahawa customs checks empty Sunauli market",
+      "summary": "Crackdown on informal cross-border trade reduces Nepali shoppers in Sunauli, while officials claim revenue gains and traders warn of shifting patterns.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/24/tightened-bhairahawa-customs-checks-empty-sunauli-market",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sonaulibazarindia2442026070930-1777026747.jpg&w=300&height=200"
+    },
+    {
+      "title": "Police arrest ex-minister Bikram Pandey",
+      "summary": "CIB says he was held as part of an ongoing probe into alleged tampering of tender details.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/24/police-arrest-ex-minister-bikram-pandey",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1777036939.jpg&w=300&height=200"
+    },
+    {
+      "title": "हामीले काम गरेर देखायौं : पूर्वप्रधानमन्त्री कार्की",
+      "summary": "पूर्वप्रधानमन्त्री सुशीला कार्कीले आफू नेतृत्वको सरकारले काम गरेर देखाएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-shown-it-by-working-former-prime-minister-karki-br-25-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777038309_Susila Karki-480x320.jpg"
+    },
+    {
+      "title": "राप्रपाका नेता विक्रम पाण्डे पक्राउ",
+      "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा)का नेता एवं पूर्वमन्त्री विक्रम पाण्डे पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rpp-leader-bikram-pandey-arrested-78-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1749620916_Bikram-480x320.jpg"
+    },
+    {
+      "title": "नेतृत्वले भ्रष्टाचार नगरे देशमा भ्रष्टाचार रोकिन्छ : पूर्वप्रधानमन्त्री कार्की",
+      "summary": "कुनै पनि पदमा पैसा नदिइ नियुक्ती हुन्छ भनेर मान्छेले विश्वास गर्न छाडेको भन्दै उनले हरेक क्षेत्रमा भ्रष्टाचार हुने गरेको अनुभव सुनाइन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/corruption-will-stop-in-the-country-if-the-leadership-does-not-corrupt-former-prime-minister-karki-67-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777037921_Susila Karki-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् निर्णयः संसद्को ‘विजनेस’का लागि अधिवेशन स्थगन",
+      "summary": "उनले भने, ‘संसद्लाई पर्याप्त विजनेस दिनका लागि संसद् अधिवेशन स्थगित गरिएको हो। सरकारले विधेयकमार्फत कानुन बनाउने छ।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/cabinet-decision-adjournment-of-session-for-business-of-parliament-94-79.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777037477_sasmit-480x320.jpg"
+    },
+    {
+      "title": "अहिल्यै म यो सरकारबारे धारणा बनाउदिन: सुशीला कार्की",
+      "summary": "पूर्वप्रधानमन्त्री सुशीला कार्कीले आफू नेतृत्वको सरकारले काम गरेर देखाएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-shown-it-by-working-former-prime-minister-karki-br-25-97.html?click_from=just_in",
       "image_url": ""
     }
   ]
