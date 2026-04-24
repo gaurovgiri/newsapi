@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-24T13:57:18.843986",
+  "scraped_at": "2026-04-24T17:07:08.167525",
   "date": "2026-04-24",
-  "total_articles": 55,
+  "total_articles": 62,
   "sources": [
+    "News24",
     "KathmanduPost",
-    "NagarikNews",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -446,6 +446,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/we-have-shown-it-by-working-former-prime-minister-karki-br-25-97.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "ा बाई किलो’ को ब्रान्ड एम्बेसडरमा क्रिकेटर लोकेस बम",
+      "summary": "ा बाई किलो’ को ब्रान्ड एम्बेसडरमा क्रिकेटर लोकेस बम",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12772",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sekuwa-1777006596.png"
+    },
+    {
+      "title": "Birthing centres, crucial for mother and newborn safety, face funding cuts under new budget",
+      "summary": "Experts warn of serious setbacks from budget cuts to crucial public health programmes, which could threaten years of Nepal’s healthcare gains.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/24/birthing-centres-crucial-for-mother-and-newborn-safety-face-funding-cuts-under-new-budget",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1777039217.jpg&w=300&height=200"
+    },
+    {
+      "title": "निजामती विधेयकको मस्यौदा : राजनीतिक संलग्नता देखिए सेवाबाट बर्खास्ती",
+      "summary": "मधेश प्रदेश प्रहरी प्रमुखको घुमुवाको अडियो बाहिरिँदै गर्दा नेपालबाट भारततिर चाइनिज सामान तस्करी भएको र भारतीय एसएसबीले शुक्रबार नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-police-seize-chinese-goods-smuggled-from-nepal-42-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777046355_SSB News-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले अझै चयन गर्न सकेन संसदीय दलको नेता",
+      "summary": "सरकारले सङ्घीय निजामती सेवा विधेयकको मस्यौदाका सम्बन्धमा सुझाव माग गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/draft-civil-service-bill-dismissal-from-service-if-political-involvement-is-found-23-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777046012_Ministry1-480x320.jpg"
+    },
+    {
+      "title": "‘बालेन सरकारले साम्राज्यवादीको एजेण्टको रुपमा काम गरिरहेको छ’",
+      "summary": "नेपाल सरकार स्वास्थ्य तथा जनसंख्या मन्त्रालय अन्तर्गतको शहीद धर्मभक्त राष्ट्रिय प्रत्यारोपण केन्द्रको १४ औं वार्षिक उत्सव केन्द्रको परिसरमा विशेष समारोहबीच भव्यताका साथ सम्पन्न भएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/kidney-transplants-for-213-people-and-liver-transplants-for-3-people-in-one-year-80-78.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777045462_Bhaktapur News-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्रले भने: नदीकिनारका बासिन्दाको सुरक्षामा सरकार गम्भीर",
+      "summary": "नेपाली कांग्रेसले संसदीय दलको नेता सर्वसम्मत रूपमा चयन गर्ने उद्देश्यले तय गरिएको निर्वाचन प्रक्रिया स्थगित गरेको छ। यसअघि आजै निर्वाचनमार्फत नेता चयन गर्ने तयारीसहित कार्यतालिका सार्वजनिक गरिएको थियो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepali-congress-still-unable-to-elect-parliamentary-party-leader-86-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1771407185_Nepali Congress 1-480x320.jpg"
+    },
+    {
+      "title": "विद्युत् प्राधिकरणले सेवालाई नवीनतम् प्रविधिमैत्री बनाउने",
+      "summary": "मधेश प्रदेश प्रहरी प्रमुखको घुमुवाको अडियो बाहिरिँदै गर्दा नेपालबाट भारततिर चाइनिज सामान तस्करी भएको र भारतीय एसएसबीले शुक्रबार नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/indian-police-seize-chinese-goods-smuggled-from-nepal-42-99.html?click_from=just_in",
       "image_url": ""
     }
   ]
