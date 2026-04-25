@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-25T05:53:21.589403",
+  "scraped_at": "2026-04-25T09:03:40.757951",
   "date": "2026-04-25",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -367,6 +367,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/discussions-on-energy-cooperation-with-the-ambassadors-of-china-and-india-10-74.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Demolition of riverbank squatter settlements begins in Kathmandu Valley",
+      "summary": "Eviction drive begins early Saturday morning without major incidents as authorities deploy security forces and begin relocation process.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/25/demolition-of-riverbank-squatter-settlements-begins-in-kathmandu-valley",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/thaa-1777094905.jpg&w=300&height=200"
+    },
+    {
+      "title": "Chiya Kaka and the unfinished story of Mardi Himal",
+      "summary": "Mardi Himal is not just about landscapes. It is about people: the pioneers, the risk-takers, and the communities who bring these mountains to life.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/25/chiya-kaka-and-the-unfinished-story-of-mardi-himal",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ppp-1777086757.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepse drops 49.70 points as market enters correction phase",
+      "summary": "Investor sentiment weakens amid falling turnover, shrinking liquidity, and ongoing probe into suspected market manipulation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/25/nepse-drops-49-70-points-as-market-enters-correction-phase",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/one-1777099424.jpg&w=600&height=400"
+    },
+    {
+      "title": "सुकम्बासीहरूले अदृष्य त्रास र आतंकको छायाँमा सरकारको आदेश पालना गरे : महासचिव पोखरेल",
+      "summary": "आइसिसी विश्वकप लिग-२ अन्तर्गत जारी खेलमा नेपालले युएईका तीन विकेट लिएको छ। सुरुवातमा करण केसीले उत्कृष्ट बलिङ गर्दै खेलको दोस्रो ओभरमै युएईका दुई जना ब्याटरलाई आउट गराएका थिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/icc-world-cup-league-2-nepal-takes-three-wickets-against-uae-35-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777105349_Nepal Wicket -480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्र सम्बन्धलाई व्यवस्थित गर्न सरकार क्रियाशील छः मन्त्री खनाल",
+      "summary": "गाजा युद्धपछि पहिलो पटक शनिबार वेस्ट बैङ्क र गाजाको मध्य क्षेत्रमा प्यालेस्टिनीहरूले स्थानिय चुनावमा मतदान गर्न लागेको जनाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/first-elections-held-in-gaza-since-war-82-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777106100_palestine-480x320.jpg"
+    },
+    {
+      "title": "प्रम सचिवालयले भन्यो : अव्यवस्थित बस्ती खाली भयो",
+      "summary": "आफूलाई घरवारविहीन बताउनेमध्ये १३ जनालाई सुन्दरीघाटस्थित राधास्वामी सत्संग लगिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/13-squatter-families-taken-to-radhasoami-satsang-26-93.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777105357_sukum-480x320.jpg"
+    },
+    {
+      "title": "प्रधानाध्यापकलाई थर्काएको विषयमा विश्वराज पोखरेलको प्रष्टीकरण: भिडियोबाट भ्रम छरियो",
+      "summary": "आईसीसी विश्वकप लिग-टु अन्तर्गत जारी खेलमा नेपालले सुरुवाती सफलता हात पारेको छ। तीव्र गतिका बलर करण केसीले उत्कृष्ट बलिङ गर्दै खेलको दोस्रो ओभरमै युएईका दुई जना ब्याटरलाई आउट गराएका हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/karan-took-two-uae-wickets-in-one-over-68-91.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777105349_Nepal Wicket -480x320.jpg"
     }
   ]
 }
