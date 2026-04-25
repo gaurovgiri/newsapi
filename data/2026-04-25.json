@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-25T03:21:25.340388",
+  "scraped_at": "2026-04-25T05:53:21.589403",
   "date": "2026-04-25",
-  "total_articles": 33,
+  "total_articles": 44,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -270,6 +270,94 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/sharing-a-video-of-bishwaraj-mahavir-said-if-it-were-me-i-would-have-fired-him-and-sent-him-home-35-38.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "शका बिरामी बढे, जनशक्ति नहुँदा आइसीयू र भेन्टिलेटल प्रयोगिविहिन",
+      "summary": "शका बिरामी बढे, जनशक्ति नहुँदा आइसीयू र भेन्टिलेटल प्रयोगिविहिन",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12782",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Upacharma-Samasya---1777086400.jpg"
+    },
+    {
+      "title": "Celebrating International Jazz Day",
+      "summary": "Kathmandu Jazz Conservatory marks the day with workshops, performances and a concert, bringing together artists and students.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/25/celebrating-international-jazz-day",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/jaz-1777086424.jpg&w=300&height=200"
+    },
+    {
+      "title": "EVENTS: April 25 to May 1, 2026",
+      "summary": "The Post brings you a lowdown on some major events this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/25/events-april-25-to-may-1-2026",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/11-1777084911.jpg&w=300&height=200"
+    },
+    {
+      "title": "A childhood shaped by shadows",
+      "summary": "‘Chhail’ turns the mundane into meaning, capturing poverty and aspiration in Nepal’s far west.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/25/a-childhood-shaped-by-shadows",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/onebook-1777083648.jpg&w=300&height=200"
+    },
+    {
+      "title": "NEPSE this week",
+      "summary": "Here is a snapshot of what happened at the stock market this week.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/25/nepse-this-week-1777083095",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777083084.jpg&w=600&height=400"
+    },
+    {
+      "title": "Challenging norms through Mithila art",
+      "summary": "Mardi Himal is not just about landscapes. It is about people: the pioneers, the risk-takers, and the communities who bring these mountains to life.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/24/challenging-norms-through-mithila-art",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Dr-1777082305.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘ऊर्जा खपत वृद्धि तथा निर्यात रणनीति, २०८३’ को मस्यौदामा राय सुझाव माग",
+      "summary": "चिनियाँ राजदूतसँगको भेटमा नेपाल र चीनबिच आपसी हितमा आधारित व्यावहारिक सहकार्यलाई अझ सुदृढ बनाउने विषयमा विस्तृत छलफल भएको यहाँस्थित चिनियाँ राजदूतावासले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/discussions-on-energy-cooperation-with-the-ambassadors-of-china-and-india-10-74.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777096224_Urja-480x320.jpg"
+    },
+    {
+      "title": "सांसद पोखरेललाई नेता लुइँटेलको सुझाव: फौजी स्वभाव त्यागेर जनताको सेवक बन्नुहोस्",
+      "summary": "आईसीसी विश्वकप लिग-टु अन्तर्गत नेपालले युएईविरुद्धकाे जारी खेलमा सय रन पूरा गरेकाे छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-completes-100-runs-against-uae-78-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777095742_cricket pic-480x320.jpg"
+    },
+    {
+      "title": "सांसद साम्पाङको सुझाव : बालेन जी... विकासमा लाग्नु, पुरानो जुङ्गाको फाइट छोड्नु",
+      "summary": "बितेका २४ घण्टामा दुई हजार ९०३ जना सवारी चालक सवारी नियम उल्लङ्घनको कारबाहीमा परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2-903-people-in-traffic-enforcement-action-29-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776307778_traffic-480x320.jpg"
+    },
+    {
+      "title": "न आत्तिनुस, सरकार छ, कसैलाई अन्याय गर्दैन : सांसद संग्रौला",
+      "summary": "व्यवसाय दर्ताका लागि पटक–पटक आह्वान गरेको ताप्लेजुङको फुङलिङ नगरपालिकाले व्यवसाय दर्ता नगर्ने व्यवसायीको व्यवसाय बन्द गर्ने चेतावनीसहित व्यवसाय दर्ताका लागि १५ दिनको समय दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/warning-of-action-if-business-is-not-registered-within-15-days-35-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1763298049_Phungling-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासी बस्ती हटाउन काठमाडौं महानगरले पनि आवश्यक सहयोग गर्ने",
+      "summary": "चिनियाँ राजदूतसँगको भेटमा नेपाल र चीनबिच आपसी हितमा आधारित व्यावहारिक सहकार्यलाई अझ सुदृढ बनाउने विषयमा विस्तृत छलफल भएको यहाँस्थित चिनियाँ राजदूतावासले जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/discussions-on-energy-cooperation-with-the-ambassadors-of-china-and-india-10-74.html?click_from=just_in",
       "image_url": ""
     }
   ]
