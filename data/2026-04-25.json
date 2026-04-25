@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-25T09:03:40.757951",
+  "scraped_at": "2026-04-25T13:22:07.731673",
   "date": "2026-04-25",
-  "total_articles": 51,
+  "total_articles": 58,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -415,6 +415,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/karan-took-two-uae-wickets-in-one-over-68-91.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777105349_Nepal Wicket -480x320.jpg"
+    },
+    {
+      "title": "ाट यातायातको सेवा लिन धनगढी पुग्नुपर्ने बाध्यता हट्यो",
+      "summary": "ाट यातायातको सेवा लिन धनगढी पुग्नुपर्ने बाध्यता हट्यो",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12783",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Yatayat-Karyalaya-Sthapana-1777089088.jpg"
+    },
+    {
+      "title": "Nepal defeat UAE by 37 runs",
+      "summary": "Dipendra Singh Airee’s 75 anchors Nepal’s innings before Karan KC leads disciplined bowling attack to seal ICC Men’s Cricket World Cup League 2 win.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/04/25/nepal-defeat-uae-by-37-runs",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/6727776529867762273595574562589134567808598n-1777117283.jpg&w=300&height=200"
+    },
+    {
+      "title": "Old brick factories given two years to adopt cleaner measures",
+      "summary": "Amended standards mandate cleaner technology, cap pollutants and give existing industries two years to comply.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/25/old-brick-factories-given-two-years-to-adopt-cleaner-measures",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777117658.jpg&w=300&height=200"
+    },
+    {
+      "title": "Promises versus reality: The discrepancy in Nepal’s investment summits",
+      "summary": "Investor sentiment weakens amid falling turnover, shrinking liquidity, and ongoing probe into suspected market manipulation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/25/promises-versus-reality-the-discrepancy-in-nepal-s-investment-summits",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/RH7BJZAWWZK2RFFY3QFNZ7TZJM-1777122152.jpg&w=400&height=267"
+    },
+    {
+      "title": "कूटनीतिक आचरण व्यवस्थित गर्छौँ: मन्त्री खनाल",
+      "summary": "सरकारले शनिबारदेखि काठमाडौं उपत्यकाका सुकुमबासी बस्ती खाली गराउन सुरु गरेको छ। पहिलो दिन थापाथलीस्थित बागमती नदी किनारको अव्यवस्थित बस्ती शान्तिपूर्ण र सौहार्दपूर्ण रूपमा खाली गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/actual-squatters-to-be-moved-to-nagarjuna-s-apartment-within-two-weeks-52-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777122550_df-480x320.jpg"
+    },
+    {
+      "title": "‘विश्वास टुटेका मानिसको विद्रोह कति विस्फोटक हुन्छ बताइरहनुपर्छ र ?’",
+      "summary": "दिउँसोको वर्षाका कारण बीपी राजमार्गको जोखिमलाई मध्यनजर गर्दै सुरक्षा निकायले आवागमन बन्द गराइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/traffic-on-bp-highway-closed-vehicles-held-49-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775971306_BP-480x320.jpg"
+    },
+    {
+      "title": "दलहरूबीच सहमति नहुँदा बागमतीको सभामुख चयन अन्यौलमा",
+      "summary": "सरकारले बागमती नदी किनारस्थित थापाथली र गैरीगाउँ क्षेत्रका अनधिकृत सुकुमबासी बस्ती पूर्ण रूपमा खाली गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/slums-in-thapathali-and-gairigaun-evacuated-141-people-shifted-to-ashram-59-58.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777121333_mahanagar-480x320.jpg"
     }
   ]
 }
