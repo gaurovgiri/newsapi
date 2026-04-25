@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-25T13:22:07.731673",
+  "scraped_at": "2026-04-25T16:54:56.962619",
   "date": "2026-04-25",
-  "total_articles": 59,
+  "total_articles": 65,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -479,6 +479,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/slums-in-thapathali-and-gairigaun-evacuated-141-people-shifted-to-ashram-59-58.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777121333_mahanagar-480x320.jpg"
+    },
+    {
+      "title": "These Karnali women once relied on family support. Now they own businesses",
+      "summary": "Through street vending, group farming and skill training programmes, women in remote districts are slowly moving towards self-reliance and financial independence.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/04/25/these-karnali-women-once-relied-on-family-support-now-they-own-businesses",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/women-1777123535.jpg&w=300&height=200"
+    },
+    {
+      "title": "सुनसरी-१ का खानेपानी योजना बजेटमा राख्न हर्क साम्पाङको माग",
+      "summary": "इरानमा फेब्रुअरी २८ देखि जारी इन्टरनेटको अवरोधले ५७ दिन पूरा गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/internet-service-disrupted-in-iran-for-57-days-47-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2024/third-party/1706498750_internet-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसलाई एकताबद्ध बनाउन जरुरी: महामन्त्री पौडेल",
+      "summary": "यहाँको एक सामुदायिक वन समूहको खयर अवैधरूपमा कटान भएको भन्दै अख्तियार दुरुपयोग अनुसन्धान आयोगमा उजुरी दिने एक उपभोक्ता आफै पक्राउ परेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-person-who-filed-a-complaint-with-the-ciaa-about-illegal-harvesting-of-khair-is-arrested-himself-84-19.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1752995504_nagarika-1200x560-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्बासी बस्ती व्यवस्थापनमा सरकारलाई ज्ञानेन्द्र शाहीको समर्थन",
+      "summary": "जुम्ला बहुमुखी क्याम्पसद्वारा आयोजित ‘प्रथम स्ववियु भलिबल कप’ को उपाधि पातारासी गाउँपालिकाले जितेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/patarasi-wins-first-swavi-volleyball-cup-title-br-84-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777132849_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "घरदैलोमै सामाजिक सुरक्षा भत्ता, बैंक धाउनुपर्ने बाध्यता हट्यो",
+      "summary": "खानेपानी मन्त्रालयलाई पत्र लेख्दै साम्पाङ्ले नागरिकले भोगिरहेका खानेपानी समस्या समाधानका लागि दीर्घकालीन र आधारभूत योजनाहरू तत्काल अघि बढाउन आवश्यक रहेको उल्लेख गरेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-demands-that-the-drinking-water-project-of-sunsari-1-be-included-in-the-budget-93-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775830930_harka-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेशसभाको बजेट अधिवेशन आह्वान",
+      "summary": "इरानमा फेब्रुअरी २८ देखि जारी इन्टरनेटको अवरोधले ५७ दिन पूरा गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Aparadh/internet-service-disrupted-in-iran-for-57-days-47-64.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
