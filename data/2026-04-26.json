@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-26T03:45:03.320738",
+  "scraped_at": "2026-04-26T06:14:27.221848",
   "date": "2026-04-26",
-  "total_articles": 32,
+  "total_articles": 37,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -263,6 +263,46 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-the-wholesale-price-of-agricultural-produce-in-kalimati-82-71.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "ाण्डे प्रकरणः दुई क्लिनिक शिल, डा. सतिष रुपाखेती दोषी !",
+      "summary": "ाण्डे प्रकरणः दुई क्लिनिक शिल, डा. सतिष रुपाखेती दोषी !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12785",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/gita-1777175825.jpg"
+    },
+    {
+      "title": "मार्फत विश्व शान्तिको सन्देश , “म्यूजिक फर पीस” कार्यक्रम भव्य रुपमा सम्पन्न",
+      "summary": "मार्फत विश्व शान्तिको सन्देश , “म्यूजिक फर पीस” कार्यक्रम भव्य रुपमा सम्पन्न",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12784",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sanka3-1777110661.jpg"
+    },
+    {
+      "title": "Nepal drafts civil service bill raising retirement age to 60, lowering civil service entry age limit",
+      "summary": "Proposed law restructures provincial services, introduces performance-based evaluation, bans trade unions and political activity, and formalises federal administrative coordination.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/26/nepal-drafts-civil-service-bill-raising-retirement-age-to-60-tightening-psc-eligibility",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1777177888.jpg&w=300&height=200"
+    },
+    {
+      "title": "Squatter settlements on Bagmati riverbanks razed as residents await an uncertain future",
+      "summary": "Evicted families taken to Dasharath Stadium and other designated sites for temporary accommodation.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/26/squatter-settlements-on-bagmati-riverbanks-razed-as-residents-await-an-uncertain-future",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67682736522240814950985932193763325026913177n-1777109062.jpg&w=600&height=400"
+    },
+    {
+      "title": "मनमोहन अधिकारी प्रतिकूल परिस्थितिमा पनि निष्ठा नत्याग्ने नेता : ईश्वर पोखरेल",
+      "summary": "सरकारले सार्वजनिक जग्गा संरक्षण तथा नदी किनार क्षेत्रको व्यवस्थापनलाई प्राथमिकतामा राख्दै सहरी सौन्दर्यीकरण, वातावरण संरक्षण तथा दीर्घकालीन सहरी व्यवस्थापनसँग जोडेर अभियान अघि बढाएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-settlements-in-kathmandu-cleared-of-encroachment-39-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777183123_sukumbasi-480x320.jpg"
     }
   ]
 }
