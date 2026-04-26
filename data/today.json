@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-26T09:09:03.204349",
+  "scraped_at": "2026-04-26T13:23:00.172514",
   "date": "2026-04-26",
-  "total_articles": 43,
+  "total_articles": 47,
   "sources": [
-    "News24",
+    "KathmanduPost",
     "NagarikNews",
-    "KathmanduPost"
+    "News24"
   ],
   "articles": [
     {
@@ -351,6 +351,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/campaign-to-remove-encroached-structures-across-the-country-31-11.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777193444_dozer-480x320.jpg"
+    },
+    {
+      "title": "‘आफू होइन देश भनौं, हामी सुध्रिए मात्र देश सुध्रिन्छ’",
+      "summary": "नागरिक नायक एवं पूर्वप्रधानमन्त्री सुशिला कार्कीले व्यक्तिवादी चिन्तन त्यागेर देशको बारेमा सोच्न सके मात्र मुलुकको विकास सम्भव हुने बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/let-s-not-talk-about-ourselves-but-about-the-country-only-when-we-improve-will-the-country-improve-26-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777207899_sus2-480x320.jpg"
+    },
+    {
+      "title": "किन बनेन देश ? पूर्वप्रधानमन्त्री कार्कीको नजरमा यस्ता छन् वास्तविक कमजोरी",
+      "summary": "नागरिक नायक एवं पूर्वप्रधानमन्त्री सुशिला कार्कीले नेपालको मुख्य कमजोरी राजनीतिक अस्थिरता, संस्थाको अति राजनीतीकरण र नागरिकमा रहेको काम नगर्ने प्रवृत्ति भएको बताएकी छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/nepal-s-real-weaknesses-in-the-eyes-of-former-prime-minister-karki-br-27-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777205953_sushila _karki-480x320.jpg"
+    },
+    {
+      "title": "अलमलमा परेकाहरुले कार्य क्षेत्रमा खटिएका प्रहरीसँग सहयोग लिन सक्ने : शहरी मन्त्रालय",
+      "summary": "इरानका राष्ट्रपति मसूद पेजेश्कियानले आफ्नो देशले दबाब, धम्की र घेराबन्दीको वातावरणमा कुनै पनि प्रकारको वार्ता नगर्ने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/iran-will-not-negotiate-under-pressure-and-threats-president-pezeshkian-45-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776601930_Trump-Iranian-president-Masoud-Pezeshkian-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले बोलायो केन्द्रीय कार्यसम्पादन समिति बैठक",
+      "summary": "मानुङकोटलाई व्यवस्थित र दिगो रूपमा विकास गर्ने उद्देश्यले करिब सात सय रोपनी क्षेत्रफलमा जग्गा एकीकरण आयोजना सञ्चालन गर्न लागिएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manungkot-to-be-developed-into-a-tourist-village-13-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777206044_manahunkot-480x320.jpg"
     }
   ]
 }
