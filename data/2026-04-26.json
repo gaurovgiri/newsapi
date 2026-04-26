@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-26T13:23:00.172514",
+  "scraped_at": "2026-04-26T16:55:12.280778",
   "date": "2026-04-26",
-  "total_articles": 45,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
+    "KathmanduPost",
     "News24"
   ],
   "articles": [
@@ -367,6 +367,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manungkot-to-be-developed-into-a-tourist-village-13-31.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777206044_manahunkot-480x320.jpg"
+    },
+    {
+      "title": "Kathmandu municipalities cap private school fees",
+      "summary": "Under the new framework, monthly fees range from Rs2,400 for early childhood development classes to a maximum of Rs7,755 for Grade 10.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/26/kathmandu-municipalities-cap-private-school-fees",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/see02420260217451000x026420260402241000x0-1777218189.jpg&w=300&height=200"
+    },
+    {
+      "title": "Designing Nepal from behind the veil",
+      "summary": "Nepal’s all-time leading wicket-taker, Lamichhane, reached 97 League-2 wickets after picking two wickets in Nepal’s 37-run win over the UAE on Saturday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/columns/2026/04/26/designing-nepal-from-behind-the-veil",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/see02420260217451000x026420260402241000x0-1777218189.jpg&w=400&height=267"
+    },
+    {
+      "title": "चिनियाँ राजदूत भन्छन्: भाषा र सांस्कृतिक आदानप्रदान सम्बन्धको न्यानो र दीर्घकालीन आधार",
+      "summary": "भक्तपुरको मनोहरा खोला किनारस्थित सुकुमवासी बस्तीमा अनधिकृत रूपमा बनाइएका ७० प्रतिशत घर, टहरा तथा संरचना आज भत्काइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manohara-slum-settlement-one-third-of-the-structures-demolished-69-45.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777220434_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "बालेन्द्र सरकारको एक महिना: कति भए काम ?",
+      "summary": "कोशी प्रदेश सरकारको आर्थिक मामिला तथा योजना मन्त्रालयले आर्थिक वर्ष २०८३/८४ का लागि ताप्लेजुङ जिल्लाका स्थानीय तहलाई सवारी कर बाँडफाँट वापत प्राप्त हुने अनुमानित रकमको सीमा पठाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/how-much-vehicle-tax-do-the-local-levels-of-taplejung-receive-from-the-province-44-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775126564_Taplejung Prasasan-480x320.jpg"
+    },
+    {
+      "title": "महिला इमान्दार हुन्छन्, त्यसैले राज्यका उच्च पदमा पुग्न दिइँदैन: सुशिला कार्की",
+      "summary": "युवा कवि जीवन चामलिङ राई ‘आरोही’लाई ‘मनमोहन स्मृति प्रतिष्ठान’ले नगदसहित सम्मान गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/manmohan-memorial-award-to-udaipur-s-poet-aarohi-97-95.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777219920_Kabi-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले सोमबारलाई बोलायो केन्द्रीय कार्यसम्पादन समिति बैठक",
+      "summary": "सिंजा गाउँपालिका–६, भाडगाउँकी २७ वर्षीया बसन्ती बुढा रावतको अनुभव पनि उस्तै पीडादायी छ। नौ वर्षअघि प्रेम विवाह गरेकी उनले कैलाश मावि फुङ्ग्रामा पढ्दै गर्दा ‘लहैलहै’मा विवाह गरिन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/43-6-percent-of-teenagers-in-karnali-get-married-before-the-age-of-20-86-30.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777219318_Kisori-480x320.jpg"
+    },
+    {
+      "title": "सुकुमबासी बस्ती भत्काइएकोप्रति हर्क साम्पाङ आक्रोशित",
+      "summary": "भक्तपुरको मनोहरा खोला किनारस्थित सुकुमवासी बस्तीमा अनधिकृत रूपमा बनाइएका ७० प्रतिशत घर, टहरा तथा संरचना आज भत्काइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/manohara-slum-settlement-one-third-of-the-structures-demolished-69-45.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
