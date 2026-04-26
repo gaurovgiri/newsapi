@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-26T06:14:27.221848",
+  "scraped_at": "2026-04-26T09:09:03.204349",
   "date": "2026-04-26",
-  "total_articles": 39,
+  "total_articles": 43,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -319,6 +319,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/three-settlements-in-kathmandu-cleared-of-encroachment-39-42.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777183123_sukumbasi-480x320.jpg"
+    },
+    {
+      "title": "Bulldozers roll through Manohara settlements as eviction drive continues",
+      "summary": "777 structures targeted as authorities deploy high security with 1,900 personnel.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/04/26/bulldozers-roll-through-manohara-settlements-as-eviction-drive-continues",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/manohara-1777184177.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sandeep Lamichhane is three wickets shy of becoming the first bowler with 100 League-2 wickets",
+      "summary": "Nepal’s all-time leading wicket-taker, Lamichhane, reached 97 League-2 wickets after picking two wickets in Nepal’s 37-run win over the UAE on Saturday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/cricket/2026/04/26/sandeep-lamichhane-is-three-wickets-shy-of-becoming-the-first-bowler-with-100-league-2-wickets",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Sandeep-1777165398.jpg&w=300&height=200"
+    },
+    {
+      "title": "Kathmandu shrouded in haze as pollution spikes",
+      "summary": "Thick smog blankets the Valley, lowering visibility as AQI reaches 192.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/04/26/kathmandu-shrouded-in-haze-as-pollution-spikes",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1777188138.jpg&w=600&height=400"
+    },
+    {
+      "title": "सांसद साम्पाङको प्रश्न : निरंकुश रास्वपा सरकारले लिपुलेक र महाकालीमा कति सेना पठायो ?",
+      "summary": "काठमाडौं उपत्यकासहित देशभर सरकारी तथा सार्वजनिक जग्गामा अवैध रूपमा निर्माण गरिएका संरचना हटाउने अभियान सञ्चालन गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/campaign-to-remove-encroached-structures-across-the-country-31-11.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777193444_dozer-480x320.jpg"
     }
   ]
 }
