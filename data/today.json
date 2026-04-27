@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-27T03:50:01.357887",
+  "scraped_at": "2026-04-27T06:35:21.623845",
   "date": "2026-04-27",
-  "total_articles": 34,
+  "total_articles": 41,
   "sources": [
+    "NagarikNews",
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -279,6 +279,62 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/health/safe-abortion-services-are-unsafe-unpremature-maternal-deaths-not-stopped-52-57.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "कष्टडीमै कसरी मारिए श्रीकृष्ण विक ?",
+      "summary": "कष्टडीमै कसरी मारिए श्रीकृष्ण विक ?",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12796",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sindhuli-1777263214.jpg"
+    },
+    {
+      "title": "निकाल्ने समयसम्म नदिई चल्यो डोजर",
+      "summary": "निकाल्ने समयसम्म नदिई चल्यो डोजर",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12792",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sukumbasi-1777262199.jpg"
+    },
+    {
+      "title": "का प्रमुखको सरकारलाई चेतावनी",
+      "summary": "का प्रमुखको सरकारलाई चेतावनी",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12791",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/indhan-1777262060.jpg"
+    },
+    {
+      "title": "जोगाउन तटबन्ध निर्माण तीव्र गतिमा",
+      "summary": "जोगाउन तटबन्ध निर्माण तीव्र गतिमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12787",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/tatbandha-1777176103.jpg"
+    },
+    {
+      "title": "“Let the ice wall melt”: No safe way up Everest yet",
+      "summary": "Experts rule out immediate alternatives through Khumbu Icefall; risky conditions force wait as anxiety grows at base camp.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/27/let-the-ice-wall-melt-no-safe-way-up-everest-yet",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/drones-1777251485.jpg&w=300&height=200"
+    },
+    {
+      "title": "In Humla, residents walk six hours for salt — and still don’t get enough",
+      "summary": "Nepal’s most isolated Himalayan villages receive their entire year’s supply of subsidised salt just once — always late and never enough.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/04/27/in-humla-residents-walk-six-hours-for-salt-and-still-don-t-get-enough",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Salt-1777268442.jpg&w=300&height=200"
+    },
+    {
+      "title": "प्रधानमन्त्रीले बोलाए मन्त्रिपरिषद् बैठक",
+      "summary": "खेल नेपाली समय अनुसार सोमबार बेलुका पौने ८ बजेबाट दिल्लीमा रहेको अरुण जैटल स्टेडियमा हुनेछ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-delhi-and-rcb-playing-88-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777270793_IPL-480x320.jpg"
     }
   ]
 }
