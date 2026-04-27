@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-27T06:35:21.623845",
+  "scraped_at": "2026-04-27T10:24:16.361986",
   "date": "2026-04-27",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -335,6 +335,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/ipl-delhi-and-rcb-playing-88-62.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777270793_IPL-480x320.jpg"
+    },
+    {
+      "title": "They built lives on land that was never theirs. Now they have nothing",
+      "summary": "In the rain-soaked aftermath of eviction, hundreds of displaced families are scattered across hotels and shelters — separated, uncertain, and waiting for answers that haven’t come.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/27/they-built-lives-on-land-that-was-never-theirs-now-they-have-nothing",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67874070319010728139016951123808544258445255n-1777109063.jpg&w=300&height=200"
+    },
+    {
+      "title": "संविधानविद् र कानुनविद्सँगकाे छलफलमा संविधान संशोधन कार्यदल",
+      "summary": "काठमाडौं महानगरपालिका–९ अन्तर्गत गैरीगाउँ क्षेत्रमा अतिक्रमण गरी निर्माण गरिएका ठूला घरहरू हटाउने अभियान पुनः सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/houses-in-gairigaun-that-were-not-to-be-demolished-are-being-demolished-again-86-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777285378_gairigau-480x320.jpg"
+    },
+    {
+      "title": "नेपाली कांग्रेस प्रतिनिधिसभा संसदीय दलको नेतामा आङ्देम्बे चयन",
+      "summary": "बोदेबर्साइन नगरपालिकामा आज बिहान शौचालयमा लडेर एक जना सशस्त्र प्रहरी हवल्दारको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/armed-police-constable-dies-after-falling-into-toilet-38-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767337292_Nagariknews-480x320.jpg"
+    },
+    {
+      "title": "माइतीघर मण्डलालाई मन नपरेका व्यक्तिको चरित्र हत्या गर्ने थलो बनाइयो : महेश बस्नेत",
+      "summary": "छलफलमा सहभागी विज्ञहरूले संविधान संशोधनका विषयमा आफ्ना सुझाव र धारणा प्रस्तुत गरिरहेका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/constitution-amendment-task-force-in-discussion-with-constitutional-experts-and-legal-scholars-48-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776944493_Asim-480x320.jpg"
+    },
+    {
+      "title": "त्रिवि खेल मैदान भत्किँदैन : खेलकुदमन्त्री पोखरेल",
+      "summary": "गत साता तीव्र रूपमा वृद्धि हुन थालेको काठमाडौं उपत्यकाको वायु गुणस्तर पुनः सुधारोन्मुख देखिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-s-air-quality-is-improving-29-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774183111_kathmandu weather mausam-480x320.jpg"
+    },
+    {
+      "title": "नारायणदत्त पौडेल सशस्त्रकाे आईजीपीमा बढुवा",
+      "summary": "काठमाडौं महानगरपालिका–९ अन्तर्गत गैरीगाउँ क्षेत्रमा अतिक्रमण गरी निर्माण गरिएका ठूला घरहरू हटाउने अभियान पुनः सुरु गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/houses-in-gairigaun-that-were-not-to-be-demolished-are-being-demolished-again-86-60.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
