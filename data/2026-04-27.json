@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-27T14:17:44.551345",
+  "scraped_at": "2026-04-27T17:37:08.993397",
   "date": "2026-04-27",
-  "total_articles": 53,
+  "total_articles": 56,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -431,6 +431,30 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-people-die-in-a-single-day-due-to-a-catastrophic-event-39-23.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Nepal wants to become a data centre hub. It has no rules for how",
+      "summary": "As the ruling party bets on digital infrastructure to transform the economy, the communities that will host these facilities have no legal standing to object.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/27/nepal-wants-to-become-a-data-centre-hub-it-has-no-rules-for-how",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/ncellnews1-1777300526.jpg&w=300&height=200"
+    },
+    {
+      "title": "Speed limits set for Narayanghat-Butwal stretch as road upgrade nears completion",
+      "summary": "Motorists can travel at up to 80 km per hour on straight stretches and 40 km in the Daunne hill section.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/27/speed-limits-set-for-narayanghat-butwal-stretch-as-road-upgrade-nears-completion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/NarayanghatButwalroad2jpg-1777303070.jpg&w=300&height=200"
+    },
+    {
+      "title": "TU wants cricket at Kirtipur but not at the cost of academic activities",
+      "summary": "University says matches can continue at Kirtipur, but only under a new model that safeguards academic activities.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/27/tu-wants-cricket-at-kirtipur-but-not-at-the-cost-of-academic-activities",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/tustadium-1777303858.jpg&w=600&height=400"
     }
   ]
 }
