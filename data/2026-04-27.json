@@ -1,7 +1,7 @@
 {
   "scraped_at": "2026-04-27T03:50:01.357887",
   "date": "2026-04-27",
-  "total_articles": 34,
+  "total_articles": 33,
   "sources": [
     "News24",
     "KathmanduPost",
@@ -131,14 +131,6 @@
     {
       "title": "Scientist vacancies hamper agriculture research in Nepal",
       "summary": "Absence of scientists and technicians cripples research, weakens services and deepens the crisis for farmers across Nepal.",
-      "source": "KathmanduPost",
-      "language": "en",
-      "source_url": "https://kathmandupost.com/national/2026/04/27/scientist-vacancies-hamper-agriculture-research-in-nepal",
-      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Pakhribasksirisnusandhankendracopy-1777252300.jpg&w=600&height=400"
-    },
-    {
-      "title": "Scientist vacancies hamper agriculture research in Nepal",
-      "summary": "Experts rule out immediate alternatives through Khumbu Icefall; risky conditions force wait as anxiety grows at base camp.",
       "source": "KathmanduPost",
       "language": "en",
       "source_url": "https://kathmandupost.com/national/2026/04/27/scientist-vacancies-hamper-agriculture-research-in-nepal",
