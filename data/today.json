@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-27T10:24:16.361986",
+  "scraped_at": "2026-04-27T14:17:44.551345",
   "date": "2026-04-27",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/houses-in-gairigaun-that-were-not-to-be-demolished-are-being-demolished-again-86-60.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Angdembe elected NC parliamentary party leader",
+      "summary": "Congress parliamentary party meeting elects him unopposed on Monday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/27/angdembe-elected-nc-parliamentary-party-leader",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/aangdembe27420261231261000x0-1777289828.jpg&w=300&height=200"
+    },
+    {
+      "title": "AIG Poudel promoted as APF chief",
+      "summary": "Cabinet meeting on Monday elevates Poudel as IG Aryal retires on May 1.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/27/aig-poudel-promoted-as-apf-chief",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/image27420261133031000x0-1777285837.jpg&w=600&height=400"
+    },
+    {
+      "title": "आर्थिक वृद्धिलाई सहयोग पुर्‍याउन राष्ट्र बैंक प्रतिबद्ध : गभर्नर पौडेल",
+      "summary": "राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार पछिल्ला २४ घण्टामा भएका ६९ वटा विपद्का घटनामा १० जनाको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-people-die-in-a-single-day-due-to-a-catastrophic-event-39-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1761796449_bibhag bipad-480x320.jpg"
+    },
+    {
+      "title": "पूर्वविशिष्ट पदाधिकारीले विदेशमा उपचार गर्दा सरकारबाट खर्च नपाउने सर्वोच्चको फैसला",
+      "summary": "नेपाल सरकार र एसियाली विकास बैंक (एडिबी) बीच डिजिटल रूपान्तरण परियोजना कार्यान्वयनका लागि सहुलियतपूर्ण ऋण सम्झौतामा हस्ताक्षर भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/loan-agreement-with-adb-for-digital-transformation-project-35-89.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777298054_adb-480x320.jpg"
+    },
+    {
+      "title": "खगेन्द्र र विश्वराजको विवादबारे रविले भने- जसलाई मालिक हुन छ, त्यसका लागि रास्वपा होइन",
+      "summary": "नेपाल राष्ट्र बैंकका गभर्नर डा. विश्वनाथ पौडेलले आर्थिक स्थायित्व कायम गर्दै मुलुकमा दिगो र समावेशी आर्थिक वृद्धिलाई सहयोग पुर्‍याउन नेपाल राष्ट्र बैंकको प्रतिबद्धता रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/sustainable-and-inclusive-economic-growth-in-the-country-while-maintaining-economic-stability-governor-poudel-18-82.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770801638_biswonath-480x320.jpg"
+    },
+    {
+      "title": "निर्माण क्षेत्रको सङ्कटप्रति सरकार गम्भीर : मुख्यमन्त्री कार्की",
+      "summary": "सर्वोच्च अदालतले पूर्वराष्ट्रपति, पूर्वउपराष्ट्रपति, पूर्वप्रधानमन्त्री, पूर्वसभामुख र पूर्वप्रधानन्यायाधीशसहित पूर्वविशिष्ट पदाधिकारीले विदेशमा उपचार गर्दा सरकारबाट खर्च नपाउने फैसला गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/supreme-court-rules-that-former-dignitaries-will-not-receive-government-expenses-for-treatment-abroad-59-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760588843_supreme-480x320.jpg"
+    },
+    {
+      "title": "माइतीघरमा दुई महिलाले लछारपछार गरेको दृश्य दुखद र लज्जास्पद : श्रेष्ठ",
+      "summary": "राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार पछिल्ला २४ घण्टामा भएका ६९ वटा विपद्का घटनामा १० जनाको मृत्यु भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-people-die-in-a-single-day-due-to-a-catastrophic-event-39-23.html?click_from=just_in",
       "image_url": ""
     }
   ]
