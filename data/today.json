@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-28T14:33:17.017959",
+  "scraped_at": "2026-04-28T17:52:14.356395",
   "date": "2026-04-28",
-  "total_articles": 52,
+  "total_articles": 60,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -422,6 +422,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/birgunj-customs-checkpoint-blocked-while-trying-to-implement-mrp-75-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "How Nepal built a cricketing identity in a decade",
+      "summary": "Seven key takeaways from a journey marked by breakthroughs, near-misses and resilience on the global stage.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/28/how-nepal-built-a-cricketing-identity-in-a-decade",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/NepVsEng20260208J2A0482-1777389209.jpg&w=300&height=200"
+    },
+    {
+      "title": "Sisneri, Kogate streams planned as alternative water source for Kathmandu Valley",
+      "summary": "The Rs 33 billion project aims to ease water shortage in the valley amid frequent disruption of the Melamchi water project during the monsoon.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/28/sisneri-kogate-streams-planned-as-alternative-water-source-for-kathmandu-valley",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/postfilephotoelitejoshi-1777387599.jpg&w=300&height=200"
+    },
+    {
+      "title": "Razing of riverside structures ignores due process",
+      "summary": "Nepal might license cannabis cultivation. The science of what that demands must lead, not follow.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/editorial/2026/04/26/razing-of-riverside-structures-ignore-due-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/uaeexitfromOPEC-1777385336.jpg&w=400&height=267"
+    },
+    {
+      "title": "संसद् रोकेर अध्यादेश ल्याउनु अलोकतान्त्रिक कदम : नेता आङदेम्बे",
+      "summary": "न्याय परिषद्का सचिव जितेन्द्रबाबु थपलियालाई उच्च अदालतको न्यायाधीश नियुक्तिका लागि सिफारिस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/judicial-council-secretary-recommends-appointment-of-thapaliya-high-court-judge-22-47.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777392993_23-480x320.jpg"
+    },
+    {
+      "title": "संसद्‌मा दुई तिहाइ, खल्तीमा अध्यादेश",
+      "summary": "सरकारले गठन गरेको सम्पत्ति छानबिन आयोगविरुद्ध सर्वोच्च अदालतमा रिट निवेदन दायर गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/writ-against-the-property-investigation-commission-41-53.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1760588843_supreme-480x320.jpg"
+    },
+    {
+      "title": "सामान्य प्रशासनको निर्देशन : सरुवा आएका कर्मचारीलाई हाजिर गराऊ, गएकालाई रमाना देऊ",
+      "summary": "नेपाली कांग्रेस संसदीय दलका नेता भीष्मराज आङदेम्बेले संसद् रोकेर अध्यादेश ल्याउनु अलोकतान्त्रिक कदम भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/proposing-ordinance-by-suspending-parliament-is-undemocratic-leader-angdembe-48-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1775122871_bhisma-480x320.jpg"
+    },
+    {
+      "title": "जनताको चाहना र भूगोललाई हेरेर नीति बन्नुपर्छ : मुख्यमन्त्री बानियाँ",
+      "summary": "प्रधानमन्त्री बालेन शाह नेतृत्वको सरकारले संसद् अधिवेशन स्थगित गरी गुपचुप रूपमा दुईवटा अध्यादेश जारी गर्न राष्ट्रपतिसमक्ष सिफारिस गरेपछि चौतर्फी आलोचना सुरु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-decision-to-introduce-ordinance-by-bypassing-parliament-13-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777390351_rabi and balen-480x320.jpg"
+    },
+    {
+      "title": "‘राजनीति छाडेर भाग्दिन, पद ओगटेर मात्र पनि बस्दिन’",
+      "summary": "न्याय परिषद्का सचिव जितेन्द्रबाबु थपलियालाई उच्च अदालतको न्यायाधीश नियुक्तिका लागि सिफारिस गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/judicial-council-secretary-recommends-appointment-of-thapaliya-high-court-judge-22-47.html?click_from=just_in",
       "image_url": ""
     }
   ]
