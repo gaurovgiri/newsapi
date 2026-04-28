@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-28T03:54:29.800433",
+  "scraped_at": "2026-04-28T06:36:45.481112",
   "date": "2026-04-28",
-  "total_articles": 34,
+  "total_articles": 38,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -279,6 +279,38 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/psychological-aspects-of-classroom-management-65-81.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Inside temporary shelters, displaced families adjust after evictions",
+      "summary": "Evicted families from Kathmandu’s settlements struggle to rebuild daily life.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/visual-stories/2026/04/28/inside-temporary-shelters-displaced-families-adjust-after-evictions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Radhaswamisatsangholdingcenter04272026J2A7890copy-1777352246.jpg&w=300&height=200"
+    },
+    {
+      "title": "Major road projects hit as West Asian crisis disrupts bitumen supply",
+      "summary": "Contractors warn of delays as Iran war hits supply and monsoon nears.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/28/major-road-projects-hit-as-west-asian-crisis-disrupts-bitumen-supply",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/road-1777338091.jpg&w=600&height=400"
+    },
+    {
+      "title": "जलेका गाडीको नाममा इन्धन दुरुपयोग गर्ने कर्मचारीलाई कारबाही गर्न मन्त्री मेहताको निर्देशन",
+      "summary": "चालु आर्थिक वर्ष २०८२/८३ मा नेपालको आर्थिक वृद्धिदर ३.८५ प्रतिशत हुने प्रक्षेपण गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepal-s-economic-growth-rate-is-projected-to-be-3-85-percent-in-the-current-fiscal-year-61-90.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1767610098_tathyanka karyalaya-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री वादीको १० बुँदे प्रतिबद्धता : नातागोतालाई जागिर खुवाउनेदेखि घुस लिनेसम्मका काम गर्दिनँ",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद एवं पूर्वएआइजी सदस्य विश्वराज पोखरेलले ओखलढुंगाको एक विद्यालय पुगेका बेला त्यहाँका प्रधानाध्यापकले औपचारिक स्वागत नगरेको भन्दै असन्तुष्टि व्यक्त गरेको भिडियो केही दिनयता सामाजिक सञ्जालमा भाइरल भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/why-does-anyone-seek-honor-14-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777357575_Namrata (1)-480x320.jpg"
     }
   ]
 }
