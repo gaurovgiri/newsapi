@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-29T17:44:34.921039",
+  "scraped_at": "2026-04-29T21:13:59.358902",
   "date": "2026-04-29",
-  "total_articles": 58,
+  "total_articles": 60,
   "sources": [
+    "News24",
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -471,6 +471,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-goal-is-to-create-a-smoke-free-kitchen-93-40.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777478899_jumla chulo-480x320.jpg"
+    },
+    {
+      "title": "Dhankhola–Lamahi road upgrade begins under MCC Nepal Compact",
+      "summary": "The upgrade will introduce advanced construction technologies, including Full Depth Reclamation (FDR) and Superpave asphalt.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/29/dhankhola-lamahi-road-upgrade-begins-under-mcc-nepal-compact",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DSC08027-1777458547.jpg&w=300&height=200"
+    },
+    {
+      "title": "Trump’s special envoy Sergio Gor seeks meeting with PM Shah as he arrives in Nepal tomorrow",
+      "summary": "The prime minister hasn’t committed yet to meeting with US special envoy for South and Central Asia.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/29/trump-s-special-envoy-sergio-gor-seeks-meeting-with-pm-shah-as-he-arrives-in-nepal-tomorrow",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sergiogor-1777476868.jpg&w=600&height=400"
     }
   ]
 }
