@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-29T06:29:52.547895",
+  "scraped_at": "2026-04-29T10:12:11.677805",
   "date": "2026-04-29",
-  "total_articles": 38,
+  "total_articles": 47,
   "sources": [
-    "NagarikNews",
     "News24",
-    "KathmanduPost"
+    "KathmanduPost",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -311,6 +311,78 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/world-cup-league-2-oman-completes-100-runs-against-nepal-38-21.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777440491_cricket-480x320.jpg"
+    },
+    {
+      "title": "1.2 million driving licences printed, backlog clearance set for mid-July",
+      "summary": "Security Printing Centre ramps up production as 2.9 million pending licences are processed in two phases under agreement with Department of Transport Management.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/29/1-2-million-driving-licences-printed-backlog-clearance-set-for-mid-july",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dirving-1777452685.jpg&w=300&height=200"
+    },
+    {
+      "title": "Will Karnali students receive textbooks during enrolment drive this year?",
+      "summary": "Delayed fund releases raise doubts even as book supply improves.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/04/29/will-karnali-students-receive-textbooks-during-enrolment-drive-this-year",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777447541.jpg&w=300&height=200"
+    },
+    {
+      "title": "Nepal, China sign agreement for second phase of Ring Road expansion",
+      "summary": "The project will widen 8.2 km road from Kalanki to Basundhara, funded by Rs11 billion Chinese grant.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/29/nepal-china-sign-agreement-for-second-phase-of-ring-road-expansion",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/ceb59e84420546b589466594aca287ef-1777449639.jpg&w=300&height=200"
+    },
+    {
+      "title": "Private sector opposes mandatory MRP provision",
+      "summary": "Traders say foreign suppliers may be unwilling to send goods with MRP labels, given Nepal’s small economy and low import volumes. The rule led to customs clearance disruption.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/29/private-sector-opposes-mandatory-mrp-provision",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/3538d99833664df6bb2c10fd8b1f430c29420260753411000x0-1777449254.jpg&w=600&height=400"
+    },
+    {
+      "title": "अध्यादेशबारे बोले रवि, भन्छन्- पहिले विपक्षीलाई थुन्न ल्याइन्थो, अहिलेको सुधारको लागि हो",
+      "summary": "ओमानले दिएको ३०६ रनको चुनौतीपूर्ण लक्ष्य पछ्याइरहेको नेपालका लागि दीपेन्द्र सिंह ऐरीले अर्धशतक प्रहार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/dipendra-completes-his-half-century-in-50-balls-br-47-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777456508_dipendra-480x320.jpg"
+    },
+    {
+      "title": "सांसद्लाई रास्वपा सभापति रवि लामिछानेका १० सुझाव",
+      "summary": "पर्यटन विभागले रातको समयमा सगरमाथा आधार शिविरमा बस्नेगरी ‘प्याकेज’ बेचे कारबाही गर्ने भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/action-taken-against-those-who-sold-everest-base-camp-packages-with-overnight-stays-60-25.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777456249_Tourism Board-480x320.jpg"
+    },
+    {
+      "title": "रविले भने- सुकुम्बासीलाई सुरक्षित स्थानमा सारिएको हो, घरबारविहीन बनाउँदैनौं",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले सरकारले ल्याएको अध्यादेश विगतको जस्तो राजनीतिक प्रतिशोध साध्ने अस्त्र नभई राज्य संयन्त्रमा आवश्यक सुधारका लागि भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ravi-speaks-about-the-ordinance-says-earlier-the-opposition-was-brought-to-jail-now-it-is-for-reform-br-42-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777455316_rabi_-480x320.jpg"
+    },
+    {
+      "title": "सांसद र मन्त्रीहरूलाई निर्देशन दिँदै रविले भने- रास्वपा मालिक बन्न खोज्नेका लागि होइन",
+      "summary": "सेनाले विज्ञप्ती जारी गरेर सम्भावित जोखिमको नक्साङ्कन (हाजार्ड म्यापिङ) गर्नका लागि तथ्याङ्क अद्यावधिक गरिरहेको स्पष्ट पारेको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/army-s-clarification-collecting-data-on-squatters-for-disaster-response-br-45-20.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1767851953_Army HQ-480x320.jpg"
+    },
+    {
+      "title": "सरकारले ल्याएको अध्यादेश जायज छ: दिपक साह",
+      "summary": "ओमानले दिएको ३०६ रनको चुनौतीपूर्ण लक्ष्य पछ्याइरहेको नेपालका लागि दीपेन्द्र सिंह ऐरीले अर्धशतक प्रहार गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/dipendra-completes-his-half-century-in-50-balls-br-47-96.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
