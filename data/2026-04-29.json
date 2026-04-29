@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-29T14:21:54.219105",
+  "scraped_at": "2026-04-29T17:44:34.921039",
   "date": "2026-04-29",
-  "total_articles": 56,
+  "total_articles": 58,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -455,6 +455,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/containers-stopped-at-customs-due-to-mrp-dispute-43-86.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "राजनीतिक नियुक्ति खारेजीदेखि सहकारीपीडितलाई ‘चक्रय राहत कोष’ सम्मका अध्यादेश सिफारिस",
+      "summary": "सरकारले सार्वजनिक निकायमा हुने नियुक्तिलाई पारदर्शी र प्रतिस्पर्धी बनाउने, दलीय राजनीतीकरण अन्त्य गर्ने, सार्वजनिक निर्माणलाई तीव्रता दिने, सहकारीका साना बचतकर्ताको रकम फिर्ता गर्ने तथा भूमि, मालपोत र नापी लगायतका सेवा प्रभावकारी बनाउने उद्देश्यसहित विभिन्न अध्यादेशहरू मन्त्रिपरिषद् बाट २०८३ वैशाख १४ गते राष्ट्रपति समक्ष सिफारिस गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ordinances-recommended-ranging-from-cancellation-of-political-appointments-to-cycle-relief-fund-for-cooperative-victims-br-80-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776001745_balen saha-480x320.jpg"
+    },
+    {
+      "title": "सुशासन र संरचनात्मक सुधार्न भन्दै सरकारले गर्‍यो अध्यादेशको प्याकेज सिफारिस",
+      "summary": "सन् २०२९ सम्म ‘धूवाँमुक्त गाउँपालिका’ बनाउने लक्ष्यसहित जुम्ला र कालीकोटका ग्रामीण बस्तीमा ४ हजारभन्दा बढी घरधुरीमा सुधारिएको फलामे चुलो जडान गरिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-goal-is-to-create-a-smoke-free-kitchen-93-40.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777478899_jumla chulo-480x320.jpg"
     }
   ]
 }
