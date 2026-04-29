@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-29T10:12:11.677805",
+  "scraped_at": "2026-04-29T14:21:54.219105",
   "date": "2026-04-29",
-  "total_articles": 48,
+  "total_articles": 57,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -390,6 +390,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/dipendra-completes-his-half-century-in-50-balls-br-47-96.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal bans three veterinary painkillers linked to vulture deaths",
+      "summary": "Nimesulide, aceclofenac and ketoprofen will be phased out over six months, during which existing stocks can still be sold.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/04/29/nepal-bans-three-veterinary-painkillers-linked-to-vulture-deaths",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb2-1777463943.jpg&w=300&height=200"
+    },
+    {
+      "title": "Oman beat Nepal by 102 runs under DLS method in rain-hit League 2 match",
+      "summary": "Jatinder Singh’s 130 powers Oman to 305-8 as Nepal were 155-7 in 36.5 overs at Kirtipur before rain abandons play.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/04/29/oman-beat-nepal-by-102-runs-under-dls-method-in-rain-hit-league-2-match",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67688098211161482540434727947139053795842623n-1777462236.jpg&w=300&height=200"
+    },
+    {
+      "title": "Army ‘breaches’ jurisdiction in collecting squatters’ data",
+      "summary": "The national defence force says the data collection was carried out under decisions made by district security committees. Chief district officers, however, dispute the claim.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/29/army-breaches-jurisdiction-in-collecting-squatters-data",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/manahraafterdestruction04282026dji202604281642420009dcopy28420260320001000x0-1777445475.jpg&w=600&height=400"
+    },
+    {
+      "title": "Fresh violence erupts in India’s Manipur, Nepali speaking community fearful",
+      "summary": "Nimesulide, aceclofenac and ketoprofen will be phased out over six months, during which existing stocks can still be sold.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/04/19/fresh-violence-erupts-in-india-s-manipur-nepali-speaking-community-fearful",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dirving-1777452685.jpg&w=400&height=267"
+    },
+    {
+      "title": "आर्थिक रूपमा सम्पन्न नभएसम्म सुरक्षाका चुनौती रहिरहन्छन्: अर्याल",
+      "summary": "अधिकतम खुद्रा मूल्य (एमआरपी) विवादले विराटनगर भन्सार कार्यालयमा भारत तथा तेस्रो मुलुकबाट आएका ट्रक तथा कन्टेनर रोकिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/containers-stopped-at-customs-due-to-mrp-dispute-43-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777472277_Building_Brt-480x320.jpg"
+    },
+    {
+      "title": "महाविर पुनले सार्वजनिक गरे सम्पत्ति विवरण: तीन तोला सुन, चार ठाउँ जग्गा",
+      "summary": "सशस्त्र प्रहरी महानिरीक्षक राजु अर्यालले नेपालमा देखिने अधिकांश सुरक्षा चुनौतीको मूल कारण आर्थिक अवस्था भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/security-challenges-will-remain-until-we-are-financially-secure-aryal-68-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777469605_raju aryal-480x320.jpg"
+    },
+    {
+      "title": "सभामुख अर्यालसँग यूएन आवासीय संयोजक याहियाको शिष्टाचार भेट",
+      "summary": "दान नै धर्म हो भन्ने सन्देश विद्यार्थीमा पुर्‍याउन बुधबार भक्तपुरमा मुठीदान कार्यक्रम भएको छ । बुद्ध जयन्तीको अवसर पारेर एभरेस्ट इङ्लिस स्कुल भक्तपुर २, मिबाछेंले मुठीदान कार्यक्रम आयोजना गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/giving-fists-in-school-to-show-that-charity-is-religion-55-87.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777472095_Student1-480x320.jpg"
+    },
+    {
+      "title": "मालपोत सेवा अनुगमन अब मन्त्री रावलको कार्यकक्षबाटै",
+      "summary": "ठेक्काहरुको आर्थिक प्रस्ताव खोल्नुभन्दा अगावै आर्थिक प्रस्तावको डकुमेन्ट परिवर्तन गरेको आरोपमा हालसम्म १० जना निर्माण व्यवसायीसहित १३ जनामाथि अनुसन्धान भइरहेको व्यूरोका प्रवक्ता शिवकुमार श्रेष्ठले जानकारी दिए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/contract-details-manipulation-case-ashish-construction-services-operator-gauli-arrested-18-22.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777469920_Arrest-480x320.jpg"
+    },
+    {
+      "title": "पेट्रोलियम पदार्थमा लाग्ने ६ प्रकारका कर हटाउन माग",
+      "summary": "अधिकतम खुद्रा मूल्य (एमआरपी) विवादले विराटनगर भन्सार कार्यालयमा भारत तथा तेस्रो मुलुकबाट आएका ट्रक तथा कन्टेनर रोकिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/containers-stopped-at-customs-due-to-mrp-dispute-43-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
