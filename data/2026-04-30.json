@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-30T10:14:02.230646",
+  "scraped_at": "2026-04-30T14:16:50.172631",
   "date": "2026-04-30",
-  "total_articles": 47,
+  "total_articles": 54,
   "sources": [
     "NagarikNews",
     "News24",
@@ -382,6 +382,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-declines-turnover-of-nearly-five-billion-42-99.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Farm sector braces for twin shocks: Weak monsoon and input shortages",
+      "summary": "Nepal is likely to witness below-normal monsoon rains after three consecutive years of above-average rainfall, according to South Asian meteorologists.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/04/30/farm-sector-braces-for-twin-shocks-weak-monsoon-and-input-shortages",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/MONSOON2026-1777553588.png&w=300&height=200"
+    },
+    {
+      "title": "Insurgency-era victims urge visiting UN special rapporteur not to back transitional justice process",
+      "summary": "Ahead of Bernard Duhaime’s visit, conflict victims warn that any UN support could legitimise politicised commissions unless reforms ensure consultation and compliance with international standards.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/30/insurgency-era-victims-urge-visiting-un-special-rapporteur-not-to-back-transitional-justice-process",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb1-1777550766.jpg&w=600&height=400"
+    },
+    {
+      "title": "रोल्पा जिप दुर्घटना: दाहालद्वारा दुःख व्यक्त, सरकारसँग राहत र उपचारको माग",
+      "summary": "विश्वभरबाट प्राप्त १० हजारभन्दा बढी आवेदनमध्ये छनोट हुँदै उनले यस अन्तर्राष्ट्रिय सम्मेलनमा सहभागी हुने अवसर प्राप्त गरेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/shrisha-pandey-representing-nepal-at-the-world-bank-youth-summit-28-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777558298_Shrisa-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय सभा उपाध्यक्ष र चिनियाँ राजदूतबीच भेटवार्ता : नेपाल 'एक चीन नीति' प्रति प्रतिबद्ध",
+      "summary": "कर्णाली प्रदेश सरकारले पश्चिम सुर्खेतको बड्डीचौरदेखि खम्वागाडेसम्मको झण्डै १३ किलोमिटर सडक कालोपत्रको काम २०७९ साउनबाट सुरु भएको थियो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/road-blacktopping-halted-due-to-bitumen-shortage-14-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777254927_road sadak track-480x320.jpg"
+    },
+    {
+      "title": "लुम्बिनी प्रदेशसभा : सुकुम्वासी बस्तीमा डोजरदेखि बजेट प्राथमिकतासम्म बहस",
+      "summary": "नेकपाका संयोजक पुष्पकमल दाहालले रोल्पाको थबाङमा बिहीबार भएको जिप दुर्घटनाप्रति दुःख व्यक्त गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/dahal-expresses-grief-over-rolpa-jeep-accident-17-56.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755600163_prachanda-480x320.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम प्रदेशसभाः बजेट अधिवेशन सुरु",
+      "summary": "विनोद पौडेलको निर्माण रहेको चलचित्र ‘रोल नं १’को टिजर आज सार्वजनिक भएको छ । निर्माणपक्षले आज युट्युबमार्फत चलचित्रको टिजर सार्वजनिक गरेको हो ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/the-teaser-of-roll-no-1-tells-the-story-of-a-poor-family-s-educational-constraints-24-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777557716_Roll-no-1-480x320.jpg"
+    },
+    {
+      "title": "हिरासतमा रहेका ९ नेपालीलाई रिहा गर्न युक्रेन सरकारसँग परराष्ट्रमन्त्री खनालको आग्रह",
+      "summary": "विश्वभरबाट प्राप्त १० हजारभन्दा बढी आवेदनमध्ये छनोट हुँदै उनले यस अन्तर्राष्ट्रिय सम्मेलनमा सहभागी हुने अवसर प्राप्त गरेकी हुन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/diaspora/shrisha-pandey-representing-nepal-at-the-world-bank-youth-summit-28-42.html?click_from=just_in",
       "image_url": ""
     }
   ]
