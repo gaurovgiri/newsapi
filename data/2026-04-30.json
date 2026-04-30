@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-30T14:16:50.172631",
+  "scraped_at": "2026-04-30T17:38:43.310559",
   "date": "2026-04-30",
-  "total_articles": 54,
+  "total_articles": 56,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -439,6 +439,22 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/diaspora/shrisha-pandey-representing-nepal-at-the-world-bank-youth-summit-28-42.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "जोखिमयुक्त बस्ती स्थानान्तरणको दोस्रो चरण शुक्रबारदेखि",
+      "summary": "रुकुम पूर्वको सिस्ने गाउँपालिका-५ टाकुराबाट जलजला मेला भर्न हिँडेका तीर्थयात्री चढेको जिप रोल्पामा दुर्घटना हुँदा ज्यान गुमाएका २० जना मध्य अधिकांश एकै गाउँटोलका रहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/br-23-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777566091_Untitled-3-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपतिद्वारा सार्वजनिक खरिद सम्बन्धी अध्यादेश जारी",
+      "summary": "तनहुँमा बुधबार र बिहीबार दुईदिनसम्म सञ्चालन गरिएको निःशुल्क स्वास्थ्य परीक्षणमा ३२५ जनाले सेवा लिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/health-check-up-of-325-people-20-have-cancer-24-83.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777565506_cancer-480x320.jpg"
     }
   ]
 }
