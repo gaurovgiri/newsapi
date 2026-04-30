@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-30T03:52:27.308823",
+  "scraped_at": "2026-04-30T06:33:11.691068",
   "date": "2026-04-30",
-  "total_articles": 33,
+  "total_articles": 41,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
+    "NagarikNews",
     "News24"
   ],
   "articles": [
@@ -271,6 +271,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/international/what-did-trump-and-putin-discuss-about-the-iran-war-26-82.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "का ११ वटा सहकारीको समस्या ४ वर्षदेखि उस्तै",
+      "summary": "का ११ वटा सहकारीको समस्या ४ वर्षदेखि उस्तै",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12815",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/sahakari-piditt-1777521372.jpg"
+    },
+    {
+      "title": "र्माणमा अत्याधुनिक प्रविधि, नेपालमै पहिलोपटक प्रयोग",
+      "summary": "र्माणमा अत्याधुनिक प्रविधि, नेपालमै पहिलोपटक प्रयोग",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12814",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Sadak-Stronnati---1777520914.jpg"
+    },
+    {
+      "title": "Local units object to the army’s move to seek squatters' data",
+      "summary": "They say the involvement of the national defence force in the process raises questions over whether the country is being run by the civilian government or the military.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/30/local-units-object-to-the-army-s-move-to-seek-squatters-data",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/8palikapramukh29420260636361000x0-1777521305.jpg&w=300&height=200"
+    },
+    {
+      "title": "Government invites feedback on disability law online, but target group is locked out",
+      "summary": "Government documents remain unreadable for visually impaired users due to inaccessible file formats and poor design.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/30/government-invites-feedback-on-disability-law-online-but-target-group-is-locked-out",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/THISONE-1777514004.jpg&w=300&height=200"
+    },
+    {
+      "title": "Black bands, silent voices: Artists protest for freedom of expression",
+      "summary": "A 15-minute silence turns into a larger debate on censorship after ‘Lalibazar’ faces court ban.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/30/black-bands-silent-voices-artists-protest-for-freedom-of-expression",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/cine-1777520665.jpg&w=600&height=400"
+    },
+    {
+      "title": "Theatre that cuts into inequality",
+      "summary": "TU leadership and the government must finalise a deal that respects both the students and the sport.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/30/theatre-that-cuts-into-inequality",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/notforonline-1777517754.jpg&w=400&height=267"
+    },
+    {
+      "title": "‘Paral Ko Aago’: Love, conflict return in a reimagined classic",
+      "summary": "They say the involvement of the national defence force in the process raises questions over whether the country is being run by the civilian government or the military.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/04/29/paral-ko-aago-love-conflict-return-in-a-reimagined-classic",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/MigrantWorkerLineUpForVaccine202109050842-1777515490.jpg&w=400&height=267"
+    },
+    {
+      "title": "यस्तो छ सरकारले ल्याउन लागेको कर्मचारी कानुन",
+      "summary": "जलजला-सिसाखानी सडक आठ वर्षपछिस्तरोन्नति प्रारम्भ भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jaljala-sisakhani-road-upgrading-br-42-61.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777530269_hud 90-480x320.jpg"
     }
   ]
 }
