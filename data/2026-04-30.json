@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-30T06:33:11.691068",
+  "scraped_at": "2026-04-30T10:14:02.230646",
   "date": "2026-04-30",
-  "total_articles": 41,
+  "total_articles": 47,
   "sources": [
-    "KathmanduPost",
     "NagarikNews",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -335,6 +335,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/jaljala-sisakhani-road-upgrading-br-42-61.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777530269_hud 90-480x320.jpg"
+    },
+    {
+      "title": "Evicted new mothers and children struggle in temporary shelters",
+      "summary": "Families are facing hardship without food choices, infant care facilities and uncertainty over resettlement.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/04/30/evicted-new-mothers-and-children-struggle-in-temporary-shelters",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/1-1777528789.jpg&w=300&height=200"
+    },
+    {
+      "title": "म हार्दा धेरै साथीहरू रुनुभयो, हारे पनि सर्लाही-४ छोड्दिन: गगन थापा",
+      "summary": "आज नेप्से परिसूचक पाँच दशमलव ७३ अङ्कले घटेर दुई हजार ७३८ दशमलव ७२ को बिन्दुमा कायम भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-declines-turnover-of-nearly-five-billion-42-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736676323_nepse2-480x320.jpg"
+    },
+    {
+      "title": "रणनीति तयार गर्न बागमतीका नेताहरूसँग डा. शेखर कोइरालाको छलफल",
+      "summary": "नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचकमा लगातार तेस्रो दिन गिरावट देखिएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-fell-again-today-92-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1770804328_nepse-share-nawayug-480x320.jpg"
+    },
+    {
+      "title": "सय रुपैयाँको सामानमा पनि भन्सार लगाउने सरकारको हेपाहा नीति: गगन",
+      "summary": "सदरमुकाम तम्घासमा यही वैशाख ११ देखि गुल्मी महोत्सव सञ्चालन भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/dinesh-introducing-gulmi-through-photos-36-71.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777542687_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सभापति लामिछानेविरुद्धकाे मुद्दा सुनुवाइ स्थगित",
+      "summary": "‘म हार्दा धेरै साथीहरू रुनुभयो । मेरा लागि सद्भाव र सहयोग गर्ने सम्पूर्ण नेता–कार्यकर्ता तथा मतदाताप्रति हार्दिक आभार व्यक्त गर्दछु,’ उनले भने, ‘हजुरहरूको माया र विश्वासले म रत्तिएर पनि विचलित भएको छैन । सर्लाही–४ को विकास र आगामी जितका लागि म सधैँ साथमा रहनेछु।’",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/many-friends-cried-when-i-lost-i-will-not-leave-sarlahi-4-even-if-i-lose-gagan-thapa-75-28.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774342783_Gagan-Thapa1-480x320.jpg"
+    },
+    {
+      "title": "प्रतिपक्षी दलले राखे सरकारसमक्ष विभिन्न ९ बुँदे माग",
+      "summary": "आज नेप्से परिसूचक पाँच दशमलव ७३ अङ्कले घटेर दुई हजार ७३८ दशमलव ७२ को बिन्दुमा कायम भएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/nepse-declines-turnover-of-nearly-five-billion-42-99.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
