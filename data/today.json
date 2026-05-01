@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-01T04:04:09.529892",
+  "scraped_at": "2026-05-01T09:54:00.878456",
   "date": "2026-05-01",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "KathmanduPost",
     "News24",
+    "KathmanduPost",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-wins-toss-against-uae-elects-to-bat-first-11-19.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "India, China to resume Kailash Mansarovar Yatra via Lipulekh",
+      "summary": "Resumption plan revives sovereignty concerns as Nepal faces pressure to take up Lipulekh issue with India and China.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/india-china-to-resume-kailash-mansarovar-yatra-via-lipulekh",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777622427.png&w=300&height=200"
+    },
+    {
+      "title": "Second phase of eviction drive begins",
+      "summary": "Authorities clear structures in Balkhu, Bansighat and Sankhamul under tight security. Residents begin vacating following eviction notice.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/second-phase-of-eviction-drive-begins",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/6798471459933722167097655942464583368473773n-1777618695.jpg&w=300&height=200"
+    },
+    {
+      "title": "Homes razed, futures shaken: Evictions hit students at a critical juncture",
+      "summary": "As bulldozers tear through informal settlements in Kathmandu, displaced students sit for exams under extreme distress.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/homes-razed-futures-shaken-evictions-hit-students-at-a-critical-juncture",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/studnets-1777610402.jpg&w=300&height=200"
+    },
+    {
+      "title": "वर्तमान सरकारको कार्यशैली गलत : नेकपा सहसंयोजक नेपाल",
+      "summary": "भवन निर्माणको ९० प्रतिशत काम सकिएको प्रतिवेदन नापी कार्यालयमा आएको र रु एक करोड ८० लाख रकम निकासा भएपनि भवन पाँच वर्षदेखि प्रयोगविहीन छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-survey-office-building-was-not-used-because-the-canteen-was-not-built-52-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777628162_napi-480x320.jpg"
+    },
+    {
+      "title": "नेकपाको कार्यक्रममा जीप दुर्घटनाको शोक",
+      "summary": "नेपाल कम्युनिस्ट पार्टी (नेकपा) का सहसंयोजक एवं पूर्वप्रधानमन्त्री माधवकुमार नेपालले वर्तमान सरकारको कार्यशैली गलत भएको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/current-government-s-working-style-is-wrong-ncp-co-coordinator-nepal-36-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777628250_Madhav Nepal-480x320.jpg"
+    },
+    {
+      "title": "सम्पत्ति शुद्धीकरण ऐन पनि अध्यादेशका लागि पुग्यो राष्ट्रपति कार्यालय",
+      "summary": "रुकुम पूर्वबाट रोल्पाको जलजलातर्फ जाँदै गरेका तीर्थयात्री सवार जीप दुर्घटनामा परी २० जनाको ज्यान गएपछि नेकपा रुकुम पूर्वले तय गरेको जिल्ला स्तरीय बैठक तथा प्रशिक्षण कार्यक्रम श्रद्धाञ्जली सभामा रूपान्तरण गर्दै समापन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/mourners-mourn-jeep-accident-at-ncp-event-16-76.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1770205457_prachanda--480x320.jpg"
+    },
+    {
+      "title": "तपाईंहरूले माने पनि नमाने पनि म एमाले हुँ: विद्या भण्डारी",
+      "summary": "उभौली पर्व सुरु भएसँगै छ महिनाअघि बेशी झरेका गोठाला भेँडाबाख्रा धपाउँदै लेकतिर उक्लेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/shepherds-climb-the-lake-driving-sheep-and-goats-along-with-ubhauli-39-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777627597_bheda bakhra-480x320.jpg"
+    },
+    {
+      "title": "मन्त्री यादवको घोषणाः श्रमिकलाई घडेरी किन्न ६ प्रतिशत ब्याजदरमा कर्जा दिइने",
+      "summary": "भवन निर्माणको ९० प्रतिशत काम सकिएको प्रतिवेदन नापी कार्यालयमा आएको र रु एक करोड ८० लाख रकम निकासा भएपनि भवन पाँच वर्षदेखि प्रयोगविहीन छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-survey-office-building-was-not-used-because-the-canteen-was-not-built-52-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
