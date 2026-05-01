@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-01T09:54:00.878456",
+  "scraped_at": "2026-05-01T13:45:36.016012",
   "date": "2026-05-01",
-  "total_articles": 42,
+  "total_articles": 51,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -342,6 +342,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/the-survey-office-building-was-not-used-because-the-canteen-was-not-built-52-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "नमुना बन्यो भीमफेदी, अनौपचारिक श्रमिक पनि सामाजिक सुरक्षा कोषमा",
+      "summary": "नमुना बन्यो भीमफेदी, अनौपचारिक श्रमिक पनि सामाजिक सुरक्षा कोषमा",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12827",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Smajik-Surakshya-kosh-copy-1777609804.jpg"
+    },
+    {
+      "title": "द्र सरकारसंग उद्योगी व्यवसायी किन डराए ? सरकार धरपकडमा उत्रिएको आरोप",
+      "summary": "द्र सरकारसंग उद्योगी व्यवसायी किन डराए ? सरकार धरपकडमा उत्रिएको आरोप",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12826",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/niji-chetra__-1777609597.jpg"
+    },
+    {
+      "title": "बासीका कारण पोखरामा बन्न सकेन बसपार्क !",
+      "summary": "बासीका कारण पोखरामा बन्न सकेन बसपार्क !",
+      "source": "News24",
+      "language": "np",
+      "source_url": "https://www.news24nepal.com/detail/12825",
+      "image_url": "https://www.news24nepal.com/uploads/posts/400X300/Dojar-Aatankko-Tras-1777607685.jpg"
+    },
+    {
+      "title": "Rights groups urge Nepal to strengthen human rights safeguards",
+      "summary": "Cite concerns over evictions, transitional justice, and protections for women, Dalits, migrants, and LGBTI people.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/rights-groups-urge-nepal-to-strengthen-human-rights-safeguards",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67396853316266424652693363725798621267796511n1777109165-1777616187.jpg&w=300&height=200"
+    },
+    {
+      "title": "निजी क्षेत्रलाई निरुत्साहित होइन, स्वच्छ प्रतिस्पर्धा चाहिन्छः मन्त्री तिमिल्सिना",
+      "summary": "उनले पारदर्शी लगानी, निष्पक्ष प्रतिस्पर्धा र नीतिमा आधारित व्यवसायिक अभ्यासलाई नै वास्तविक निजी–क्षेत्रमैत्री शासनको आधार मान्नुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/private-sector-needs-fair-competition-not-discouragement-minister-timilsina-90-35.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777642803_Bikram Timilsina-480x320.jpg"
+    },
+    {
+      "title": "चुनाव हार्दैमा कांग्रेस सकिँदैन, अर्को निर्वाचनमा कमब्याक हुन्छ : गगन थापा",
+      "summary": "शुक्रबार काठमाडौंको बल्खु र वंशीघाट क्षेत्रमा रहेका घरटहरा हटाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/after-a-woman-fainted-in-a-squatter-settlement-12-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777642143_Sukumbashi-480x320.jpg"
+    },
+    {
+      "title": "बुद्धका उपदेशहरू अझ सान्दर्भिक बन्दै : राष्ट्रपति पौडेल",
+      "summary": "‘पहाडकी रानी’ को समेत पहिचान कमाएको बन्दीपुर आफैमा सुन्दर त छँदैछ, त्यसैमा सुन्दरता थप्नेगरि ध्वजापताका र फूलले सजाइएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/bandipur-tourism-ties-between-villages-and-cities-are-being-strengthened-74-98.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777641972_Lamjung-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्रमन्त्रीसँग अमेरिकी विशेष दूतको भेट",
+      "summary": "पहिलो पटक दाङमा यो सेवा सुरु भएसँगै हृदयघात (हर्टअट्याक) भएका बिरामीलाई जिल्लामै सहजै उपचार गर्न सकिने डा देवकोटाले बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/health/heart-angioplasty-service-launched-in-dang-50-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777640923_rapti swasthya bigyan pratisthan-480x320.jpg"
+    },
+    {
+      "title": "सरकार हान्दिन्छु, ठोक्दिन्छु भन्ने पाराले चल्नु हुँदैन: गगन थापा",
+      "summary": "उनले पारदर्शी लगानी, निष्पक्ष प्रतिस्पर्धा र नीतिमा आधारित व्यवसायिक अभ्यासलाई नै वास्तविक निजी–क्षेत्रमैत्री शासनको आधार मान्नुपर्ने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/private-sector-needs-fair-competition-not-discouragement-minister-timilsina-90-35.html?click_from=just_in",
       "image_url": ""
     }
   ]
