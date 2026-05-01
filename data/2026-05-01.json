@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-01T13:45:36.016012",
+  "scraped_at": "2026-05-01T17:05:24.170829",
   "date": "2026-05-01",
-  "total_articles": 50,
+  "total_articles": 58,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -407,6 +407,70 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/private-sector-needs-fair-competition-not-discouragement-minister-timilsina-90-35.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "US official calls for better business climate in meetings with Nepal ministers",
+      "summary": "Sergio Gor met foreign and finance ministers Friday, will see RSP chief Lamichhane on Saturday.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/us-official-calls-for-better-business-climate-in-meetings-with-nepal-ministers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/usnepalphoto-1777650019.jpg&w=300&height=200"
+    },
+    {
+      "title": "Vacant stares of children search for missing friends after settlement demolitions",
+      "summary": "Children scattered after eviction struggle with loss, uncertainty, and an abrupt break from school and friends.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/vacant-stares-of-children-search-for-missing-friends-after-settlement-demolitions",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/dipisha101520261053501000x0-1777642953.jpg&w=300&height=200"
+    },
+    {
+      "title": "Met Office predicts moderate rain with thunder until Saturday",
+      "summary": "Premonsoon rainfall over the past week has cleared air pollution and lowered temperatures, bringing respite from scorching heat in several Tarai districts.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/met-office-predicts-moderate-rain-with-thunder-until-saturday",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777628396.jpg&w=300&height=200"
+    },
+    {
+      "title": "Suspension bridges lie unused in Dhankuta, travellers stop only for photos",
+      "summary": "Dozens of once vital bridges have become obsolete, left to rust without maintenance.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/01/suspension-bridges-lie-unused-in-dhankuta-travellers-stop-only-for-photos",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/nibuwakholabridge-1777645223.jpg&w=600&height=400"
+    },
+    {
+      "title": "धरानको मेयर उम्मेदवार खोज्दै हर्क साम्पाङ, आकांक्षीलाई भेट्न बोलाए",
+      "summary": "मेची भन्सार कार्यालयबाट चालु आर्थिक वर्ष २०८२/८३ को चैत मसान्तसम्ममा अलैँची निर्यात ४१.५८ प्रतिशतले बढेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/cardamom-exports-worth-over-rs-10-7-billion-25-81.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1764905165_Aalaichi-480x320.jpg"
+    },
+    {
+      "title": "राप्रपा महामन्त्रीले उठाए इलामका प्रेम आचार्यको आत्मदाह र सुकुम्बासी नागरिकको आत्महत्याको प्रसंग",
+      "summary": "म्याग्दीको रघुगङ्गा गाउँपालिका–१ बेगमा आज पहिरोले डोजर पुर्दा चालकको मृत्यु भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/landslide-causes-dozer-collapse-driver-dies-62-49.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777650387_Pahiro-480x320.jpg"
+    },
+    {
+      "title": "सीमा क्षेत्रका नागरिकमाथि सरकारको रवैया ठीक भएन : सभापति थापा",
+      "summary": "श्रम संस्कृति पार्टीका अध्यक्ष तथा सांसद हर्क साम्पाङले २०८४ सालमा हुने स्थानीय तह निर्वाचनका लागि धरान उपमहानगरपालिकाको मेयर उम्मेदवार खोज्न सुरु गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/hark-sampang-seeks-dharan-mayoral-candidate-calls-aspirant-to-meet-99-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774751660_harka sampang-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रपति पौडेलद्वारा सम्पत्ति शुद्धिकरणसम्बन्धी अध्यादेश जारी",
+      "summary": "सशस्त्र प्रहरी महानिरीक्षक राजु अर्याल चारवर्षे कार्यकाल पूरा गरी शुक्रबारबाट अवकाश भएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/armed-forces-inspector-general-aryal-leaves-after-completing-four-years-of-tenure-26-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777649138_apf-480x320.jpg"
     }
   ]
 }
