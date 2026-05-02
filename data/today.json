@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-02T06:15:38.997892",
+  "scraped_at": "2026-05-02T09:14:21.237325",
   "date": "2026-05-02",
-  "total_articles": 39,
+  "total_articles": 45,
   "sources": [
-    "News24",
     "NagarikNews",
-    "KathmanduPost"
+    "KathmanduPost",
+    "News24"
   ],
   "articles": [
     {
@@ -319,6 +319,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/rachana-rimal-and-baburam-bhusal-s-song-maya-basyo-lau-timi-kaa-released-10-84.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Tracing illicit wealth stashed abroad is easier said than done",
+      "summary": "Task difficult, but not impossible with diplomacy and strong coordination, says CIB ex-chief Malla.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/02/tracing-illicit-wealth-stashed-abroad-is-easier-said-than-done",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777684974.jpg&w=300&height=200"
+    },
+    {
+      "title": "NEPSE falls nearly 2 percent amid profit booking, political uncertainty",
+      "summary": "Rs80 billion wiped off investor wealth as weak turnover reflects cautious sentiment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/02/nepse-falls-nearly-2-percent-amid-profit-booking-political-uncertainty",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/1222-1777693636.jpg&w=600&height=400"
+    },
+    {
+      "title": "सडक सुरक्षा प्रणाली सुधार्ने सरकारको प्रतिबद्धता",
+      "summary": "सरकारले देशभरका सडक सुरक्षा प्रणालीमा नीतिगत एवं संरचनागत सुधार गर्न प्रतिबद्ध रहेको जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-s-commitment-to-improving-road-safety-system-35-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776040558_PMO-480x320.jpg"
+    },
+    {
+      "title": "रोल्पा दुर्घटनापछि सरकाले भन्यो- सडक सुरक्षामा नीतिगत सुधार गर्न प्रतिबद्धता छाैं",
+      "summary": "सरकारले रोल्पाको थवाङमा भएको जिप दुर्घटनाप्रति दुःख व्यक्त गर्दै देशभरको सडक सुरक्षा प्रणालीमा आवश्यक नीतिगत तथा संरचनागत सुधार गर्ने प्रतिबद्धता जनाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rolpa-jeep-accident-government-s-commitment-to-policy-reforms-in-road-safety-br-59-67.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777712557_Untitled-1-480x320.jpg"
+    },
+    {
+      "title": "सरकारका गलत कार्यको विरोधमा उत्रिन हर्क साम्पाङको आदेश",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले अमेरिकाले क्युबालाई तुरुन्तै ‘कब्जा’ गर्ने चेतावनी दिएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/trump-warns-of-immediate-occupation-of-cuba-89-18.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768179957_trump-480x320.jpg"
+    },
+    {
+      "title": "सरकारविरुद्ध प्रदर्शन गर्दै नेकपा संयुक्त",
+      "summary": "गृह मन्त्रालयले सगरमाथा आधार शिविर (एभरेष्ट बेस क्याम्प) क्षेत्रमा ड्रोन उडानमा रोक लगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/drones-will-no-longer-be-allowed-to-fly-at-everest-base-camp-17-48.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1759906804_Mount Everest-480x320.jpg"
     }
   ]
 }
