@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-02T13:38:23.232024",
+  "scraped_at": "2026-05-02T16:59:13.711421",
   "date": "2026-05-02",
-  "total_articles": 50,
+  "total_articles": 57,
   "sources": [
     "NagarikNews",
     "News24",
@@ -406,6 +406,62 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/finance-minister-s-mantra-to-overcome-geography-and-poverty-through-digitalization-br-47-97.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Squatter evictions in Kathmandu strike fear among riverside dwellers in Jhapa",
+      "summary": "Municipal records show over 6,000 landless residents in Damak as authorities seek updated data on informal settlements.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/02/squatter-evictions-in-kathmandu-strike-fear-among-riverside-dwellers-in-jhapa",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/SQUATTERSETTLEMENTINJHAPA-1777728809.jpg&w=300&height=200"
+    },
+    {
+      "title": "Lumbini master plan remains unfinished after 48 years",
+      "summary": "Stakeholders say legal hurdles, political interference, weak coordination slow efforts to develop Buddha’s birthplace into a global spiritual hub.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/02/lumbini-master-plan-remains-unfinished-after-48-years",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/main-1777707118.jpg&w=300&height=200"
+    },
+    {
+      "title": "‘जिल्ला समन्वय समितिलाई स्रोतसाधन सम्पन्न र स्पष्ट जिम्मेवारी दिनुपर्छ’",
+      "summary": "नेपाल आर्मी राजन रोकाया र जुम्लाकी सुनमाया बुढाले चाँगुनारायण राष्ट्रिय ट्रेल रनमा शनिबार पहिलो भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/rajan-and-sunmaya-win-first-place-in-changunarayan-national-trail-run-67-34.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777739309_untillted2-480x320.jpg"
+    },
+    {
+      "title": "अध्यादेश जारी भएकोमा हर्कको आपत्ति, भन्छन्- सदन किन चाहियो नत्र ?",
+      "summary": "प्रदीप खड्का र शिभाली गुरुङ १२औं सिटिजन्स बैंक खुला टेनिस प्रतियोगितामा शनिबार च्याम्पियन बनेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/pradeep-and-shivali-are-champions-55-38.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777739182_sf-480x320.jpg"
+    },
+    {
+      "title": "स्थानीय तह निर्वाचन र महाधिवेशनबारे छलफल गर्न आइतबार रास्वपा सचिवालय बैठक बस्दै",
+      "summary": "लिगमा बेहोरेको हारको बदला लिँदै रुकुम पश्चिम भलिबल केन्द्र र नेपाल पुलिस क्लब दसौं प्रधानमन्त्री कप महिला तथा पुरुष एनभिए लिगमा च्याम्पियन भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/10th-prime-minister-s-cup-nva-volleyball-league-rukum-west-and-police-champions-37-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777739050_volley-480x320.jpg"
+    },
+    {
+      "title": "कर्णालीमा ३०२ किलोमिटर सडक कालोपत्रे गरियो",
+      "summary": "इटहरीमा आयोजित दोस्रो तरहरा राष्ट्रव्यापी कविता प्रतियोगितामा मोरङका विशाल साह प्रथम भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/vishal-from-morang-wins-first-place-in-nationwide-poetry-competition-73-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777738310_asf-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिको बैठक सोमबार",
+      "summary": "नेपाल आर्मी राजन रोकाया र जुम्लाकी सुनमाया बुढाले चाँगुनारायण राष्ट्रिय ट्रेल रनमा शनिबार पहिलो भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/rajan-and-sunmaya-win-first-place-in-changunarayan-national-trail-run-67-34.html?click_from=just_in",
       "image_url": ""
     }
   ]
