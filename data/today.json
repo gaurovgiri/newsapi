@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-02T03:36:48.114501",
+  "scraped_at": "2026-05-02T06:15:38.997892",
   "date": "2026-05-02",
-  "total_articles": 34,
+  "total_articles": 39,
   "sources": [
-    "NagarikNews",
     "News24",
+    "NagarikNews",
     "KathmanduPost"
   ],
   "articles": [
@@ -278,6 +278,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/revenue-collection-of-858-thousand-rupees-from-traffic-enforcement-60-35.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "रास्वपा सांसद खनालले भने : राज्यका लागि हरेक नागरिकको जीवन र आत्मसम्मान सबैभन्दा अमूल्य",
+      "summary": "नेपालकै चर्चित तथा लोकप्रिय गायिका रचना रिमाल गायक तथा सञ्चारकर्मी बाबुराम भुषाल (शील) को स्वरमा रहेको ‘माया बस्यो लौ तिमीसँगै’ नयाँ गीत सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rachana-rimal-and-baburam-bhusal-s-song-maya-basyo-lau-timi-kaa-released-10-84.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777701995_geet-480x320.jpg"
+    },
+    {
+      "title": "परराष्ट्र मामला: खतरा र सुझाव",
+      "summary": "दक्षिणी लेवनानमा भएको इजरायली आक्रमणमा १३ जनाको मृत्यु भएको लेबनानको स्वास्थ्य मन्त्रालयले बताएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/13-killed-in-israeli-attack-in-lebanon-39-42.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774768645_lebanon-480x320.jpg"
+    },
+    {
+      "title": "रोल्पा जीप दुर्घटनाको तीन दिनपछि रास्वपाले भन्यो : नागरिकको सुरक्षा सर्वोच्च प्राथमिकतामा",
+      "summary": "'राज्यका लागि हरेक नागरिकको जीवन र आत्मसम्मान सबैभन्दा अमूल्य विषय हो। सुकुम्बासी तथा अव्यवस्थित बसोबासको समस्या समाधान गर्ने क्रममा घटित आजको दुखद घटनाले मलाई स्तब्ध बनाएको छ,' उनले भने।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rashtriya-swayamsevak-sangh-rss-mp-khanal-said-the-life-and-self-respect-of-every-citizen-are-the-most-precious-things-for-the-state-31-27.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777701251_manish khanal-480x320.jpg"
+    },
+    {
+      "title": "'विस्थापित सुकुम्बासीका लागि 'ज्ञ' क्रान्तिको खाका चाहियो प्रधानमन्त्रीज्यू'",
+      "summary": "त्रिविले शैक्षिक पात्रो सुधार्न अनियमित रहेका परीक्षा धमाधम सञ्चालन गरिरहेको छ। वैशाख महिनामात्रै चार प्रकारका परीक्षा सञ्चालन भइरहेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/education/you-can-still-take-the-exam-after-thirty-years-48-60.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1768666825_TU-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्रीलाई तीन अन्तर्राष्ट्रिय संस्थाको संयुक्त पत्र : मानवअधिकारसम्बन्धी सुधार ल्याउनुस्",
+      "summary": "नेपालकै चर्चित तथा लोकप्रिय गायिका रचना रिमाल गायक तथा सञ्चारकर्मी बाबुराम भुषाल (शील) को स्वरमा रहेको ‘माया बस्यो लौ तिमीसँगै’ नयाँ गीत सार्वजनिक भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/rachana-rimal-and-baburam-bhusal-s-song-maya-basyo-lau-timi-kaa-released-10-84.html?click_from=just_in",
       "image_url": ""
     }
   ]
