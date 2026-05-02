@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-02T09:14:21.237325",
+  "scraped_at": "2026-05-02T13:38:23.232024",
   "date": "2026-05-02",
-  "total_articles": 45,
+  "total_articles": 51,
   "sources": [
     "NagarikNews",
-    "KathmanduPost",
-    "News24"
+    "News24",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -367,6 +367,54 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/drones-will-no-longer-be-allowed-to-fly-at-everest-base-camp-17-48.html?click_from=just_in",
       "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1759906804_Mount Everest-480x320.jpg"
+    },
+    {
+      "title": "Gor concludes Nepal visit, calls it “highly productive”",
+      "summary": "US envoy holds high-level meetings, discusses reforms and business ties.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/02/gor-concludes-nepal-visit-calls-it-highly-productive",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/rabigor-1777722483.jpg&w=600&height=400"
+    },
+    {
+      "title": "‘डिजिटलाइजेसन’ मार्फत भूगोल र गरिबी जित्ने अर्थमन्त्रीको मन्त्र",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले नेपालको भौगोलिक जटिलता र गरिबीलाई परास्त गर्न डिजिटलाइजेसनलाई मुख्य रणनीतिक हतियार बनाइने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/finance-minister-s-mantra-to-overcome-geography-and-poverty-through-digitalization-br-47-97.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1776003707_swarnim wagle-480x320.jpg"
+    },
+    {
+      "title": "सरकारले मुक्तकमैयालगायत समुदायका समस्या समाधान गर्छ : मन्त्री चौधरी",
+      "summary": "आइएचआई फोटो जर्नालिस्ट अप्रिसिएसन अवार्ड २०२६ अन्तर्गत नेपालका १० जना फोटो पत्रकार सम्मानित भएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/10-nepali-photojournalists-honored-in-dhaka-55-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777727304_photo journalist-480x320.jpg"
+    },
+    {
+      "title": "प्रतिपक्षी चुक्यौं भने लोकतन्त्र नै लर्खराउँछ: सभापति थापा",
+      "summary": "आफू यसै समुदायकी छोरी भएकाले यस क्षेत्रप्रति अझ जिम्मेवार भएर काम गर्ने उल्लेख गर्दै मन्त्री चौधरीले भूमिसम्बन्धी समस्या समाधानलाई प्राथमिकतामा राखेर काम गर्ने बताइन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/1518615-1777726971.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777726542_gita chaudhary-480x320.jpg"
+    },
+    {
+      "title": "सार्वजनिक पदमा बसेकाले एक रुपैयाँ तलमाथि गरे पनि स्वीकार्य हुँदैन: गगन थापा",
+      "summary": "निरन्तरको वर्षासँगै आएको बढीले सिरहा र धनुषा जोड्ने कमला नदीमा बनाइएको अस्थायी ‘डाइभर्सन’ बगाएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/floods-again-wash-away-kamala-river-s-diversion-blocking-hulaki-highway-28-59.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777725564_kamala nadi-480x320.jpg"
+    },
+    {
+      "title": "बालेनको डोजर नीतिविरुद्ध नीशा अधिकारी सडकमा, भनिन्- नागरिक तर्साएर विकास हुँदैन",
+      "summary": "अर्थमन्त्री डा. स्वर्णिम वाग्लेले नेपालको भौगोलिक जटिलता र गरिबीलाई परास्त गर्न डिजिटलाइजेसनलाई मुख्य रणनीतिक हतियार बनाइने बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/finance-minister-s-mantra-to-overcome-geography-and-poverty-through-digitalization-br-47-97.html?click_from=just_in",
+      "image_url": ""
     }
   ]
 }
