@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-03T17:00:14.057517",
+  "scraped_at": "2026-05-03T20:55:17.222133",
   "date": "2026-05-03",
-  "total_articles": 59,
+  "total_articles": 60,
   "sources": [
-    "NagarikNews",
+    "KathmanduPost",
     "News24",
-    "KathmanduPost"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -479,6 +479,14 @@
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-home-based-businesses-flourishing-with-the-boom-32-43.html?click_from=just_in",
       "image_url": ""
+    },
+    {
+      "title": "Landless squatters and powerless local units caught in federal eviction push",
+      "summary": "Federal directive to relocate squatters raises concerns over municipal capacity amid legal and financial constraints.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/03/landless-squatters-and-powerless-local-units-caught-in-federal-eviction-push",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/shankhamularea05022026j2a9206copy03520260230451000x0-1777818459.jpg&w=300&height=200"
     }
   ]
 }
