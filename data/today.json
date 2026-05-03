@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-03T03:59:24.015818",
+  "scraped_at": "2026-05-03T06:34:06.084576",
   "date": "2026-05-03",
-  "total_articles": 34,
+  "total_articles": 42,
   "sources": [
-    "NagarikNews",
     "KathmanduPost",
-    "News24"
+    "News24",
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -278,6 +278,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/binod-br-elected-as-president-of-mahalaxmi-literary-society-21-68.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Hundreds of Nepalis still trapped in Cambodian scam compounds despite crackdown",
+      "summary": "Embassy moves to repatriate 277 individuals as victims recount coercion, abuse and trafficking networks.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/03/hundreds-of-nepalis-still-trapped-in-cambodian-scam-compounds-despite-crackdown",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/world/Z6UQ3ZUZFNPFFKG72R6EMRBIQM-1777782443.jpg&w=300&height=200"
+    },
+    {
+      "title": "New Nepal government strikes down most major appointments made prior to March 26",
+      "summary": "Mass dismissal creates leadership vacuum in universities, health institutions and state agencies, government yet to clarify fresh appointments.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/03/new-nepal-government-strikes-down-most-major-appointments-made-prior-to-march-26",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/118ANI5276JPGscaled-1777769373.jpg&w=300&height=200"
+    },
+    {
+      "title": "Romania’s planned curbs on recruitment firms may hit Nepali job seekers",
+      "summary": "Angdembe, who goes by the nickname ‘The Gurkha’, defeated Indian fan-favourite Mandeep Prajapati ‘Baaghi’ by submission in the first round.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/nepali-diaspora/2026/05/01/romania-s-planned-curbs-on-recruitment-firms-may-hit-nepali-job-seekers",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Bardiya-1777769741.jpg&w=400&height=267"
+    },
+    {
+      "title": "भर्ना शुल्कमा अनियमितताबारे स्थानीय सरकार र गृहसँग संवाद गर्दै शिक्षा मन्त्रालय",
+      "summary": "शनिबार उक्त मुद्दाको सुनुवाइका क्रममा उनका अंगरक्षकले महत्वपूर्ण बयान दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/actor-khan-s-attempted-attack-revealed-statement-in-court-43-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777789701_Salman Khan-480x320.jpg"
+    },
+    {
+      "title": "स्वतन्त्र प्रेसबिना सुशासन, पारदर्शिता र जनविश्वास सुदृढ हुन सक्दैन : सञ्चारमन्त्री तिमिल्सिना",
+      "summary": "बितेका २४ घण्टामा दुई हजार १११ सवारी चालक सवारी नियम उल्लङ्घनको कारबाहीमा परेका छन्। यसबाट राज्यकोषमा रु पाँच लाख ६५ हजार राजस्व दाखिला भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/2-111-drivers-taken-into-action-in-24-hours-84-99.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776229445_traffic-480x320.jpg"
+    },
+    {
+      "title": "लालपुर्जा नभएका सबैलाई हटाउने हो भने ५० लाख नागरिक गरिबीको चक्रमा फस्छन् : पोखरेल",
+      "summary": "सरकारले विद्यालय क्षेत्रको सुधारका लागि सङ्घ र स्थानीय तहबीचको समन्वयलाई प्रभावकारी बनाउने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ministry-of-education-in-dialogue-with-local-government-and-home-ministry-regarding-irregularities-in-admission-fees-27-37.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1774956566_sasmit-480x320.jpg"
+    },
+    {
+      "title": "राष्ट्रिय प्रकृति संरक्षण कोषका अध्यक्ष श्रेष्ठ पनि पदमुक्त",
+      "summary": "अनामनगरको देवीनगरस्थित धोबीखोला करिडोरमा निर्माण गरिएको ७ तले घरमा डोजर चलाइएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/dozer-used-on-7-storey-building-in-dhobikhola-corridor-44-64.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777789247_anamnagar-480x320.jpg"
+    },
+    {
+      "title": "छिटो काम गर्नका लागि अध्यादेश ल्याइएको हो : मन्त्री गौतम",
+      "summary": "शनिबार उक्त मुद्दाको सुनुवाइका क्रममा उनका अंगरक्षकले महत्वपूर्ण बयान दिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/arts/actor-khan-s-attempted-attack-revealed-statement-in-court-43-64.html?click_from=just_in",
       "image_url": ""
     }
   ]
