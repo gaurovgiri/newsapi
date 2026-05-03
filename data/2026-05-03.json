@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-03T06:34:06.084576",
+  "scraped_at": "2026-05-03T09:26:07.959898",
   "date": "2026-05-03",
-  "total_articles": 41,
+  "total_articles": 46,
   "sources": [
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "NagarikNews",
+    "News24"
   ],
   "articles": [
     {
@@ -334,6 +334,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/arts/actor-khan-s-attempted-attack-revealed-statement-in-court-43-64.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "स्थानीय तह निर्वाचनमा रास्वपाबाट उमेदवार बन्न ‘क्यान्डिडेट क्लब’ र ‘लिडरसिप एकेडेमी’ उत्तीर्ण हुनैपर्ने",
+      "summary": "आगामी स्थानीय तह निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का तर्फबाट उम्मेदवार बन्न ‘क्यान्डिडेट क्लब’ र ‘लिडरसिप एकेडेमी’ अनिवार्य उत्तीर्ण गर्नुपर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/to-become-a-candidate-from-the-rashtriya-swayamsevak-sangh-rss-in-local-elections-one-must-pass-the-candidate-club-and-leadership-academy-27-96.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777800004_rabi-480x320.jpg"
+    },
+    {
+      "title": "अब कम्युनिस्ट एकता गरेर समाजवादको यात्रा सुरु गर्छौं : प्रचण्ड",
+      "summary": "जिल्ला प्रहरी कार्यालयले जनाएअनुसार आइतबार अपराह्नदेखि दुवैतर्फको यातायात सेवा सञ्चालनमा ल्याइएको हो।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/kantilokpath-reopens-after-landslide-removal-87-10.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777799145_Kantilokhpath-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सचिवालय बैठक जारी",
+      "summary": "उनले पछिल्ला उपलब्धिलाई थप व्यवस्थित गर्न शान्ति सम्झौता र संविधानसभा पक्षधर सबै राजनितिक दललाई मिलाएर अगाडि बढाइने बताए।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/now-we-are-starting-the-journey-of-socialism-by-uniting-the-communists-coordinator-dahal-39-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1772714500_prachanda-480x320.jpg"
+    },
+    {
+      "title": "सागर ढकालले गरे रास्वपा केन्द्रीय सचिवालय सदस्यको रूपमा सपथ ग्रहण",
+      "summary": "घरधनी इन्द्र चाम्लिङले नक्सा पास गरेरै घर बनाएको र आफूले नियमित कर तथा राजस्व तिर्दै आएको दाबी गरेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/chamling-the-owner-of-a-7-storey-house-says-it-was-built-after-passing-the-plan-29-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777797943_Chamling-480x320.jpg"
+    },
+    {
+      "title": "एमालेमा डिजिटल सदस्यता प्रणाली लागू, समयमै नवीकरण नगर्नेलाई जिम्मेवारीबाट स्वतः मुक्त गरिने",
+      "summary": "आगामी स्थानीय तह निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का तर्फबाट उम्मेदवार बन्न ‘क्यान्डिडेट क्लब’ र ‘लिडरसिप एकेडेमी’ अनिवार्य उत्तीर्ण गर्नुपर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/to-become-a-candidate-from-the-rashtriya-swayamsevak-sangh-rss-in-local-elections-one-must-pass-the-candidate-club-and-leadership-academy-27-96.html?click_from=just_in",
       "image_url": ""
     }
   ]
