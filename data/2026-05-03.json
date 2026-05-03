@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-03T13:39:49.819178",
+  "scraped_at": "2026-05-03T17:00:14.057517",
   "date": "2026-05-03",
-  "total_articles": 51,
+  "total_articles": 59,
   "sources": [
-    "News24",
     "NagarikNews",
+    "News24",
     "KathmanduPost"
   ],
   "articles": [
@@ -414,6 +414,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/27-people-arrested-from-various-districts-with-drugs-69-77.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "President Paudel returns constitutional council-related ordinance for reconsideration",
+      "summary": "A similar ordinance recommended by a previous government led by Sushila Karki had also been returned by the Office of the President in the past.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/03/president-paudel-returns-constitutional-council-related-ordinance-for-reconsideration",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/sital19220211053271000x0-1777817867.jpg&w=300&height=200"
+    },
+    {
+      "title": "Karnali’s yarsagumba season set for late May, but yields are thinning and risks rising",
+      "summary": "As the season approaches, thousands of villagers are busy gathering essential supplies, primarily 'satu' (roasted flour), ghee, and heavy woollen clothing, as they prepare to spend over a month in the high-altitude wilderness.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/03/karnali-s-yarsagumba-season-set-for-late-may-but-yields-are-thinning-and-risks-rising",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/YARSAGUMBAFILEPHOTO-1777819014.jpg&w=300&height=200"
+    },
+    {
+      "title": "Public hospital OPDs stay shut on Sundays despite ministry order",
+      "summary": "Patients from remote areas say staying in Kathmandu for days to see doctors at state hospitals makes treatment more expensive than private treatment.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/health/2026/05/03/public-hospital-opds-stay-shut-on-sundays-despite-ministry-order",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/OPD-1777818663.jpg&w=600&height=400"
+    },
+    {
+      "title": "सम्पत्ति छानबिन आयोगका पदाधिकारीको सेवा सुविधा कति ?",
+      "summary": "बेँसी क्षेत्रमा माघको तेस्रो सातादेखि र पहाडी तथा हिमाली क्षेत्रमा जेठ दोस्रो सातासम्म फुल्ने गुराँसले प्राकृतिक सौन्दर्यसँगै पर्यटन प्रवर्द्धन र स्थानीय आम्दानीको स्रोत बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-home-based-businesses-flourishing-with-the-boom-32-43.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777824468_Guras-480x320.jpg"
+    },
+    {
+      "title": "कारण बुझेर मात्र अध्यादेश फिर्ताबारे बोल्छु: रवि लामिछाने",
+      "summary": "एसियाली विकास बैंक (एडीबी)का अध्यक्ष मासातो कान्दाले नेपालमा युवा आन्दोलनपछि बनेको नयाँ सरकारलाई सहयोग गर्न आफूहरू उत्साहित रहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/adb-president-says-we-support-nepal-s-new-government-84-26.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777823838_ADB-480x320.jpg"
+    },
+    {
+      "title": "माइतीघरमा दलित समुदायको प्रदर्शन",
+      "summary": "नेपाली भूमि लिपुलेक हुँदै आयोजना गर्ने भनिएको कैलाश मानसरोवर यात्राका सम्बन्धमा नेपाल सरकारले आफ्नो स्पष्ट अडान र सरोकार भारत तथा चीन दुवै पक्षलाई कूटनीतिक माध्यमबाट पुनः अवगत गराएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-government-again-informs-china-and-india-about-lipulekh-relations-19-39.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777822403_Lipulek-480x320.jpg"
+    },
+    {
+      "title": "चैत १२ गते अघि सार्वजनिक निकायमा नियुक्त पदाधिकारी स्वतः पदमुक्त",
+      "summary": "१० खेलाडीमा सिमित आर्मीबिरुद्ध टाईब्रेकरमा पुगेर संघर्षपूर्ण जित निकालेको पुलिसले उपाधिसँगै नगद ५ लाखसहित शिल्ड, मेडल र प्रमाण प्राप्त गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/sports/nepal-police-wins-women-s-gold-cup-title-28-57.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777821871_game1-480x320.jpg"
+    },
+    {
+      "title": "आफ्नै नागरिकमाथि धावा नबोल सरकार !",
+      "summary": "बेँसी क्षेत्रमा माघको तेस्रो सातादेखि र पहाडी तथा हिमाली क्षेत्रमा जेठ दोस्रो सातासम्म फुल्ने गुराँसले प्राकृतिक सौन्दर्यसँगै पर्यटन प्रवर्द्धन र स्थानीय आम्दानीको स्रोत बनेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/local-home-based-businesses-flourishing-with-the-boom-32-43.html?click_from=just_in",
       "image_url": ""
     }
   ]
