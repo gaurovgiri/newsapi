@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-03T09:26:07.959898",
+  "scraped_at": "2026-05-03T13:39:49.819178",
   "date": "2026-05-03",
-  "total_articles": 47,
+  "total_articles": 52,
   "sources": [
-    "KathmanduPost",
+    "News24",
     "NagarikNews",
-    "News24"
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -382,6 +382,46 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/politics/to-become-a-candidate-from-the-rashtriya-swayamsevak-sangh-rss-in-local-elections-one-must-pass-the-candidate-club-and-leadership-academy-27-96.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "हालसम्म १८ सय सुकुम्वासी परिवार सरकारको सम्पर्कमा, ७९४ होल्डिङ सेन्टरमा",
+      "summary": "प्रहरीले विभिन्न स्थानबाट अवैध लागूऔषध सहित विभिन्न स्थानबाट २७ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/27-people-arrested-from-various-districts-with-drugs-69-77.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1755793803_Pakrau-480x320.jpg"
+    },
+    {
+      "title": "संवैधानिक परिषद्सम्बन्धी अध्यादेश फिर्ता हुनुको कारण बुझ्न बाँकी : रवि लामिछाने",
+      "summary": "हालसम्म १८ सय सुकुम्वासी परिवार सरकारको सम्पर्कमा आएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/so-far-1-800-squatter-families-are-in-contact-with-the-government-794-are-in-holding-centers-96-92.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777030170_Sukumbashi-480x320.jpg"
+    },
+    {
+      "title": "अधिग्रहण बाहेकका अन्य ठाउँमा डोजर नचलाउन सरकारलाई रास्वपाको सुझाव",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सभापति रवि लामिछानेले संवैधानिक परिषद्सम्बन्धी अध्यादेश फिर्ता हुनुको कारणबारे आफू बुझ्ने क्रममा रहेको बताएका छन् ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/reason-for-withdrawal-of-ordinance-related-to-constitutional-council-yet-to-be-understood-ravi-lamichhane-83-69.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777811741_Rabi lamichhane-480x320.jpg"
+    },
+    {
+      "title": "कसैलाई घरबारविहिन बनाउँदैनौं : सभापति रवि लामिछाने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले अधिकारसम्पन्न प्राधिकरणको प्रतिवेदन नआएसम्म वास्तविक भूमिहीन सुकुम्बासीहरूको हकमा कुनै पनि कारबाही अगाडि नबढाउन सरकारको ध्यानाकर्षण गराएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/rsvp-urges-not-to-take-any-action-against-the-actual-landless-until-the-report-is-received-dozers-should-not-be-used-in-settlements-until-a-safe-alternative-is-found-br-33-17.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777812563_Untitled-2-480x320.jpg"
+    },
+    {
+      "title": "रास्वपा सचिवालय बैठकले के-के निर्णय गर्‍यो ?",
+      "summary": "प्रहरीले विभिन्न स्थानबाट अवैध लागूऔषध सहित विभिन्न स्थानबाट २७ जनालाई नियन्त्रणमा लिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/27-people-arrested-from-various-districts-with-drugs-69-77.html?click_from=just_in",
       "image_url": ""
     }
   ]
