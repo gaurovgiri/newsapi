@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-04T10:20:32.990337",
+  "scraped_at": "2026-05-04T14:21:30.476423",
   "date": "2026-05-04",
-  "total_articles": 49,
+  "total_articles": 55,
   "sources": [
-    "NagarikNews",
+    "News24",
     "KathmanduPost",
-    "News24"
+    "NagarikNews"
   ],
   "articles": [
     {
@@ -398,6 +398,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/economy/wave-of-women-s-entrepreneurship-in-jumla-income-of-lakhs-with-self-reliance-from-satu-pickles-and-bread-78-70.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Why Sanskrit is not dead after all",
+      "summary": "Enrolment is rising in Nepal’s gurukuls and Sanskrit universities. But is it a genuine revival or a reinvention driven by ritual economics, Hindu nationalism, and the lure of free room and board?",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/04/why-sanskrit-is-not-dead-after-all",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/67375397213622843959334532734223375333323605nedit348524649311922-1777901012.jpg&w=300&height=200"
+    },
+    {
+      "title": "सरकारी बोर्डमा मोबिल छर्किने दुई जना पक्राउ",
+      "summary": "यामाहा नेपालले बुढानीलकण्ठस्थित इटालिटार, गणेशचोकमा नयाँ थ्रीएस शोरूम ‘व्हिलिश ग्यालोर प्रालि’ औपचारिक रूपमा उद्घाटन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/yamaha-opens-new-3s-showroom-in-budhanilkantha-46-62.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777904107_Yamaha1-480x320.jpg"
+    },
+    {
+      "title": "प्रतिनिधि सभा, राष्ट्रिय सभा तथा संयुक्त समितिका सभापतिसँग सभामुख अर्यालले गरे छलफल",
+      "summary": "अनलाइन किनमेल प्लेटफर्म दराज नेपालले बहुप्रतीक्षित बिग समर सेल (५.५) सार्वजनिक गरेको छ। यस अभियानमार्फत कम्पनीले देशभरका ग्राहकका लागि आकर्षक छुट र विशेष अफरहरू प्रस्तुत गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/savings-are-in-full-swing-as-summer-heats-up-daraz-announces-5-5-big-summer-sale-92-23.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777903688_Daraj-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले संसद् समन्वय बोर्डको बैठक मंगलबार",
+      "summary": "राष्ट्रपतिबाट प्रमाणीकरण भएको सहकारी ऐन, २०७४ लाई संशोधन गर्न बनेको सहकारी (पहिलो संशोधन) अध्यादेश, २०८३ ले नातेदार र परिवारको परिभाषामा फेरबदल गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/seven-major-topics-added-to-the-cooperatives-ordinance-70-80.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777904197_sa-480x320.jpg"
+    },
+    {
+      "title": "उपराष्ट्रपति यादवसँग युरोपेली सङ्घका राजदूतको शिष्टाचार भेट",
+      "summary": "संसारका विकसित मुलुकहरूमा बसोबास गरे पनि नेपालका डाँडाकाँडा, खोलानाला र हिमालहरूको सम्झना उनीहरूको मनमा गहिरो रूपमा अंकित हुन्छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/blog/a-call-to-migrant-experience-entrepreneurial-resolve-and-responsibility-80-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777902769_nepal-480x320.jpg"
+    },
+    {
+      "title": "बढ्दैछ संविधान संशोधनको बहस: पूर्वउच्च अधिकारीसँगको परामर्श भोलि",
+      "summary": "यामाहा नेपालले बुढानीलकण्ठस्थित इटालिटार, गणेशचोकमा नयाँ थ्रीएस शोरूम ‘व्हिलिश ग्यालोर प्रालि’ औपचारिक रूपमा उद्घाटन गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/Corporate/yamaha-opens-new-3s-showroom-in-budhanilkantha-46-62.html?click_from=just_in",
       "image_url": ""
     }
   ]
