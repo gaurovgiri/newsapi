@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-04T14:21:30.476423",
+  "scraped_at": "2026-05-04T17:46:56.032459",
   "date": "2026-05-04",
-  "total_articles": 55,
+  "total_articles": 63,
   "sources": [
     "News24",
-    "KathmanduPost",
-    "NagarikNews"
+    "NagarikNews",
+    "KathmanduPost"
   ],
   "articles": [
     {
@@ -446,6 +446,70 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/Corporate/yamaha-opens-new-3s-showroom-in-budhanilkantha-46-62.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Nepal turns to India for emergency fertiliser import as global prices surge",
+      "summary": "Cabinet gives in-principle nod to procure 80,000 tonnes under G2G deal amid war-driven supply disruption and looming monsoon demand.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/04/nepal-turns-to-india-for-emergency-fertiliser-import-as-global-prices-surge",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/morangfarmer-1777897007.jpg&w=300&height=200"
+    },
+    {
+      "title": "Overexploited for years, the Chure hills are weakening, and water stress is rising across the Tarai",
+      "summary": "Groundwater that once lay at 20 to 25 feet is now sinking beyond 110 feet in several parts of the Tarai.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/04/overexploited-for-years-the-chure-hills-are-weakening-and-water-stress-is-rising-across-the-tarai",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/wetlandinChitwanMaheshDhakal-1777909042.jpg&w=300&height=200"
+    },
+    {
+      "title": "Ticket price slashed for Nepal vs Oman—but will the 12th man turn up?",
+      "summary": "CAN cuts ticket prices by half following criticism over low attendance, hoping supporters return for Nepal’s vital League-2 match.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/sports/2026/05/04/ticket-price-slashed-for-nepal-vs-oman-but-will-the-12th-man-turn-up",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/sports-1777908040.jpg&w=300&height=200"
+    },
+    {
+      "title": "आगामी आर्थिक वर्षको बजेटबारे अर्थ मन्त्रालयद्वारा विषयगत मन्त्रालयसँग छलफल",
+      "summary": "सन् २०२६ को अप्रिल महिनामा एक लाख सात हजार ९३४ विदेशी पर्यटक नेपाल भित्रिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-hundred-and-seven-thousand-tourists-entered-nepal-in-april-47-24.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1756796044_1 Thamel-1200x560-480x320.jpg"
+    },
+    {
+      "title": "जसपा केन्द्रीय समितिबाट १५ बुँदे समसामयिक प्रस्ताव पारित",
+      "summary": "अर्थ मन्त्रालयले आगामी आर्थिक वर्ष २०८३/८४ को बजेट तयारीअन्तर्गत आजदेखि मन्त्रालयगत बजेट छलफल सुरु गरेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/ministry-of-finance-holds-discussions-with-line-ministries-on-budget-for-next-fiscal-year-37-31.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1736772996_finance_ministry-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेसले भन्यो- भारत र चीनलाई पठाएको कूटनीतिक नोट सकारात्मक",
+      "summary": "हावाहुरीले घरको छतको रेलिङ भत्किएर खस्दा सिरहामा एक जना महिलाकोमृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/woman-dies-after-roof-railing-collapses-in-storm-34-46.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1774005822_Hawahuri-480x320.jpg"
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन्द्रलाई जेन-जी मिराजको प्रश्न: स्टाटसले मात्र हुन्छ ?",
+      "summary": "जनता समाजवादी पार्टी जसपा केन्द्रीय समितिबाट १५ बुँदे समसामयिक प्रस्ताव पारित भएको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/15-point-contemporary-resolution-passed-by-jsp-central-committee-50-29.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777909792_Jasapa-480x320.jpg"
+    },
+    {
+      "title": "एमालेको सदस्यता नवीकरण नगर्ने जिम्मेवारीबाट स्वतः मुक्त हुने",
+      "summary": "सन् २०२६ को अप्रिल महिनामा एक लाख सात हजार ९३४ विदेशी पर्यटक नेपाल भित्रिएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/one-hundred-and-seven-thousand-tourists-entered-nepal-in-april-47-24.html?click_from=just_in",
       "image_url": ""
     }
   ]
