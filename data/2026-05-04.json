@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-05-04T06:47:17.854640",
+  "scraped_at": "2026-05-04T10:20:32.990337",
   "date": "2026-05-04",
-  "total_articles": 42,
+  "total_articles": 48,
   "sources": [
+    "NagarikNews",
     "KathmanduPost",
-    "News24",
-    "NagarikNews"
+    "News24"
   ],
   "articles": [
     {
@@ -342,6 +342,54 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-shepherd-dies-after-being-struck-by-lightning-26-86.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Evicted squatters shifted to temporary lodgings, but resettlement remains uncertain",
+      "summary": "Government weighing interim cash aid and monthly rent for displaced squatters, says PMO official.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/national/2026/05/04/evicted-squatters-shifted-to-temporary-lodgings-but-resettlement-remains-uncertain",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/kumari1777264602-1777856138.jpg&w=300&height=200"
+    },
+    {
+      "title": "संविधान संशोधन कार्यदलले पूर्वराष्ट्रसेवकसँग छलफल गर्ने",
+      "summary": "सीमित स्रोतसाधन, भौगोलिक कठिनाइ र अवसरको अभावका बीच पनि यहाँका महिलाहरूले स्थानीय उत्पादन र सीपलाई व्यवसायमा रूपान्तरण गर्दै आत्मनिर्भरताको बाटो समातेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/wave-of-women-s-entrepreneurship-in-jumla-income-of-lakhs-with-self-reliance-from-satu-pickles-and-bread-78-70.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777889877_Gjumla-480x320.jpg"
+    },
+    {
+      "title": "सरकारले गुणस्तरीय शिक्षामा जोड दिइरहेको छ : मुख्यमन्त्री शाह",
+      "summary": "संविधान संशोधनका लागि बहसपत्र तयार गर्न गठित कार्यदलले संवैधानिक निकायका पूर्वप्रमुख, पूर्वमुख्य सचिव, परराष्ट्रविद् तथा पूर्वप्रशासकसँग छलफल गर्ने भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/constitution-amendment-task-force-to-hold-discussions-with-former-civil-servants-88-41.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1776944493_Asim-480x320.jpg"
+    },
+    {
+      "title": "भृकुटी कागज कारखाना: ३३३ श्रमिकको ४० करोड बक्यौता",
+      "summary": "विराटनगर जुट मिलको जग्गामा बसेका अव्यवस्थित बसोबासी हटाउने प्रक्रिया अघि बढाइरहेका बेला सोही उद्योगका श्रमिक र कर्मचारीले वर्षौँदेखि तलब नपाएको भन्दै पुनः आवाज उठाएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/46-jute-mill-workers-who-have-not-received-their-salaries-for-10-years-appeal-to-the-government-with-a-demand-for-payment-of-rs-30-million-96-21.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777888803_brt-480x320.jpg"
+    },
+    {
+      "title": "महिला उद्यमी लक्षित बजेट विनियोजन गर्ने कोशीका मुख्यमन्त्रीको प्रतिबद्धता",
+      "summary": "सुदूरपश्चिम प्रदेशका मुख्यमन्त्री कमलबहादुर शाहले सरकारले गुणस्तरीय शिक्षामा जोड दिइरहेको बताएका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-is-emphasizing-on-quality-education-chief-minister-shah-93-15.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777888269_Sudurpaschim-480x320.jpg"
+    },
+    {
+      "title": "सुकुम्वासी राखिएको होल्डिङ सेन्टरको अनुगमन गर्न माग",
+      "summary": "सीमित स्रोतसाधन, भौगोलिक कठिनाइ र अवसरको अभावका बीच पनि यहाँका महिलाहरूले स्थानीय उत्पादन र सीपलाई व्यवसायमा रूपान्तरण गर्दै आत्मनिर्भरताको बाटो समातेका छन्।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/economy/wave-of-women-s-entrepreneurship-in-jumla-income-of-lakhs-with-self-reliance-from-satu-pickles-and-bread-78-70.html?click_from=just_in",
       "image_url": ""
     }
   ]
