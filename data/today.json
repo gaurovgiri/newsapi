@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-05-04T03:56:40.151833",
+  "scraped_at": "2026-05-04T06:47:17.854640",
   "date": "2026-05-04",
-  "total_articles": 34,
+  "total_articles": 43,
   "sources": [
-    "News24",
     "KathmanduPost",
+    "News24",
     "NagarikNews"
   ],
   "articles": [
@@ -278,6 +278,78 @@
       "source": "NagarikNews",
       "language": "np",
       "source_url": "https://nagariknews.nagariknetwork.com/opinion/congress-factionalism-and-controversy-br-99-32.html?click_from=just_in",
+      "image_url": ""
+    },
+    {
+      "title": "Demolition drive displaces over 500 students as schools razed in Kathmandu Valley",
+      "summary": "Community schools on public land were bulldozed during eviction of squatters, leaving classes in limbo.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/valley/2026/05/04/demolition-drive-displaces-over-500-students-as-schools-razed-in-kathmandu-valley",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/school-1777861640.jpg&w=300&height=200"
+    },
+    {
+      "title": "1,301 startup applications shortlisted for subsidised loans",
+      "summary": "Industrial Enterprise Development Institute plans to provide loans between Rs500,000 and Rs2 million to nearly 500 of them after final selection.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/money/2026/05/04/1-301-startup-applications-shortlisted-for-subsidised-loans",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb-1777856525.jpg&w=300&height=200"
+    },
+    {
+      "title": "Jumla students work as porters in Kedarnath to fund higher studies",
+      "summary": "Financial hardship drives youths from Sinja to India’s pilgrimage route, where earnings are higher but work is physically demanding and risky.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/karnali-province/2026/05/04/jumla-students-work-as-porters-in-kedarnath-to-fund-higher-studies",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/Jumla-1777869054.jpg&w=300&height=200"
+    },
+    {
+      "title": "A cinema of choice: Inside Gauthali Entertainment’s feminist practice",
+      "summary": "Gauthali Entertainment questions how women are written in Nepali cinema, focusing instead on layered, imperfect and real characters.",
+      "source": "KathmanduPost",
+      "language": "en",
+      "source_url": "https://kathmandupost.com/art-culture/2026/05/04/a-cinema-of-choice-inside-gauthali-entertainment-s-feminist-practice",
+      "image_url": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Main1-1777856914.jpg&w=600&height=400"
+    },
+    {
+      "title": "सरकारले संवैधानिक परिषद्सम्बन्धी अध्यादेश जारी गर्न पुनः राष्ट्रपतिलाई सिफारिस गर्ने",
+      "summary": "बूढीनन्दा नगरपालिकामा चट्याङ लागेर एक जना वृद्धको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-shepherd-dies-after-being-struck-by-lightning-26-86.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1775118206_Chatyang-480x320.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक सुरु",
+      "summary": "सरकारले संवैधानिक परिषद्सम्बन्धी अध्यादेश जारी गर्न पुनः राष्ट्रपतिलाई सिफारिस गर्ने निर्णय गरेको छ ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/politics/government-to-again-recommend-to-president-to-issue-ordinance-on-constitutional-council-60-72.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/third-party/1777877150_Sasmir Pokhrel-480x320.jpg"
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिको बैठक बस्दै",
+      "summary": "काठमाडौं उपत्यकाका विभिन्न सुकुम्बासी बस्तीबाट विस्थापित भएकाहरुलाई भक्तपुरको दुई ‘सेल्टर’मा आश्रय दिएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/squatters-to-be-housed-in-two-shelters-in-madhyapurthimi-and-changunarayan-24-51.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2026/photos/1777184472_viber_image_2026-04-26_10-51-36-554-480x320-wm.jpg"
+    },
+    {
+      "title": "सभामुखले बोलाए दलका प्रमुख सचेतक र सचेतकसहितको बैठक",
+      "summary": "भारतको पश्चिम बंगाल, आसाम, तमिलनाडु, केरला र पुडुचेरीमा विधानसभा चुनावको मतगणना भइरहेको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/international/assembly-elections-tmc-office-in-kolkata-deserted-puri-and-jalebi-ready-at-bjp-headquarters-82-55.html?click_from=just_in",
+      "image_url": "https://images.nagariknewscdn.com/thumbs/2025/third-party/1777876623_biodhan-480x320.jpg"
+    },
+    {
+      "title": "लिपुलेक विवाद समाधानका लागि तत्काल वार्ताको टेबलमा बस्नुपर्छ : ओली",
+      "summary": "बूढीनन्दा नगरपालिकामा चट्याङ लागेर एक जना वृद्धको मृत्यु भएको छ।",
+      "source": "NagarikNews",
+      "language": "np",
+      "source_url": "https://nagariknews.nagariknetwork.com/social-affairs/elderly-shepherd-dies-after-being-struck-by-lightning-26-86.html?click_from=just_in",
       "image_url": ""
     }
   ]
