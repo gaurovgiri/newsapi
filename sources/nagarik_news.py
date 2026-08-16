@@ -7,6 +7,8 @@ import html
 from typing import List
 from news_source import NewsSource, Article
 
+from urllib.parse import urljoin
+
 logger = logging.getLogger(__name__)
 
 
@@ -30,37 +32,64 @@ class NagarikNewsSource(NewsSource):
             return []
         
         articles = []
+        seen_urls = set()
         
         try:
-            headings = soup.select('#politics h1 a')
-            contents = soup.select('.text > p')
-            links = soup.select('.text > h1 > a')
-            images = soup.select('article.list-group-item > div.image.default > figure > a > img')
+            cards = soup.select('article')
             
-            for i, heading in enumerate(headings):
+            for i, card in enumerate(cards):
                 try:
-                    # Clean text with special handling for NagarikNews and decode HTML entities
-                    title_text = heading.get_text()
-                    title_text = re.sub(r'(?:\n|\t| {2,})', '', title_text).strip()
-                    title = html.unescape(title_text)
+                    title_el = card.select_one('h1 a, h2 a, h3 a, h4 a, h1, h2, h3, h4')
+                    if not title_el:
+                        continue
                     
-                    # Get summary
-                    summary = ''
-                    if i < len(contents):
-                        content_text = contents[i].get_text()
-                        content_text = re.sub(r'(?:\n|\t| {2,})', '', content_text).strip()
-                        summary = html.unescape(content_text)
+                    title_text = title_el.get_text()
+                    title_text = re.sub(r'(?:\n|\t| {2,})', ' ', title_text).strip()
+                    title = self.clean_text(title_text)
+                    if not title:
+                        continue
                     
                     # Get link
-                    source_url = ''
-                    if i < len(links):
-                        href = links[i].get('href', '')
-                        source_url = f"https://nagariknews.nagariknetwork.com{href}" if href else ''
+                    link_el = card.select_one('h1 a, h2 a, h3 a, h4 a, figure a, a')
+                    href = link_el.get('href', '').strip() if link_el else ''
+                    if not href or href == '#' or href.startswith('javascript:'):
+                        continue
+                    
+                    source_url = urljoin('https://nagariknews.nagariknetwork.com', href)
+                    if source_url in seen_urls:
+                        continue
+                    seen_urls.add(source_url)
+                    
+                    # Get summary / full description
+                    summary = ''
+                    if source_url:
+                        detail_soup = self.fetch_page(source_url, timeout=5)
+                        if detail_soup:
+                            paras = []
+                            for p in detail_soup.select('.subscriber-content-check p, #news-content p, .text p'):
+                                txt = self.clean_text(p.get_text())
+                                if txt and len(txt) > 10 and 'नागरिक अभिलेखालय' not in txt and 'Facebook' not in txt and 'javascript' not in txt.lower():
+                                    paras.append(txt)
+                            if paras:
+                                summary = '\n\n'.join(paras)
+                    
+                    if not summary:
+                        p_el = card.select_one('.text > p, p')
+                        if p_el:
+                            content_text = p_el.get_text()
+                            content_text = re.sub(r'(?:\n|\t| {2,})', ' ', content_text).strip()
+                            summary = self.clean_text(content_text)
+                            
+                    if not summary:
+                        summary = title
                     
                     # Get image
+                    img_el = card.select_one('figure img, img')
                     image_url = ''
-                    if i < len(images):
-                        image_url = images[i].get('data-src', '') or images[i].get('src', '')
+                    if img_el:
+                        img_src = (img_el.get('data-src') or img_el.get('src') or '').strip()
+                        if img_src:
+                            image_url = urljoin('https://nagariknews.nagariknetwork.com', img_src)
                     
                     if title and summary:
                         article = Article(

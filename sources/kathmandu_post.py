@@ -5,6 +5,8 @@ import logging
 from typing import List
 from news_source import NewsSource, Article
 
+from urllib.parse import urljoin
+
 logger = logging.getLogger(__name__)
 
 
@@ -28,32 +30,59 @@ class KathmanduPostSource(NewsSource):
             return []
         
         articles = []
+        seen_urls = set()
         
         try:
-            headings = soup.select('article > h3')
-            contents = soup.select('article > p')
-            links = soup.select('article > h3 > a')
-            images = soup.select('.pull-right .img-responsive')
+            cards = soup.select('article')
             
-            for i, heading in enumerate(headings):
+            for i, card in enumerate(cards):
                 try:
-                    title = self.clean_text(heading.get_text())
+                    title_el = card.select_one('h1 a, h2 a, h3 a, h4 a, h1, h2, h3, h4, .title a, .title')
+                    if not title_el:
+                        continue
                     
-                    # Get summary
-                    summary = ''
-                    if i < len(contents):
-                        summary = self.clean_text(contents[i].get_text())
+                    title = self.clean_text(title_el.get_text())
+                    if not title:
+                        continue
                     
                     # Get link
-                    source_url = ''
-                    if i < len(links):
-                        href = links[i].get('href', '')
-                        source_url = f"https://kathmandupost.com{href}" if href else ''
+                    link_el = card.select_one('h1 a, h2 a, h3 a, h4 a, a')
+                    href = link_el.get('href', '').strip() if link_el else ''
+                    if not href or href == '#' or href.startswith('javascript:'):
+                        continue
+                    
+                    source_url = urljoin('https://kathmandupost.com', href)
+                    if source_url in seen_urls:
+                        continue
+                    seen_urls.add(source_url)
+                    
+                    # Get summary / full description
+                    summary = ''
+                    if source_url:
+                        detail_soup = self.fetch_page(source_url, timeout=5)
+                        if detail_soup:
+                            paras = []
+                            for p in detail_soup.select('.story-section p, .subscribe-content p'):
+                                txt = self.clean_text(p.get_text())
+                                if txt and len(txt) > 10 and not txt.startswith('Published at') and not txt.startswith('Updated at'):
+                                    paras.append(txt)
+                            if paras:
+                                summary = '\n\n'.join(paras)
+                    
+                    if not summary:
+                        p_el = card.select_one('p')
+                        summary = self.clean_text(p_el.get_text()) if p_el else ''
+                        
+                    if not summary:
+                        summary = title
                     
                     # Get image
+                    img_el = card.select_one('img')
                     image_url = ''
-                    if i < len(images):
-                        image_url = images[i].get('data-src', '') or images[i].get('src', '')
+                    if img_el:
+                        src = (img_el.get('data-src') or img_el.get('src') or '').strip()
+                        if src:
+                            image_url = urljoin('https://kathmandupost.com', src)
                     
                     if title and summary:
                         article = Article(

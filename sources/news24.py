@@ -29,40 +29,66 @@ class News24Source(NewsSource):
             return []
         
         articles = []
+        seen_urls = set()
         
         try:
-            headings = soup.select('.half-more-news > div > div > span:nth-child(1)')
-            links = soup.select('.half-more-news > div > div > span > a')
-            images = soup.select('.half-more-news > div > figure > a > img')
+            items = soup.select('.half-more-news > div')
             
-            for i, heading in enumerate(headings):
+            for i, item in enumerate(items):
                 try:
-                    # Get text and decode HTML entities
-                    title_text = html.unescape(heading.get_text().strip())
-                    # Remove first 6 characters if they exist
-                    title = title_text[6:].strip() if len(title_text) > 6 else title_text
+                    title_el = item.select_one('span.titles a, .titles a, .titles')
+                    if not title_el:
+                        continue
+                    
+                    title = self.clean_text(title_el.get_text())
+                    if not title:
+                        continue
                     
                     # Get link
-                    source_url = links[i].get('href', '') if i < len(links) else ''
+                    link_el = item.select_one('span.titles a, figure a, a')
+                    source_url = link_el.get('href', '').strip() if link_el else ''
+                    if not source_url or source_url.startswith('javascript:'):
+                        continue
+                    
+                    if source_url in seen_urls:
+                        continue
+                    seen_urls.add(source_url)
                     
                     # Get image
+                    img_el = item.select_one('figure img, img')
                     image_url = ''
-                    if i < len(images):
-                        image_url = images[i].get('data-src', '') or images[i].get('src', '')
+                    if img_el:
+                        image_url = (img_el.get('data-src') or img_el.get('src') or '').strip()
                     
-                    # Use title as summary if no separate summary
-                    summary = title
+                    # Get description / full text
+                    summary = ''
+                    if source_url:
+                        detail_soup = self.fetch_page(source_url, timeout=5)
+                        if detail_soup:
+                            paras = []
+                            for p in detail_soup.select('.editor-box p, .detail-box p, .news-content p'):
+                                txt = self.clean_text(p.get_text())
+                                if txt and len(txt) > 10 and not txt.startswith('©') and not txt.startswith('Site by'):
+                                    paras.append(txt)
+                            if paras:
+                                summary = '\n\n'.join(paras)
                     
-                    if title:
-                        article = Article(
-                            title=title,
-                            summary=summary,
-                            source=self.source_name,
-                            language=self.language,
-                            source_url=source_url,
-                            image_url=image_url
-                        )
-                        articles.append(article)
+                    # Fallback to listing description or title
+                    if not summary:
+                        desc_el = item.select_one('.description')
+                        summary = self.clean_text(desc_el.get_text()) if desc_el else ''
+                    if not summary:
+                        summary = title
+                    
+                    article = Article(
+                        title=title,
+                        summary=summary,
+                        source=self.source_name,
+                        language=self.language,
+                        source_url=source_url,
+                        image_url=image_url
+                    )
+                    articles.append(article)
                         
                 except (IndexError, AttributeError) as e:
                     logger.warning("Error processing article %d from %s: %s", i, self.source_name, e)
