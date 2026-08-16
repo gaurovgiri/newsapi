@@ -543,4 +543,4 @@ python main.py
 
 ---
 
-**Need help?** Open an issue on [GitHub](https://github.com/gaurovgiri/newsapi/issues).
+**Need help?** Open an issue on [GitHub](https://github.com/thegauravgiri/newsapi/issues).

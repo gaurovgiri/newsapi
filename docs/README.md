@@ -89,9 +89,9 @@ docs/
 
 ## 🆘 Getting Help
 
-- **General questions**: [GitHub Discussions](https://github.com/gaurovgiri/newsapi/discussions)
-- **Bug reports**: [GitHub Issues](https://github.com/gaurovgiri/newsapi/issues)
-- **Feature requests**: [GitHub Issues](https://github.com/gaurovgiri/newsapi/issues)
+- **General questions**: [GitHub Discussions](https://github.com/thegauravgiri/newsapi/discussions)
+- **Bug reports**: [GitHub Issues](https://github.com/thegauravgiri/newsapi/issues)
+- **Feature requests**: [GitHub Issues](https://github.com/thegauravgiri/newsapi/issues)
 
 ## 📝 Contributing to Docs
 

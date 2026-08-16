@@ -457,8 +457,8 @@ absolute_url = urljoin(base_url, relative_url)
 
 ## 📞 Getting Help
 
-- **Questions**: Open a [Discussion](https://github.com/gaurovgiri/newsapi/discussions)
-- **Bugs**: Open an [Issue](https://github.com/gaurovgiri/newsapi/issues)
+- **Questions**: Open a [Discussion](https://github.com/thegauravgiri/newsapi/discussions)
+- **Bugs**: Open an [Issue](https://github.com/thegauravgiri/newsapi/issues)
 - **Chat**: Comment on your PR for specific help
 
 ## 🙏 Thank You!
