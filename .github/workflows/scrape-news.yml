@@ -1,5 +1,4 @@
-name: Scrape News
-
+name: Scrape News & Sync to Hugging Face
 
 on:
   # Run every 4 hours
@@ -9,26 +8,25 @@ on:
   # Allow manual trigger
   workflow_dispatch:
   
-  # Run on push to test
+  # Run on push to test changes
   push:
     branches: [ main, master ]
     paths:
-      - 'scrape_news.py'
+      - 'main.py'
+      - 'hf_sync.py'
       - 'news_source.py'
       - 'sources/**'
+      - 'requirements.txt'
       - '.github/workflows/scrape-news.yml'
 
 jobs:
-  scrape:
+  scrape-and-sync:
+    name: Scrape News & Push to Hugging Face
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -41,39 +39,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Create data directory
-      run: mkdir -p data
-    
-    - name: Run news scraper
-      run: python main.py
-      
-    - name: Stage data changes
-      run: git add data/
-
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if [ -n "$(git status --porcelain data/)" ]; then
-          echo "changes=true" >> $GITHUB_OUTPUT
-        else
-          echo "changes=false" >> $GITHUB_OUTPUT
-        fi
-    
-    - name: Commit and push changes
-      if: steps.check_changes.outputs.changes == 'true'
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add data/
-        git commit -m "🗞️ Update news data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        git push
+    - name: Run News Scraper & Hugging Face Sync
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        HF_REPO_ID: ${{ vars.HF_REPO_ID || secrets.HF_REPO_ID || 'thegauravgiri/nepali-news-dataset' }}
+      run: |
+        python main.py
     
-    - name: Upload artifacts
+    - name: Upload temporary debug artifacts
       if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: news-data-${{ github.run_number }}
+        name: news-data-run-${{ github.run_number }}
         path: data/
-        retention-days: 7
+        retention-days: 3

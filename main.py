@@ -1,22 +1,24 @@
 """
-News Scraper - Main script to scrape news from multiple sources
-and save to JSON files.
+News Scraper - Main script to scrape news from multiple sources,
+deduplicate articles, save JSON snapshots, and push to Hugging Face Hub.
 
 Usage:
-    python scrape_news.py
+    python main.py
 
 The script will:
-1. Scrape news from all configured sources
-2. Save results to data/YYYY-MM-DD.json
-3. Also save a copy to data/today.json
+1. Fetch existing daily snapshot from Hugging Face if not available locally
+2. Scrape news from all configured sources
+3. Deduplicate and merge articles with existing day data
+4. Save results locally to data/YYYY-MM-DD.json and data/today.json
+5. Automatically push updated files to Hugging Face Hub (if HF_TOKEN is set)
 """
 
 import json
 import logging
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
-from typing import List
+from typing import List, Tuple
 
 from news_source import Article
 from sources import (
@@ -24,6 +26,12 @@ from sources import (
     KathmanduPostSource,
     EkantipurSource,
     NagarikNewsSource
+)
+from hf_sync import (
+    download_hf_file,
+    upload_files_to_hf,
+    get_hf_token,
+    get_hf_repo_id
 )
 
 # Configure logging
@@ -39,7 +47,7 @@ logger = logging.getLogger(__name__)
 
 
 class NewsScraper:
-    """Main scraper that orchestrates scraping from all sources."""
+    """Main scraper that orchestrates scraping, deduplication, and Hugging Face sync."""
     
     def __init__(self, output_dir: str = 'data'):
         """
@@ -49,7 +57,10 @@ class NewsScraper:
             output_dir: Directory to save JSON files
         """
         self.output_dir = Path(output_dir)
-        self.output_dir.mkdir(exist_ok=True)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+        
+        self.hf_token = get_hf_token()
+        self.hf_repo_id = get_hf_repo_id()
         
         # Initialize all news sources
         self.sources = [
@@ -85,16 +96,27 @@ class NewsScraper:
         logger.info("Total articles scraped: %d", len(all_articles))
         return all_articles
     
-    def _load_existing_articles(self, file_path: Path) -> tuple[List[dict], str]:
+    def _load_existing_articles(self, file_path: Path, repo_relative_path: str = "") -> Tuple[List[dict], str]:
         """
         Load existing articles from a JSON file.
+        If file doesn't exist locally, attempts to fetch from Hugging Face Hub.
         
         Args:
-            file_path: Path to the JSON file
+            file_path: Path to the local JSON file
+            repo_relative_path: Path inside HF dataset repo (e.g., 'data/today.json')
             
         Returns:
             Tuple of (list of existing article dictionaries, date string from file)
         """
+        if not file_path.exists() and repo_relative_path:
+            # Attempt to pull previous state from Hugging Face
+            download_hf_file(
+                filename=repo_relative_path,
+                target_path=file_path,
+                repo_id=self.hf_repo_id,
+                token=self.hf_token
+            )
+
         if not file_path.exists():
             return [], ""
         
@@ -109,7 +131,6 @@ class NewsScraper:
     def _merge_articles(self, existing: List[dict], new_articles: List[Article]) -> List[dict]:
         """
         Merge new articles with existing ones, avoiding duplicates.
-        
         Duplicates are identified by matching title and source.
         
         Args:
@@ -119,31 +140,28 @@ class NewsScraper:
         Returns:
             List of merged article dictionaries
         """
-        # Convert new articles to dicts
         new_dicts = [article.model_dump() for article in new_articles]
         
         # Create a set of (title, source) tuples for existing articles
         existing_keys = {(article.get('title', ''), article.get('source', '')) 
                         for article in existing}
         
-        # Filter out duplicates from new articles
         unique_new = []
         duplicate_count = 0
         for article in new_dicts:
             key = (article.get('title', ''), article.get('source', ''))
             if key not in existing_keys:
                 unique_new.append(article)
-                existing_keys.add(key)  # Prevent duplicates within new articles too
+                existing_keys.add(key)
             else:
                 duplicate_count += 1
         
         if duplicate_count > 0:
             logger.info("Skipped %d duplicate articles", duplicate_count)
         
-        # Combine existing and unique new articles
         return existing + unique_new
     
-    def save_to_json(self, articles: List[Article]) -> None:
+    def save_to_json(self, articles: List[Article]) -> List[Path]:
         """
         Save articles to JSON files, appending new articles to existing data.
         
@@ -151,26 +169,22 @@ class NewsScraper:
         1. data/YYYY-MM-DD.json - Date-stamped file (always appends for same date)
         2. data/today.json - Overwrites if date changed, appends if same date
         
-        New articles are checked for duplicates (by title + source) before appending.
-        
-        Args:
-            articles: List of Article objects to save
+        Returns:
+            List of modified file paths
         """
         if not articles:
             logger.warning("No articles to save")
-            return
+            return []
         
-        # Get current date
         today = datetime.now()
         date_str = today.strftime('%Y-%m-%d')
         timestamp = today.isoformat()
         
-        # Process date-stamped file - always append for the same date
+        # 1. Process date-stamped file - always append for the same date
         date_file = self.output_dir / f"{date_str}.json"
-        existing_date, _ = self._load_existing_articles(date_file)
+        existing_date, _ = self._load_existing_articles(date_file, f"data/{date_str}.json")
         merged_date = self._merge_articles(existing_date, articles)
         
-        # Prepare data structure for date file
         date_output = {
             'scraped_at': timestamp,
             'date': date_str,
@@ -186,24 +200,20 @@ class NewsScraper:
         logger.info("Saved %d articles to %s (%d new, %d total)", 
                    new_count, date_file, new_count, len(merged_date))
         
-        # Process today.json file - overwrite if date changed, append if same date
+        # 2. Process today.json file - overwrite if date changed, append if same date
         today_file = self.output_dir / "today.json"
-        existing_today, existing_date_str = self._load_existing_articles(today_file)
+        existing_today, existing_date_str = self._load_existing_articles(today_file, "data/today.json")
         
-        # Check if the date has changed
         if existing_date_str and existing_date_str != date_str:
-            # Date changed - overwrite with new data
-            logger.info("Date changed from %s to %s - overwriting today.json", 
+            logger.info("Date changed from %s to %s - refreshing today.json", 
                        existing_date_str, date_str)
             articles_dict = [article.model_dump() for article in articles]
             merged_today = articles_dict
             new_count_today = len(articles)
         else:
-            # Same date - append new articles
             merged_today = self._merge_articles(existing_today, articles)
             new_count_today = len(merged_today) - len(existing_today)
         
-        # Prepare data structure for today file
         today_output = {
             'scraped_at': timestamp,
             'date': date_str,
@@ -217,26 +227,59 @@ class NewsScraper:
         
         logger.info("Saved %d articles to %s (%d new, %d total)", 
                    new_count_today, today_file, new_count_today, len(merged_today))
+        
+        return [date_file, today_file]
+    
+    def sync_to_huggingface(self, modified_files: List[Path]) -> None:
+        """
+        Push updated JSON files to Hugging Face Dataset repository.
+        
+        Args:
+            modified_files: List of file Paths to upload
+        """
+        if not self.hf_token:
+            logger.info("HF_TOKEN environment variable not found. Skipping Hugging Face upload.")
+            return
+
+        logger.info("Syncing updated files to Hugging Face dataset: %s...", self.hf_repo_id)
+        now_str = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
+        commit_message = f"🗞️ Update news data - {now_str}"
+        
+        success = upload_files_to_hf(
+            files=modified_files,
+            repo_id=self.hf_repo_id,
+            token=self.hf_token,
+            commit_message=commit_message
+        )
+        
+        if success:
+            logger.info("Successfully pushed updates to Hugging Face: https://huggingface.co/datasets/%s", self.hf_repo_id)
+        else:
+            logger.warning("Failed to sync some files to Hugging Face.")
     
     def run(self) -> None:
-        """Run the complete scraping process."""
+        """Run the complete scraping and sync process."""
         logger.info("=" * 60)
-        logger.info("News Scraper Started")
+        logger.info("Nepali News Scraper Started")
         logger.info("=" * 60)
         
         try:
-            # Scrape all sources
+            # 1. Scrape all sources
             articles = self.scrape_all()
             
-            # Save to JSON
-            self.save_to_json(articles)
+            # 2. Save to JSON
+            saved_files = self.save_to_json(articles)
+            
+            # 3. Push to Hugging Face
+            if saved_files:
+                self.sync_to_huggingface(saved_files)
             
             logger.info("=" * 60)
-            logger.info("News Scraper Completed Successfully")
+            logger.info("Nepali News Scraper Completed Successfully")
             logger.info("=" * 60)
             
         except Exception as e:
-            logger.error("Scraping failed: %s", e)
+            logger.error("Scraping process failed: %s", e)
             sys.exit(1)
 
 
