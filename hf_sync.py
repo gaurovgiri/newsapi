@@ -1,6 +1,6 @@
 """
 Hugging Face Hub synchronization module for Nepali News Dataset.
-Handles downloading existing daily snapshots, uploading updated files,
+Handles downloading existing daily snapshots, uploading updated JSON and Parquet files,
 and publishing dataset metadata/card to Hugging Face.
 """
 
@@ -9,6 +9,7 @@ import logging
 from pathlib import Path
 from typing import Optional, List
 from datetime import datetime, timezone
+import json
 
 from huggingface_hub import HfApi, hf_hub_download
 from huggingface_hub.utils import EntryNotFoundError, RepositoryNotFoundError, HfHubHTTPError
@@ -72,15 +73,6 @@ def download_hf_file(
     """
     Download an existing file from the Hugging Face dataset repository to a local path.
     Used by scrapers to retain daily history on ephemeral runners (e.g. GitHub Actions).
-    
-    Args:
-        filename: Relative path inside repo, e.g. "data/today.json" or "data/2026-08-23.json"
-        target_path: Local Path where the file should be saved
-        repo_id: Hugging Face dataset repository ID
-        token: Optional auth token (not strictly required for public datasets)
-    
-    Returns:
-        True if file was downloaded successfully, False otherwise.
     """
     repo_id = repo_id or get_hf_repo_id()
     token = token or get_hf_token()
@@ -95,7 +87,7 @@ def download_hf_file(
         )
         
         target_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(downloaded_path, "r", encoding="utf-8") as src, open(target_path, "w", encoding="utf-8") as dst:
+        with open(downloaded_path, "rb") as src, open(target_path, "wb") as dst:
             dst.write(src.read())
         
         logger.info("Successfully fetched '%s' from Hugging Face -> %s", filename, target_path)
@@ -111,6 +103,98 @@ def download_hf_file(
         return False
 
 
+def build_parquet_from_json_files(data_dir: Path, output_file: Path) -> Optional[Path]:
+    """
+    Build a unified Parquet file from all daily JSON files in data_dir.
+    This provides instant streaming and clean Hugging Face Dataset Viewer UI.
+    """
+    import pandas as pd
+
+    all_rows = []
+    for p in sorted(data_dir.glob("20*.json")):
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                date = data.get("date", p.stem)
+                scraped_at = data.get("scraped_at", "")
+                for art in data.get("articles", []):
+                    all_rows.append({
+                        "title": str(art.get("title", "")).strip(),
+                        "summary": str(art.get("summary", "")).strip(),
+                        "source": str(art.get("source", "")).strip(),
+                        "language": str(art.get("language", "np")).strip(),
+                        "source_url": str(art.get("source_url", "")).strip(),
+                        "image_url": str(art.get("image_url", "")).strip(),
+                        "date": str(date),
+                        "scraped_at": str(scraped_at)
+                    })
+        except Exception as e:
+            logger.warning("Error reading %s for parquet build: %s", p, e)
+
+    if not all_rows:
+        logger.warning("No articles found to build parquet.")
+        return None
+
+    df = pd.DataFrame(all_rows)
+    df = df.drop_duplicates(subset=["title", "source", "date"])
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    df.to_parquet(output_file, index=False)
+    logger.info("Built Parquet dataset at %s with %d articles.", output_file, len(df))
+    return output_file
+
+
+def update_parquet_dataset(
+    articles: List[dict],
+    date_str: str,
+    scraped_at: str,
+    parquet_path: Path,
+    repo_id: Optional[str] = None,
+    token: Optional[str] = None
+) -> Optional[Path]:
+    """
+    Append new articles to the Parquet dataset and deduplicate.
+    Downloads train.parquet from HF Hub if not available locally.
+    """
+    import pandas as pd
+    repo_id = repo_id or get_hf_repo_id()
+    token = token or get_hf_token()
+
+    if not parquet_path.exists():
+        download_hf_file("data/train.parquet", parquet_path, repo_id, token)
+
+    existing_df = None
+    if parquet_path.exists():
+        try:
+            existing_df = pd.read_parquet(parquet_path)
+        except Exception as e:
+            logger.warning("Could not read existing parquet file: %s", e)
+
+    new_rows = []
+    for art in articles:
+        new_rows.append({
+            "title": str(art.get("title", "")).strip(),
+            "summary": str(art.get("summary", "")).strip(),
+            "source": str(art.get("source", "")).strip(),
+            "language": str(art.get("language", "np")).strip(),
+            "source_url": str(art.get("source_url", "")).strip(),
+            "image_url": str(art.get("image_url", "")).strip(),
+            "date": str(art.get("date", date_str)),
+            "scraped_at": str(art.get("scraped_at", scraped_at))
+        })
+    
+    new_df = pd.DataFrame(new_rows)
+    if existing_df is not None and not existing_df.empty:
+        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+    else:
+        combined_df = new_df
+
+    combined_df = combined_df.drop_duplicates(subset=["title", "source", "date"])
+    parquet_path.parent.mkdir(parents=True, exist_ok=True)
+    combined_df.to_parquet(parquet_path, index=False)
+    logger.info("Updated parquet dataset at %s (%d total articles)", parquet_path, len(combined_df))
+    return parquet_path
+
+
 def upload_files_to_hf(
     files: List[Path],
     repo_id: Optional[str] = None,
@@ -119,15 +203,6 @@ def upload_files_to_hf(
 ) -> bool:
     """
     Upload specific files to the Hugging Face dataset repository.
-    
-    Args:
-        files: List of local file Paths to upload (e.g. [data/2026-08-23.json, data/today.json])
-        repo_id: Hugging Face dataset repository ID
-        token: Hugging Face token with write permission
-        commit_message: Commit message for the upload
-    
-    Returns:
-        True if upload succeeded, False otherwise.
     """
     repo_id = repo_id or get_hf_repo_id()
     token = token or get_hf_token()
@@ -155,7 +230,6 @@ def upload_files_to_hf(
                 logger.warning("File '%s' does not exist locally; skipping.", file_path)
                 continue
             
-            # Use relative path as path_in_repo (e.g. data/today.json)
             if "data" in file_path.parts:
                 idx = file_path.parts.index("data")
                 path_in_repo = "/".join(file_path.parts[idx:])
@@ -186,15 +260,6 @@ def upload_folder_to_hf(
 ) -> bool:
     """
     Upload the entire data directory to the Hugging Face dataset repository.
-    
-    Args:
-        data_dir: Local directory containing JSON files
-        repo_id: Hugging Face dataset repository ID
-        token: Hugging Face token with write permission
-        commit_message: Commit message
-        
-    Returns:
-        True if upload succeeded, False otherwise.
     """
     repo_id = repo_id or get_hf_repo_id()
     token = token or get_hf_token()
@@ -269,7 +334,7 @@ configs:
 - config_name: default
   data_files:
   - split: train
-    path: "data/20*.json"
+    path: "data/train.parquet"
 ---
 
 # 🇳🇵 Nepali News Dataset & NLP Corpus
@@ -277,7 +342,7 @@ configs:
 > **The comprehensive, open-access Nepali & English News Dataset for NLP and Machine Learning**, automatically aggregated and updated every 4 hours.
 
 - **Repository**: [{repo_id}](https://huggingface.co/datasets/{repo_id})
-- **Total Articles**: 14,000+ full-text articles and growing
+- **Total Articles**: 15,000+ full-text articles and growing
 - **Update Frequency**: Every 4 hours via automated GitHub Actions pipelines
 - **Languages**: Nepali (`np` / `ne`) and English (`en`) in clean UTF-8 Devanagari encoding
 - **License**: MIT License
@@ -310,8 +375,8 @@ GET https://datasets-server.huggingface.co/rows?dataset={repo_id.replace('/', '%
 ```python
 from datasets import load_dataset
 
-# Load all historical news articles
-dataset = load_dataset("{repo_id}", field="articles")
+# Load entire corpus out of the box
+dataset = load_dataset("{repo_id}")
 
 # View the dataset structure
 print(dataset)
@@ -328,7 +393,7 @@ print(f"Total Nepali articles: {{len(nepali_news)}}")
 
 ## 📊 Dataset Schema
 
-Each entry in `articles` contains:
+Each row contains:
 
 | Field | Type | Description |
 |---|---|---|
@@ -338,6 +403,8 @@ Each entry in `articles` contains:
 | `language` | `string` | Language code (`np` for Nepali, `en` for English) |
 | `source_url` | `string` | Original canonical link to the article |
 | `image_url` | `string` | Featured thumbnail / photo URL |
+| `date` | `string` | Publication snapshot date (`YYYY-MM-DD`) |
+| `scraped_at` | `string` | ISO timestamp of when the article was scraped |
 
 ---
 
@@ -363,13 +430,6 @@ def upload_dataset_card(
 ) -> bool:
     """
     Generate and upload the dataset README.md (Dataset Card) to Hugging Face.
-    
-    Args:
-        repo_id: Hugging Face dataset repository ID
-        token: Hugging Face token
-        
-    Returns:
-        True if upload succeeded, False otherwise.
     """
     repo_id = repo_id or get_hf_repo_id()
     token = token or get_hf_token()
@@ -388,7 +448,7 @@ def upload_dataset_card(
             path_in_repo="README.md",
             repo_id=repo_id,
             repo_type="dataset",
-            commit_message="📝 Update Dataset Card README with schema and API endpoints"
+            commit_message="📝 Update Dataset Card README with schema and Parquet config"
         )
         logger.info("Dataset card README.md uploaded successfully to '%s'!", repo_id)
         return True

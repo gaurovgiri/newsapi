@@ -30,6 +30,7 @@ from sources import (
 from hf_sync import (
     download_hf_file,
     upload_files_to_hf,
+    update_parquet_dataset,
     get_hf_token,
     get_hf_repo_id
 )
@@ -228,7 +229,25 @@ class NewsScraper:
         logger.info("Saved %d articles to %s (%d new, %d total)", 
                    new_count_today, today_file, new_count_today, len(merged_today))
         
-        return [date_file, today_file]
+        modified_files = [date_file, today_file]
+
+        # 3. Update Parquet dataset
+        parquet_file = self.output_dir / "train.parquet"
+        try:
+            update_parquet_dataset(
+                articles=merged_today,
+                date_str=date_str,
+                scraped_at=timestamp,
+                parquet_path=parquet_file,
+                repo_id=self.hf_repo_id,
+                token=self.hf_token
+            )
+            if parquet_file.exists():
+                modified_files.append(parquet_file)
+        except Exception as e:
+            logger.warning("Could not update parquet dataset: %s", e)
+
+        return modified_files
     
     def sync_to_huggingface(self, modified_files: List[Path]) -> None:
         """

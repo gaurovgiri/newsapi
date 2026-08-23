@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data directory snapshots (hosted on Hugging Face)
-data/*.json
+# Data directory snapshots and parquet (hosted on Hugging Face)
+data/*
 !data/.gitkeep
 

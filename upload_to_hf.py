@@ -20,6 +20,7 @@ from pathlib import Path
 from hf_sync import (
     upload_folder_to_hf,
     upload_dataset_card,
+    build_parquet_from_json_files,
     DEFAULT_REPO_ID,
     get_hf_token,
     get_hf_repo_id
@@ -73,19 +74,24 @@ def main():
     logger.info("Source Directory: %s", data_dir.resolve())
     logger.info("=" * 60)
 
-    # 1. Upload Dataset Card (README.md)
-    logger.info("Step 1: Uploading Dataset Card (README.md)...")
+    # 1. Build Unified Parquet Dataset
+    parquet_path = data_dir / "train.parquet"
+    logger.info("Step 1: Building unified Parquet dataset at '%s'...", parquet_path)
+    build_parquet_from_json_files(data_dir, parquet_path)
+
+    # 2. Upload Dataset Card (README.md)
+    logger.info("Step 2: Uploading Dataset Card (README.md)...")
     card_success = upload_dataset_card(repo_id=repo_id, token=token)
     if not card_success:
         logger.warning("Failed to upload dataset card; continuing with data folder upload...")
 
-    # 2. Upload Data Folder
-    logger.info("Step 2: Uploading dataset archive to 'data/' folder...")
+    # 3. Upload Data Folder
+    logger.info("Step 3: Uploading dataset archive to 'data/' folder...")
     folder_success = upload_folder_to_hf(
         data_dir=data_dir,
         repo_id=repo_id,
         token=token,
-        commit_message="📦 Initial migration: Push complete Nepali News Dataset archive"
+        commit_message="📦 Update complete dataset with unified train.parquet and daily JSON archives"
     )
 
     if folder_success:
